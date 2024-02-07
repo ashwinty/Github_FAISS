@@ -1,3 +1,4 @@
 pandas
 llama-index
 streamlit
+openai
