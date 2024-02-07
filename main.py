@@ -9,7 +9,7 @@ from llama_index.vector_stores.faiss import FaissVectorStore
 
 # Load documents from CSV file
 
-df = pd.read_csv('/Users/ashwintyagi/Downloads/faiss/output.csv')
+df = pd.read_csv('output.csv')
 
 # Load data for vector searching
 
