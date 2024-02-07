@@ -1,5 +1,5 @@
 import logging
-import os
+import sys
 import pandas as pd
 
 from llama_index import (
@@ -8,6 +8,7 @@ from llama_index import (
     VectorStoreIndex,
     StorageContext,
 )
+
 from llama_index.vector_stores.faiss import FaissVectorStore
 
 
@@ -20,12 +21,12 @@ df = pd.read_csv('/Users/ashwintyagi/Downloads/faiss/output.csv')
 documents = SimpleDirectoryReader(input_files=["output.csv"]).load_data()
 
 # Commented out IPython magic to ensure Python compatibility.
-os.environ['OPENAI_API_KEY'] = ""
+# os.environ['OPENAI_API_KEY'] = ""
 
 # """# Embeddings"""
 
-# logging.basicConfig(stream=sys.stdout, level=logging.INFO)
-# logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
+logging.basicConfig(stream=sys.stdout, level=logging.INFO)
+logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
 
 # # dimensions of text-ada-embedding-002
 # d = 1536
