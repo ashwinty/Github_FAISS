@@ -2,3 +2,4 @@ pandas
 llama-index
 streamlit
 openai
+faiss-cpu
