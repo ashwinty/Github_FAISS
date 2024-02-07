@@ -1,9 +1,11 @@
+import logging
 import os
 import pandas as pd
 
 from llama_index import (
     SimpleDirectoryReader,
     load_index_from_storage,
+    VectorStoreIndex,
     StorageContext,
 )
 from llama_index.vector_stores.faiss import FaissVectorStore
