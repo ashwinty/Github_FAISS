@@ -1,9 +1,9 @@
 import logging
 import os
 import sys
-import faiss
+
 import pandas as pd
-from faiss import IndexFlatL2
+
 
 from llama_index import (
     SimpleDirectoryReader,
