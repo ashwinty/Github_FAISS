@@ -1,0 +1,259 @@
+Metadata: id=>265
+name=>Godrej And Boyce Mfg Co Ltd vs Sridhar Jagannath Nerurkar on 6 July 2004
+date=>6 July 2004
+court=>High Court
+link=>http://indiankanoon.org/doc/918877/
+-----
+Content: Godrej And Boyce Mfg. Co. Ltd. vs Sridhar Jagannath Nerurkar on 6 July, 2004
+Godrej And Boyce Mfg. Co. Ltd. vs Sridhar Jagannath Nerurkar
+on 6 July, 2004
+Equivalent citations: 2005(1)BOMCR839, 2005(1)MHLJ1097
+Author: D.G. Karnik
+Bench: D.G. Karnik
+JUDGMENT
+D.G. Karnik, J.
+1. The question of law that arise for determination in this Civil Revision Application is:
+(i) Whether during the pendency of a suit filed by a landlord for eviction of a tenant
+under the provisions of the Bombay Rents, Hotel and Lodging House Rates Control
+Act, 1947 (for short the Bombay Rent Act) the landlord can file a second suit for
+eviction under the general law (Transfer of Property Act, 1882) against a tenant who
+has ceased to have protection of a Rent Act by reason of Section 3(1)(b) of the
+Maharashtra Rent Control Act, 1999 ?
+The brief facts giving rise to the aforesaid questions are stated below:
+2. The respondent (hereinafter referred to as the landlord) filed a suit bearing Regular Civil Suit)
+against the applicant (hereinafter also referred to as the tenant) for eviction under the provisions of
+the Bombay Rent Act on the ground that he required the suit premises reasonably and bonafide for
+his own use and occupation and that the tenant was a defaulter in payment of rent, permitted
+increases and taxes. The first suit which was filed in the year 1997 was pending in the Court of the
+Civil Judge, Junior Division, Kalyan on 31st March, 2000 when the Bombay Rent Act, 1947 was
+repealed and replaced by the Maharashtra Rent Control Act, 1999 (for short the Maharashtra Rent
+Act). Clause (b) of Sub-section (1) of Section 3 of the Maharashtra Rent Act provides that the Act
+shall not apply to the premises let of sublet to any public sector undertakings or any corporations
+establish by or under any Central or State Act, or foreign missions, international agencies,
+multinational companies and private limited companies and public limited companies having a paid
+up share capital of rupees one crore or more. The effect of repeal of the Bombay Rent and exempting
+the premises let out to certain entities from the application of Maharashtra Rent Act is that the said
+entities do not enjoy any protection against eviction beyond the contractual period of lease. In other
+words, in respect of a tenant excluded by Clause (b) of Section 3(1) of the Maharashtra Rent Act, the
+tenancy would be governed purely by a contract and such tenant can be evicted in accordance with
+the general law of the land namely the Contract Act, 1872 and the Transfer of Property Act, 1882. It
+Indian Kanoon - http://indiankanoon.org/doc/918877/ 1Godrej And Boyce Mfg. Co. Ltd. vs Sridhar Jagannath Nerurkar on 6 July, 2004
+is not disputed that the petitioner in this case is a public limited company having a paid up share
+capital in excess of rupees one crore and therefore the Maharashtra Rent Act is no t applicable to the
+premises let out to it. In view of the fact that the petitioner is not protected under any Rent Act,
+during the pendency of the first suit the respondent, after issuing a notice of termination of tenancy,
+filed another suit bearing Special Civil Suit No. 21 of 2001 (for short second suit) against the
+petitioner for eviction in the court of Civil Judge, Senior Division, Kalyan. The second suit was filed
+on the sold ground that after termination of the petitioner had no right to continue in possession of
+the suit premises under the provisions of Transfer of Property Act, 1882. In the second suit, the
+petitioner preferred an application on 4th February, 2003 contending that as the first suit filed
+under the provisions of the Bombay Rent Act was pending, the second suit under the Transfer of
+Property Act was not maintainable in view of the provisions of Section 58 of the Maharashtra Rent
+Act. At the request of the petitioner a preliminary issue was framed, whether the second suit for
+possession under the provisions of the Transfer of Property Act was barred in view of the provisions
+of Section 58 of the Maharashtra Rent Control Act, 1999.? By an order dated 30th January, 2004
+the application was rejected holding that the second suit was maintainable. That order is impugned
+in this Revision Application.
+3. Learned counsel for the petitioner reiterates that the second suit under the Transfer of Property
+Act is not maintainable in view of Section 58 of the Maharashtra Rent Control Act. Section 58 of the
+Maharashtra Rent Act reads as under:
+"(1) On commencement of this Act, the following laws that is to say, -
+(a) the Bombay Rents, Hotel and Lodging House Rates Control Act, 1947;
+(b) the Central Provinces and Berar Regulation of Letting of Accommodation Act,
+1946 including the Central Provinces and Berar Letting of Houses and Rent control
+Order, 1949; and
+(c) the Hyderabad Houses (Rent, Eviction and Lease) Control Act, 1954, shall stand
+repealed.
+(2) Notwithstanding such repeal-
+(a) all applications, suits and other proceedings under the said Acts pending on the
+date of commencement of this Act before any Court, Controller, Competent Authority
+or other office or authority shall be continued and disposed of in accordance with the
+provisions of the Acts so repealed as if the said Acts had continued in force and this
+Act had not been passed;
+(b) the provisions for appeal under the Acts so repealed shall continue in force in
+respect of applications, suits and proceedings disposed of thereunder;
+Indian Kanoon - http://indiankanoon.org/doc/918877/ 2Godrej And Boyce Mfg. Co. Ltd. vs Sridhar Jagannath Nerurkar on 6 July, 2004
+(c) any appointment, rule and notification made or issued under any of the repealed
+Acts and in force on the date of commencement of this Act shall, in so far as they are
+not inconsistent with the provisions of this Act be deemed to have been made or
+issued under this Act and shall continue in force until it is superseded or modified by
+any appointment rule or notification made or issued under this Act;
+(d) all prosecutions instituted under the provisions of any of the repealed Acts shall
+be effective and disposed of in accordance with the law."
+4. At the outset, it must be mentioned that Section 58 forms a part of the Maharashtra Rent Control
+Act, 1999. Section (1) of Section 3 of the Maharashtra Rent Control Act reads as under:
+(1) This Act shall not apply
+(a) to any premises belonging to the Government or a local authority or apply as
+against the Government to any tenancy, licencor other like relationship created by a
+grant from or a licence given by the Government in respect of premises requisitioned
+or taken on lease or on licence by the Government, including any premises taken on
+behalf of the Government on the basis of tenancy or of licence or other like
+relationship by or in the name of any officer subordinate to the Government
+authorised in this behalf but it shall apply in respect of premises let, or given in
+licence to the Government or a local authority or taken on behalf of the Government
+on such basis by or in the name of such officer;
+(b) to any premises let or sub-let to banks, or any Public Sector Undertakings or any
+Corporation established by or under any Central or State Act or foreign missions,
+international agencies, multinational companies and private limited companies and
+public limited companies having a paid up share capital of rupees one crore or more.
+Explanation : (Being not relevant for this case is not typed)
+5. Under Clause (b) of Sub-section (1) of Section 3, the Maharashtra Rent Act does not apply to any
+premises let or sublet inter alia to a public limited companies having a paid up capital of rupees one
+crore or more. As the petitioner is a public limited company having a paid up capital of more than
+Rupees One Crore the provisions of the Maharashtra Rent Act including Section 58 are not
+applicable to the second suit instituted by the respondent under the provisions of the Transfer of
+Property Act. Therefore, it cannot be contended that the second suit is not maintainable by virtue of
+Section 58 of the Maharashtra Rent Control Act.
+6. I would also proceed to consider what would be its effect on second suit, assuming that Section 58
+of the Maharashtra Rent Act is applicable. Sub-section (1) of Section 58 inter alia repeals the
+Bombay Rent Act. Sub-section (2) of Section 58 saves the proceedings which were pending on the
+date of repeal and lays down that notwithstanding the repeal suits and other proceedings pending
+on the date of the commencement of the Maharashtra Rent Act in any Court, Controller, Competent
+Indian Kanoon - http://indiankanoon.org/doc/918877/ 3Godrej And Boyce Mfg. Co. Ltd. vs Sridhar Jagannath Nerurkar on 6 July, 2004
+Authority or other authority filed under any of the repealed Acts would be continued and disposed
+of in accordance with the provisions of the Act so repealed as if the repealed Act has been continued
+to be in force and the Maharashtra Rent act had not been passed. This provision is made to save the
+suits filed under any of the repealed Acts and pending on the date of their repeal would have abated
+unless they were saved under Section 6 of the General Clauses Act or Section 7 of the Bombay
+General Clauses Act. Thus, Section 58 of the Maharashtra Rent Act applies essentially to suits or
+other proceedings instituted under the repealed Acts and which were pending on the date of the
+coming into fore of the Maharashtra Rent Act i.e. 31st March, 2000. Section 58 does not apply to a
+suit or proceeding filed after 31st March, 2000 under the general law of the land-Transfer of
+Property Act for eviction of a tenant who is not protected under the Maharashtra Rent Act.
+7. For these reasons, I am of the view that a suit filed after 31st March, 2000 under the general law -
+Transfer of Property Act - for eviction of a tenant who is not protected under the provisions of the
+Maharashtra Rent Act is maintainable and is not hit by the provisions of Section 58 merely because
+a previous suit for eviction against such a tenant filed under the provisions of any of the repealed
+Acts like the Bombay Rent Act was pending on 31st March, 2000. The trial Court therefore rightly
+held that the second suit was maintainable. The Civil Revision must therefore fail.
+8. Relying upon the decision of the Apex Court in Ambalal Sarabhai Enterprises Ltd v. Amritlal &
+Co. , learned counsel for the petitioner submits that the second suit in any event should have been
+stayed. Though no application was made for stay in the trial Court, the learned counsel submits, that
+instead of driving the petitioner to file a second application in the trial court for stay of the suit this
+court itself should consider the request for stay of the second suit. In order to avoid multiplicity of
+the proceedings and with the consent of the learned counsel for the respondent the request is
+granted. I would accordingly consider whether the second suit filed under the provisions of the
+Transfer of Property Act should be stayed. The question whether a second suit filed under the
+Transfer of Property Act during the pendency of a suit for eviction previously filed under the
+provisions of the Bombay Rent Act needs to be stayed is not res integra, and is already covered by an
+unreported decision of this Court in Dilip Prabhakar Dingorkar v. Hindusthan Petroleum
+Corporation Ltd (C.R.A. No. 1191 of 2001 decided on 18th January, 2002 Coram : Dr. D.Y.
+Chandrachud, J). In that case, the owner of the property had filed a suit against H.P.C. Ltd. for
+eviction under Section 13(1)(g) of the Bombay Rent Act. The suit as well as the appeal were
+dismissed and the writ petition by the owner was pending in this court on 31st March 2000 when
+the Bombay Rent Act was repealed by the Maharashtra Rent Act. The provisions of the Maharashtra
+Rent Act are not applicable to H.P.C. Ltd in view of the provisions of Section 3(1)(b) of that Act.
+During the pendency of the Writ Petition, the owner filed a suit against H.P.C. Ltd for possession
+under the general law namely the Transfer of Property Act, 1882 after terminating the tenancy. In
+that suit, an application for stay of the suit was made by H.P.C. Ltd. under Section 10 of the Code of
+Civil Procedure. The application was allowed by the trial Court and the suit was stayed. Allowing the
+Revision Application this court held that the cause of action for a suit for possession under the
+provisions of the Bombay Rent Act was different than the cause of action in a suit for possession
+under the Transfer of Property Act. in a suit for possession under a Rent Act, a landlord is required
+to establish one or more of the grounds for eviction provided therein. Proof of such a ground is
+sin-qua-non for passing of a decree for possession. On the other hand, a suit under the general law -
+Indian Kanoon - http://indiankanoon.org/doc/918877/ 4Godrej And Boyce Mfg. Co. Ltd. vs Sridhar Jagannath Nerurkar on 6 July, 2004
+Transfer of Property Act, 1882 can be simply on the ground that the lease has come to an end either
+by efflux of time or by its termination. Once it is proved that the lease has come to an end, a landlord
+is entitled to a decree for possession unless debarred by some other provisions of the Transfer of
+Property Act or any other Act. It is not necessary for a landlord to make out or prove the existence of
+any of the grounds of eviction as is necessary in a suit under a Rent Act. This Court held that the
+issues in two suits would be different and therefore it is not necessary to stay the second suit for
+eviction filed under the Transfer of Property Act.
+9. Learned Counsel for the petitioner however submits that the decision of this court in D.P.
+Dingankar v. H.P.C.L. (supra) is per in-curiem as the decision of the Supreme Court in Ambalal
+Sarabhai Enterprises Ltd v. Amrutlal (supra( was not brought to the notice of the learned Single
+Judge. In Ambalal Sarabhai's case, an owner of a property had filed an eviction Petition before the
+Rent Controller against a tenant for eviction on the ground of sub-letting enumerated in Section
+14(1)(b) of the Delhi Rent Control Act. During the pendency of the eviction petition, the Delhi Rent
+Control Act was amended and Section 3(c) was introduced whereby the jurisdiction of the Rent
+Controller was excluded in respect of the tenancies fetching a monthly rent exceeding Rs. 3500/-. As
+the tenant therein was paying rent of more than Rs. 3500/- p.m. the owner, after sending a notice to
+the tenant on 11th September, 1991 terminating the tenancy, filed a suit for possession in the Court
+exercising of regular civil jurisdiction. The tenant made an application in the eviction petition before
+the Rent Controller stating that the Rent Controller had no jurisdiction to proceed in the matter in
+view of the amendment to the Delhi Rent Control Act. The Rent Controller dismissed the application
+but the appellate Court allowed the appeal and quashed the eviction proceedings. A second appeal
+by the landlord was allowed by the High Court. That order of the High Court was challenged before
+the Supreme Court. In para 11 of its judgment, the Supreme Court has stated that the question
+before it was : Whether the proceedings which were initiated before the Rent Controller having
+jurisdiction could be continued before it, even after the amendment of the Delhi Rent control Act?
+Answering the issue in the affirmative, the Supreme Court (in para 38 of its judgment) said that the
+landlord had a right to continue the eviction proceedings before the Rent Controller by virtue of
+Section 6 of the General Clauses Act. It would thus, be clear that the issue before the Supreme Court
+was not as to whether the second suit for eviction under the general law viz the Transfer of Property
+Act was maintainable nor was here any issue as to whether the second suit should be stayed. The
+issue was a limited as to whether the eviction proceedings before the Rent Controller could be
+continued in view of the amendment to the Delhi Rent Controller Act ousting the jurisdiction of the
+Rent Controller in respect of the tenancies fetching rent of more than Rs. 3500/- per month. No
+doubt in para 39 of the said judgment the Supreme Court has observed that it would not be right for
+the landlord to continue two parallel proceedings one under the general law and other before the
+Rent Controller. The Supreme Court further gave a direction to the landlord to continue only one or
+two proceedings within six weeks. Though no reasons appear to have been given in the judgment for
+directing the landlord to prosecute one of the two proceedings it appears that the direction was
+given in exercise of its special jurisdiction under Article 136 of the Constitution of India, in the facts
+and circumstances of that case. No law appears to have been declared by the Supreme Court that a
+second suit filed under the general law must be stayed or even for that matter that in every case the
+landlord must choose to proceed with only one of the two suits.
+Indian Kanoon - http://indiankanoon.org/doc/918877/ 5Godrej And Boyce Mfg. Co. Ltd. vs Sridhar Jagannath Nerurkar on 6 July, 2004
+10. I am fortified in my view by a decision of this Court in R.E. Fanibunda v. Nicholas of India Ltd.
+reported in 2003 (3) All M.R. 967 wherein this Court has explained what is the ratio of the decision
+of the Supreme Court in the case of Ambalal Sarabhai Enterprises Ltd. supra. In that case a landlord
+had filed a suit for eviction of a tenant on 9th June, 1977 on the ground of reasonable and bonafide
+requirement under the provisions of the Bombay Rent Act. The trial Court decreed the suit by a
+judgment dated 12th July, 1990 and the appellate Court set aside the decree. The appellate
+judgment was challenged by the landlord by filing a Writ Petition. During the pendency of the writ
+petition, the landlord filed another suit for eviction under the general law - Transfer of Property Act-
+as by then the provisions of Bombay Rent Act, 1947 had been repealed and the provisions of the
+Maharashtra Rent Act were not applicable to the tenant being a public limited company with a paid
+up capital of more than rupees one crore. At the hearing of the writ petition challenging the
+judgment of the appellate Court rendered under the provisions of the Bombay Rent Act, an
+objection was raised to the maintainability of the petition on the ground that the landlord had filed
+another suit under the general law and therefore the Writ Petition could not be continued. Relying
+upon the decision of the Supreme Court in Ambalal Sarabhai Enterprises v. Amrutlal (supra) it was
+contended that the landlord cannot pursue two parallel proceedings for the same reliefs. Negativing
+the objection, the court held that though the relief of possession claimed in both the suits was the
+same the causes of action for the two suits was entirely different. The cause of action for possession
+in the first suit was existence of a ground for eviction under the Bombay Rent Act while the cause of
+action for the second suit under the general law was only termination of the tenancy either by efflux
+of time or by notice. Existence of a ground under the Bombay Rent Act was not necessary for the
+second suit under the general law. The learned Judge therefore held that the two proceedings were
+not parallel as they were based on different cause of action and therefore there was no question of
+choosing between the two parallel proceedings. In Ambalal Sarabhai's case the Supreme Court has
+observed that a litigant cannot be permitted to take recourse to two parallel proceedings. In other
+words, two proceedings which are not parallel are permitted. This Court held that the two
+proceedings one for eviction under the provisions of the Bombay Rent Act and the other under the
+general law - Transfer of Property Act filed after repeal of the Bombay Rent Act were not parallel
+and were allowed to be continued and proceeded with simultaneously.
+11. Mr. Jahagirdar invited my attention to Sub-section (2) of Section 58 of the Maharashtra Rent
+Control Act which provides that notwithstanding the repeal of the Bombay Rent Act and other two
+similar Acts, all applications, suits and other proceedings pending on the date of the commencement
+of the Maharashtra Rent Control Act before any Court, Controller or Competent Authority shall be
+continued and disposed of in accordance with the bombay Rent Act (other two repealed Acts) as if
+the repealed Act had continued in force and Maharashtra Rent Act had not been passed. Sub-section
+(2) of Section 58, submits Mr. Jahagirdar confers a privilege on the landlord to continue the suit
+filed under the Bombay Rent Act and once the landlord exercises the said privilege then the suit filed
+by him shall be continued as if the Bombay Rent Act had been in force and the Maharashtra Rent
+Act was not been passed. He further submits that Sub-section (2) of Section 58 of the Maharashtra
+Rent Act creates two fictions one by which provisions of the Bombay Rent would be deemed to be in
+force and the other by which the Maharashtra Rent Control Act would be deemed not to have been
+passed. These two fictions arise, submits that learned counsel, when the landlord exercises the
+privilege of continuing the suit filed by him under the Bombay Rent Act. He submits, in the present
+Indian Kanoon - http://indiankanoon.org/doc/918877/ 6Godrej And Boyce Mfg. Co. Ltd. vs Sridhar Jagannath Nerurkar on 6 July, 2004
+case the landlord has exercised the privilege by continuation of the first suit filed by him under the
+provisions of the Bombay Rent Act and therefore by a fiction of law the Bombay Rent Act would be
+deemed to be in force and the Maharashtra Rent Act would be deemed not to have come into force
+after the Maharashtra Rent Act not to come in force, and hence Sub-section (1)(b) of Section 3 of the
+Maharashtra Rent Act would not be applicable. Therefore, submits the learned counsel, the second
+suit would not be maintainable under the Maharashtra Rent Act. The fiction created by Sub-section
+2 of Section 58 is not of unlimited application. Sub-section (2) merely states that the suit or
+proceedings filed under the repealed Act shall be continued or disposed of in accordance with the
+provisions of the repealed Act as if that Act had continued to be in force and the Maharashtra Rent
+Act had not been passed. The fiction is created only for the purpose of and is applicable to the
+pending proceedings. The fiction dos not apply to other proceedings, if any that may be filed by the
+landlord on repeal of the Bombay Rent Act, or other two Acts.
+12. For these reasons, I find no merit in the Civil Revision Application which is hereby dismissed
+with costs.
+13. Request made by the learned counsel for the Pet. for stay of the operation of the order is rejected.
+Issuance of Certified copy be expedited.
+Indian Kanoon - http://indiankanoon.org/doc/918877/ 7

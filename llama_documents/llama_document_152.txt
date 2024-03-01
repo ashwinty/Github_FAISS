@@ -1,0 +1,521 @@
+Metadata: id=>152
+name=>State Of Gujarat vs Ramanlal Sankalchand And Co on 8 November 1963
+date=>8 November 1963
+court=>High Court
+link=>http://indiankanoon.org/doc/1250550/
+-----
+Content: State Of Gujarat vs Ramanlal Sankalchand And Co. on 8 November, 1963
+State Of Gujarat vs Ramanlal Sankalchand And Co. on 8
+November, 1963
+Equivalent citations: AIR1965GUJ60, [1965]16STC329(GUJ), AIR 1965
+GUJARAT 60
+Bench: J.M. Shelat, P.N. Bhagwati
+JUDGMENT
+Bhagwati, J.
+(1) This Reference raises a question of vires of Section 26(3) of the Bombay Sales Tax Act,1953. The
+section has been challenged as beyond the legislative competence of the State Legislature on the
+ground that it purports to tax a transaction which is not a sale, by treating it as a sale. In order to
+appreciate how the question arises, it is necessary to state briefly the facts giving rise to the
+Reference. The opponents were until 27th November 1956, a partnership firm, and the firm carried
+on business as a dealer in mill stores. The firm was registered as a dealer under the Act and held
+Registration Certificate No.10-C-198. Quarterly returns of turnover of its sales were filed by the firm
+from time to time as required by the Act and the Rules framed under the Act. on the death of one of
+the partners, the firm was dissolved on 27th November 1956, but the surviving partners continued
+to submit quarterly returns in the name of the firm until 31st March 1957, since certain goods
+indented by the firms before dissolution were received in March 1957 after dissolution. The goods of
+the firm which remained after paying off the debts and liabilities of the firm and taking accounts
+between the parties, were distributed in specie amongst the surviving partners and the
+representatives of the deceased partner and this fact was recorded in a Deed of Dissolution dated
+27th July 1957. The Sales Tax Officer, Licence Circle, Ahmedabad, by an order dated 23rd April
+1958, assessed the firm to sales tax for the period 1str April 1956 to 31st March 1957 and in such
+assessment included the goods of the firm valued at Rs.94,861/- which were distributed in specie
+amongst the partners on dissolution of the firm. This he did under Section 26(3) of the Act on the
+ground that the goods were allotted to the partners and were, therefore, liable to be taxed as if they
+were sold to the partners. Against the decision of the Sales Tax Officer, the firm preferred an appeal
+to the Assistant Collector of Sales Tax followed, but the appeal failed. A Revision Application to the
+Additional Collector of Sales Tax followed, but that was also rejected. the firm thereupon carried the
+matter in revision before the Tribunal. Two contentions were urged before the Tribunal in support
+of the Revision Application of which one turned on the interpretation of Section 26(3) and the other
+related to the vires of the Section. The Tribunal accepted the first contention and held that the
+allotment of the goods of the firm to the partners on dissolution was undoubtedly treated by the
+fiction of law created by the Section as a sale, but the fiction merely clothed the allotment with the
+characteristics of a sale simplicities and did not extend to make it a sale in the course of business.
+The Tribunal observed that only sales effected by a dealer in the course of business were liable to be
+Indian Kanoon - http://indiankanoon.org/doc/1250550/ 1State Of Gujarat vs Ramanlal Sankalchand And Co. on 8 November, 1963
+included in the turnover of sales chargeable to tax and since the allotment of the goods of the firm
+amongst the partners though fictionally regarded as a sale was not a sale in the course of business, it
+was not includible in the turnover of sales and the machinery of assessment set out in Section 14
+was, therefore, inapplicable to the assessment to tax on such allotment treated as a sale under
+Section 26(3). In this view of matter, the Tribunal did not think it necessary to consider the second
+contention which attacked the vires of Section 26(3). The Tribunal in the result allowed the Revision
+Application and set aside the assessment in so far as it assessed to tax the goods of the firm
+apportioned amongst the partners on dissolution. The State thereupon applied to the Tribunal for a
+reference under Section 34 and since questions of law admittedly arose out of its order, the Tribunal
+referred the following questions of law for the opinion of the Court:
+"1.Whether the goods allotted to any partner of a firm on the dissolution thereof are
+goods sold to such partner by the firm and can be included in the turnover of sales of
+the firm?
+2. Whether the provisions of Section 14 of the Bombay Sales Tax Act 1953, are
+applicable to the assessment of the tax liable to be paid under Section 26 (3) of the
+Act?"
+It may be pointed out that though the State did in the first instance ask for a Reference of the first
+question, at the hearing of the Reference Applications the State did not press it and confined its
+application only to second question. The firm, however, insisted that the first question should also
+be referred since it arose out of the order of the Tribunal and the Tribunal accordingly referred both
+the questions to this Court.
+(2) We will first take up for consideration the second question which arose directly out of the
+contention which found favour with the Tribunal, for it can be disposed of in a few words. As a
+matter of fact Mr.K.H.Kaji, learned advocate appearing on behalf of the firm, found it difficult to
+sustain the order of the Tribunal on that ground and be fairly conceded that it was not possible to
+argue that the allotment of goods amongst the partners on the dissolution of a firm was under the
+fiction created by Section 26(3) a sale simpliciter and not a sale in the course of business and was,
+therefore, not liable to be included in the turnover of sales and the machinery of assessment set out
+in Section 14 was consequently not applicable to the assessment of tax on such allotment under
+Section 26(3). The argument was obviously unsustainable because it ignored the basic principle
+which requires that when a statute enacts that something shall be deemed to have been done which
+in fact and truth was not done, the Court is entitled and bound to ascertain for what purpose and
+between what persons the statutory fiction is to be resorted to and full effect must be given to the
+statutory fiction and it should be carried to its logical conclusion. Vide State of Bombay v.
+Pandurang, AIR 1953 SC 244. As observed by Lord Asquith of Bishopstone in East End Dwelling Co.
+Ltd v. Finsbury Borough Council, 1952 AC 109:
+"If you are bidden to treat an imaginery state of affairs as real, you must surely,
+unless prohibited from doing so, also imagine as real the consequences and incidents
+which, if the putative state of affairs had in fact existed, must inevitably have flowed
+Indian Kanoon - http://indiankanoon.org/doc/1250550/ 2State Of Gujarat vs Ramanlal Sankalchand And Co. on 8 November, 1963
+from or accompanied it ... The statute says that you must imagine a certain state of
+affairs; it does not say that having done so, you must cause or permit your
+imaginations to boggle when it comes to the inevitable corollaries of that state of
+affairs".
+The argument on which the Tribunal decided against the State seeks to do that which Lord Asquith
+of Bishopstone said that you should not do when a legal fiction is created. If section 26(3) creates a
+legal fiction requiring allotment of goods to a partner on dissolution of a firm to be treated as a sale
+to such partner for the purpose of taxation, full effect must be given that legal fiction and it must be
+carried to its logical conclusion and just as any actual sale effected by the firm would have been a
+sale in the course of business, so also the fictional sale must be regarded a sale must be regarded a
+sale in the course of business for the purpose of taxation. The distinction which the Tribunal made
+between a simpliciter and a sale in course of business was entirely unwarranted and in making such
+distinction the Tribunal failed to give full effect to the legal fiction created in Section 26(3). If
+Section 26(3) was a valid piece of legislation, it had clearly the effect of converting allotment of
+goods of the firm amongst the partners on dissolution into sale for all purpose of taxation and such
+allotment was liable to be included in the taxable turnover of the firm.
+(3) That takes us to the first question which was the question really debated before us. This question
+raised the point of vires of Section 26(3) in the following manner. The controversy between the
+parties was whether the goods allotted to a partner of a firm on dissolution could be said to be goods
+sold to such partner by the firm and were liable to be included in the turnover of sales of the form.
+The States insisted that such allotment constituted a sale of goods by the firm to the partner and
+were, therefore, includible in the turnover of sales of the firm and relied on Sec.26 (3) in support of
+this proposition. Now prima facie, having regard to Section 26 (3) it would appear that the question
+must be answered in favour of the State but, said Mr.K.H.Kaji, Section 26(3) was beyond the
+legislative competence of the State Legislature and was ultra vires and the State was, therefore, not
+entitled to rely on it for the purpose of upholding the validity of the assessment. He contended that
+the power of the Legislature to tax sales on goods was derived from Entry 54 in List II of the Seventh
+Schedule to the Constitution which at the time when Section 26(3) was enacted, was in the following
+terms, namely, "Taxes on the sale or purchase of goods other than newspapers" and the expression
+"sale of goods" in this Entry had the same meaning as sale of goods in the Indian Sale of Goods Act
+and the State Legislature was consequently not entitled to make any law levying tax on transactions
+which were not of the nature of sale of goods within the meaning of the Indian Sale of Goods Act. the
+argument was that the allotment of goods of the firm on dissolution amongst the partners was not a
+sale within the meaning of the Indian Sale of Goods Act and the State Legislature had, therefore, by
+enacting Section 26(3) purported to tax a transaction which was not a sale by fictionally treating it
+as a sale. This, contended Mr.K.H.Kaji, was not constitutionally permissible to the State Legislature
+and Section 26(3) was, therefore, ultra vires and could not be relied upon by the State for the
+purpose of taxing such allotment.
+(4) The learned Advocate General agreed that the power of the State Legislature to legislate with
+respect of tax on sale of goods was to be found in Entry 54 and that the validity of Section 26(3)
+would, therefore, have to be tested by reference to the true import of that Entry but he contended
+Indian Kanoon - http://indiankanoon.org/doc/1250550/ 3State Of Gujarat vs Ramanlal Sankalchand And Co. on 8 November, 1963
+that the Section was within the legislative power of the State Legislature as contained in that Entry.
+He sought to support the validity of Section 26(3) first upon the ground that the matter of that
+Section was within the subject "Taxes on the sale or purchase of goods other than newspapers"
+expressly mentioned in Entry 54 since the allotment of goods to partners on dissolution of a firm
+amounted to sale of goods within the meaning of that expression as used in that Entry and secondly
+upon the ground that Section 26(3) constituted an exercise of legislative power on a matter ancillary
+or subsidiary to the primary and main power connoted by the expression "Taxes on the sale or
+purchase of goods other than newspapers" and contained a provision necessarily incidental to
+effective legislation on the subject.
+(5) These contentions raised a question as to the true scope and ambit of the legislative power of the
+State Legislature under Entry 54. Now in order to arrive at a proper determination of this question it
+is necessary to bear in mind the well settled rule of interpretation that in construing words in a
+constitutional enactment conferring legislative power, the most liberal construction must be put
+upon the words so that the same may have effect in their widest amplitude. While considering the
+scope of the various entries in the Legislative Lists, the widest possible amplitude must be given to
+the words used and as stated by Sir Maurice Gwyer, C.J. in United Provinces v. Mt. Atiqa Begum,
+AIR 1941 FC 16 "each general word should be held to extent to all ancillary or subsidiary matters
+which can fairly and reasonably be said to be comprehended in it." When legislative power is
+conferred on a Legislature to legislate with regard to a particular topic of legislation, the Legislature
+must necessarily also have power to legislate on all matters which are ancillary or subsidiary to the
+main subject for otherwise it may not be possible to have effective legislation on the subject. Vide
+Edward Mills Co.Ltd. v. State of Ajmer, (1955) I SCR 735: ((S) AIR 1955 SC 25) and State of
+Rajasthan v. G. Chawla, AIR 1959 SC 544. The preposition is, therefore, now well established and
+beyond controversy that the Legislature has power to legislate not only on a subject matter which
+falls directly within the subject of the legislative entry but also on a subject matter which may be
+ancillary or subsidiary to such subject, for otherwise much of the legislation would be rendered
+ineffective on the ground that provisions which are necessarily incidental to effective legislation on
+the subject expressly within the power of the Legislature cannot be made by the Legislature on the
+ground that they fall outside the legislative entry. It is for this reasons that the Supreme Court said
+in Chaturbhai v. Union of India, AIR 1960 SC 424 that---
+"It is within the competence of the Central Government Legislature to provide for the
+matters which may otherwise fall within the competence of the provincial legislature
+if they are necessarily incidental to effective legislation by the Central Legislature on
+a subject of legislation expressly within its power".
+In every case, therefore, where a provision in an enactment is challenged as beyond the legislative
+competence of the Legislature, the first question that must be considered is whether the provision
+falls within the express words of the entry conferring power on the Legislature which enacted the
+legislation. If it falls directly within the subject of legislation, cadit questio. But even if it does not so
+fall, its validity can yet be sustained on the ground that it reflects an exercise of legislative power on
+ancillary or subsidiary matter which can fairly and reasonably be regarded as comprehended within
+the subject of legislation and contains a provision necessarily incidental to effective legislation on
+Indian Kanoon - http://indiankanoon.org/doc/1250550/ 4State Of Gujarat vs Ramanlal Sankalchand And Co. on 8 November, 1963
+the subject of legislation. The question which we have, therefore, to consider for the purpose of
+deciding the validity of Section 26(3) is a two-fold one. Firstly, does the subject matter of Section
+26(3) fall within the subject of legislation set out in Entry 54? And secondly, if it does not can it be
+said that Section 26(3) constitutes legislation on an ancillary or subsidiary matter necessarily
+incidental to effective legislation on the subject of legislative contained in the Entry.
+(6) Turning to the first question it is clear that the answer to it must depend on the true meaning to
+be given to the expression "sale of Goods" in Entry 54. Now what is the true connotation of this
+expression as used in this Entry is no longer a question open to controversy. It is settled by the
+decision of the Supreme Court in State of Madras v. Gannon Dunkerley and Co., (1958) 9 STC 353:
+(AIR 1958 SC 560). The question which arose in that case was in regard to the vires of certain
+provisions of the Madras General Sales Tax Act,1939 as amended by the Madras Sales Tax
+(Amendment) Act, 1947,which sought to tax the supply of materials involved in execution of a works
+contract treating it as a sale of goods by the contractor. The vires was challenged on the ground that
+the provisions were beyond the legislative power of the State Legislature under Entry 48 in List II of
+Schedule VII to the Government of India Act 1935,being the Constitution in force at the date when
+the provisions were enacted. The Supreme Court was, therefore, called upon to determine the scope
+and ambit of this Entry which was in the same terms as Entry 54 with which we are concerned in the
+present case. The Supreme Court held that the expression "sale of goods" in this Entry had the same
+meaning as it had under the Indian Sale of Goods Act and that the State Legislature was, therefore,
+entitled to legislate with respect to levy of tax only in respect of those transaction which constituted
+sale of gods within the meaning of the Indian Sale of Goods Act and was not entitled in exercise of
+its legislative power under that Entry to levy tax on transaction which did not constitute such sales.
+The Supreme Court the n examined the question as to what constituted sale of goods with in the
+meaning of the Indian Sale of Goods Act and said that in order to constitute such sale it was
+necessary that three elements should exist in a transaction: first, there should be an agreement
+between the parties for the purpose of transferring title to goods; secondly, property must actually
+pass in the goods under the agreement; and thirdly, there must be money consideration for the
+transfer of property in the goods. If any one of these elements is absent, the transaction would not
+be a sale within the meaning of the Indian Sale of Goods Act. after formulating these characteristics
+of sale as defined in the Indian Sale of Goods Act the Supreme Court proceeded to consider whether
+these characteristics were present in a works contract in so far as the supply of materials under it
+was concerned and whether it could be said that there was a sale of the materials which went to
+make up the work. The Supreme Court found that two characteristics of sale were being absent in a
+works Contract. The first characteristic which did not exist in a works contract was that there was no
+agreement to sell the materials as such and the second characteristic absent in such a contract was
+that the property in the materials did not pass as movables. In this view of the matter the Supreme
+Court held that there was no sale of materials involved in the execution of a works contract. It was,
+however, made clear that if the works contract was not one indivisible works contract but there were
+two agreements, one for the supply of materials and the other for the work, the State would be
+entitled to separate the agreement to sell from the agreement to do work and to impose a tax on the
+sale of materials effected under the former agreement.
+Indian Kanoon - http://indiankanoon.org/doc/1250550/ 5State Of Gujarat vs Ramanlal Sankalchand And Co. on 8 November, 1963
+(7) Subsequent to the decision in Gannon Dunkerly's case, 1958-9 STC 353: (AIR 1958 SC560)
+(supra) two decisions were given by the Supreme Court in which the principle enunciated in Gannon
+Dunkerley's Case, (1958) 9 STC 353: (AIR 1958 SC 560) was affirmed by the Supreme Court and
+applied in different situations arising in those cases. The first decision to which we must refer isthe
+decision in New India Sugar Mills Ltd. v. Commissioner of Sales Tax, (1963) 14 S.T.C. 316: (AIR
+11963 SC 1207). The question which arose in that case was whether supply of sugar made by the
+petitioners to the State of Madras under directions given to them by the Sugar Controller in exercise
+of the powers conferred upon him under the Sugar and Sugar Products Control Order, 1946,was
+taxable as a sale under the Bihar Sales Tax, 1947. The argument urged on behalf of the petitioners
+was that the dispatches of sugar made by the petitioners to the State of Madras were not the result of
+any contract of sale and there was, therefore, no sale on which tax could be charged under the
+provisions of the Bihar Sales Tax Act, 1947. This argument was accepted by Shah J., who delivered
+the majority judgment. The learned judge emphasized the consensual element in a sale and
+following Gannon Dunkerley's case, (1958) 9 STC 353: (AIR 1958 SC 560) (supra) took the view that
+in order to constitute a sale of goods must be transferred from the seller to the buyer under a
+contract of sale. The learned Judge held that under the Sugar and Sugar Products Control Order,
+1946, the petitioners were not left any volition but were bound on pain of forfeiture and
+imprisonment to carry out the directions of the Sugar Controller and to despatch sugar to the State
+of Madras as directed by him and there was, therefore, no contract of sale under which could be said
+that was transfer of property in the goods from the petitioners to the State of Madras and concluded
+that since there was no contract of sale under which property in the goods passed from the
+petitioners to the State of Madras did not amount to sale and was, therefore, not taxable by the State
+Legislature in exercise of its power under Entry 48 in List II to the Seventh Schedule to the
+Government of India Act,1935. It would thus be seen that this division merely applied the principles
+laid down in Gannon Dunkerlley's case (1958) 9 STC 353: (AIR 1958 SC 560) (supra) to the
+consensual aspect of sale which one of the essential elements of sale laid down in Gannon
+Dunkerrley's Case, (1958) 9 STC 353: (AIR 1958 SC 560).
+(8) The other decision of the Supreme Court which was cited before us was the decision in Bhopal
+Sugar Industries Ltd. v. D.P.Dube, (1963) 14 S.T.C.496: (AIR 1964 SC 1037). In this case the
+extended definition of "retail sale" in Section 2(1) of the Madhya Pradesh Sales of Motor Spirit and
+Lubricants Taxation Act, 1958 (Act 4 of 1958) included "consumption by a retail dealer himself or on
+his behalf of motor spirit or lubricants sold to him for retail sale and the question arose whether this
+extended definition was beyond, the competence of the State Legislature in that it brought within
+the ambit of taxation a transaction which was not sale within the meaning of the Indian Sale of
+Goods Act. the decisions in Gannon Dunkerley's Case, (1958) 9 STC 353: (AIR 1958 SC 560 ) and
+New India Sugar Mills case,(1963) 14 STC 316: (AIR 1963 SC 1207) were based on Entry 48 in List II
+of Seventh Schedule to the Government of India Act, 1935, where as the legislative entry under
+which the impugned legislation was made Entry 54 in Lists II of the Seventh Schedule to the
+Constitution, but the Supreme Court held that did not make any difference in principle and" as the
+scheme of division of legislative power under the Constitution has remained unaltered, the principle
+of Gannon non Dunkerley's Case (1958) 9 STC 353 : (AIR 11958 SC 560) applies in adjudging the
+validity of the provisions of Madhya Pradesh Act 4 of 1958". The Supreme Court thus applied the
+same principle in the interpretation of Entry 54 in List II of the Seventh Schedule of the Constitution
+Indian Kanoon - http://indiankanoon.org/doc/1250550/ 6State Of Gujarat vs Ramanlal Sankalchand And Co. on 8 November, 1963
+and held that since consumption by an owner of goods in which he deals is not a sale within the
+meaning of the Indian Sales Goods Act, is also not "sale of Goods" within the meaning of Entry 54 in
+List II of Seventh Schedule to the Constitution and the extended definition of retail sale which
+included consumption by a retail dealer himself of motor spirit or lubricant sold to him for retail
+sale was, therefore, beyond the legislative competence of the State Legislature.
+(9) It will be seen in all these cases the Supreme Court examined whether the transaction which was
+sought to be taxed by the State Legislature was a sale within the meaning of Indian Sale of Goods
+Act and wherever it found that the transaction was not such sale, it struck down the legislation in so
+far as it purported to tax such transaction on the ground that the legislative power for levying tax on
+sale of goods was restricted to enacting legislation for levying tax only on transactions which
+conformed to the definition of sale of gods with in the meaning of the Indian Sale of Goods Act and
+the State :Legislature was not entitled to tax any transactions which were not sale of goods strict
+sensu. We must, therefore, address ourselves to the question whether the transaction in question in
+the present case, namely, the allotment of goods of the firm amongst the partners on dissolution
+could be said to be sale of goods within the meaning of the Indian Sale of Goods Act and in order to
+determine this question must ask ourselves whether this transaction possessed the three elements
+essential to sale of goods under the Indian Sale of Goods Act.
+(10) Before we examine the question, it would be convenient to dispose of an argument advanced by
+Mr.K.H.Kaji in support of his contention that allotment of a firm amongst partners on dissolution
+did not constitute sale of goods within the meaning of the Indian Sale of Gods Act. the arrangement
+was that if such allotment constituted sale of goods, it was not necessary to enact Section 26 (3) for
+in that event such allotment would always fall within the scope and ambit of the charging Section by
+reason of the definition of sale. But the Legislaature considered it necessary to enact Section 26(3)
+and to treat such allotment fictionally as a sale because otherwise it would not be a sale. This
+argument does not appeal to us. It is not infrequent that the Legislature enacts provisions ex majore
+cantela with a view to rendering certain that which might otherwise be uncertain and the Legislature
+may achieve this by using the word "deemed". The word: deemed" is used a great deal in modern
+legislation and as observed by Lord Radcliffe, in St.Aubyn v. Attorney General, (1951) 2 All E R 473
+at p.498. "sometimes it is used to put beyond counta particular construction that otherwise be
+uncertain". This word is apt to include the obvious and uncertain and the impossible. no inference
+cam, therefore, be raised from the use of a deeming provision that but for the deeming provision,
+the subject matter of it would not fall within the main provision. Moreover it must also be
+remembered that legislation founded on a mistaken or erroneous assumption has not the effect of
+that making that law which the Legislature has erroneously assumed to be so. This argument
+cannot, therefore, avail Mr.K.H.Kaji and we must proceed to consider whether, in fact, irrespective
+of Section 26(3), allotment of the goods of the firm amongst the partners on dissolution constituted
+sale of goods within meaning of the Indian Sale of Goods Act and for that purpose it must
+ascertained whether such allotment possessed the three essentials elements of sale of goods to
+which we have already referred.
+(11) Now so far as the first elements of sale of goods agree concerned, namely, that there must be an
+agreement between the parties for the purpose of transferring property in the goods and that
+Indian Kanoon - http://indiankanoon.org/doc/1250550/ 7State Of Gujarat vs Ramanlal Sankalchand And Co. on 8 November, 1963
+property in the goods must actually pass as a result of agreement, we have no doubt that these
+elements existed in the present transaction. But it is not necessary to discuss this aspect of the
+question since in our opinion, the third element namely, that there must be money consideration for
+the transfer of property in the goods, was absent and therefore even if the first two elements existed,
+the transferring could not be a transaction of sale of goods within the meaning of the Indian Sale of
+Goods Act. it was in respect of this third element that the learned Advocate General failed in his
+attempt to make out that the allotment of goods of the firm amongst the partners on dissolution
+constituted sale of goods within the meaning of the Indian Sale of Goods Act. we do not set how the
+residue of the property of the firm after of payments of debts and liabilities and settlement of
+accounts is divided amongst the partners in specie any money consideration can be said to have
+been promised or paid by any partner to the firm or for the matter of that to the other partners as
+consideration for the goods allotted to him. Consideration undoubtedly there would be, for the
+partner to whom any particular goods are allotted on distribution would be giving up his interest the
+goods allotted to the other partners in consideration of the other partners giving up their respective
+interests in the goods allotted to such partner. But such consideration clan by no stretch of
+imagination be called a money consideration. The learned Advocate General said in the course of the
+argument that such consideration would be a consideration capable of being valued in terms of
+money. But that is not determination of the question. Even in barter or exchange, the consideration
+passing from the onepartyto another for the transfer of the property is a valuable consideration and
+in many cases it would be capable of being valued in terms of money. But on that account it would
+not become a sale. The essential characteristic of a sale is that there must be money consideration
+fforn the transfer and it is this characteristic which is lacking in the present case. We are, therefore,
+of the opinion that the allotment of goods of the firm amongst the partners did not constitute sale of
+goods within meaning of the Indian Sale of Goods Act and that Section 26(3) in so far it purported
+to bring such allotment to tax by fictionally treating it as a sale did not fall expressly within the
+subject of legislation contained in Entry 54 in List II of the Seventh Schedule to the Constitution.
+(12) We must then proceed to consider whether Section 26 (3) can be regarded as a legislative
+provision on a matter ancillary or subsidiary to the subject of legislation set out in Entry 54 and
+whether it could be said be necessarily incidental to effective legislation on that subject. Now what is
+incidental or ancillary in a given case must depend upon the main legislation andthe circumstances
+of the particular case. It is in the last analysis lay down any hard and fast rule on the basis of which it
+can be said that a particular provision is necessarily incidental to effective legislation or not. But one
+thing is certain that the question of incidentally must, as observed by Griffith C. J., in Australian
+Steamship Ltd. V. Malcolm, (1914) 19 C.L.R. 298, be determined ab extra, irrespective of
+Parliamentary assumptions on the matter. The object of a particular provisions and the effect which
+it produces often assist in the determination of the question whether such provision can be regarded
+as an exercise of ancillary or subsidiary power of legislation it may also remembered that the
+legislation must not under the guise of making an ancillary or subsidiary provision for the purpose
+of effectuating the main legislation carry out an object beyond the powers of the legislature enacting
+it and encroach upon a field not properly belonging to it. the provision must be regarded in its true
+nature and character and it must be ascertained having regard to the object or purpose of the
+provision also the effect produced by it as to whether it is really and truly a provision relating to an
+ancillary or subsidiary matter or whether under the guise of making a provision on an ancillary or
+Indian Kanoon - http://indiankanoon.org/doc/1250550/ 8State Of Gujarat vs Ramanlal Sankalchand And Co. on 8 November, 1963
+subsidiary matter what it really seeks to do is to trespass into other field. It is in the light of these
+principles that we must now consider as to whether the provision enacted in Section 26 (3) is a
+provision enacted by the Legislature on a matter ancillary or subsidiary to tax on sales and purchase
+of goods and whether it was necessarily incidental to effective legislation on that subject.
+(13) In order to determine this question it is necessary toexamine briefly the scheme of the Bombay
+Sales Tax Act, 1953. The Bombay Sales Tax Act, 1953 came into force on 25th March 1953. It is
+imposed two kinds of taxes, namely general sales tax aandspecial tax on sales of goods. It also
+imposed purchase tax but that was only on certain kinds of purchase and that too in respect of all
+goods but only in respect of certain goods which might be notified by the State Government. Section
+9 required every dealer liable to pay general sales tax to obtain registration under the Act, the
+scheme being that general sales tax should be chargeable only on a registered dealer and that an
+unregistered dealer should not be chargeable to general sales tax. the definition of a dealer in
+Section 2(6) included a firm by reason of the application of Section 3(35) of the Bombay General
+Clauses Act and this definition coupled with the other provisions of the Act clearly showed - and this
+was not disputed by the learned Advocate General - that the firm was recognized as an assessable
+entity distinct from its partners for the purpose of taxation under the Act. section 26 (3) sought to
+tax allotment of goods amongst partners or members in the event of dissolution or partition of a
+firm in thefollowing words:
+"26. (3) (I) When a firm liable to pay the tax is dissolved, or
+(ii) where an undivided Hindu family liable to pay tax is partitioned, such firm or
+family, as the case may be, shall be liable to pay the tax on the goods allotted to any
+partner or member thereof as if the goods had been sold to such partner or member
+unless he holds a certificate of registration or a licence, as the case may be, or obtains
+it within the prescribed period".
+This was the position as it obtained under the Act prior to its amendment. Sweeping amendments
+were, however, made in the Act with effect from 1sr April 1954. The amendments altered the
+structure of the various taxes imposed by the Act and instead of taxing the sale at multiple points as
+was the position under the amended Act, the amended Act taxed the sales only at two points. Section
+10 imposed purchase of goods specified in Column 1 of Schedule B at the rates, if any, specified
+against such goods in Column 4 of that Schedule provided such purchase were made from an
+unregistered dealer. section 8 imposed sales tax on sale of goods specified in Columns 1 of Schedule
+B at the rates, if any, specified against them in Column 2 of that Schedule but declared that goods on
+the purchase of which the dealer has paid or is liable to pay purchase tax shall not be liable to
+included turnover of goods for the purpose of charge of sales tax. Section 10A provided that
+notwithstanding anything contained in Section 8 or 10 a registered dealer who is liable to pay
+purchase tax on purchase under Section 10 shall be entitled to elect to pay either purchase tax on
+purchase of such goods or sales tax, if any on sale of such goods when they are sold without being
+processed or altered in any manner so that he would liable to pay only one of the two taxes. A third
+tax called general sales tax was also imposed by section 9 on sales of certain kinds of goods but that
+tax was to be paid in any event irrespective of the liability to pay purchase tax on purchase of such
+Indian Kanoon - http://indiankanoon.org/doc/1250550/ 9State Of Gujarat vs Ramanlal Sankalchand And Co. on 8 November, 1963
+goods. Though the structure of the taxes was thus altered, Section 26(3) remained the same with
+only this inconsequential difference that the words "or a licence, as the case may" which occurred in
+that section were dropped. This was broadly the scheme of taxation embodied in the act as amended
+from 1sdt April 1954.
+(14) Relying on the provisions of the amended Act, the learned Advocate General contended that
+having regard to those provision it was clear that Section 26(3) was a necessary provision for the
+purpose of making effective the main legislation which imposed tax on sale or purchase of goods.
+The argument was built up by taking the following steps. He contended that under the amended Act
+apart fromthe general sales tax, the primary tax levied on a dealer was the purchase tax. If a dealer
+purchased goods from an unregistered dealer, he was liable to pay purchase tax under Section 10
+and in that event he would not be liable to pay sales tax under Section 8 when sold the goods. But by
+section 10A he was given an option. He could by making an election postpone payment of tax and
+pay it in the shape of sales tax when he sold the goods. This was the benefit conferred on a dealer by
+the Act. but if the dealer happened to be a firm, the dealer could abuse this benefit by dissolving the
+firm and distributing the goods of the firm in specie amongst the partners. In such a case the dealer
+would escape both the sales tax and the purchase tax. It was in order to prevent this escapement of
+tax that the Legislative enacted Section 26(3). Section 26(3) was intended to ensure the proper and
+effective work of the Act by preventing escapement of tax which might result in the case of registered
+firm which has opted in favour of paying sales tax if such firm distributes its goods in specie
+amongst the partners. Of course, if the partner to whom the goods are allotted is registered, there
+would be no difficulty, for when such partner sells the goods, sales tax would be recovered by the
+State. Equally there would be no difficulty if such partner obtains registration within a prescribed
+period for then the sale of the goods when made by him would be taxabale. But if such partners is
+not registered and does not obtain registration within the prescribed period and sells the goods,
+sales tax would not be chargeable and in such a case the State would lose the tax which would in any
+event have been payable as purchase tax but for the election. The election provided in Section 10A
+would, therefore enable the firm to escape tax by distributing the goods amongst the partners in
+specie on distribution and this loophole was necessary to be plugged and was so plugged by the
+Legislature by section 26(3). Section 26(3) was, therefore, necessary for making the main legislation
+effective and was clearly within the ancillary or incidental power of the State Legislature.
+(15) The argument though attractive is, in our opinion, defective in at least two respects. In the first
+instance it is based on the provisions of fhe amended Act. The provisions which must be considered
+for the purpose of deciding whether Ss.26 (3) can be justified as an exercise of ancillary or
+subsidiary power are not the provisions of the amended Act but the provisions of the Act as
+unamended in Section 26(3) formed part of the Act as originally enacted and it is at that date that
+we must see whether the enactment of Sec.26 (3) was within the legislative competence of the state
+legislature. If it was, the validity of the section must be declared to be invalid, for if the Section was
+beyond the legislative competence of the State Legislature at the date when it was enacted, no
+subsequent amendment of the Act can resuscitate it.
+(16) But even if the subsequent amendments made in the Act can be taken into account, the
+argument urged on behalf of the State must yet fail. If we look at Section 10A the legislative intent
+Indian Kanoon - http://indiankanoon.org/doc/1250550/ 10State Of Gujarat vs Ramanlal Sankalchand And Co. on 8 November, 1963
+and policy does not appear to be one that of the two taxes to be paid in any event. Section10A gives
+an option to the dealer between the two taxes. If he opts in favour of paying purchase tax there is no
+more questions about it for in that event he would always pay the purchase tax irrespective of the
+fact as to what he does with the goods. If on the other hand he opts in favour of paying sales tax he
+would not be liable to pay the purchase tax but would liable to pay only the sales tax, if any,. On the
+sale of the goods when they are sold. The use of the words "if any" shows that the legislature
+contemplated that no sales tax become payable by the dealer and the dealer as a result of the
+election escape tax altogether. Suppose the goods such that on the purchase, tax is payable but not
+on the sale. If such the case the dealer would not liable to pay purchase tax by reason of the election
+and he would equally not be liable to pay sales tax because no sales tax would be chargeable. The
+same consequence would also ensue when the sale effected by the dealer is a sale in the course of
+inter-state trade or commerce or a sale outside the State of Bombay. These are cases where the
+goods are sold but let us take a case where the goods may be destroyed or consumed by the dealer.
+In such a case also the dealer would not pay purchase tax because of the election and would also not
+pay sales tax because there is no sale. A dealer may gift the goods purchased by him and there also
+the dealer would not liable either for payment of purchase tax or the payment of sales tax. The
+language of Section 10A which gives the election clearly shows that the legislature did not intend
+that in any event one of the two taxes should be paid. It clearly contemplated a possibility that where
+option was exercised in favour of paying sales tax, neither tax may be payable. There was thus,
+having regard to the legislative policy and intent, no loophole in the Act which required to be
+plugged and Section 26(3) could not be said to have been enacted in exercise of an ancillary or
+subsidiary power of legislation with a view to effectuating the main legislation. The object of Section
+26(3) was to tax transaction which was not a sale by fictionally treating it as a sale and the attempt
+was clearly beyond the legislative competence of the State Legislature.
+(17) But as We pointed out above the provisions which we have to consider for the purpose of
+determining the validity of Section 26(3) are the provisions of the Act as amended and it is in the
+light of those provisions that we have to see whether on the date when Section 26(3) was enacted it
+was a measure which could be justified by resort to the doctrine of ancillary or subsidiary powers.
+On this part of the case the learned Advocate General contended that even under the unamended
+Act, if a firm which was registered under the Act was allowed to distribute the goods in specie
+amongst the partners on dissolution without attracting the charge of tax, the consequence would be
+that there would be escapement of tax. If the firm sold the goods in the course of its business, it
+would be liable to pay sales tax on the sale of the goods, but if the registered firm distributed the
+goods in specie amongst the partners and any partner was not registered under the Act and did not
+obtain registration within a particular period and sold the goods, tax at that point would be avoided
+and the state would lose the tax. Section26 (3) was, therefore, intended to plug this loophole which
+enabled tax at least one point to be avoided and the enactment of the section consequently an
+exercise of ancillary or subsidiary power intended to ensure the proper and effective working of the
+legislation. This argument is too unsosund and cannot be accepted. The ancillary or subsidiary
+power of legislation can be exercised by the State Legislature only in aid of the main topic of
+legislation, namely, tax on sale or purchase of goods. All necessary for the levy and collection of tax
+what are really and truly sales or purchases of goods and for ensuring that such tax is not evaded are
+comprised within the ambit of the legislative entry as ancillary or incidental powers and if any
+Indian Kanoon - http://indiankanoon.org/doc/1250550/ 11State Of Gujarat vs Ramanlal Sankalchand And Co. on 8 November, 1963
+provision is necessary for the purpose of taxing what are really and truly sales or purchases of goods
+and making evasion of tax on such sales or purchases impossible, the state Legislature cam certainly
+enact such provision. But the State Legislature cannot under the guise of exercise of ancillary or
+incidental power of legislation tax transactions which are not sales by fictionally treating them as
+sales. The ambit of incidental or ancillary power cannot go to the extent of permitting the State
+Legislature to provide that though any particular transactions are not sales or purchases of goods,
+they shall be taxed as if they were sales or purchase of goods. It is difficult to see how taxing of
+transactions which are not sales or purchases of goods can be said to be ancillary or incidental to
+levy or collection of tax on transactions which are really sales or purchases of goods. What in effect
+the legislature did by Section 26(3) was to tell the dealer that if you had sold the goods, I could have
+taxed them. But you did not sell them and therefore even though you nhaave not sold them, I shall
+treat them as sold so that I can tax them. That is something which is not permissible to the State
+Legislature. Tax becomes exigible only on sale or purchase of goods and if there is no sale or
+purchase, tax is not chargeabale and in such a case it is not right to say that there is any escapement
+of tax. If the event which attracts taxability does not happen, it is difficult to see how it can be said
+that there is any avoidance of tax for the purpose of remedying which the State Legislature can
+intervene. If the State Legislature can say that by allotment of goods amongst partners the firm is
+avoiding tax and the state Legislature is, therefore, entitled to tax such allotment, the state
+Legislature should equally be entitled to say that if a dealer instead of selling the goods purchased by
+him gifts them or consumes them and thereby tax which would have been payable if the goods had
+been sold is avoided, it can tax such gift or consumption as if it were a sale. Clearly such a thing
+cannot be done and as a matter of fact the attempt of Madhya Pradesh Legislature to tax
+consumption of goods by a dealer was declared to be ultra vires by the Supreme Court in Bhopal
+Sugar Industries Case, (1963) 14 STC 406: (AIR 1964 SC 1037) On the same principle we do not see
+how the attempt of the State Legislature in the present case can be sustained. The Act as it stood
+quite effective in so far as it taxed sales of goods and if a dealer did not sell goods, he was obviously
+not liable to pay tax and it could not be urged that since by not selling, a dealer would be avoiding
+payment of tax, the State Legislature can treat him ass having sold the goods and tax him on that
+footing. We are, therefore, of the opinion that in enacting Section 26(3) what the legislature did was
+to enact an ancillary or subsidiary provision intended to ensure the proper and effective functioning
+of the main legislation but to directly and expressly bring to tax a transaction which was not a sale
+within the meaning of the Indian Sale of Goods Act by fictionally treating it as such sale. This was
+constitutionally impermissible to the State Legislature.
+(18) Before we part with this point we must refer to three decisions cited by the learned Advocate
+General in his support of his contention that Section 26(3) was an ancillary or subsidiary provision
+necessarily incidental to effective legislation on the subject of tax and purchase of goods. One was
+the decision of the Indian Aluminum Co.Ltd. v. State of Madras,(1962) 13 STC 967: (AIR 1963 Mad
+116 ) and the other two were decisions of the Supreme Court in Orient Paper Mills v. State of Orissa,
+AIR 1961 SCA 1438 AAND Burmah Construction Co. v. State of Orissa, (1961) 12 STC 816 : (AIR
+1962 SC 1320). It is not necessary to refer to these decisions in detail for they affirmed the same
+principle which we have discussed above, namely, that the power to legislate on a particular topic of
+legislation necessarily carries with it the power to legislate on all matters which are ancillary or
+subsidiary to the main subject and merely applied that principle to the different situations arising in
+Indian Kanoon - http://indiankanoon.org/doc/1250550/ 12State Of Gujarat vs Ramanlal Sankalchand And Co. on 8 November, 1963
+those cases. The principle of course is clear and cannot, as we have pointed out above, be disputed
+but the question is what result does the application of the principle give in the present case. There
+our answer is that Sec.26 (3) does not for reasons which we have given, represent an exercise of
+ancillary or incidental power under the relevant legislative entry and must, therefore, struck down.
+(19) In this view of the matter we must declare Section 26 (3) as ultra vires the State Legislature in
+so far as it purported to tax allotment of goods of a firm amongst partners on dissolution. Our
+answer to question No.1 will, therefore, be in the negative and question No.2 will not arise. The
+applicant will pay to the opponents the cost of the Reference fixed at Rs. 450/-
+(20) Answer accordingly.
+Indian Kanoon - http://indiankanoon.org/doc/1250550/ 13

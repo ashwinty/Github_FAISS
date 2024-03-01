@@ -1,0 +1,856 @@
+Metadata: id=>348
+name=>Builders Association Of India vs State Of Karnataka And Others on 27 July 1990
+date=>27 July 1990
+court=>High Court
+link=>http://indiankanoon.org/doc/1206975/
+-----
+Content: Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+Builders Association Of India vs State Of Karnataka And Others
+on 27 July, 1990
+Equivalent citations: [1990]79STC442(KAR)
+Author: S. Mohan
+Bench: S. Mohan
+JUDGMENT
+1. All these writ petitions can be dealt with under a common judgment since they question the
+validity of section 5B of the Karnataka Sales Tax Act, 1957, introduced by the Amendment Act No. 27
+of 1985, with effect from 1st April, 1986.
+2. We propose to note the facts in Writ Petitions Nos. 2064 to 2067 of 1988 :
+The petitioners are civil engineering contractors engaged in civil construction work in
+the State of Karnataka. In order to bring the activity of works contract within the
+purview of power to levy sales tax by the respective State, amendments were
+introduced extending the definition of "sale" under article 366(29-A) of the
+Constitution of India. Following the constitutional amendment, the Karnataka Sales
+Tax Act was amended by the Amendment Act No. 27 of 1985. In pursuance of the
+amendment, the Karnataka Sales Tax Rules were also amended by the Karnataka
+Sales Tax (Amendment) Rules, 1986.
+As a result of the aforesaid amendments, the activity of the petitioner in the nature of
+works contract in the State, has been brought within the scope of the Karnataka Sales
+Tax Act.
+The petitioners challenge the constitutionality of the Forty-Sixth amendment, as well
+as the amendments made to the Karnataka Sales Tax Act. The challenge is in three
+stages :
+(i) the constitutional amendment of procedural and substantive aspect;
+(ii) the power of the respective State Legislature to levy and determine tax on works
+contract without a law made under article 286(3)(b) of the Constitution; and
+(iii) the Karnataka Amending Act 27 of 1985 on various grounds of illegality.
+By the Forty-sixth Amendment, the definition of "sale" under article 366(29-A) is not an enabling
+amendment. The power to levy sales tax can only be traced to entry 54 of List II in the State List of
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 1Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+the Seventh Schedule. That entry has not been amended by the Forth-sixth amendment. Therefore,
+merely because clause (29-A) of article 366 of the Constitution was amended, that will not enable
+the State Government to levy sales tax on works contract. This is because the said article cannot be
+taken as a source of power, for the simple reason that the connected definitions of "goods" under the
+Sales of Goods Act, 1930, and "sale" under the Central Sales Tax Act, 1956 have not been amended.
+Even assuming it is deemed to amend entry 54 of List II, there is no ratification by not less than one
+half of the State Legislatures as required under article 368 of the Constitution.
+The Forty-sixth amendment is also violative of the concept of basic structure doctrine. Though
+article 286 has been amended, till date the Parliament does not come out with any law fixing the
+rate of sales tax on works contract. Therefore, the State law will be unconstitutional.
+Coming to the definition of "sale" under section 2(1)(t)(ii), it is not only vague and arbitrary but the
+explanation (3)(c) to section 2(1)(t) is a clear violation of the Sale of Goods Act. Hence it is
+repugnant to the State law. Therefore it violates article 254 of the Constitution.
+The definition of "works contract" under sub-clause (v-i) of section 2(1) is wider and ultra vires of
+the definition of "sale" under the Amendment Act No. 27 of 1985.
+Section 5B, the charging section on works contract, is ultra vires of section 5(4) of the Act because of
+the non obstante clause. As a result, the said section contradicts section 5(4) of the Act. In levying
+the tax, it is arbitrary and without any nexus.
+The Rules are ambiguous and contradictory to various clauses provided in it. The nature of the civil
+contract is such that it is highly impossible to determine and calculate as any other transfer of
+property in goods the actual quantum of the works carried over every month and to maintain stock
+books. Clauses (m) and (n) of rule 6, while granting exemption have imposed unreasonable
+restrictions which are violative of article 19(1)(g) of the Constitution.
+The Rules have unnecessarily classified a section scheme of tax structure, one for ascertainable
+labour charges under the Sixth Schedule and another for unascertainable labour charges under rule
+6(n). It is arbitrary because the Sixth Schedule provides 18 categories of works contracts while rule 6
+provides only 6 categories. Therefore, there is not only discrimination but there is no nexus, hence
+violative of article 14 of the Constitution.
+On the above averments, a writ of declaration is prayed for to declare the provisions of sections
+2(1)(k)(viii), 2(1)(t)(ii) and explanation (3)(c), 2(1)(v-i), 5B, 6B and Sixth Schedule of the Karnataka
+Sales Tax Act as amended by the amending Act No. 27 of 1985, and the Rules made relating to the
+levy of sales tax on works contract, as illegal, unconstitutional and violative of articles 14, 19(1)(g),
+38, 39, 246, 254, 265 and 301 to 304 of the Constitution of India, in so far as the petitioners are
+concerned.
+3. Mr. K. K. Venugopal, Senior Advocate, learned counsel for the petitioners, submits in support of
+the above grounds raised in the writ petitions after drawing our attention to the relevant provisions,
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 2Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+that the amending Act No. 27 of 1985 was passed at a time when the supreme Court had not
+delivered the judgment in Builders Association of India v. Union of India . The Supreme Court
+evolved the concept of transfer of goods in a works contract similar to transfer of goods by sale to a
+customer the result being the constitutional restrictions and provisions of the Central Sales tax Act
+were made applicable. The Supreme Court ruled that the transfer of gods in a works contract will be
+a fictional sale. It had further ruled that those sales are subject to the same constitutional
+limitations. Therefore, one cannot get away from them. Unfortunately, explanation (3)(c) to section
+2(1)(t) lays down a different principle than what is contemplated under article 286(2) of the
+Constitution. The said explanation (3)(c) speaks of situs while dealing with the transfer of goods.
+The situs has been fixed as the place of delivery of goods. This is without regard to article 286(2) of
+the Constitution and section 4 and 5 of the Central Sales ax Act. Therefore it is bad.
+The provisions of the Central Sales Tax Act, particularly sections 3, 4 and 5, deal with computation
+of the various transactions. If that be so, neither the situs nor the transfer of property would be
+relevant. If therefore, they are irrelevant for actual sales it should be so for fictional sale or a deemed
+sale as well.
+The situs was fixed under section 4 of the Central Sales Tax Act without reference to transfer of
+property. Since the existing laws would cover all sales, any attempt by the State Legislature to have a
+different concept in the State would be contrary to section 4 of the Central Sales Tax Act. Hence it is
+unconstitutional. Even if explanation (3)(c) to section 2(1)(t) of the Karnataka Sales Tax Act is
+struck down, clauses (a) and (b) of the said explanation will take care of fictional sales as well, leave
+alone they being covered by the actual sale.
+Coming to section 5B of the Karnataka Sales Tax Act, to deprive the contractor of single point is
+clearly discriminatory. The said section is void in so far as it refers to the Sixth Schedule because the
+said Schedule itself refers to the nature of works done by a contractor and not the goods.
+Secondly, the same item of goods used in the works contract is taxed differently. The end user is
+irrelevant. As a mater of fact, this is the dictum of the judgment (Builders Association case) (at page
+400 of STC; para 36 at page 1390 of AIR).
+In view of the above submissions, the question that may arise will be, if the Schedule is bad, the
+taxing provision cannot be worked out. Where therefore it is possible to sever section 5B removing
+the non obstante clause even then the rest of the section can remain by the application of doctrine of
+severability as was held in R. M. D. Chamarbaugwalla v. Union of India .
+Under article 286 of the Constitution, Parliament alone has been conferred with the power to levy
+the tax. If the fictional sales are brought in so as to enable the State Legislature to tax, it would be
+clearly violative of the said article. Therefore, it is the Parliament which has to determine what is
+sale or purchase under clause (29-A) of article 366.
+Though article 286(2) says that Parliament may by law formulate the principle for determining as to
+when a sale or purchase takes place "may" in this context must mean "shall". In support of this
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 3Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+submission, the learned counsel cites Principles of Statutory Interpretation by Justice G. P. Singh,
+IV Edition, page 244.
+Further, explanation (3)(c) to section 2 is violative of article 286. Therefore this explanation has to
+be struck down as otherwise the State may claim immunity and proceed to levy tax even though
+such striking down does not advance the case of the petitioners.
+4. Mr. K. Srinivasan, supporting the arguments of Mr. Venugopal, submits that article 286(1)(a) of
+the Constitution talks of sale outside the State. This is what is contemplated under section 4 of the
+Central Sales Tax Act. Therefore, explanation (3)(c) to section 2(1)(t) of the Karnataka Sales Tax Act
+is directly opposed to section 4 of the Central Sales Tax Act.
+The Forty-sixth Amendment of the Constitution says that even in case of works contract it has to be
+treated as a sale, the rate of taxation on transfer of goods involved, it is different in a labour contract
+or contract of service in comparison to ordinary sale, it would be discriminatory in nature and,
+therefore, must be held to be bad.
+While construing section 5B of the Karnataka Sales Tax Act, it must be subject to section 5, 3 and 4.
+The non obstante clause at the opening of the section will have to be struck down. The learned
+counsel draws our attention to rule 6; a similar provision in Bihar Sales Tax Rules was struck down
+as seen from Jamshedpur Contractor's Association v. State of Bihar [1989] 75 STC 132 (Pat).
+Mr. Vijayan, learned counsel, supplementing his arguments, would say that in the absence of a situs
+of sale being demarcated in article 286(2) or article 269(3) of the Constitution, the State law is
+premature. Therefore, section 5B of the Karnataka Sales Tax Act is violative of these provisions.
+The next submission of the learned counsel is that explanation (3)(c) to section 2(1)(t)(ii) of the
+Karnataka Sales Tax Act prescribes a peculiar test which is violative of article 286 of the
+Constitution. This is precisely what is criticised in (Builders Association case) (a page 396 and 397 of
+STC; para 32 at page 1388 of AIR). The learned counsel further cites Goodyear India Ltd. v. State of
+Haryana and particularly the passages occurring at pages 85 and 86, and submits that there is no
+legislative authority for enacting section 5B of the Karnataka Sales Tax Act. Section 5B will have to
+go since it proposes to tax the conglomerate.
+5. The learned counsel appearing in Writ Petition No. 4070 of 1987 cites (Builders Association of
+India v. Union of India) and draws our attention to the facts in that writ petition. He also adopts the
+arguments advanced by the other learned counsel.
+6. Mr. M. R. Achar, learned Government Advocate, appearing for the State of Karnataka, meets
+these points in the following manner :
+Nowhere does the Supreme Court in (Builders Association of India v. Union of India)
+say that the State has no power to fix the situs. That ruling merely held that the State
+while proposing the tax on fictional sales must conform to the constitutional
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 4Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+provisions and also the limitations contained in the Constitution as well as the
+Central Sales Tax Act. The same question as is advanced by the petitioners, came up
+for consideration in Ranjit Kumar v. Commercial Tax Officer . It was rejected as is
+seen from the passage occurring in pages 504 and 505. It is incorrect to contend that
+the State has no power in the absence of a law made by the Parliament under article
+286(2) of the Constitution. It should be carefully noted that the said article used the
+word "may" likewise article 286(3). Only when a law is made by the Parliament
+should the State law be repugnant to such Parliamentary enactment, it would be, to
+the extent of repugnancy, bad, but no otherwise. There is no possibility of construing
+this word "may" as "shall". In other words clauses (2) and (3) of article 286 of the
+Constitution are enabling provisions conferring power on the Parliament.
+The argument of the petitioners that explanation (3)(c) to section 2(1)(t)(ii) of the
+Karnataka Sales Tax Act lays down a different principle and speaks of situs with
+reference to delivery of goods disregardful of article 286 of the Constitution and
+section 4 and 5 of the Central Sales Tax Act, is fallacious. The explanation uses the
+same words as occurring in sub-clause (b) of clause (29-A) of article 366 of the
+Constitution. This is precisely what was held by the Supreme Court in Builders
+Association of India v. Union of India of STC; paras 32 and 33 at pages 1388 and
+1389 of AIR), which he would press into service for the purpose of this case.
+In more or less identical circumstances in 20th Century Finance Corporation Limited
+v. State of Maharashtra [1989] 75 STC 217 (Bom) at pages 226 and 227, a similar
+argument came to be repelled. The ratio of the judgment squarely applies to the facts
+of this case. Therefore, the question of inter-State sale does not arise here. Only when
+the declared goods go into the contract of service as declared goods the limitations
+will apply, but not if they change their character.
+The contention that different rates of taxation have been prescribed for transfer of
+goods in a works contract or contract of service than the actual sale, is factually
+wrong. On a comparison of the Second Schedule and the Sixth Schedule it would be
+seen that the rates are same excepting item 6 of the Second Schedule, Part P
+prescribing 8 per cent and item 20 of the Sixth Schedule prescribing 15 per cent. On
+that score it cannot be urged that there is any discrimination because it is one of the
+fundamental postulates of law of taxation that the Legislature has a wide discretion in
+choosing the objects of taxation. There can be difference in rates. This is very clear if
+Twyford Tea Co. Ltd. v. State of Kerala is referred to.
+The entire argument about the vires of section 5B of the Karnataka Sales Tax Act or
+that it is opposed to other sections proceeds on a misapprehension. This section
+contemplates a separate kind of transaction. Therefore, it has so proceeded with
+reference to such of those transactions which are taken within it, viz., what were not
+sales earlier. In order to fix the taxable turnover of transfer of property in goods in
+the execution of works contract, it is this section alone which has to be looked at. The
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 5Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+rules only enable the fixation of such a turnover. Rule 6 deals with determination of
+total and taxable turnover. While arriving at the taxable turnover, clause (m) of rule 6
+speaks of certain categories of works contract mentioned in the Sixth Schedule while
+clause (n) takes care of other cases of works contract specified in items 18 and 20 of
+the Sixth Schedule. This is merely a method and the working out as to what should be
+deducted would depend upon the facts of a particular case. Clause (m) speaks of
+actual incurring of labour charges. The excess of labour charges is an integral part of
+the sale price. As to how the reasonableness of classification must be approached can
+be gathered from Kerala Hotel & Restaurant Association v. State of Kerala .
+Therefore, there is nothing axiomatic about these matters. That case helps the State
+greatly.
+7. Mr. Srinivasan, in his reply, would submit that the ruling of 20th Century Finance Corporation
+Limited v. State of Maharashtra [1989] 75 STC. 217 (Bom) will have a bearing only on section 5(1)
+and hence cannot be applied to a case arising under section 5B of the Karnataka Sales Tax Act.
+With regard to the applicability of section 4 to transfer of goods in a contract of service one must
+have regard to the principles laid down in Kerala Hotel's case .
+The reply of the other counsel is that the judgment of the Supreme Court in Builders Association
+case would apply only prospectively as laid down in Rajah D. V. Seetharamayya Bahadur v. Assistant
+Commissioner (1985) 98 Mad LW 896 and an unreported judgment in Writ Appeal No. 826 of 1988.
+8. Having regard to the above arguments, the following points arise for our determination :
+(i) Scope of the constitutional provisions;
+(ii) Scope of the Central Sales Tax Act, particularly section 3, 4 and 5;
+(iii) Section 5B of the Karnataka Sales tax Act whether violative of the Constitution or
+is repugnant to the provisions of the Central Sales Tax Act;
+(iv) Validity of the Karnataka Sales Tax Act;
+(v) Prescription of different rates of taxation, whether valid ?
+9. Article 269(3) of the Constitution says that Parliament may by law formulate principles for
+determining when a sale or purchase of, or consignment of, goods takes place in the course of
+inter-State trade or commerce. In exercise of this power the Parliament has enacted section 3 of the
+Central Sales Tax Act, 1956. That lays down the principles for determining when a sale or purchase
+of goods takes place in the course of inter-State trade or commerce.
+The powder to impose tax on such sales has been given exclusively to the Parliament in view of
+article 269(1)(g) of the Constitution read with entry 92-A of List I. This clause also confers upon the
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 6Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+Parliament the power to lay down the principles for determining when a sale or purchase of goods
+takes place in the course of inter-State trade or commerce so as to be liable to the Central sales tax.
+10. The next important article to be looked at is article 286 of the Constitution. We would rather do
+well to extract the entire article because it has undergone important changes by the Forty-sixth
+amendment :
+"286. Restrictions as to imposition of ax on the sale or purchase of goods.- (1) No law
+of a State shall impose, or authorise the imposition of, a tax on the sale or purchase of
+goods where such sale or purchase takes place -
+(a) outside the State; or
+(b) in the course of the import of the goods into, or export of the goods out of, the
+territory of India.
+(2) Parliament may by law formulate principles for determining when a sale or
+purchase of goods takes place in any of the ways mentioned in clause (1).
+(3) Any law of a State shall, in so far as it imposes, or authorises the imposition of, -
+(a) a tax on the sale or purchase of goods declared by Parliament by law to be of
+special importance in inter-State trade or commerce; or
+(b) a tax on the sale or purchase of goods, being a tax of the nature referred to in
+sub-clause (b), sub-clause (c) or sub-clause (d) of clause (29-A) of article 366, be
+subject to such restrictions and conditions in regard to the system of levy, rates and
+other incidents of the tax as Parliament may by law specify."
+Clause (3) has been substituted by the Forty-sixth amendment of 1982. The object of the
+amendment is to create a legal fiction to determine the situs of the sale. Since the law remained
+somewhat confusing that came to be settled by the Parliament enacting the Central Sales Tax Act in
+1956. Section 4 of that Act provides a simple test of physical location of the goods by determining
+the situs of a sale as between more than one State. It should be noticed that clause (2) did not take
+away the legislative competence of the State to impose a tax on sales taking place in the course of
+inter-state trade or commerce. But it merely subjected it to a legislation by Parliament. After
+introduction of entry 92-A of List I by the Sixth amendment the legislative power to tax sales taking
+place in the course of inter-State trade or commerce has been vested exclusively in the Parliament.
+In so far as article 286 lays down such limitations upon the power of the State to enact legislation for
+purposes of taxing sales it is required on our part to find out as to what those limitations are. In our
+view, the limitations can be stated as follows :
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 7Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+(i) In view of clause (1)(a) no tax shall be imposed on a sale or purchase which takes
+place outside the State.
+(ii) In view of clause (1)(b) equally no tax shall be imposed on a sale or purchase
+which takes place in the course of import into, or export out of, India.
+Even with regard to inter-State trade or commerce there are two other limitations :
+(i) The power to tax sales taking place in the course of inter-State trade or-commerce
+is within the exclusive competence of parliament and this is because of article
+269(1)(g) read with entry 92-A of List I.
+(ii) Even though the sale does not take place in the course of inter-State trade or
+commerce, if the sale were to relate to goods declared by Parliament to be of special
+importance in inter-State trade or commerce or if it were to come under article
+366(29-A)(a), (b), (c) and (d), such a State taxation would be subject to the
+restrictions and conditions imposed by Parliament.
+Therefore, it will follow that so long as these limitations are not transgressed, should it be a case of
+intra-State sale that could be the subject-matter of State sales tax.
+Clause (29-A) of article 366 of the Constitution speaks of tax on the sale or purchase of goods. It
+reads :
+"(29-A) 'tax on the sale or purchase of goods' includes -
+(a) a tax on the transfer, otherwise than in pursuance of a contract, of property in any
+goods for cash, deferred payment or other valuable consideration;
+(b) a tax on the transfer of property in goods (whether as goods or in some other
+form) involved in the execution of a works contract;
+(c) a tax on the delivery of goods on hire purchase or any system of payment by
+instalments;
+(d) a tax on the transfer of the right to use any goods for any purpose (whether or not
+for a specified period) for cash, deferred payment or other valuable consideration;
+(e) a tax on the supply of goods by any unincorporated association or body of persons
+to a member thereof for cash, deferred payment or other valuable consideration;
+(f) a tax on the supply, by way of or as part of any service or in any other manner
+whatsoever, of goods, being food or any other article for human consumption or any
+drink (whether or not intoxicating), where such supply or service, is for cash,
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 8Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+deferred payment or other valuable consideration, and such transfer, delivery or
+supply of any goods shall be deemed to be a sale of those goods by the person making
+the transfer, delivery or supply and a purchase of those goods by the person to whom
+such transfer, delivery or supply is made."
+By this clause, the concept of sale had come to be enlarged. It is no longer confined to the sale as
+understood under the Sales of Goods Act.
+11. The validity of the Forty-sixth amendment of the Constitution came directly before the Supreme
+Court in Builders Association of India v. Union of India because, on the passing of the Forty-sixth
+amendment the State Governments commenced to levy sales tax on the turnover of works contract
+entered into by the building contractors for constructing houses, factories, bridges, etc. Two points
+were urged before the Supreme Court, viz.;
+(i) the Forty-sixth amendment was unconstitutional because it had not been ratified by the
+Legislatures of not less than one-half of the States; and
+(ii) it was not open to the States to ignore the provisions contained in article 286 of the Constitution
+and the provisions of the Central Sales Tax Act, 1956 while making assessments under the sales tax
+laws passed by the various States.
+On the first point it was held at page 392 of STC (paragraph 29 of AIR) that there has been due
+compliance of the provisions contained in the proviso to article 368(2) of the Constitution in that
+resolutions had been passed by the Legislatures of 12 states concerning which evidence was
+produced before the court. As regards the second point, it was held that the object of the Forty-sixth
+Amendment is to convert what is not a sale into a sale. Originally, a transfer of property in goods
+involved in the execution of works contract was held to be not a sale as in seen from State of Madras
+v. Gannon Dunkerley & Co. (Madras) Ltd. . Such a sale is deemed by fiction of law to be a sale and is
+made taxable. In no other respect does the Forty-sixth amendment enlarge the power of the State to
+levy sales tax. In deciding the correctness of the submissions, at page 396 of STC (paragrah 32 of
+AIR) the Supreme Court has stated as under :
+"Before proceeding further it is necessary to understand what sub-clause (b) of clause
+(29-A) of article 366 of the Constitution means. Article 366 is the definition clause of
+the Constitution. It says that in the Constitution unless the context otherwise
+requires, the expressions defined in that article have the meanings respectively
+assigned to them in that article. The expression 'goods' is defined in clause (12) of
+article 366 of the Constitution as including all materials commodities and articles. It
+is true that in State of Madras v. Gannon Dunkerley & Co. (Madras) Ltd. , this Court
+held that a works contract was an indivisible contract and the turnover of the goods
+used in the execution of the works contract could not, therefore of the goods used in
+the execution of the works contract could not therefore, become exigible to sales tax.
+It was in order to overcome the effect of the said decision Parliament amended article
+366 by introducing sub-clause (b) of clause (29-A). Sub-clause (b) of clause (29-A)
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 9Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+states that 'tax on the sale or purchase of goods' includes amoung other things a tax
+on the transfer of property in the goods (whether as goods or in some other form)
+involved in the execution of a works contract. It does not say that a tax on the sale or
+purchase of goods included a tax on the amount paid for the execution of a works
+contract. It refers to a tax on the transfer of property in goods (whether as goods or in
+some other form) involved in the execution of a work contract. The emphasis is on
+the transfer of property in goods (whether as goods or in some other form). The latter
+part of clause (29-A) of article 366 of the Constitution makes the position very clear.
+While referring to the transfer, delivery or supply of any goods that takes place as per
+sub-clauses (a) to (f) of clause (29-A), the latter part of clause (29-A) says that 'such
+transfer, delivery or supply of any goods' shall be deemed to be a sale of those goods
+by the person making the transfer, delivery or supply and a purchase of those goods
+by the person to whom such transfer, delivery or supply and a purchase of those
+goods by the person to whom such transfer, deliver or supply is made. Hence, a
+transfer of property in goods under sub-clause (b) of clause (29-A) is deemed to be a
+sale of goods involved in the execution of works contract by the person making the
+transfer and a purchase of those goods by the person to whom such transfer is made.
+The object of the new definition introduced in clause (29-A) of article 366 of the
+Constitution is, therefore, to enlarge the scope of 'tax on sale or purchase of goods'
+wherever it occurs in the Constitution so that it may include within its scope the
+transfer delivery or supply of goods that may take place under any of the transactions
+referred to in sub-clauses (a) to (f) thereof wherever such transfer, delivery or supply
+becomes subject to levy of sales tax. So construed the expression 'tax on the sale or
+purchase of goods' in entry 54 of the State List therefore, includes a tax on the
+transfer of property in goods (whether as goods or in some other form) involved in
+the execution of a works contract also. The tax leviable by virtue of sub-clause (b) of
+clause (29-A) of article 366 of the Constitution thus becomes subject to the same
+discipline to which any levy under entry 54 of the State List is made subject to under
+the Constitution. The position is the same when we look a article 286 of the
+Constitution. Clause (1) of article 286 says that no law of a State shall impose or
+authorise the imposition of, of tax on the sale or purchase of goods where such sale or
+purchase takes place - (a) outside the State; or (b) in the course of the import of the
+goods into, or export of the goods out of, the territory of India. Here again we have to
+read the expression 'a tax on the sale or purchase of goods' found in article 286 as
+including the transfer of goods referred to in sub-clause (b) of clause (29-A) or article
+366 which is deemed to be a sale of goods and the tax leviable thereon would be
+subject to the terms of clause (1)of article 286. Similarly, the restrictions mentioned
+in clause (2) of article 286 of the Constitution which says that Particular may be law
+formulate principles for determining when a sale or purchase of goods takes place in
+any of the ways mentioned in clause (1) of article 286 would also be attracted to a
+transfer of goods contemplated under article 366(29-A)(b). Similarly, clause (3) of
+article 286 is also applicable to a tax on a transfer of property referred to in
+sub-clause (b) of clause (29-A) of article 366. Clause (3) of article 286 consists of two
+pars. Sub-clause (a) of clause (a) of clause (3) of article 286 deals with a tax on the
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 10Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+sale or purchase of goods declared by Parliament by law to be a special importance in
+inter-State trade or commerce, which is generally applicable to all sales including the
+transfer, supply or delivery of goods which are deemed to be sales under clause
+(29-A) of article 366 of the Constitution. If any declared goods which are referred to
+in section 14 of the Central Sales Tax Act 1956 are involved in such transfer, supply or
+delivery which is referred to in clause (29-A) of article 366, the sales tax law of a State
+which provides for levy of sales tax thereon will have to comply with the restrictions
+mentioned in section 15 of the Central Sales Tax Act, 1956. Clause (b) is an additional
+provision which empowers Parliament to impose any additional restrictions or
+conditions in regard to the levy of sales tax on transactions which will be deemed to
+be sales under sub-clause (b) or sub-clause (c) or sub-clause (d) of clause (29-A) of
+article 366 of the Constitution. We do not find much substance in the contention
+urged on behalf of the States that since sub-clause (b) of clause (3) of article 286 of
+the Constitution refers only to the transactions referred to in sub-clause (b), (c) and
+(d) of cause (29-A) of article 366, the transaction referred to under those three
+sub-clause would not be subject to any other restrictions set out in clause (1) or clause
+(2) or sub-clause (a) of clause (3) or article 286 of the Constitution. It may be that by
+virtue of sub-clause (b) of clause (3) of article 286 it is open to Parliament to impose
+some other restrictions or conditions which are not generally applicable to all kinds
+of sales. That however cannot make the other parts of article 286 inapplicable to the
+transactions which are deemed to be sales under article 366(29-A) of article 366 of
+the Constitution. We are of the view that all transfers, deliveries and supplies of
+goods referred to in clauses (a) to (f) of clause (29-A) of article 366 of the
+Constitution are subject to the restrictions and conditions mentioned in clause (1),
+clause (2) and sub-clause (a) of clause (3) of article 286 of the Constitution and the
+transfers and deliveries that take place under sub-clauses (b), (c) and (d) of clause
+(29-A) of article 366 of the Constitution are subject to an additional restriction
+mentioned in sub-clause (b) of article 286(3) of the Constitution."
+At page 400 and 403 of STC; (paragraphs 36 and 40 of AIR), it is further observed thus :
+".......... After the 46th Amendment the works contract which was an indivisible one is
+by a legal fiction altered into a contract which is divisible into one for sale of goods
+and the other for supply of labour and services. After the 46h Amendment, it has
+become possible for the States to levy sales tax on the value of goods involved in a
+works contract in the same way in which the sales tax was leviable on the price of the
+goods and materials supplied in a building contract which has been entered into in
+two distinct and separate parts as stated above ....... When the law creates a legal
+fiction such fiction should be carried to is logical end. There should no be any
+hesitation in giving full effect to it. If the power to tax a sale in an ordinary sense is
+subject to certain conditions and restrictions imposed by the Constitution, the power
+to tax a transaction which is deemed to be a sale under article 366(29-A) of the
+Constitution should be subject to the same restrictions and conditions.
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 11Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+....... We do no accept the argument that sub-clause (b) of article 366(29-A) should be
+read as being equivalent to a separate entry in List II of the Seventh Schedule to the
+Constitution enabling the State to levy tax on sales and purchase independent of
+entry 54 thereof. As the Constitution exists today the power of the States to levy taxes
+on sales and purchases of goods including the 'deemed' sales and purchases of goods
+under clause (29-A) of article 366 is to be found only in entry 54 and no outside it
+.............."
+Thus the resultant position is the works contract as referred to in sub-clause (b) of clause (29-A) in
+article 366 of the Constitution is subject to tax and is subject to the same restrictions had it been a
+sale in the ordinary sense.
+Secondly, what were originally considered to be an inseverable contract could now be separated into
+two-one for sale of goods and the other for supply of labour and services.
+12. With this background, we pass on to the relevant provisions of section 4 and 5 of the Central
+Sales Tax Act. After stating in the opening words of section 4 that it is subject to the provisions
+contained in section 3, in sub-section (2) an intra-State sale is defined. It is an inside sale in terms of
+certain tests for its situs. A sale or purchase of goods is deemed to take place inside the State if the
+goods are within the State, in the case of specific or asertained goods at the time when the contract
+of sale is made, and in the case of unascertained or future goods at the time of their appropriation to
+the contract of sale by the seller or by the buyer whether assent of the other party is prior or
+subsequent to such appropriation. The explanation to sun-section (2) says, where there is a single
+contract of sale or purchase of goods situated at more places than one, the provisions of sub-section
+(2) shall apply as if there were separate contracts in respect of the goods at each of such places.
+Thus, in the case of ascertained goods, the place where the goods are situated at the time of the
+contract of sale fixes the situs. In the case of unascertained goods, when the appropriation is made
+files the situs. Once, therefore, the sale is so fixed inside the State with reference to the above it
+should be deemed to have taken place outside all other States.
+In order to determine whether a particular transactions is a sale in the course if inter-State trade or
+commerce, what is really decisive is whether the sale is one which has occasioned the movement of
+the goods from one State to another. It does not depend upon the circumstance as to in which State
+the property in the goods passes. It may pass in either State and yet the sale can be an inter-State
+sale.
+In cases of inter-State sales falling under clause (a) or clause (b) of section 3 of the Central Sales Tax
+Act it is not material, for the purpose of the tax levy, to consider the situs of the sale or the State in
+which the property in the goods happens to pass. Neither territorial nexus nor titular rights to the
+goods nor the theory of origin of the goods nor the theory of outside consumption can be taken to
+override "the course of inter-State trade or commerce" when the sale itself occasions the movement
+of the goods from one State to another. The rates and levy, etc., follow the provisions of the Act
+independently of the situs.
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 12Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+There is no antithesis between a sale in the course of inter-State trade or commerce and a sale inside
+the State. Even an inter-State sale must have a situs and the situs may be in one State or another. It
+does not involve any contradiction in saying that an inter-State sale or purchase is inside a State or
+outside it. A sale which is in the course of inter-State trade or commerce cannot be taxed by a State
+Legislature even if its situs is within the State because the State Legislature has no legislative
+competence to impose tax on sale in the course of inter-State trade or commerce.
+In answering the question whether section 4 fixes the situs of sale, the majority held in Tata Iron &
+Steel Co, Ltd. v. S. R. Sarkar that sub-section (2) defines what sales or purchase shall be deemed to
+take place inside a State. The terms of sub-section (2) are quite general, and Parliament has thereby
+attempted to locate the place where a sale takes place. The clause does not deal with the conditions
+which "effect"a sale : nor is there any warrant for the view that sub-section (2) of section 4 only
+seeks to locate the place of sales which are not in course of inter-State trade or commerce. In
+enacting section 4, sub-section (1), Parliament has sough to formulate principles for determining
+when a sale takes place outside a State. By sub-section (2), Parliament has attempted to define when
+a sale shall be deemed to take place inside a State and then, sub-section (1) provides that when a sale
+or purchase of goods was determined in accordance with sub-section (2) to take place inside a State,
+such sale or purchase shall be deemed to have taken place outside all other States.
+In other words, the terms of the section disclose that the purpose was to formulate the principles for
+determining when a sale takes place outside the State. This section was enacted by Parliament in
+exercise if authority under article 286(2) of the Constitution read with clause (1)(a) of article 286. It
+is needless to say that clause (1)(a) deals with sale outside the State. The object of section 4 was to
+locate the place where the sale took place. Sub-section (2) merely seeks to locate the place of sales
+which are in the course of inter-State trade or commerce.
+Now we come to the question, under section 4 what tests are adopted to determine the situs. No
+concept of inter-State trade can be comprehensive without knowing what is an outside sale and,
+therefore an inside sale. An inside sale or an outside sale is related to its situs and if the situs of an
+inside sale is fixed on certain, what is not an inside sale will be an outside sale provided there is a
+competed there is a completed contract of sale of goods. Section 4(2) defines an inside sale in terms
+tests for is situs. A sale or purchase of foods is deemed to take place inside a State if the goods are
+within the State in the case of specific or ascertained goods, at the time and contract of sale is made;
+and in the case of unasertained or future goods at the time the contract of sale by the seller or by the
+buyer whether assent of the other party is prior or subsequent to such appropriation. An explanation
+to sub-section (2) says that where there is a single contract of sale or purchase of goods situated at
+more places than one the provisions of the sub-section shall apply as if there were separate contracts
+in respect of the goods at each of such places. The place where the goods situated at the time when
+the contract of sale is made in the case of ascertained goods or when appropriation is made in the
+case of unascertained goods determines both the situs of such a sale as well as its character as an
+inside sale. Once a sale is fixed as having taken place inside a State with reference to such tests, it
+should be deemed to have taken place outside all other States. Even an inter-State sale or purchase
+or a sale in the course of export of goods our of the territory of India must have a situs. To fix the
+situs of a sale is a wholly different matter from taxing that transaction. The situs of a sale may fall to
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 13Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+be determined both from the point of view of its exigibility to tax as also its exemption from tax
+either under the Constitution or under the taxing statute itself. The bans prescribed by article 286
+operate only for the purpose of curtailing the taxing powers of the State and not for any other
+purpose. They would not alter the situs of a sale of purchase and its situs would continue to be inside
+a particular State a determined by the principles formulated by section 4.
+13. With the above legal background we go on to section 5B of the Karnataka Sales Tax Act which is
+under challenge in these writ petitions. That section may be quoted in full :
+"5B. Levy of tax on transfer of property in goods (whether as goods or in some other
+form) involved in the execution of works contracts. - Notwithstanding anything
+contained in sub-section (1) or sub-secttion (3) of section 5 but subject to
+sub-sections (5) and (6) of the said section, every dealer shall pay for each year, a tax
+under this Act on his taxable turnover of property in goods (whether as goods or in
+some other form) involved in the execution of works contract mentioned in column
+(2) of the Sixth Schedule at the rates specified in the corresponding entries in column
+(3) of the said Schedule."
+It opens with a non obstante clause. Therefore wherever there is a transfer of goods in a works
+contract one is obliged to look a this section alone. It has already been seen that these works
+contracts could not have been taxed prior to the Forty-sixth amendment of the Constitution and
+now these transactions have become taxable. Section 5B came to be introduced by Karnataka Act
+No. 27 of 1985 with effect from 1st April 1986. The object and reasons behind this amendment are as
+follows :
+"It is proposed in the Budget speech for the year 1985-86 to levy tax on the transfer of
+property in goods (whether as goods or in some other form) involved in the execution
+of works contract on the transfer of the right to use goods, on the delivery of goods on
+hire-purchase or any other kind of payment by instalments; for payment of interest
+for belated refunds; to prescribe time-limit for concluding assessment; to simplify
+summary assessments; and to give certain concessions and reliefs."
+Therefore the definition of "sale had also to be enlarged. Section 2(1)(t)(ii) of the Karnataka Sales
+Tax Act reads :
+"2. Definitions. - (1) In this Act, unless the context otherwise requires, -
+* * *
+(t) 'sale' with all its grammatical variation and cognate expressions means every
+transfer of the property in goods other than by way of a mortgage, hypothecation
+charge or pledge by one person to another in the course of trade or business for cash
+or for deferred payment or other valuable consideration and includes, -
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 14Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+(i) a transfer otherwise than in pursuance of a contract of property in any goods for
+cash, deferred payment or other valuable consideration;
+(ii) a transfer of property in goods (whether as goods or in some other form) involved
+in the execution of a works contract;
+(iii) a delivery of goods on hire-purchase or any system of payment by instalments;
+(iv) a transfer of the right to use any goods for purpose (whether or not for a specified
+period) for cash, deferred payment or other valuable consideration;
+Explanation. - (1) A transfer of property involved in the supply or distribution of goods by a society
+(including a co-operative society), club firm or any association to its members, for cash or for
+deferred payment or other valuable consideration, whether or not in the course of business, shall be
+deemed to be a sale for the purpose of this Act.
+(2) .................... (omitted).
+(3)(a) The sale or purchase of goods other than in the course of inter-State trade or commerce or in
+the course of import or export, shall be deemed, for the purpose of this Act, to have taken place in
+the State wherever the contract of sale or purchase might have been made, if the goods are within
+the State, -
+(i) in the case of specific or ascertained goods, at the time the contract of sale or purchase is made;
+and
+(ii) in the case of unascertained or future goods, a the time of their appropriation to the contract of
+sale or purchase by the seller or by the purchaser, whether the assent of the other party is prior or
+subsequent to such appropriation.
+(b) Where there is a single contract of sale or purchase of goods situated at more places than one the
+provisions of clause (a) shall apply as if there were separate contracts in respect of the goods at each
+of such places.
+(c) Notwithstanding anything contained in the Sale of Goods Act, 1930 (Central Act 3 of 1930), for
+the purpose of this Act, the transfer of property in goods (whether as goods or in some other form)
+involved in the execution of a works contract shall be deemed to have taken place in the State, if the
+goods are within the State at the time of such transfer, irrespective of the place where the agreement
+for works contract is made, whether the assent of the other party is prior or subsequent to such
+transfer.
+(d) Notwithstanding anything contained in the Sale of Goods Act, 1930 (Central Act 3 of 1930) for
+the purpose of this Act, the transfer of the right to use any goods for any purpose (whether or not for
+a specified period) shall be deemed to have taken place in the State, if such goods are for use within
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 15Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+the State, irrespective of the place where the contract of transfer of the right to use the goods is
+made.
+(3A) Every transaction of supply by way of or as a part of any service or in other manner whatsoever,
+of goods being food or any other article for human consumption or any drink (whether or not
+intoxicating) where such supply or service is for cash, deferred payment or other valuable
+consideration, shall be deemed to be a sale of those goods by the person making the supply and
+purchase of those goods by the person to whom such supply is made;
+............"
+At this stage it is necessary for us to note that explanation (3) extracted above is a verbatim
+reproduction of section 4 of the Central Sales Tax Act.
+In the present case we are concerned with transfer of property in goods, whether quo goods or in
+some other form, involved in the execution of works contract. The argument of Mr. Venugopal is
+that sections 3, 4 and 5 of the Central Sales Tax Act cover all transactions of sale. Both the situs and
+the transfer of property are irrelevant for the purpose of taxation under those provisions. If that be
+so for the actual sales, it should be a fortiori for a deemed sale as well. The learned draws inspiration
+because inspiration because in paragraph 32 of the judgment in (Builders Association case) the
+Supreme Court held that all transfers, deliveries and supplies of goods referred to in clauses (a) and
+(b) of clause (29-A) of article 366 of the Constitution are subject to the same restrictions. Therefore,
+according to him, the situs was fixed under section 4 of the Central Sales Tax Act, and if the existing
+laws would cover all sales any attempt by Legislature to add something different to its own State
+contrary to section 4 of the Central sales Tax Act is unconstitutional.
+In opposing this stand Mr. Achar, learned Government Advocate, would say that the State has the
+power to tax on such transfer of right to use the goods irrespective of where the contract has taken
+place or not. In support of this submission reliance is placed on 20th Century Finance Corporation
+Limited v. State of Maharastra [1989] 75 STC 217 (Bom). In that case, the validity of the
+Maharashtra Sales Tax on the Transfer of the Right to use any goods for any purpose Act, 1985,
+came up for consideration. The object of that Act was to levy and collect sales tax upon the transfer
+of the right to use any goods for the purposes of cash or deferred payment or other valuable
+consideration within the State. In upholding the constitutional validity of that Act it was held as
+follows (at pages 226 and 227) :
+"By reason of the said explanation, transfer of the right to use any goods shall be
+deemed to have taken place in the State of Maharashtra, irrespective of the place
+where the agreement for such transfer of the right to use took place, if the goods are
+in the State of Maharashtra at the time of their use. In other words, the situs or the
+location of the goods at the time of there use has been chosen as the basis of taxability
+under the Act. Thus, in view of the amended explanation to section 2(10) of the
+impugned Act, the place where an agreement is made for transfer of the right to use
+goods is irrelevant and under the impugned Act, the State of Maharashtra has
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 16Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+assumed power to levy tax on such transfer of the right to use goods which are
+located in the State of Maharashtra at the time of their use. In our view, the said
+provisions contained in the explanation to section 2(10) does not result in bringing
+inter-State sales or sales taking place outside the State of Maharashtra within the
+scope of the impugned Act. The reported decisions upon which the learned counsel
+had relied were rendered in the context of sale transactions which then only meant
+transfer of property in goods. We have already pointed out that after clause (29-A)
+was inserted in article 366, tax on sale or purchase of goods included inter alia, tax on
+transfer of the right to use for any purpose goods for cash, deferred payment or other
+valuable consideration. Therefore, the validity of a tax on such transfer of right to use
+ought not to be tested by applying these reported decisions regarding the meaning of
+sale. It would not be also appropriate to apply the tests applicable for deciding when
+property in goods passes in case of transfers of the right to use goods for any purpose.
+The legal concepts of transfer of the right to use goods are quite different."
+No doubt an attempt was made by Mr. Srinivasan that this decisions may apply to section 5C but not
+to section 5B. But, we are of the opinion that the ratio of that judgment would squarely apply
+because at pages 230 and 231 it is stated as follows :
+"Only when the said goods are transferred by the petitioners for use by the lessees,
+the transfer becomes taxable. In other words, the impugned Act levies tax only when
+the lessee is put in possession for using the goods. According to the claim made by
+the petitioners themselves therefore, the movement, if any, of goods pursuant to the
+orders placed by the 1st petitioner upon the manufactures and suppliers precedes the
+transfer of the right to use in favour of the lessee. The impugned Act levies tax upon
+transfer of the right to use goods which are within Maharashtra at the time of their
+use."
+Accordingly, should the goods involved in the execution of the works contract be within the State of
+Karnataka at the time of transfer the value of such goods would become taxable. Certainly should
+the declared goods go in as declared goods, the limitations contained in the other Acts would apply,
+but not if hey change their character.
+When section 5B of the Karnataka Sales Tax Act opens with a non obstante clause the intention of
+the Legislature is clear that the sales as understood generally are not to be tagged on to these
+deemed sales. It also requires to be noted here that the language used here is the same as in article
+366(29-A), sub-clause (b). If, therefore with reference to goods that are available within the State of
+Karnataka in a works contract, the State were to proceed to tax in exercise of its competence under
+entry 54 of List II, we are unable to say as to how it could be held violative of either the Constitution
+or the Central Sales Tax Act.
+We are equally unable to accept the argument that unless the Parliament makes the law under
+article 286 of the Constitution, power to tax cannot arise. Article 286 only lays down certain
+restriction. As to what those restrictions are, have already been noted. To our mind it is clear that
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 17Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+there is no infringement of any one of those restrictions. If, therefore, section 5B of the Karnataka
+Sales Tax Act is an independent provision with regard to taxing the value of the goods involved in
+works contract, we cannot accept this argument.
+We are also of the view that there is no scope for striking down explanation (3)(c) to section
+2(1)(t)(ii) of the Karnataka Sales Tax Act. The said clause clearly states that if the goods are within
+the State at the time of transfer it would be taxable. It has already been noted that the ratio of the
+decision in [1989] 75 STC 217 (Bom) (20th Century Finance Corporation Limited v. State of
+Maharashtra), though with reference to the user of the goods would apply to the works contract as
+well. In such a case, therefore, we see no scope for an argument of this character.
+For the same reason the argument of Mr. Vijayan that in the absence of situs of sale being
+demarcated in article 286(2) or 269(3) of the Constitution the State law is premature, does not
+appear to us to be tenable.
+In (Goodyear India Ltd. v. State of Haryana) it was held that the mere despatch of goods by a
+manufacturer to his own branches outside the State does not amount to sale or disposal of goods as
+such; the consignment or despatch of goods is neither a sale nor a purchase. In so far as section
+9(1)(b) of the Haryana General Sales Tax Act, 1973 provides for taxable event which is closely related
+to the despatch, it cannot be held to be a tax on sale or purchase. But the position here is different.
+In finding out the true nature of the goods under that Act it was found that the section itself does not
+provide for the imposition of tax on the transaction of purchase of taxable goods, and when further
+the said taxable goods are used up and turned into independent goods losing their original identity
+and thereafter when the manufactured goods are despatched outside the State of Haryana, only then
+tax is levied and liability to pay tax is created. In contradistinction to this, under section 5B read
+with section 2(1)(t)(ii), explanation (3)(c) of the Karnataka Sales Tax, if the goods involved in the
+execution of the works contract are within the State at the time of such transfer, the State could levy
+the tax. Therefore, the levy has direct connection with the transaction of transfer of goods involved
+in the execution of works contract. Hence the decision in (Goodyear India Ltd. v. State of Haryana)
+has no application to the facts of this case.
+It is also incorrect to contend that section 5B proposes to tax the conglomerate. On the contrary it
+merely seeks to tax the value of the property in goods, either as goods or in some other form,
+involved in the execution of works contract mentioned in column (2) of the Sixth Schedule. If this
+test could be adopted for purposes of local taxation, it is not necessary that section 4 of the Central
+Sales Tax Act must be amended for the working of explanation (3)(c) of section 2(1)(t)(ii) of the
+Karnataka Sales Tax Act.
+The contention of Mr. Venugopal is that section 5B is void in so far as it refers to the Sixth Schedule
+because that Schedule refers to the nature of works done by the contractor and not the goods. In
+other words, according to him, the same item of goods used in the works contract is taxed
+differently; the end user is irrelevant. This argument ignores the power of the Legislature to treat the
+works contract alone as a separate entity and on that basis with regard to the value of the property
+involved in the execution of works contract to levy the tax depending upon the nature of the works
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 18Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+contract. The petitioners cannot compare this with an ordinary sale and contend that the end user is
+irrelevant. What is taxed is only the value of the goods involved in the works contract which has
+resulted in the end product.
+Only when we find any portion of the section is opposed to the constitutional provision or the
+Central Tax Act that part of the section becoming ultra vires, the doctrine of severability can be
+pressed into service. But in this case was see no scope for application of the doctrine and
+consequently (R. M. D. Chamarbaugwalla v. Union of India) will have no application in the instant
+case.
+We are also unable to accept the argument that though in clauses (2) and (3) of article 286 of the
+Constitution the word "may" is used it must be construed as "shall". We have already set down the
+scope of this article. Section 5B does not in any way infringe the article.
+Accordingly we hold that section 5B of the Karnataka Sales tax Act is valid. Likewise, explanation
+(3)(c) to section 2(1)(t)(ii) does not violate either article 286 or any other constitutional provisions,
+nor again is there any repugnancy between the provisions of the Central Sales Tax Act and those
+sections of the Karnataka Sales Tax Act.
+14. Now we come to the Karnataka Sales Tax Rules. Part II of the Rules deals with turnover and
+assessment. Rule 6 occurring in that Part speaks of determination of total and taxable turnover.
+While so determining concerning the works contract, sub-rule (4) states that in determining the
+turnover the amounts specified in clauses (a) to (p) shall subject to the conditions specified therein
+be deducted from the total turnover as determined under clauses (a) to (e) of sub-rule (1). Clause
+(m) of sub-rule (4) reads as follows :
+"(m) in the case of works contracts specified in serial numbers 1, 2, 3, 4, 5, 7, 8, 9, 10,
+11, 12 and 17 of the Sixth Schedule;
+(i) all amounts for which any goods specified in the said serial numbers and falling
+under Second Schedule are purchased from registered dealers liable to pay tax under
+the Act,
+(ii) all amounts actually expended towards 'labour charges' for erection, installation,
+fixing, fitting out, or commissioning of the goods specified in the said serial numbers,
+(iii) all amounts paid to sub-contractors as the consideration for execution of works
+contract whether wholly or partly :
+Provided that, no such deduction shall be allowed unless the dealer claiming
+deduction produces proof that the sub-contractor is a registered dealer liable to tax
+under the Act and that the turnover of such amounts is included in the monthly
+statement or return of turnover as the case may be, filed by such sub-contractor;"
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 19Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+The complaint before us is that while the second sub-clause of clause (m) would take note of actual
+amounts expended towards labour charges, in clause (n) sub-clauses (iv) and (v) a different
+treatment is accorded. We will now quote clause (n), sub-clauses (iv) and (v) :
+"(n) in the case of works contracts specified in serial numbers 6, 13, 14, 15, 16 and 18
+of the Sixth Schedule;
+* * *
+(iv) such amounts towards 'labour charges and other like charges' not involving any
+transfer of property in goods actually incurred in connection with the execution of
+works contract, or
+(v) such amounts calculated at the rate prescribed in column (3) of the Table below, if
+they are actually incurred towards 'labour charges' and other like charges and are not
+ascertainable from the books of accounts maintained and produced by a dealer before
+the assessing authority.
+TABLE
+-----------------------------------------------------------------
+Sl. Type of contract Labour or other charges
+No. as a percentage of the
+value of the contract
+------------------------------------------------------------------
+------------------------------------------------------------------
+1. Civil works like construction of buildings, bridges, roads etc. Thirty per cent
+2. Construction or railway coaches on undercarriages supplied by railways. Thirty per cent.
+3. Ship and boat building including construction of barges, ferries tugs, trawlers and dredgers.
+Twenty per cent
+4. Sanitary fitting for plumbing for drainage, etc. Fifteen per cent
+5. Painting and polishing. Twenty per cent
+6. Construction of bodies of motor vehicle and construction of trucks. Twenty per cent
+-----------------------------------------------------------------
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 20Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+Provides that where the turnover of a dealer claiming deduction under clauses (m) and (n) in any
+year is not sufficient to cover the deduction, it shall be allowed to the extent of the turnover of the
+dealer in that year and the balance shall be carried forward to the year following next and so on."
+A careful reading of the above rule shows that in cases where the actual expenditure is incurred in
+the case of works contract specified under clause (m) the deduction could be claimed. In the case of
+other contracts, as per clause (n), the labour charges and the other like charges actually incurred,
+could be deducted, then again if they are not ascertainable from the books of account. This could
+depend upon the nature of contract and also how the accounts are maintained, that too for the
+purposes of deduction. Those are details to be established before the taxing authority and it cannot
+be argued in an abstract way. Therefore, heaving open that remedy in that this aspect could be
+decided in individual cases depending upon the nature of the contract and the method of keeping
+accounts, we hold that rule 6 is not ultra vires.
+It is the contention of Mr. Srinivasan that a rule similar to sub-clauses (iv) and (v) of clause (n) of
+rule 6(4) under the Bihar Sales Tax Rules 1983, came to be struck down in Jamshedpur Contractors'
+Association v. State of Bihar [1989] 75 STC 132 (Pat). We are unable to agree. That rule (rule 13-A of
+Bihar Sales Tax Rules) stated that while providing for deduction in case of works contract, on
+account of labour charges depending upon different types of contract a percentage would be
+deducted. Therefore it was held in paragraph 9 as follows :
+"Thus it will be noticed that the rule provides that for different types of works in
+works contract, different percentage of labour shall be presumed to have been used
+and amount spent to that extent shall be deducted from the gross turnover. Tax is
+payable on labour charges under this rule. Under this rule even if the contractor
+might have spent more on labour charges than the prescribed percentage stated in
+the rule the contractor shall no be entitled to claim deduction beyond what has been
+provided. In other words tax is levied on labour charge. Neither sale nor purchase of
+any goods is involved when a contractor spends on account of labour. "Labour'
+cannot be said to be a goods even within the definition of 'goods' in the Act. From the
+gross turnover, the total amount spent by the contractor as labour charges in
+execution of the works contract shall have to be excluded. Rule 13-A cannot be
+sustained and must be held to be ultra vires."
+But, here it is not so. On the contrary the actual charges incurred is deducted and what is sought to
+be taxed is only the value of the goods in the execution of works contract after such deduction as is
+permitted under sub-clauses (iv) and (v) of clause (n). Therefore, rule 6 is intra vires.
+15. The next question is whether the prescription of different rates of taxes is violative of article 14 of
+the Constitution. The arguments of the learned counsel for the petitioners proceed on a wrong
+hypothesis as though different rates have been prescribed. The rates under the Second Schedule and
+the Sixth Schedule are the same, expect with regard to item No. 6 of the Second Schedule, Part-P
+where for pipes, tubes and fittings of iron not falling under the Fourth Schedule, cement and
+asbestos the rate of taxation is 8 per cent whole for the corresponding item No. 20 of the Sixth
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 21Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+Schedule the rate of taxation is 10 per cent. To the extent of this discrimination it may be bad. As a
+mater of fact Mr. Achar, learned Government Advocate, does not seriously dispute this
+discrimination. Therefore, that alone has to be struck down. But, as a general principle, can it be
+said the prescription of different rates is bad ? We do not think so, because it is one of the
+well-Settled principles that the Legislature has freedom to choose the object of taxation. In Twyford
+Tea Co. Ltd. v. State of Kerala , the Supreme Court has observed thus :
+"15. We may now state the principles on which the present case must be decided.
+These principles have been stated earlier but are often ignored when the question of
+the application of article 14 arises. One principle on which our Courts (as indeed the
+Supreme Court in the United States) have always acted, is nowhere better stated than
+by Willis in his "Constitutional Law', page 587. This is how the put it :
+'A State dos not have to tax everything in order to tax something. It is allowed to pick
+and choose districts, objects, persons, methods and even rates for taxation if it does
+so reasonably ....... The Supreme Court has been practical and has permitted a very
+wide latitude in classification for taxation.' This principle was approved by this Court
+in East India Tobacco Co. v. State of Andhra Pradesh . Applying it, the Court
+observed :
+"If a State can validly pick and choose one commodity for taxation and that is not
+open to attack under article 14, the same result must follow when the State picks out
+one category of goods and subjects it to taxation."
+This indicates a wide range of selection and freedom in appraisal not only in the objects of taxation
+and the manner of taxation but also in the determination of the rate or rates applicable. If
+production must always be taken into account there will have to be a settlement for every year and
+the tax would become a kind of income-tax.
+16. The next principle is that burden of proving discrimination is always heavy and heavier still
+when a taxing statute is under attack. This was also observed in the same case of this Court at page
+534 of STC (at page 41 of SCR; at page 1735 of AIR) approving the dictum of the Supreme Court of
+the United States in Madden v. Kentucky [1940] 309 US 83; 84 Law Ed 590 :
+'In taxation even more than in other fields, Legislatures possess the greatest freedom
+in classification. The burden is on the one attacking the legislative arrangement to
+negative every conceivable basis which might support it.' As Rottschaefer said in his
+Constitutional Law at page 668 :
+' "A statute providing for the assessment of one type of intangible a its actual value
+while other intangibles are assessed at their face value does not deny equal protection
+even when both are subject to the same rate of tax." The decisions of the Supreme
+Court in this field have permitted a State Legislature to exercise "an extremely wide
+discretion" in classifying property for tax purposes "so long as it refrained from clear
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 22Builders Association Of India vs State Of Karnataka And Others on 27 July, 1990
+and hostile discrimination against particular persons or classes".' The burden is on a
+person complaining of discrimination. The burden is proving not possible 'inequality'
+but hostile 'unequal' treatment. This is more so when uniform taxes are levied. It is
+not proved to us how the different plantations can be said to be 'hostilely or
+unequally' treated. A uniform wheel tax on cars does not take into account the value
+of the car, the mileage it runs, or in the case of taxis, the profits it makes and the
+miles per gallon it delivers. An Ambassador taxi and a Fiat taxi give different outturns
+in terms of money and mileage. Cinemas pay the same show fee. We do not take a
+doctrinaire view of equality. The Legislature has obviously thought of equalising the
+tax through a method which is inherent in the tax scheme. Nothing has been said to
+show that there is inequality much less 'hostile treatment'. All that is said is that the
+State must demonstrate equality. That is not the approach. At this rate nothing can
+ever be proved to be equal to another."
+This fully supports the stand of the State that there is a wide discretion to pick and
+choose the objects for purposes of taxation. here cannot be any uniformity about the
+same. Therefore, except the discrimination pointed out with regard to item No. 6 of
+the Second Schedule and item No. 20 of the Sixth Schedule, the rates of taxation with
+regard to other items of the Second Schedule are to be upheld.
+17. One more question posed before us is as to from what date our judgment is to be effective ? The
+complaint of the petitioners is that they had not charged their customers the sales tax and they are
+obliged to pay from their pockets. On this aspect of the matter, when we put it to the learned
+Government Advocate a memo was filed with regard to composition for the years 1986-87 to
+1989-90 (i.e. up to 31s March, 1990). We passed a separate order on 19th July, 1990, in respect of
+the dealers who had agreed for the composition and other dealers in terms of the memo. This means
+that our judgment would be effective from 1st April, 1990, onwards.
+18. Subject to the above, we dismiss all these writ petitions with costs. Counsel's fee Rs. 250 in each
+petition.
+19. Writ Petitions dismissed.
+Indian Kanoon - http://indiankanoon.org/doc/1206975/ 23

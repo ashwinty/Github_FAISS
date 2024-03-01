@@ -1,0 +1,1129 @@
+Metadata: id=>99
+name=>Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April 2017
+date=>5 March 2013
+court=>HIGH COURT OF DELHI
+link=>http://indiankanoon.org/doc/69888522/
+-----
+Content: Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+Thyssen Krupp Materials Ag vs The Steel Authority Of India on
+20 April, 2017
+Author: S.Ravindra Bhat
+Bench: S. Ravindra Bhat, Deepa Sharma
+$~
+* IN THE HIGH COURT OF DELHI AT NEW DELHI
+RESERVED ON: 25.04.2016
+% PRONOUNCED ON: 20.04.2017
++ FAO (OS) 150/2002
+THYSSEN KRUPP MATERIALS AG ..... Appellants
+Through: Mr. Rishi Agarwala with Ms. Misha
+Rohatagi, Mr. Umang Gupta and Mr. Karan
+Luthra, Advocates.
+Versus
+THE STEEL AUTHORITY OF INDIA ..... Respondents
+Through: Mr. Dipankar P. Gupta, Sr. Advocate,
+Mr. Jaideep Gupta, Sr. Advocate with Mr. Santosh
+Kumar and Mr. Jagmohan Sharma, Advocates.
+CORAM:
+HON'BLE MR. JUSTICE S. RAVINDRA BHAT
+HON'BLE MS. JUSTICE DEEPA SHARMA
+S.RAVINDRA BHAT, J.
+1. Thyssen Krupp Materials, AG, the appellant (hereafter "Thyssen") is aggrieved by an order of a
+learned single judge, dated 10.01.2002 by which Suit no. 352A/ 1998 (hereinafter referred to as the
+"suit") for enforcement of an arbitral award, was rejected. The impugned judgment completely set
+aside the arbitral award; therefore, this appeal under Section 39 of the (old) Arbitration Act 1940
+("the Act"), read with Section 10 of the Delhi High Court Act.
+2. Thyssen was previously known as TSU Thyssen Stahlunion GmbH and is registered under the
+provisions of laws of Germany. Thyssen is acting through its Constituted Power of Attorney, Mr.
+D.K. Jain. The Respondent - Steel Authority of India (hereinafter referred to as "SAIL") is a central
+public sector company incorporated under the Companies Act, 1956.
+3. Briefly, the facts are that Thyssen contracted, with SAIL by agreement dated 04.03.1994
+(hereafter "the agreement") to purchase 10,000 MT, plus-minus 5%, Prime Cold Rolled Mil Steel
+Sheets in coils (hereinafter "CRC") in terms of specifications given in Annexure 1 to the agreement.
+Thereafter, Thyssen contracted to purchase an additional 10,000 MT of CRC from SAIL under the
+said agreement of 04.03.1994 and consequently, inserted an addendum/amendment to the
+agreement for the supply of second lot on 12.05.1994 (hereafter "the amendment"). Thyssen(cid:128)s
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 1Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+officers and experts made regular visits to SAIL(cid:128)s Bokaro Steel Plant and made reports of the same.
+SAIL had agreed to regular inspection of the CRC in its plant in Bokaro and also during the
+pre-shipment stage at the port of loading. Such inspection was carried out by SGS, India appointed
+by Thyssen. The first lot of CRC was sent to New Orleans, USA via „IRENES DIAMOND(cid:128) under a
+Bill of Lading dated 11.08.1994 and was to arrive between 15.09.1994 and 21.09.1994. SAIL was
+invited to inspect the de- coiling and de-canning of the CRC upon discharge but it declined to do so
+by its letter dated 08.10.1994. Upon its discharge, Thyssen(cid:128)s customers informed it that the CRC
+supplied was defective and the material was not suitable for continuous coil cutting and leveling into
+flat sheets and/or slitting. Since the goods were deemed to be defective and were rejected by
+Thyssen(cid:128)s buyers they had to be sold by way of salvage as a result of which it suffered considerable
+losses. Thyssen claimed damages -both compensatory and exemplary alleging breach of the
+agreement and supplementary agreement. SAIL contended that it had not breached the contract and
+that the supplementary agreement had not been entered into. It also urged that the goods supplied
+by it were in terms of the contract and further that Thyssen could not claim damages, since its
+nominated representative/agency had inspected the goods prior to dispatch.
+Arbitral Proceedings:
+4. In terms of clause 13 of the agreement, the parties resorted to arbitration, to resolve their
+disputes, in accordance with rules of Conciliation and Arbitration of the ICC. The Chairman of the
+Arbitral Tribunal appointed a sole arbitrator (Mr. Cecil Abrahams) and the arbitration proceedings
+took place in New Delhi. The applicable law, as agreed by the parties, were the laws of India for the
+time being in force. Thyssen, the claimant, contended that it had an enforceable contract for the
+supply of 20,000 MTs of CRC to be supplied in two lots by the SAIL. It argued that the first lot so
+received was not in compliance with either the express terms of the contract and/or the implied
+terms such as those enshrined in Sections 15, 16 and 17 of the Sale of Goods Act. The first lot, which
+arrived in the United States, was rejected by the buyers and was to be sold by way of salvage, which
+caused a loss to them.
+5. The Claimant contended that in terms of the pre-contractual negotiations followed by the
+agreement of 04.03.1994, the Respondents were required to deliver "prime cold rolled mild steel
+sheets in coil in compliance with ASTM A568 completely oiled with sufficient oil to protect the Cold
+Rolled Coil ("CRC") against water and moisture and with cut/slit edges." These were the express
+terms of the contract. This term, according to Thyssen, was breached. It relied on the testimony of
+an expert witness, Dr. Rollins, who gave his interpretation of the term "Prime". The expert deposed
+that a material is considered prime if "at least 90-95% of it is usable for continuous levelling and
+cutting operations." Upon cross- examination, he said that continuous coil cutting and levelling into
+flat sheets is the mark of something which is prime. He also stated that in CRC, there is a prime
+market and a secondary market. Thus anything, which can be sold in the prime market, is
+considered to be "prime" material. The word prime not only appears in the Annexure to the
+Agreement, but also in the heading of the Agreement, (the second Preamble), Clause 1.1 and also in
+the Amendment dated 12.05.1994, where in clause (a), it is specifically stated that the Inspection
+Certificate of SGS will confirm the material to be in prime condition. Mr. Sharma, SAIL(cid:128)s expert,
+deposed that "prime" is mere verbiage. He said that the word "prime" was merely offered to give
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 2Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+some comfort to the Claimants. The word so used in the Agreement was to denote that the goods
+were to be manufactured according to SAIL(cid:128)s standards, the best prepared. He stated that in order
+to ascertain the meaning of the term "prime", the intention of the persons forming the contract must
+be taken into account and must be construed in the context it was used in at the time of making of
+the contract. The Arbitrator however, did not accept SAIL(cid:128)s contentions and found favour in the
+meaning given by Thyssen(cid:128)s expert, Dr. Rollins.
+6. On the issue of the suitability of the material for continuous coil cutting, SAIL urged that if the
+pre-contractual fax that was received from Mr. Ramachandran prescribing specifications of the
+material is to be believed, then it would raise the standard and quality of the material above the
+required ASTM A568 tolerance. Furthermore, this provision was deliberately and consciously left
+out of the negotiations of the contract and finds no express mention in the terms of the Agreement
+dated 04.03.1994. Thyssen countered SAIL(cid:128)s argument by referring to the pre-contractual fax sent
+by Mr. Ramachandran to establish that at all times both parties had an understanding that the
+material to be supplied was to be suitable for continuous coil cutting and leveling into flat sheets.
+Furthermore, they contend that despite there being no express term in this regard, the Claimants
+had only agreed the reduce the quality of the material from Class 1, exposed material to Class 2 and
+unexposed material against the background of this well - known requirement. SAIL urged that in
+order to establish the capabilities of the plant, Mr. Kruger, a very experienced Senior Sales Manager
+and Thyssen(cid:128)s representative visited its Bokaro plant in December 1993 and from what he was
+shown during the visit, the purchaser was able to form a favourable impression with respect to the
+material quality, as well as capability and technical competence of the staff. Thyssen also sent
+representatives to the plant to view the trial lot. The trial lot itself had defects such as wavy edges,
+smut, stains and severe rust and no objections were raised against these by the officials of Thyssen.
+SAIL(cid:128)s contention therefore was that these multiple visits together with examination of
+Mannesmann cargo, established the manufacturer(cid:128)s published standards and amounts to an
+inspection of the material that was available. The Arbitrator did not find merit in this argument
+either and held SAIL to have acted in breach of the agreement.
+7. The Agreement contained a provision for a Mill Test Certification by SGS India Pvt. Ltd in clause
+4.1.3.1. Thyssen had argued that SGS had no opportunity of looking at the insides of the coil and that
+it was merely offered to CRC for inspection after skin passed and thus, SGS had no way of knowing
+whether or not the interior of the coils were defective or not. The report, duly annexed at Page. 430
+of Pleadings, Vol. 2, indicate that they had done random sampling to check the chemistry, oiling, the
+hardness and dimensions of the coils. SGS themselves made it clear that the scope of their
+investigation was very narrow. Thyssen also appointed IGI as its investigating agency but said that it
+had a role more limited than that of SGS. The Arbitrator found for Thyssen and did not agree that
+they were final certificates. For this he relied on the judgments in Rolimpex Centrala Handlu
+Zagranicznego v. Haji E. Dossa & Sons Ltd., (1971) 1 Lloyd LR 380 and Davie vs. Edinburgh
+Magistrate, 1953 SC 34 on the issue of the judge(cid:128)s limited powers to re-appreciate an expert
+witnesses(cid:128) testimony. This was applied by the Supreme Court in Murari Lal vs. State of MP, (1980)
+1 SCC 704 where the court observed as follows:
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 3Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+"... duty of the expert witness is to furnish the Judge or jury with the necessary
+scientific criteria for testing the accuracy of their conclusions, so as to enable the
+Judge or jury to form their own independent judgment by the application of these
+criteria to the facts proved in evidence. The scientific opinion evidence, if intelligible,
+convincing and tested, becomes a factor (and often an important factor) for
+consideration along with the whole other evidence in the case, but the decision is for
+the Judge or jury. In particular the bare ipse dixit of a scientist, however eminent,
+upon the issue in controversy, will normally carry little weight, for it cannot be tested
+by cross examination nor independently appraised, and the parties have invoked the
+decision of a judicial tribunal and not an oracular pronouncement by an expert."
+The Arbitrator stated that he arrived at his decision after prudent and due consideration of all
+evidence produced before him and not merely on the basis of the report of one expert witness. While
+awarding damages, the Ld. Arbitrator followed the principle set out in Section 73 of the Indian
+Contract Act, 1872. Thyssen(cid:128)s claim for damages was to the tune of the difference between the
+sound market value of the goods and the market value of the defective goods. SAIL on the other
+hand stated that the measure of damages should be based on the breach of warranty and must be
+the difference between the price paid and the price realized on sale as was held in the case of Union
+of India vs. Rallia Ram, AIR 1963 SC 1685.The Arbitrator agreed with Thyssen and held that the true
+basis of assessment of loss is the difference between sound market value and damaged market value.
+8. On the question of non-delivery of the second lot, it was contended that it was clear, in terms of
+the amendment dated 12.05.1994, that SAIL agreed to supply 20,000 MTs of CRC to the Claimants.
+SAIL on the other hand, contended that there was no binding agreement with regard to this
+amendment as the on-going negotiation never concluded into a binding promise. It argued that in
+FOB sale, the essential terms of the contract must be agreed to before a concluded contract can
+come into existence. Furthermore, no shipping date was agreed to between the parties nor was the
+size finalized. SAIL stated that it was merely a conditional contract, and alternatively if there was a
+concluded contract, Thyssen was in breach as it did not act in consonance with the letter of credit
+issued. The Arbitrator held that there was a valid and binding agreement between the parties with
+regard to the 2nd lot and that SAIL was in breach. He awarded damages.
+9. The award, by the Arbitrator, accepted Thyssen(cid:128)s claims. The claimant was held entitled to
+exemplary damages to the tune of:
+a. US $2,184,09.81 being the damages awarded to Thyssen for the first and second
+lot.
+b. US $424,813.85 being the interest awarded for the two lots till the date of the
+award.
+c. US $500,000 being the lead costs awarded under the Award. d. US $50,000 being
+cost of arbitration awarded under the Award. For interest from the date of award till
+realization.
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 4Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+The impugned judgment
+10. Thyssen had approached this court, for a judgment directing that rule of court should be made,
+in consonance with the award. SAIL opposed its petition and the proceedings were registered as a
+suit (Suit No. 352A/ 1998). The single judge relied on the judgments reported as Champsey Bhara &
+Co. v. Jivraj Balloo Spg. &Wvg. Co. Ltd. AIR 1923 PC 66; Arosan Enterprises Ltd. vs. Union of India
+& Anr, (1999) 9 SCC 449; State of Rajasthan v. Puri Construction Co. Ltd. (1994) 6 SCC 485 for the
+scope of interference with arbitral awards. On the argument of role of experts, the judge relied on
+Murari Lal v. State of MP, AIR 1980 SC 531, that an expert deposes and does not decide; his duty is
+to furnish the judge with the necessary scientific criteria for testing the accuracy of his conclusion so
+as to enable the judge to form his independent judgment upon application of these criteria to the
+facts proved in evidence. The court while dealing with the opinion of an expert should proceed
+cautiously, probe the reasons for the opinion and then accept or reject it. The single judge rejected
+Thyssen(cid:128)s expert(cid:128)s opinion on the meaning of the expression "Prime"; it was held that merely
+because the description of the steel given was "prime", did not make Class 2 into Class 1 material. It
+was the overall meaning of the word that must be looked at, said the single judge. Thus, in this
+background, both parties consciously and with full knowledge agreed to the supply of Class 2
+material. Just because the term "prime" appears in the contract, the theory that prime material is
+the best material found footing, which led to ignoring the fact that the quality ultimately agreed to
+between the parties was Class II for unexposed application which means that the steel should be
+used by way of hidden material, not as top class material, which is always exposed. On the question
+of whether the agreement required the contracted material to be suitable for continuous coil cutting,
+it was held that the phrase "continuous coil cutting" was deliberately left out of the ultimate
+contract. Thus, to construe it to be implicit in the meaning of the term "prime" is patently wrong.
+Had the word "prime" indicated to the quality of continuous coil cutting, the question of providing
+fitness as per tolerance ASTM would not have arisen. The court held that reliance on an isolated
+letter dated 05.02.1994 to bind the parties to this requirement when the contract did not mention
+the same was not tenable. On the next question as to the effect of visits to SAIL(cid:128)s plant, by
+representatives of Thyssen, it was held - overruling the arbitrator(cid:128)s findings- that the surveyors
+went for multiple visits to the Bokaro plant and often made recommendations to the manufacturer
+about the quality of production of the material. Therefore, the finding that Thyssen had no quality
+control over the material produced was patently erroneous. Similarly, the arbitrator(cid:128)s findings that
+SGS and IGI had limited role in quality checking and control, were held to be erroneous. On the
+issue of damages too, the single judge held that the arbitrator erred in law in granting damages. It
+was held that the proper and applicable principle was compensation for breach of the warranty and
+the measure of damages is the difference between price paid and price realised on sale. Thus, the
+true criteria for calculating damages that had to applied by the Arbitrator was that which was
+propounded in Kasturilal Ralia Ram Jain v State Of Uttar Pradesh AIR 1965 SC 1039. In that case it
+was held that upon receipt of delivery of goods, a party becomes the owner of the goods and
+therefore, the advertisement, publicity, storage, commission, overhead expenses cannot be awarded
+to it as part of compensation towards breach of the warranty. On the last issue regarding whether
+the additional quantities had to be supplied by SAIL, the court reversed the arbitrator(cid:128)s findings
+and held that there was no concluded contract between the parties.
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 5Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+11. This appeal was heard earlier and decided by a Division Bench of this court, by judgment dated
+28 March 2003. Thyssen was aggrieved by the decision; it therefore appealed by special leave to the
+Supreme Court. On 5 March 2013, the Supreme Court disposed of the appeals (CA 9675/2003 and
+CA 1616/2007). The court remitted the matter for fresh decision, by the Division Bench; it also
+required the bench to first decide the following issue:
+"Whether the arbitrator has taken into account the fact that the contract was f.o.b.
+Vishakhapatnam and thus, what was the effect thereof?"
+The Supreme Court also stated in its order that after deciding the above primary issue and
+depending on it, this bench should thereafter decide other issues, if needed.
+Parties' contentions
+12. Mr Rishi Agarwala, learned counsel for Thyssen, argues that the only ground taken by SAIL in its
+petition for challenging the Arbitral Award in respect of FOB regarding the market price to be
+decided in terms of the loading port instead of the destination. The Arbitrator ruled against the
+Respondent and observed in the Award as follows:
+"Steel was contracted to be sold to the US market and therefore the analysis of the
+domestic value of the steel in India is irrelevant."
+Counsel urged that the above finding is supported by the ruling Van Den Hurk Vs. R. Martens & Co.,
+Ltd. - 1920(1) KB 850 which held as follows:
+"In my judgment the proper basis is the date at which the goods arrived at their
+ultimate destination, and consequently that the proper measure of damages is the
+higher one, namely, 2010l."
+Reliance was also placed on Hope Prudhomme and Company vs. Hamel and Honey, AIR 1925 PC
+161; Obaseki Bros vs. Relief & Sons Ltd., 1952(2) Lloyd LR 364 and Naihati Jute Mills Ltd. vs.
+Khyaliram Jagannath, (1968) 1 SCR 821.
+13. It was argued that the definition of "FOB" in terms of the 1990 INCOTERMS only transfers the
+risk of goods and not the title. The Appellant further submits that a five judge Bench judgment of
+the Supreme Court of India in B.K. Wadeyar v Daulatram Rameshwarlal, (1961) 1 SCR 924 stated
+this proposition of law in the following terms:
+"5......The normal rule in FOB contracts is that the property is intended to pass and
+does pass on the shipment of the goods. In certain circumstances, e.g., if the seller
+takes the bill of lading to his own order and parts with it to a third person the
+property in the goods, it has been held, does not pass to the buyer even on shipment.
+We are not concerned here with the question whether the passing of property in the
+goods was postponed even after shipment. The correctness of the proposition that in
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 6Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+the absence of special agreement the property in the goods does not pass in the case
+of a FOB contract until the goods are actually put on board is not disputed before us."
+It is submitted that in the present case there was a special agreement, which clearly postponed the
+transfer of title of the goods after the same had crossed the rails of the ship and therefore the effect
+of FOB in these special circumstances was totally irrelevant. The Sole Arbitrator correctly
+considered this. It is argued that in any case, even if the FOB nature was considered to be relevant,
+SAIL(cid:128)s argument that once the goods had been placed on board after inspection, Thyssen could not
+have rejected the goods at the port of destination i.e. USA is not correct; in this regard reliance is
+placed on the Arbitrator(cid:128)s finding that SGS India was not Thyssen(cid:128)s agent:
+"SGS themselves had made it clear that the scope of their role was very narrow and
+that they were performing their obligation under an existing contract that they had
+with the Respondents. The Respondents contend that SGS are their agents. Having
+considered the various documents and the submissions, I am satisfied that SGS did
+not become the a gents of the Claimants. I am also satisfied that the role that SGS had
+to play was a rather limited one."
+Thyssen also submits that SGS India(cid:128)s disclaimer in its pre-inspection certificate to that effect
+ought to be read against SAIL's contention that the certificate was conclusive of the quality of the
+goods. The certificate of inspection therefore, could not have been treated to be conclusive as held in
+the judgment of Rolimpex v. Haji Dossa & Sons 1971 (1) Lloyd LR 380. The disclaimer relied on is in
+the following terms:
+"... This certificate is not intended to relieve the seller or buyer from their contractual
+obligations. This inspection has been carried out to the best of our knowledge and
+ability and our responsibility is limited to the exercise of reasonable care"
+14. Thyssen argues that pre-shipment inspection by SGS India cannot be attributed to it and in any
+case under the agreement was not to be treated as final. Further, the certificate cannot take away
+SAIL's liability in respect of latent defects and breaches of specification in view of Sections 15, 16 and
+17 of the Sale of Goods Act, 1930. Counsel relies on Firm of Shivallingappa Shankarappa Mendse v
+Joint Family firm of Ck. Balakrishna Chettiar, AIR 1962 Mad 426 and Shri Lal Mahal Ltd. Vs.
+Progetto Grano Spa, (2014) 2 SCC 433. The inspection Certificate in fact mentions that there were
+small defects. It is urged that the purchaser in the present case is therefore entitled to warranty on
+the goods.
+15. Thyssen urges that interpretation of the terms of the contract was within the domain of the
+arbitrator, which meant that his decision is final; it cannot be questioned nor can it be said that the
+award is based on extraneous considerations. The CRC was to be sold in the US market for the
+purpose of continuous coil cutting and leveling into flat sheets / slitting. The CRC supplied by SAIL
+did not answer to the description and specifications agreed to by the parties nor was it of
+merchantable quality. The CRC was incapable of being used for the purpose which "prime cold
+rolled mild steel sheet" is used. Therefore, the conclusion that SAIL committed breach of the
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 7Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+contract was justified. The Single Judge rendered inconsistent findings in firstly relying on the
+correspondence exchanged between the parties at the stage of negotiation- to their intention and on
+the other hand, faulting the arbitrator for relying on a letter dated 05.02.1994. SAIL(cid:128)s failure to
+produce Mr. Ramachandran, signatory to the contract was fatal to its argument regarding parties(cid:128)
+intention as to meaning of the term "prime". SAIL kept back the best evidence i.e. its signatory to
+the contract, therefore adverse inference ought to have been drawn against it. However, the learned
+single Judge failed to do so. It is argued that ASTM i.e. American Standard of Testing Material does
+not deal with the continuous coil cutting and leveling. It was for this reason that the term "prime"
+was inserted in the contract. ASTM 568 is one of the many specifications to which the material had
+to conform. Merely because in the ASTM A-568 the words "continuous coil cutting and levelling"
+were not used did not mean that the other specifications could not be inserted in the contract. The
+arbitrator was justified in rejecting SAIL(cid:128)s argument that in the absence a fixed standard of
+material the term "prime" was of no significance. Since the contract contained the specification
+"prime" over and above the ASTM 568, it had a particular meaning. The single judge(cid:128)s finding that
+the word "prime" was redundant or it meant Class 2 material, was in excess of the court(cid:128)s
+jurisdiction. The impugned judgment could not have re-appreciated the evidence led on behalf of
+Thyssen, in the form of expert opinion of Mr. Joseph Bleke Houser of SGS Commercial Testing and
+Engineering Co. of USA. Mr. William Pitkin Bowes along with Mr. Servero Calima also inspected the
+CRC at the premises of TSG(cid:128)s customers. Mr. Bowes found CRC to be with mill imperfections. He
+further found some oscillation of terms to be both edges wavy and centre/quarter buckle/oil
+canning, speckled/spotted rust due to oil not being uniformly applied. Some of the CRC coils had
+speckled edge rust, black carbon stains, holes in the surface of the material, speckled rust due to oil
+not being uniformly applied, serrated edges, cantor buckle and quarter buckle both sides, bad shape
+problems/imperfections, fins on edges, etc.
+16. It was argued, on the question of damages, that the learned single judge fell into error in holding
+that the distinction made between sound market and damaged market value in the case of damaged
+goods, was contrary to law. The Single Judge(cid:128)s understanding, that wherever defective goods or
+goods unfit for consumption or goods that in breach of specifications are received by the buyer, the
+latter is entitled to claim compensation for breach of the warranty and the measure of damages is
+the difference between price paid and price realized on sale therefore, is impeached as incorrect. The
+application of the Ralia Ram case ratio for calculating damages was not apt. In that case it was held
+by the Supreme Court that when a party takes delivery of goods he becomes the owner of the goods
+and therefore, the advertisement, publicity, storage, commission, overhead expenses cannot be
+awarded to the buyer as part of compensation towards breach of the warranty.
+17. It is argued that any certificate issued by SGS cannot take away SAIL's liability for latent defects
+and breaches of specification in view of Sections 15, 16 and 17 of the Sale of Goods Act. The
+inspection Certificate in fact mentioned that there were small defects. The purchaser - in the present
+case the second appellant, is entitled to warranty on the goods under Section 59 of the Indian Sale of
+Goods Act, which reads as follows:
+"59. Remedy for breach of warranty - (1) Where there is a breach of warranty by the
+seller, or where the buyer elects or is compelled to treat any breach of a condition on
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 8Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+the part of the seller as a breach of warranty, the buyer is not by reason only of such
+breach of warranty entitled to reject the goods; but he may-
+(a) Set up against the seller the breach of warranty in diminution or extinction of the
+price; or
+(b)Sue the seller for damages for breach of warranty. (2) The fact that a buyer has set
+up a breach of warranty in diminution or extinction of the price does not prevent him
+from suing for the same breach of warranty if he has suffered further damage."
+Thus, "damages" were to be calculated in terms of Section 73 of the Contract Act, 1872. Reliance is
+placed on the judgments of the Supreme Court of India to say that the damages would be the
+difference between the contract price and the market price less mitigation. In this regard Thyssen
+cites Union of India Vs. West Punjab Factories (1996) 1 SCR 580 to this effect:
+"It is next contended that damages should have been awarded at the rate of Rs. 38/-
+per bale which was the contract price between the factor/ and the J. C. Mills. This
+contract was made in November 1942. The contract price in our opinion no measure
+of damages to be awarded in a case like the present. It is well settled that it is the
+market price at the time the damage occurred which is the measure of damages to be
+awarded. It is not in dispute that the trial court has calculated damages on the basis
+of the market price prevalent on March 8. In these circumstances this contention
+must also be rejected."
+18. SAIL(cid:128)s argument that FOB meant that the difference between the contract price and the market
+price ought to be taken at the loading port and not the destination is disputed. It is emphasized that
+the rejection was specific on the point by the Arbitrator. Furthermore, in the cross examination,
+SAIL(cid:128)s witness, Mr. G.S. Sandhu admitted that the price of steel even in India had increased from
+the date of the contract. The relevant question and answer is as follows:
+"479. Q. There was talk of knowing the outcome on the first Lot before getting the
+second lot produced and there was a third factor, was there not? During the course of
+the period since January 1994 when the price had been agreed, the price of
+cold-rolled coils had risen substantially, had it not?
+A. That is true.
+480. Q. And it was up by about $100 a tonne by September 1994? A. Maybe that
+much. It will not be exactly 100, but we can say that."
+Therefore, urges Thyssen, assessment of damages by the Arbitrator was by relying upon the report
+of Mr. Allen Davies (its expert witness), who was thoroughly cross-examined by SAIL. Thyssen(cid:128)s
+counsel submits that the market price proven by it was of US$ 500 PMT and the contract price was
+US$ 360.5 PMT. The difference was therefore of US$ 139.5 PMT. However, through mitigation of
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 9Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+losses Thyssen was able to achieve a further reduction in damages and the contractual loss proven
+by the Appellant was that of US$ 117PMT. Merely because Thyssen was able to obtain a price higher
+than the contractual price, that cannot be taken as the market price. The only measure of damages is
+the market price and the difference it has with the contract price. The mitigation only helped SAIL
+in minimizing the payment of damages to Thyssen. Adding the expenses of US$ 28 PMT, argued
+counsel Thyssen was entitled to claim and was awarded US$ 145 PMT for the defective supplies.
+19. It was argued by Mr. Agarwala, that the learned single judge fell into error in accepting SAIL(cid:128)s
+contention that there was no concluded contract in respect of the second lot. The amendment, dated
+12.5.1994 to the main agreement dated 04.03.1994, clearly increased the contractual quantity to
+20,000 MTs to be supplied in two lots. The second lot was to be supplied in May-June 1994.
+However, the first lot itself was exported in August 1994 and SAIL wanted to escape its obligation to
+supply the second lot because the international prices of steel had increased as admitted by its
+witness, Mr. G.S. Sandhu in answers to question Nos. 479 and 480. Accordingly, SAIL took refuge
+under (a) defects in LC (b) formal amendment not having been executed in respect of sizes as
+reasons for not being able to supply the said goods. Both the reasons were clearly an afterthought
+and raised for the first time on 10.10.1994 though all correspondences prior to the same admitted
+that the size mix had been provided by the Appellant and the establishment of the LC was not in
+dispute. The Contract between the parties in respect of the second lot was clearly a concluded
+Contract. Thyssen also relied on the previous judgment of the Division Bench, which had noted the
+amendment, dated 12.5.1994: "Separate amendment will be issued for sizes in the second lot. All
+other terms and conditions of the contract remain unchanged"
+Thyssen says that the above words in the said amendment cannot be construed in a
+manner as to destroy the amendment itself. Thyssen relies on Kollipara Sriramulu v
+T. Aswathanarayana (1958) 3 SCR 387 where it was held as follows:
+"3. We proceed to consider the next question raised in these appeals, namely,
+whether the oral agreement was ineffective because the parties contemplated the
+execution of a formal document or because the mode of payment of the purchase
+money was not actually agreed upon. It was submitted on behalf of the appellant that
+there was no contract because the sale was conditional upon a regular agreement
+being executed and no such agreement was executed. We do not accept this argument
+as correct. It is well established that a mere reference to a future formal contract will
+not prevent a binding bargain between the parties. The fact that the parties refer to
+the preparation of an agreement by which the terms agreed upon are to be put in a
+more formal shape does not prevent the existence of a binding contract."
+20. Mr. Dipankar Gupta and Mr. Joydeep Gupta, learned senior counsel appearing for SAIL, urged
+that this court should not interfere with the impugned judgment of the learned single judge. The
+first contention urged is that the contract between the parties is on FOB basis; reliance is placed on
+Contship vs. D.K.Lall (2010) 4 SCC 256 where it was held that "in the case offo.b. contracts the
+goods are delivered free on board the ship. Once the 'seller has placed the goods safely on board at
+his cost and thereby handed over the possession of the goods to the ship 'in terms of the bill of
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 10Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+lading or other documents, the responsibility of the seller ceases and the delivery of the goods to the
+buyer is complete. The goods are from that stage onwards at the risk of the buyer."
+It is argued that neither the claim before the arbitrator nor the award is based on or took into
+account the fact that the contract was f.o.b. Vizag for the following reasons:
+a) The claim made by TSU of US$ 1,776,503.05 is based on the market value of the
+first lot of US$ 5,008,172.33 (p 95-96 of the appeal Paper book). The award does not
+explain the market value at which place. TSU, however, led evidence in the
+arbitration proceedings and from para 3.6 of the evidence of Mr. Alan K. Davis (pg.
+337 Vol. I) and Admofsky(cid:128)s evidence it appears that this figure of US$ 5,008,172.33
+is the aggregate of the different prices at which the first lot was sold by TSG to their
+different retail customers at different places in the USA.
+b) The amount awarded for the first lot (p. 177 of the appeal Paper book) is based on
+the very same alleged market value of US$ 5,008,172.37 less the total salvage value
+thereof plus costs associated with salvage. Though there were some small
+amendments to the claim (p. 153-154 of the appeal paper book) the basis, namely, the
+market value in USA, remained the same.
+c) Assuming that the materials covered by the first lot or any part thereof were
+defective in any way (which is denied) damages would have to be established with
+reference to the market value at the place of delivery, namely Vizag in the present
+case.
+d) It is therefore clear that both the claim and the award with reference to the first lot
+were unrelated to the market rate at Vizag and therefore the award failed to take into
+account the fact that the contract was f.o.b. Vizag.
+21. Furthermore, it is argued that that the arbitrator completely ignored that the relevant market
+(even if the goods were assumed to be defective) was at Vizag and therefore ignored the fact that
+the- contract was f.o.b. Vizag. Counsel relied on the observations of the award in this regard that "it
+is wrong to take domestic Indian steel-production as a comparison, which it is clear, would never
+have been acceptable to USA market"( p. 172 of the paper book); "Steel was directed to be sold to the
+US market and therefore the analysis of the domestic value of the steel in India is irrelevant" ( p 158
+of the paper book)"The only sensible way of assessing the f. o. b. Vizag price for export to USA
+(which this cargo was) rather than sale to the domestic market is to take the CIF new Orleans figures
+and work backward" (p. 72 of the paper, book). Counsel submitted that these observations are
+grossly mistaken and unwarranted. The market value in different markets of the same goods does
+not depend upon the cost of transportation from one market to the other. For example, the same
+goods may be sold at widely varying price in different markets in the same city. In fact, the metal
+bulletin relied upon by Thyssen (pg. 481 Vol 1) shows that contemporaneous prices in USA were
+about 100 USD more PMT when compared to contractual price of 360.5 USD PMT. Reliance is
+placed on Murlidhar Chiranjilal v Harishchandra Dwarkadas, AIR 1962 SC 366. The contract there
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 11Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+was for delivery of certain goods through railway receipt for Kolkata f.o.r. Kanpur. It was held that
+damages would be the difference between the market price in Kanpur on the date of breach and the
+contract price and the fact that contract envisaged goods going to Calcutta would be irrelevant. It is
+urged that the fact that Thyssen was taking the goods to USA is irrelevant because they could take it
+anywhere else also after obtaining SAIL's prior approval. Such clauses are part of the contract
+because of international trade relations etc. It is therefore urged that the award did not consider that
+the contract was f.o.b. Vizag. On this ground alone the award deserves to be set aside. These
+contentions, urge SAIL are without prejudice to its contention that in terms of the Supreme Court(cid:128)s
+ruling, in case of an alleged defective sale the correct measure of damages is the difference between
+price paid and price received - UOI v. Ralia Ram AIR 1963 SC 1685. Further arguendo, even if the
+alleged market price were to be the basis of damages then in case of a sub-sale the damages is
+limited by the price of sub-sale by the claimant. This, SAIL submits, is irrespective of the question of
+alleged defects, which too is dealt with.
+22. On the issue of whether the materials were defective, it is contended that since the contract was
+FOB Vizag and it was no one's case that there was any damage to the goods while during transit
+from SAIL(cid:128)s Bokaro Plant to Vizag, any defects, to entitle the Thyssen to damages, must be proved
+to be mill related. There could be no claim otherwise. This was never established. It is argued that
+M/s. S.G.S. India Ltd. ("SGS") being the Surveyor named in the contract was appointed at
+Thyssen(cid:128)s insistence. Its witness, Mr. Kruger, in his statement-in-chief stated:"We insisted that all
+material would go through a full range of inspection by SGS." [Page 320 Vol.I Para 50.3]. It is
+emphasized that Thyssen paid SAIL for the goods through Letter of Credit supported by the SGS
+certificates as provided at page 87 of the paper book. Thyssen could not have negotiated the letter of
+credit if the SGS certificates were not in terms of the contract, i.e. that the materials had not been
+produced according to the contract requirements. In addition to SGS(cid:128) inspection, the claimants on
+29.04.1994 appointed Inspectorate Griffith (India) Pvt. Ltd. (hereinafter referred to as IGI) as their
+own inspecting agency at their cost, to supervise the material at the Bokaro Steel Plant [Vol.II page
+656]. Thyssen stated that this action was taken, to avoid dispute regarding quality of materials. IGI
+did supervise production at Bokaro but Thyssen did not disclose any adverse report by them. Mr.
+Jain of NEPL (a witness on behalf of Thyssen) in his cross-examination confirmed that IGI observed
+production and reported periodically on the same (pg 307 Vol.I). It is argued further that there was
+direct supervision by Thyssen's Surveyors and representatives of the entire production of the CR
+Coils at the SAIL(cid:128)s Bokaro Mills, as evident from the following facts:
+(a) On 25.04.1994 Mr. Kruger of TSU after visit to Bokaro mills noted that they have
+"seen the CRC mill in full and have seen the temper passing of some of the Coils of
+our order as well as the packing of material for the USA. During this visit we have
+found some small problems which we felt have to be adjusted....."[pg 636 Vol.II]
+(b) NEPL, TSU's Indian agents (Mr. Jain & Somani) who were also visiting the plant
+during production wrote to Mr. Kruger of TSU on 01.06.1994 as follows:
+"Because of this strict inspection asked by us the quantity being produced as been
+reduced" [Vol.II pg. 727]
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 12Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+(c) There was a joint meeting on 04.06.1994 during production where SAIL, TSU and
+SGS participated. In this meeting it was recorded that SGS will visually inspect and
+measure all the coils. Various precautionary measures were discussed. In the minutes
+of this meeting it is recorded as follows:
+"All the coils will be visually inspected and measured by SGS before and after packing
+as per the contract. Plant has informed that rust preventive oil 13-SO manufactured
+by IOC is being used and even oiling throughout the surface of the coil and the edges
+is ensured" [Vol.II pg 731]
+(d) On 24.06.1994 NEPL, the Indian agents of the claimant reported to Mr.Sohn (of
+TSU) that oiling had been increased/changed as per instructions of Mr. Brooks of
+TSU. [Vol. II pg 746]
+(e) On 28.07.1994 Mr. Kruger of the claimant wrote to Mr. Adamofsky of TSG "we
+have a full inspection by SGS during production, packing, transportation and loading.
+SAIL has done everything possible to protect the cargo. SAIL has three times
+produced part of the material newly" [Vol. II pg. 757 to 759] Later, on 04.08.1994, he
+again wrote to Mr. Adamofsky of TSG in which he observed: "material was inspected
+and is still being inspected during production, packaging, transport to port and
+loading".
+[Vol.III pg. 764]
+(f) SAIL submitted that Mr. Kruger of the claimant observes in his statement of examination in chief
+that:
+"As I stated in my report, everybody at the Bokaro Mill was both cooperative and
+concerned to ensure that the quality of the CRC met that which TSU required." [Vol. I
+para 51 p 321].
+23. It was also argued that at no stage during production was any complaint made either by
+representatives of TSU or by any of the Indian surveyors to the effect that the material covered by
+the first lot was in any way defective. The award fails to take into account and in fact brushes aside
+all the evidence indicated above to the effect that materials were produced in the presence of and
+under the direct supervision of TSU, SGS and IGI. The award was also vitiated by reading the word
+"prime" to mean top quality goods and suitable for continuous coil cutting which was beyond
+contractual specifications.
+24. It is further argued by counsel that the arbitrator's finding in the award with regard to alleged
+defects in the 1st lot is based upon the evidence of American surveyors Mr. Bowes and Calima who
+are alleged to have inspected the goods after delivery from TSG to its retail customers at different
+places in U.S.A. Counsel relied on judgments of the Supreme Court that an expert must give
+objective findings and it is for the court to conclude whether the expert's views are correct (Ref.
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 13Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+Murarilal v. State of Madhya Pradesh 1980 (1) SCC 704 and Ramesh Chandra Aggarwal v. Regency
+Hospital Ltd. and Ors. 2009 (9) SCC 709). It is argued that the evidence as well as observations in
+the award show that the American surveyors totally failed to give objective findings and the
+Arbitrator blindly accepted the subjective opinions of the American surveyors. Reliance is placed on
+the following observations in the Award:
+"They say that the surveyors did not sufficiently measure the extent of the defects
+which they found. If one were taking of the border line goods, there might be some
+force in it. These goods were according to the surveyors, the worst they had ever seen.
+They were so defective they did not need correct measurement." (p 144-145 of the
+paper book)."
+"It is not practical, particularly when the extent of the defects was so obvious to the
+experienced surveyors, to waste time and money inspecting, measuring and
+quantifying the precise percentage of the defective material including attempting to
+cut level and then measure defects in sheet which it is known are going to unusable
+(p. 145 of the paper book).
+These, argue counsel, reveal that the award was rendered without considering the
+contractual specifications and without considering the fact that goods were
+admittedly fit for such specifications. Additionally, at the time of alleged survey, the
+American surveyors had reference to the specifications mentioned in the purchase
+orders of TSG's retails customers placed on TSG (pg 864 Vol.III). These were
+different from the specifications of the SAIL-TSU contracts. Therefore, the American
+Surveyors did not have the contractual specifications at the time of their alleged
+survey. Apparently, the Surveyors were then told that this will not do in view of the
+proposed litigation with SAIL (pg 869 Vol.III). The surveyors immediately obliged by
+purporting to certify that the surveyed goods did not conform to the TSU/SAIL
+contract. (vide pg 870 Vol. III). It is pointed out that with reference to a suggestion
+put to one of the American surveyors that he had been looking at the material with
+the wrong specifications in mind, the Award observed that "was not border line
+material, so the precise specifications make no difference." In the circumstances
+there was clear evidence to the effect that the goods covered by the 1st lot were not
+defective in any way and that the award is "otherwise invalid" on this account also.
+25. It is pointed out that the Single Judge set aside the award for the second lot, inter alia on the
+basis that there was no enforceable, binding or concluded contract regarding the same and also on
+the basis that for an fob Vizag contract, American steel prices could not have been taken into
+consideration for assessing damages. On whether there was a concluded contract or not with regard
+to the second lot, the Single Judge had to decide that issue afresh on facts, as per the mandate of
+Section 33 of the Act, irrespective of any decision of the Arbitrator.
+26. This part of the award, it is submitted, has to be treated differently from the portion regarding
+the 1st lot. The limitations of Section 30 of the Arbitration Act, 1940 would not apply here. SAIL
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 14Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+relies on Khardah Co. Ltd. v. Raymon and Co. (India) Pvt. Ltd. AIR 1962 SC 1810; Waverly Jute
+Mills Co. Ltd. v. Raymon and Co. (India) Pvt. Ltd. AIR 1963 SC 90; Renu Sagar Power Co. Ltd. v.
+General Electric Co. and Anr1984 (4) SCC 679.
+The contract for the first lot was dated 04.03.1994 for 10,000 MTs. There was an amendment to this
+contract on 12.05.1994 which suggested a supply of a second lot of 10000 MTs of CRC. However, it
+was envisaged that a separate amendment for sizes of the second lot to be agreed upon later will be
+issued (pg 88 appeal paper book). It was contended by SAIL that there was no concluded contract
+for the 2nd lot, inter alia because (a) separate amendment for sizes of the second lot was never
+issued; (b) Thyssen bases the claim on letter dated 17.03.1994 for agreement on the size mix for the
+second lot and it being similar to the first lot is incorrect because the size- mix was not specified, in
+the letter of 12.05.1994, which expressly stated that a further document was to be issued. This read
+with clauses 9 and 10 of the agreement, negates any argument that the size-mix was already a
+concluded matter on 12.05.1994 because of the letter dated 17.03.1994. (b) It is argued that the
+specifications suggested by TSU in September 1994 for the second lot were different from those of
+the first lot and that the sub-lots and markings were to be indicated later, thereby showing
+conclusively that they had not been agreed upon even till then.
+27. SAIL's counsel urges that the essential terms had not been agreed upon finally and, therefore, no
+binding contract came into existence. It relies on May v. Butcher 1934 (2) KB 17. It is stated that Mr.
+Kruger who was primarily responsible for negotiating the contract on the part of TSU did not know
+that such an agreement was entered into. This was consistent with Mr. Kruger's letter dated
+05.09.1994, which is at (pg 768 Vol. III). These contentions were accepted. SAIL urges that the
+single judge(cid:128)s findings do not call for interference on this aspect. It is urged that no damages would
+be payable even otherwise. The finding of the arbitrator, it is submitted was totally unwarranted.
+The arbitrator held that:
+"It is wrong to take domestic Indian steel production as a comparison, which it is
+clear, would never have been acceptable to the USA market."
+Analysis and Conclusions
+28. The contract between the parties was concluded on 04.03.1994; Thyssen placed an order for the
+purchase of 10,000 CRC from SAIL. The parties also agreed that SAIL would supply an additional
+10,000 CRC to Thyssen, at a later date. The material supplied by SAIL, was alleged to be not in
+terms of standards agreed to by the parties. This dispute was referred to arbitration. The several
+points which included were (a) the interpretation of the contract, with reference to the quality of the
+goods agreed to be sold;
+(b) whether there was a concluded contract between the parties as to the second- additional
+quantity; (c) whether Thyssen could claim damages in the circumstances- in the context of SAIL(cid:128)s
+plea that it had the goods inspected from time to time, at the stage of manufacture and also that
+given the condition that the goods were FOB Vizag there could be no liability and (b) whether
+Thyssen was entitled to damages based on the difference between the price of the goods at the time
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 15Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+they were ultimately received by its customers and their contract value.
+29. It must be noticed at the outset that the remit of the Supreme Court was with respect to
+rendering a finding whether the arbitrator took note of the fact that the goods were f.o.b. Vizag and
+the effect thereof upon the validity of the award. The scope of the remand in the present case is
+found in the decision of the Supreme Court, which has referred the following issue to this Court:
+"Whether the arbitrator has taken into account the fact that the contract was f.o.b.
+Vishakhapatnam and thus, what was the effect thereof?"
+The Supreme Court in its remand order also noted:
+"In view of the above, the judgment and orders passed by the Division Bench
+impugned in both these appeals are set aside and we remand the cases to the Division
+Bench of the High Court to consider it afresh and decide first the primary issue and
+depending upon the outcome of the same, other issues may be considered."
+30. It is clear from the order of the Supreme Court that it would be open to this court to consider all
+the issues raised in this dispute, after deciding the primary question referred to it. Before doing so, it
+is essential to recollect the scope of the power to be exercised by this Court in a matter arising under
+Section 30 of the Arbitration Act, 1940, such as the present one. The Supreme Court in the case of
+Jivarajbhai Ujamshi Sheth v. Chintamanrao Balaji, AIR 1965 SC 214, while reviewing the scope of
+powers of the Court under Section 30 of the Arbitration Act, 1940, held:
+"The Court in dealing with an application to set aside an award has not to consider
+whether the view of the arbitrator on the evidence is justified. The arbitrator's
+adjudication is generally considered binding between the parties, for he is a tribunal
+selected by the parties and the power of the Court to set aside the award is restricted
+to cases set out in s. 30. It is not open to the Court to speculate, where no reasons are
+given by the arbitrator, as to what impelled the arbitrator to arrive at his conclusion.
+On the assumption that the arbitrator must have arrived at his conclusion by a
+certain process of reasoning, the Court cannot proceed to determine whether the
+conclusion is right or wrong. It is not open to the Court to attempt to probe the
+mental process by which the arbitrator has reached his conclusion where it is not
+disclosed by the terms of his award."
+31. Similarly, the Supreme Court in State of U.P. v. Allied Constructions, (2003) 7 SCC 396, in
+relation to Section 30 of the Arbitration Act, held:
+"Interpretation of a contract, it is trite, is a matter for arbitrator to determine Section
+30 of the Arbitration Act, 1940 providing for setting aside an award is restrictive in its
+operation. Unless one or the other condition contained in Section 30 is satisfied, an
+award cannot be set aside. The arbitrator is a Judge chosen by the parties and his
+decision is final. The Court is precluded from reappraising the evidence. Even in a
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 16Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+case where the award contains reasons, the interference therewith would still be not
+available within the jurisdiction of the Court unless, of course, the reasons are totally
+perverse or the judgment is based on a wrong proposition of law. An error apparent
+on the face of the records would not imply closer scrutiny of the merits of documents
+and materials on record. Once it is found that the view of the arbitrator is a plausible
+one, the Court will refrain itself from interfering."
+32. Therefore, what emerges clearly from these above dictums is that while dealing with an arbitral
+award under Section 30 of the Arbitration Act, 1940, the Court cannot set aside the award unless
+"the reasons are totally perverse or the judgment is based on a wrong proposition of law." Under no
+circumstance can the Court reappraise the evidence or interfere with the findings of fact recorded by
+the arbitral tribunal. It also must be noted that under Section 15 of the Arbitration Act, 1940, the
+Court also has the power to modify an arbitral award. While dealing with the question of modifying
+an arbitral award, the Supreme Court in the case of Gujarat Water Supply and Sewerage Board v.
+Unique Erectors (Gujarat) Pvt. Ltd., AIR 1989 SC 973 noted:
+"There is, however, one infirmity in the award which is apparent on the face of the
+award which in the interest of justice as the law now stands declared by this Court,
+we should correct, viz., the question of interest pendente lite."
+Along similar lines, the Supreme Court in Union of India v. Manager, M/s. Jain and Associates, AIR
+2001 SC 809 explained the scheme of Section 15 and Section 30 of the Arbitration Act, 1940 in the
+following terms:
+"Similarly, when the Court is required to proceed without objection application under
+Section 30 or 33 of the Act, it cannot pronounce the judgment without considering
+the provisions of Sections 15 and 16 of the Act, which provide, as stated above, for
+modification or correction of any award or for remitting it to the arbitrator for
+re-consideration on the ground that (i) there is any error of law apparent on the face
+of the award, (ii) the award is incapable of being executed, (iii) the award has left
+undetermined any of the matters referred to arbitration, (iv) that a part of the award
+is upon a matter not referred to arbitration and (v) the award contains any obvious
+error. Jurisdiction of the Court to pronounce judgment depends on exercise of its
+power to modify or remit the award."
+33. The remit is a narrow one; yet it involves analysis of some facts, based on the evidence, i.e., as to
+whether the inspection of the goods at various stages bound Thyssen and the facts on the record, in
+the context of SAIL(cid:128)s contention that upon delivery of the goods on board, the claimant buyer was
+precluded from objecting to its quality- which would also ultimately impact the issue of damages, if
+any and its quantum.
+34. Keeping the above view in mind, the first question that this Court must consider is the one
+referred to it by the Supreme Court. The contract in the present case is f.o.b. Vishakhapatnam. The
+nature of an f.o.b. contract and its distinction from a CIF contract was explained by the Supreme
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 17Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+Court in the case of Contship Container Lines Ltd v. D.K. Lall, (2010) 4 SCC 256:
+"The distinction between CIF (Cost Insurance and Freight) and FOB (Free on Board)
+contracts is well recognized in the commercial world. While in the case of CIF
+contract the seller in the absence of any special contract is bound to do certain things
+like making an invoice of the goods sold, shipping the goods at the port of shipment,
+procuring a contract of insurance under which the goods will be delivered at the
+destination etc., in the case of FOB contracts the goods are delivered free on board
+the ship. Once the seller has placed the goods safely on board at his cost and thereby
+handed over the possession of the goods to the ship in terms of the Bill of Lading or
+other documents, the responsibility of the seller ceases and the delivery of the goods
+to the buyer is complete. The goods are from that stage onwards at the risk of the
+buyer."
+35. It must be noted in this context, that while in an f.o.b. contract, the risk passes to the buyer once
+the goods are put on board the ship and thereafter the seller(cid:128)s obligations are complete, this does
+not imply that the buyer does not have any right to claim damages or repudiate the contract in case
+the goods are subsequently found to be defective. In that sense, an f.o.b. contract has no relevance to
+the liability of a seller to sell the contractual goods or to the quality of the goods sold. It is only
+relevant for determination of risk and liability during transportation of the goods. It has been noted
+in Benjamin(cid:128)s Sale of Goods (7th ed., 2006), p. 1737:
+"An f.o.b. buyer has the normal right to reject the goods if they are defective in a way
+that amounts to a breach of a fundamental term, or to breach of condition, or to a
+breach of an intermediate term which causes serious prejudice to the buyer."
+Therefore, it is clear that merely because the risk passes to the buyer when the seller places the
+goods on board the ship in an f.o.b. contract, this does not affect the right of the buyer to reject the
+goods or claim damages, when subsequently on arrival of the goods, it is discovered that the goods
+were in a defective condition. Such a rule also finds place in Section 41 of the Sale of Goods Act,
+1930, which provides:
+"Section 41 - Buyer's right of examining the goods (1) Where goods are delivered to
+the buyer which he has not previously examined, he is not deemed to have accepted
+them unless and until he has had a reasonable opportunity of examining them for the
+purpose of ascertaining whether they are in conformity with the contract.
+(2) Unless otherwise agreed, when the seller tenders delivery of goods to the buyer,
+he is bound, on request, to afford the buyer a reasonable opportunity of examining
+the goods for the purpose of ascertaining whether they are in conformity with the
+contract.
+36. By reason of Section 41, a buyer is not deemed to have accepted the goods delivered to him by
+the seller, unless he has had reasonable opportunity of examining them. Thus, merely because the
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 18Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+risk passes to the buyer in an f.o.b. contract when the goods are put on board the ship by the buyer,
+unless the buyer has had reasonable opportunity of examining the goods, he would not be deemed to
+have accepted them, and consequently, he would be entitled to claim damages in case on examining
+them it is found that the goods were not in conformity with the contract. The question that then
+arises is whether the buyer i.e. TSU in this case had the opportunity of examining the goods through
+its agents-SGS India PTE. Ltd and IGI, before the goods were put on board the ship by the seller. It
+is important to note that the question of whether SGS India PTE Ltd. and IGI were acting as the
+agents of TSU and whether they had sufficient opportunity to examine the goods in a manner that
+displaces the presumption under Section 41 of the Sale of Goods Act, 1930, is essentially a question
+of fact. Since the learned arbitrator has returned a finding on this point, it would not be appropriate
+for this Court to reappraise the evidence on its own accord. On this issue, the learned arbitrator has
+noted that both SGS and IGI had a very limited role to play in the examination of the goods and the
+nature of the inspection carried out by them was also limited. The arbitrator found that the
+certificates adduced by SGS or IGI cannot be relied upon as evidencing the fact that the buyer had
+sufficient opportunity of examining the goods before they were put on board by the seller. Thus,
+under Section 41 of the Sale of Goods Act, the buyer would retain his right to reject the goods till
+such time as he has had reasonable opportunity to examine them. In this context, the law in relation
+to the buyer(cid:128)s right of examination of goods has been stated in Benjamin (supra), p. 1743 in the
+following terms:
+"First, the burden of proving that the buyer had a reasonable opportunity of
+examining the goods at the point of the shipment lies on the seller and unless there is
+an affirmative finding of fact to that effect, the buyer will not be held to have accepted
+the goods merely because he failed to examine them at that point. Secondly, the
+opportunity afforded to the buyer must be a reasonable opportunity of examining the
+goods to see whether they were in accordance with the contract-not merely whether
+there was reasonable opportunity to have discovered the particular defect which is
+being sued for if it had been the only defect."
+37. Such being the case, in view of the arbitrator(cid:128)s finding, it is clear that in this case, the buyer did
+not have the opportunity of examining the goods before they were put on board the ship by the
+seller. The question is whether in case of an f.o.b. contract, the law in relation to the buyer(cid:128)s right to
+examine the goods would operate differently and whether the buyer would be entitled to exercise
+such a right only before the goods are put on board the ship by the seller, as the risk would pass to
+the buyer thereafter. However, it was noted by the Court of Appeal in Boks & Co. v. JH Rayner & Co,
+(1921) 8 Ll. L. Rep. 108 that "there was not...any general rule that an f.o.b. buyer must inspect the
+goods before they were put on board." In fact, it is noted in Benjamin (supra), p. 1741 that-
+"In most of the reported cases on f.o.b. contracts, the point of examination has been
+held to be, not the place of shipment, but the destination of the goods: that is, the
+place at which they actually get into the hands of the buyer or into the hands of a
+sub-buyer to whom they are directly dispatched."
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 19Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+Similarly, in the context of the Sale of Goods Act, 1930, it has been noted in Pollock & Mulla, The
+Sale of Goods Act, (9th ed. 2014), p. 419:
+"..(In f.o.b. contracts) Although the place for examination is usually the place of
+delivery, there is no rule that the goods must be examined on or before shipment,
+which may often be impracticable."
+38. Therefore, in this case, even though the contract was f.o.b. Vishakhapatnam, the buyer still had
+the right to examine the goods after receiving them either at the destination or at the place where
+the sub-buyer received them, and if they were found to be defective, then the buyer retained the
+right to reject them or claim damages for breach of warranty. In the present case, as is clear from the
+facts recorded in the arbitral award, the first lot of CRC was loaded on the vessel for shipment to
+New Orleans, USA. It appears from the facts that the goods were directly dispatched to Thyssen(cid:128)s
+buyers when the goods reached New Orleans. Its customers, on receiving the goods informed it that
+the CRC supplied by SAIL had several defects and accordingly rejected the said goods. Therefore, it
+is clear that the buyer i.e. TSU did not have the opportunity of examining the goods at the initial
+place of delivery and hence, could not have lost its right to reject the goods or claim damages for
+breach of warranty, in case the goods were found to be defective by the buyer(cid:128)s customers.
+39. Once it is clear that the nature of the contract being f.o.b. Vishakhapatnam did not affect
+Thyssen(cid:128)s right to claim damages from SAIL in case the goods were found to be defective on
+examination, the next question that must be considered is whether the goods in the present case are
+defective in nature. In order to ascertain whether the goods are defective in nature, it would be
+apposite to reproduce the relevant provisions of the Sale of Goods Act, 1930 dealing with the quality
+of the goods sold by the seller to the buyer:
+"Section 15 Where there is a contract for the sale of goods by description, there is an
+implied condition that the goods shall correspond with the description; and, if the
+sale is by sample as well as by description, it is not sufficient that the bulk of the
+goods correspond with the sample if the goods do not also correspond with the
+description. Section 16 Subject to the provisions of this Act and of any other law for
+the time being in force, there is no implied warranty or condition as to the quality or
+fitness for any particular purpose of goods supplied under a contract of sale, except as
+follows:
+(1) Where the buyer, expressly or by implication, makes known to the seller the
+particular purpose for which the goods are required, so as to show that the buyer
+relies on the seller's skill or judgment, and the goods are of a description which it is in
+the course of the seller's business to supply (whether he is the manufacturer or
+producer or not), there is an implied condition that the goods shall be reasonably fit
+for such purpose:
+Provided that, in the case of a contract for the sale of a specified article under its
+patent or other trade name, there is no implied condition as to its fitness for any
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 20Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+particular purpose.
+(2) Where goods are bought by description from a seller who deals in goods of that
+description (whether he is the manufacturer or producer or not), there is an implied
+condition that the goods shall be of merchantable quality:
+Provided that, if the buyer has examined the goods, there shall be no implied
+condition as regards defects which such examination ought to have revealed.
+(3) An implied warranty or condition as to quality or fitness for a particular purpose
+may be annexed by the usage of trade. (4) An express warranty or condition does not
+negative a warranty or condition implied by this Act unless inconsistent therewith."
+Section 59 (1) Where there is a breach of warranty by the seller, or where the buyer
+elects or is compelled to treat any breach of a condition on the part of the seller as a
+breach of warranty, the buyer is not by reason only of such breach of warranty
+entitled to reject the goods; but he may--
+(a) set up against the seller the breach of warranty in diminution or extinction of the
+price; or
+(b) sue the seller for damages for breach of warranty. (2) The fact that a buyer has set
+up a breach of warranty in diminution or extinction of the price does not prevent him
+from suing for the same breach of warranty if he has suffered further damage.
+40. In this case, the learned arbitrator in his award found that the goods delivered to the buyer were
+hit by the operation of Section 15 (implied condition that the goods shall correspond with the
+description), Section 16(1) (implied condition as to fitness for purpose) and Section 16(2) (implied
+condition as to goods being of merchantable quality). On the basis of the above provisions, the
+learned arbitrator found that the goods delivered by the seller were defective in nature, i.e. they did
+not conform to the description, they were unfit for the purpose that they were being bought and that
+they were not of merchantable quality. Since this is a finding of fact arrived at by the arbitrator, this
+Court finds no reason to interfere with the same. In fact, on this point, the Division Bench(cid:128)s
+decision (which has been set aside by the Supreme Court) also found that the goods delivered by
+SAIL were defective in nature. Even the learned Single Judge in his decision, after reaching the
+conclusion that the arbitrator(cid:128)s findings on the defective nature of the goods was fraught with
+infirmities, nonetheless proceeded to examine the question of damages.
+41. This court does not propose to re-appreciate the facts pertaining to contract interpretation,
+particularly as to the meaning of the expression "prime" and the discussion on applicability of
+standards, or whether the CRC was suitable for coil cutting or not. As stated earlier, it is clear that
+interpretation of contract- even under the (now repealed) Arbitration Act, 1940 was the exclusive
+domain of the arbitrator; the "reasonableness" of that decision is not open to challenge before a
+court considering an application under Section 30/33 of the Act. (See Allied Construction (supra)
+Sudarshan Trading Co v Govt of Kerala 1989 (2) SCC 38 and Harish Chandra & Co v State of UP
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 21Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+(2016) 9 SCC 478). Instead of reopening the facts therefore, this court proposes to proceed on the
+basis that the goods delivered by SAIL to TSU were in some respects, defective in nature, and move
+to the issue of computation of damages by the learned arbitrator.
+42. Once it is established that the goods in question were defective, Section 59 of the Sale of Goods
+Act, 1930 would apply where the buyer elects to or is compelled to treat the breach of condition by
+the seller as a breach of warranty, and the buyer in such a case would be entitled to set up against
+the seller the breach of warranty in diminution or extinction of the price or sue the seller for
+damages for breach of warranty. The question that would then arise would be in relation to the
+computation of damages. In this regard, the damages that would be due to the buyer from the seller
+would be governed by Section 73 of the Indian Contract Act, 1872. Section 73 provides:
+"When a contract has been broken, the party who suffers by such breach is entitled to
+receive, from the party who has broken the contract, compensation for any loss or
+damage caused to him thereby, which naturally arose in the usual course of things
+from such breach, or which the parties knew, when they made the contract, to be
+likely to result from the breach of it.
+Such compensation is not to be given for any remote and indirect loss or damage
+sustained by reason of the breach. Compensation for failure to discharge obligation
+resembling those created by contract.
+When an obligation resembling those created by contract has been incurred and has
+not been discharged, any person injured by the failure to discharge it is entitled to
+receive the same compensation from the party in default, as if such person had
+contracted to discharge it and had broken his contract.
+Explanation.-In estimating the loss or damage arising from a breach of contract, the
+means which existed of remedying the inconvenience caused by the non-performance
+of the contract must be taken into account."
+43. Section 73 stipulates the rule of damages for breach of contract, aimed at compensating the
+injured party, as far as money can, by placing him in as good a situation as if the contract had been
+performed. With respect to defective goods, the measure of damages is usually the price paid for the
+defective goods to the seller reduced by the price received when such defective goods are sold by the
+buyer. In relation to an f.o.b. contract, the computation of damages has to be with reference to the
+market price of the goods at the place where the goods were put on board the ship. In this context, in
+relation to an f.o.r. (Kanpur) contract, the Supreme Court in Murlidhar Chiranjilal v. Harishchandra
+Dwarkadas, AIR 1962 SC 366, noted:
+"The two principles on which damages in such cases are calculated are well-settled.
+The first is that, as far as possible, he who has proved a breach of a bargain to supply
+what he contracted to get is to be placed, as far as money can do it, in as good a
+situation as if the contract had been performed; but this principles is qualified by a
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 22Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+second, which imposes on a plaintiff the duty of taking all reasonable steps to
+mitigate the loss consequent on the breach, and debars him from claiming any part of
+the damage which is due to his neglect to take such steps : (British Westinghouse
+Electric and Manufacturing Company Limited v. Underground Electric Railways
+Company of London [1912] A.C. 673. These two principles also follow from the law as
+laid down in s. 73 read with the Explanation thereof. If therefore the contract was to
+be performed at Kanpur it was the respondent's duty to buy the goods in Kanpur and
+rail them to Calcutta on the date of the breach and if it suffered any damage thereby
+because of the rise in price on the date of the breach as compared to the contract
+price, it would be entitled to be reimbursed for the loss. Even if the respondent did
+not actually buy them in the market at Kanpur on the date of breach it would be
+entitled to damages on proof of the rate for similar canvas prevalent in Kanpur on the
+date of breach, if that rate was above the contracted rate resulting in loss to it. But the
+respondent did not make any attempt to prove the rate for similar canvas prevalent in
+Kanpur on the date of breach. Therefore it would obviously be not entitled to any
+damages at all, for on this state of the evidence it could not be said that any damage
+naturally arose in the usual course of things.
+44. Similarly, in relation to an f.o.b. contract, the quantification of damages would have to be with
+respect to the market price of the goods at the place at which the goods were put on board the vessel,
+i.e. Vishakhapatnam in this case. Inasmuch as the arbitrator in his assessment of the amount of
+damages due, has taken into consideration the market price of the goods as prevalent in the US,
+instead of Vishakhapatnam, prima facie the award on this point seems to have ignored the f.o.b.
+nature of the contract and is based on an erroneous understanding of the law. However, in
+Murlidhar (supra) itself, the Supreme Court also noted:
+"But the learned counsel for the respondent relies on that part of s. 73 which says that
+damages may be measured by what the parties knew when they made the contract to
+be likely to result from the breach of it. It is contended that the contract clearly
+showed that the goods were to be transported to and sold in Calcutta and therefore it
+was the price in Calcutta which would have to be taken into account in arriving at the
+measure of damages for the parties knew when they made the contract that the goods
+were to be sold in Calcutta. Reliance in this connection is placed on two cases, the
+first of which is Re. R. and H. Hall Ltd. and W.H. Pim (Junior) & Co.'s Arbitration
+[1928] All E.R. 763. In that case it was held that damages recoverable by the buyers
+should not be limited merely to the difference between the contract price and the
+market price on the date of breach but should include both the buyers' own loss of
+profit on the re-sale and the damages for which they would be liable for their breach
+of the contract of re-sale, because such damages must reasonably be supposed to
+have been in the contemplation of the parties at the time the contract was made since
+there contract itself expressly provided for re-sale before delivery, and because the
+parties knew that it was not unlikely that such re-sale would occur. That was a case
+where the seller sold unspecified cargo of Australian wheat at a fixed price. The
+contract provided that notice of appropriation to the contract of a specific cargo in
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 23Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+the specific ship should be given within a specified time and also contained express
+provisions as to what should be done in various circumstances if the cargo should be
+re-sold one or more times before delivery. That was thus a case of a special type in
+which both buyers and seller knew at the time the contract was made that there was
+an even chance that the buyers could re-sell the cargo before delivery and not retain it
+themselves."
+45. Plainly Murlidhar tells us that the normal rule in case of an f.o.b. contract is also subject to an
+exception, i.e. a situation where the parties before delivery, were aware of a contract of re-sale
+between the buyer and a third party. In other words, if a contract of re-sale was in the contemplation
+of the parties to the original contract of sale of the goods, then such contract would be relevant for
+the purposes of computation of damages due to the buyer. In the case of Bence Graphics
+International Ltd. v. Fasson U.K. Ltd., [1997] 3 W.L.R. 205 the law on this point was laid down in
+the following terms:
+"The situation often arises where the buyer seeks to displace the presumption and
+recover losses other than the diminution in value. Where a seller knows that the
+buyer intended to resell the goods and ought reasonably to have contemplated that a
+breach of his undertaking as to the description or condition of goods would be not
+unlikely to cause the buyer to lose the profit he hoped to make on the resale, or
+potential sub-sale, the buyer may recover damages in respect of such loss of profits
+caused by a breach of the seller's undertaking."
+In a recent decision in the context of Section 73 of the Indian Contract Act, 1872, likewise, the law
+has been stated by the Andhra Pradesh High Court in the case of The Andhra Pradesh Mineral
+Development Corporation Ltd. v. Pottem Brothers, (2016) 4 ALD 354:
+"Where the parties knew that the agreement to purchase goods was entered into to
+supply to a third party under a sub-sale it is a clear case where, under Section 73 of
+the Contract Act, the party committing the breach would be liable to pay the
+difference between the contract rate and the sub-sale rate if the parties knew, at the
+time of the contract, that a breach thereof would result in damages."
+46. In the present case, from the findings of the learned arbitrator it seems clear that SAIL was
+aware of the contract of re-sale between Thyssen and TSG and hence, it could be said that the
+contract for re-sale was in the contemplation of the parties. Even the learned Single Judge seems to
+have found that SAIL was aware of the contract of re-sale between TSU and TSG, when he noted:
+"In this case the Arbitrator could have at the most allowed the loss suffered by the
+TSU while selling the goods to TSG."
+A similar view was taken by the Division Bench in its previous judgment in this case, where it was
+stated as follows:
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 24Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+"Admittedly, TSU had back-to-back contract with TSG. The entire CRC consignment
+to TSG as per the record was sold at the rate of US 414 dollars per metric ton. TSG in
+turn sold the same to its various customers at different rates. The price at which the
+TSG sold the consignment to its customers has in fact been worked out to be the
+market price by the arbitrator. To our mind, SAIL cannot be fastened with the
+liability to compensate at that rate because that is not the loss suffered by TSU.
+Moreover, that could neither be considered as the market price nor could be treated
+as the basis for assessing the damages. TSG had no privity of contract with SAIL and
+being not a contracting party its loss could not be held to be the barometer for
+assessing the damages. On the contrary, the price at which TSU sold the CRC to TSG
+at best could be treated the market price for assessing damages. As already observed
+above, consignment in question having been sold to TSG, the TSU could claim
+compensation i.e. the difference between the salvage price it got and the price at
+which CRC was sold to TSG. Supreme Court in the case of Union of India v. Rallia
+Ram (supra) after considering various provisions as to how to determine the
+compensation came to the conclusion that compensation could be the difference
+between the price paid and the price received. Therefore, if we rely on Rallia Ram's
+decision then appellant would be entitled to the difference between the price paid to
+the SAIL i.e. USD 363.50 and the salvage price i.e. USD 383.28. On that principle the
+appellant would not be entitled to any compensation. However, if we take the price at
+which the TSU had entered into a contract for sale with TSG i.e. USD 414 per metric
+ton and the salvage price i.e. USD 383.28 dollars per metric ton then the difference
+would come to USD 30.72 per metric ton. The market price proved by the TSU is at
+which rate TSU sold the goods to TSG. Had the goods not been damaged the TSU
+would not have got more than USD 414 per metric ton. Therefore that can only be
+treated as the market rate. Hence, the difference in the price of the salvage goods and
+the price at which TSU sold the CRC to TSG, to our mind, is the reasonable
+compensation which the arbitrator could have awarded."
+47. The learned arbitrator in computing damages fell into error by taking into account the price at
+which Thyssen sold the goods further to its customers. Details of such contracts between TSG and
+its customers would not be in the contemplation of SAIL while entering into the contract with
+Thyssen. Moreover, such a computation would be hit by the principle of remoteness and indirect
+loss, enshrined in Section 73 of the Indian Contract Act, 1872, for which SAIL cannot be expected to
+compensate TSU. Therefore, in our view, the reasonable compensation that should have been
+awarded keeping in mind the principles laid down in Section 73, would be the difference in the price
+of the salvage goods and the price at which TSU sold the goods to TSG, as such a contract was in the
+contemplation of the parties (i.e. SAIL and TSU). This amount would work out to USD $ 30.72 per
+metric ton for the first lot of 10,000 metric tons.
+48. The learned arbitrator in his award has also awarded damages to Thyssen on the basis of the
+overhead costs incurred by it for securing the salvage sale. We find that on the issue of overhead
+costs incurred by the buyer for securing the sale of the defective goods, the law has been settled by
+the Supreme Court in Union of India v. A.L. Rallia Ram, AIR 1963 SC 1685:
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 25Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+"This observation proceeds upon a clear fallacy. The respondent had purchased and
+taken delivery of 29,74,270 packets, out of which he sold 6,34,270 packets and
+returned 23,40,000 packets under an arrangement whereby the Government of India
+was to take back the goods found with the respondent in their original packing. The
+respondent had purchased the goods under the acceptance of tender dated
+September 9, 1946 which provided by clause 11 that "All sales will be conducted on
+the distinct understanding that the goods sold are on a 'said to contain' basis. No
+responsibility for quality will be accepted whatsoever after the delivery is made at the
+depot." When he took delivery of the goods, he became owner of the goods by the
+express intendment of the contract. The expenditure incurred for advertisement,
+publicity, storage, agency commission and other overhead expenses since the
+respondent took delivery was therefore in respect of his own goods and he cannot
+claim these expenses as part of compensation payable for breach of warrant in
+respect of goods retained by him. The respondent was undoubtedly entitled to the
+difference between the contract price and the market price of the goods which he
+retained, and that compensation has been awarded to him."
+Inasmuch that the risk and title had passed to the buyer in the present case once the delivery was
+complete, any overhead expenses incurred by the buyer in procuring the salvage sale, would not
+compensable as damages, as per the ruling in Rallia Ram (supra). Therefore, the only damages that
+TSU would be entitled to claim for the defective goods in respect of the first lot, would be to the
+extent of USD $ 30.72 per metric ton for the first 10,000 metric tons.
+Second Lot
+49. Although this court has returned findings on the question remanded to it by the Supreme Court
+in its order, to put rest to this protracted litigation that has lasted almost 20 years, the court would
+decide the issue in relation to the second lot of CRC as well. In relation to the second lot, the dispute
+between the parties is to the existence of a concluded contract. In this context it must be pointed out
+that since the arbitrator is a creation of the contract, the question of existence of agreement between
+the parties, would go to the very root of the arbitrator(cid:128)s jurisdiction and can be examined by this
+Court under Section 30 of the Arbitration Act, 1940. In this context, the Supreme Court in Rajasthan
+State Mines & Minerals Limited v. Eastern Engineering Enterprises & Anr., AIR 1999 SC 3627, held:
+"It is settled law that the arbitrator is the creature of the contract between the parties
+and hence if he ignores the specific terms of the contract, it would be a question of
+jurisdictional error which could be corrected by the Court and for that limited
+purpose agreement is required to be considered. For deciding whether the arbitrator
+has exceeded his jurisdiction reference to the terms of the contract is a must."
+Similarly, in Associated Engineering Co. v. Government of Andhra Pradesh, AIR 1992 SC 232, the
+Court held:
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 26Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+"An arbitrator who acts in manifest disregard of the contract acts without
+jurisdiction. His authority is derived from the contract and is governed by the
+Arbitration Act which embodies principles derived from a specialised branch of the
+law of agency (see Mustill & Boyd's Commercial Arbitration, Second Edition, p. 641).
+He commits misconduct if by his award he decides matters excluded by the
+agreement (see Halsbury's Laws of England, Volume II, Fourth Edition, Para 622). A
+deliberate departure from contract amounts to not only manifest disregard of his
+authority or a misconduct on his part, but it may tantamount to a mala fide action. A
+conscious disregard of the law or the provisions of the contract from which he has
+derived his authority vitiates the award. A dispute as to the jurisdiction of the
+arbitrator is not a dispute within the award, but one which has to be decided outside
+the award. An umpire or arbitrator cannot widen his jurisdiction by deciding a
+question not referred to him by the parties or by deciding a question otherwise than
+in accordance with the contract.
+If the arbitrator commits an error in the construction of the contract, that is an error
+within his jurisdiction. But if he wanders outside the contract and deals with matters
+not allotted to him, he commits a jurisdictional error."
+50. In relation to the second lot, the question that arises is whether there was an existing contract
+enforceable between the parties. In this context, Clause 9 of the main agreement (Agreement for
+Sale and Purchase of Prime Cold Rolled Mild Steel Sheets in Coils) between the parties is relevant.
+Clause 9 is reproduced below:
+"Clause 9: Modification of the Contract This Agreement cancels all previous
+negotiations/agreements between the parties hereto. There are no understandings or
+agreement between the Buyer and the Seller which are not fully expressed herein and
+no statement or agreement, oral or written, made prior to or at the signing hereof
+shall effect or modify the terms hereof or otherwise be binding on the parties hereto.
+No change in respect of the contract covered by this Agreement shall be valid unless
+the same is agreed to in writing by both the parties hereto specifically stating the
+same to be an amendment to this Agreement."
+51. With respect to the second lot, admittedly, no such formal modification or amendment to the
+agreement was made by the parties. The learned arbitrator found that Clause 9 of the agreement had
+been waived by conduct of the parties and in any event, it would not have any impact on the
+existence of a concluded contract between the parties in relation to the second lot. He relied on the
+negotiations between the parties and exchange of letters to find that there was in existence a
+concluded contract between the parties in relation to the second lot. Such kind of clauses in
+commercial contracts are known as "entire agreement" clauses, the intention of which is to preclude
+parties from adducing evidence of a collateral contract or agreement between the parties governing
+the same issue. The English law in relation to such kind of clauses has been aptly laid down in the
+case of Inntrepreneur Pub Co Ltd v East Crown Ltd, [2000] 2 Lloyd(cid:128)s Rep. 611:
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 27Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+"The purpose of an entire agreement clause is to preclude a party to a written
+agreement from threshing through the undergrowth and finding in the course of
+negotiations some (chance) remark or statement (often long forgotten or difficult to
+recall or explain) on which to found a claim such as the present to the existence of a
+collateral warranty. The entire agreement clause obviates the occasion for any such
+search and the peril to the contracting parties posed by the need which may arise in
+its absence to conduct such a search. For such a clause constitutes a binding
+agreement between the parties that the full contractual terms are to be found in the
+document containing the clause and not elsewhere, and that accordingly any
+promises or assurances made in the course of the negotiations (which in the absence
+of such a clause might have effect as a collateral warranty) shall have no contractual
+force, save insofar as they are reflected and given effect in that document.
+Entire agreement clauses come in different forms. In the leading case of Deepak v.
+ICI [1998] 2 Lloyds Rep 140, 138, affirmed [1999] 1 Lloyds Rep 387 the clause read as
+follows:
+"10.16 Entirety of Agreement This contract comprises the entire agreement between
+the PARTIES ... and there are not any agreements, understandings, promises or
+conditions, oral or written, express or implied, concerning the subject matter which
+are not merged into this CONTRACT and superseded thereby ..."
+Rix J and the Court of Appeal held in that case (in particular focusing on the words "promises or
+conditions") that this language was apt to exclude all liability for a collateral warranty. In Alman &
+Benson v. Associated Newspapers Group Ltd 20 June 1980 (cited by Rix J at p.168),
+Browne-Wilkinson J reached the same conclusion where the clause provided that the written
+contract "constituted the entire agreement and understanding between the parties with respect to all
+matters therein referred to" focusing on the word "understanding". In neither case was it necessary
+to decide whether the clause would have been sufficient if it had been worded merely to state that
+the agreement containing it comprised or constituted the entire agreement between the parties.
+That is the question raised in this case, where the formula of words used in the clause is abbreviated
+to an acknowledgement by the parties that the Agreement constitutes the entire agreement between
+them. In my judgment that formula is sufficient, for it constitutes an agreement that the full
+contractual terms to which the parties agree to bind themselves are to be found in the Agreement
+and nowhere else and that what might otherwise constitute a side agreement or collateral warranty
+shall be void of legal effect."
+52. While there is hardly any case law or jurisprudence by Indian courts on such concepts, this court
+is of the opinion that the above ruling in the context of English law, would apply with equal force to
+the Indian context. The object of insertion of such a clause is the parties(cid:128) resolve to prevent either of
+them from raising any claim based on a collateral contract, entered into by the parties during
+negotiations or after conclusion of the contract. The very purpose of such a stipulation would be
+defeated in case parties were allowed to raise a claim based on a collateral agreement, entered
+between them during negotiations. In the present case, Clause 9 of the agreement between the
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 28Thyssen Krupp Materials Ag vs The Steel Authority Of India on 20 April, 2017
+parties is of such nature; it would necessarily preclude the parties from raising any claims based on
+collateral agreements that are not encompassed within the present contract or are not expressly
+stated as being amendments to the main agreement. That being the case, we are of the view that the
+learned arbitrator fell into error by not giving Clause 9 its full intended effect. Indeed by finding that
+the parties through their conduct had impliedly waived Clause 9, the arbitrator in effect defeated the
+very purpose of inserting Clause 9- that to prevent parties from raising such claims based on
+collateral agreements entered into between the parties, not specifically encompassed by the contract
+nor specifically stated to be amendments to the agreement. Therefore, we set aside the arbitrator(cid:128)s
+award in relation to the second lot of CRC and find that there was no concluded contract entered
+into between the parties in relation to the second lot.
+53. As far as the award of US $ 500,000/- towards cost and US $ 50,000/- this court is of opinion
+that the award cannot be faulted for arbitrator's misconduct.
+54. In the light of the above discussion, the appeal is partly allowed; the award is modified to the
+extent that Thyssen is entitled to $ 7,44,000/- towards damages; interest at the rate awarded on the
+said amount, till date of payment, $ 500,000/- towards cost and $ 50,000/- towards award charges.
+The impugned judgment of the learned single judge is therefore, modified to this extent. Appeal is
+allowed in these terms; there shall, however, be no order on costs.
+S. RAVINDRA BHAT (JUDGE) DEEPA SHARMA (JUDGE) APRIL 20, 2017
+Indian Kanoon - http://indiankanoon.org/doc/69888522/ 29

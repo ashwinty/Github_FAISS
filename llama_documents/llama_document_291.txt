@@ -1,0 +1,1089 @@
+Metadata: id=>291
+name=>Shashvat Nakrani vs Ashneer Grover on 15 December 2023
+date=>02 July 2018
+court=>HIGH COURT OF DELHI
+link=>http://indiankanoon.org/doc/1547286/
+-----
+Content: Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+Author: Sachin Datta
+Bench: Sachin Datta
+$~J-4
+* IN THE HIGH COURT OF DELHI AT NEW DELHI
+Pronounced on: 15.12.2023
++ CS(COMM) 166/2023
+SHASHVAT NAKRANI ..... Plaintiff
+Through: Mr. Jayant Mehta, Sr. Adv. alongwith
+Mr. Raghavendra M. Bajaj, Mr.
+Sidhant Goel, Mr. Mohit Goel, Ms.
+Garima Bajaj, Mr. Nikhil Bamal, Mr.
+Agnish Aditya, Mr. Kumar Karan,
+Mr. Shagun Agarwal, Mr. Deepankar
+Mishra, Mr. Karmanya Dev Sharma
+and Ms. Ayushi Kumar, Advs.
+versus
+ASHNEER GROVER ..... Defendant
+Through: Mr. Giriraj Subramanium, Mr.
+Shonak Sharma, Mr. Simarpal Singh
+Sawhney, Mr. Siddhant Juyal and Ms.
+Urvashi Singh, Advs.
+CORAM:
+HON'BLE MR. JUSTICE SACHIN DATTA
+JUDGMENT
+IA No. 5683/2023 (on behalf of the plaintiff under Order XXXIX Rule 1 and 2 of the Code of Civil
+Procedure, 1908, read with Section 151 of the Code of Civil Procedure, 1908, for ad interim ex-parte
+injunction)
+1. The present suit has been filed by the plaintiff seeking (i) a declaration that the (alleged) oral
+agreement entered into between the plaintiff and defendant on 02.07.2018 ("Agreement") in respect
+of the plaintiff's (then) Two Thousand Four Hundred and Forty Seven (2,447) equity shares in
+Resilient Innovations Private Limited ("RIPL"), which, as a result of a share-split and a bonus share
+issue, today stand at Twenty Seven Thousand Six Hundred and Twenty Seven (27,627) equity shares
+(hereinafter, the "plaintiff's shares"), stands rescinded and terminated in accordance with law and
+contract, and consequently has become void.
+2. The plaintiff has further sought a declaration that "Form SH-4", dated 02.07.2028 (hereinafter,
+the "Form SH-4"), executed by the plaintiff in favour of the defendant pursuant to the Agreement be
+declared to be void and liable to be cancelled; and a further declaration that the plaintiff continues
+to be the owner of the plaintiff's shares, together with all rights that accrue in respect thereof. The
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 1Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+plaintiff has also sought permanent prohibitory injunctions restraining the defendant (including his
+attorneys, assigns, successors-in-interest, agents, authorized persons or anyone acting for and/or on
+his behalf) from alienating, transferring, selling, creating any encumbrance, third-party rights or
+any other interest of any kind whatsoever in the plaintiff's shares, or otherwise dealing with the
+plaintiff's shares in any manner whatsoever; restraining the defendant from exercising any rights of
+any kind whatsoever in respect of the plaintiff's shares; and restraining the defendant from
+(wrongly) professing, or claiming to be, the owner of the plaintiff's shares amongst the public at
+large in any manner whatsoever. Alternative relief seeking compensation and damages has also been
+claimed by the plaintiff.
+3. Alongwith the suit, the plaintiff has also filed an application under Order XXXIX Rule 1 and 2 of
+the Code of Civil Procedure, 1908, inter alia, seeking as follows :-
+―a) An interim injunction restraining the defendant, including his attorneys, assigns,
+successors-in-interest, agents, authorized persons or anyone acting for and/or on his
+behalf, from alienating, transferring, selling, creating any encumbrance, third-party
+rights or any other interest of any kind whatsoever in the Plaintiff's Shares, or
+otherwise dealing with the Plaintiff's Shares in any manner whatsoever;
+b) An interim injunction restraining the Defendant, including his attorneys, assigns,
+successors-in-interest, agents, authorized persons or anyone acting for and/or on his
+behalf, from exercising any rights of any kind whatsoever in respect of the Plaintiff's
+Shares;
+c) An interim injunction restraining the Defendant, including his attorneys, assigns,
+successors-in-interest, agents, authorized persons or anyone acting for and/or on his
+behalf, from (wrongly) professing, or claiming to be, the owner of the Plaintiff's
+Shares amongst the public at large in any manner whatsoever;
+d) It is further respectfully prayed that in view of the facts and circumstances of the
+present case and in the interest of justice and public interest, an ex parte order in the
+aforementioned terms may kindly be granted; and
+e) Any further order that the Hon'ble Court may deem fit in the interest of justice.(cid:129)
+4. The factual background in the context of which the present suit alongwith the aforesaid instant IA
+No.5683/2023 has been filed, is briefly enumerated hereunder.
+5. In August 2016, the plaintiff and Mr. Bhavik Koladiya are stated to have established "M/s EZY
+Services", a partnership firm, in which the plaintiff had 40% shares and Mr. Bhavik Koladiya had
+60% shares. It is averred in the plaint that on 20.03.2018, in order to formalize the structure of the
+business and to make the structure more investor friendly, the plaintiff and Mr. Bhavik Koladiya,
+jointly founded and incorporated "RIPL" as a private limited company with an equal shareholding of
+5000 equity shares each. M/s EZY Services is stated to have assigned all rights, title and interest,
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 2Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+together with goodwill in its brand "BharatPe" to RIPL. It is stated that in May 2018, the defendant
+was hired as a CEO of RIPL. It is averred in the plaint as follows:-
+―12. It was agreed that the Plaintiff would transfer to the Defendant Two Thousand
+Four Hundred and Forty-Seven (2,447 ) equity shares in RIPL, together with all
+rights attached to them ( already defined in the Plaint as the "Plaintiff's Shares"), for
+Rupees Ten (INR 10) per equity share, payable as consideration. This would translate
+into a total consideration of Rupees Twenty-Four Thousand Four Hundred and
+Seventy (INR 24,470) (hereinafter, the "Purchase Consideration") for Twenty-Four
+Point Four Seven Percent (24.47%) shares in RIPL (this agreement is already defined
+in the Plaint as the "Agreement"). It was also decided that Mr. Koladiya would
+transfer to the Defendant Seven Hundred and Forty-Five (745) equity shares in RIPL,
+together with all rights attached to them, for Rupees Ten (INR 10) per equity share,
+payable as consideration, which would translate into a total consideration of Rupees
+Seven Thousand Four Hundred and Fifty (INR 7450) for Seven Point Four Five
+Percent (7.45%) shares in RIPL.
+13. Accordingly, pursuant to the Agreement, on 02 July 2018, the Plaintiff executed a Form SH-4 in
+favour of the Defendant in respect of the Plaintiff's Shares. However, the Defendant did not pay the
+Purchase Consideration to the Plaintiff by any mode, including by way of cash, in any form or
+manner.
+14. Details of the Plaintiff's Shares are provided below :
+DETAILS OF SALE SHARES Folio Class of Distinctive Number of Sale Number of
+Shares Shares Sale Shares 02 Equity 7,554 to Shares 10,000
+6. It is averred that pursuant to the Agreement dated 02.07.2018, the plaintiff
+executed the statutorily prescribed "Form SH-4" in favour of the defendant in respect
+of the plaintiff's shares. However, while executing "Form SH-4", dated 02.07.2018,
+the plaintiff did not receive the purchase consideration from the defendant by any
+mode, including by way of cash or in any form or manner, even though the standard
+form of the statutorily prescribed "Form SH-4" reflected payment of consideration
+under the column titled "consideration received". A copy of the "Form SH-4" stated
+to have been executed on 02.07.2018, has been filed alongwith the documents
+accompanying the plaint and is reproduced hereunder:-
+"Form No. SH-4 Securities Transfer Form [Pursuant to section 56 of the Companies
+Act, 2013 and sub-rule (1) of rule 11 of the Companies (Share Capital and Debentures)
+Rules 2014] Date of Execution 02/07/2018 FOR THE CONSIDERATION stated
+below the ―Transferor(s)(cid:129) named do hereby transfer to the ―Transferee(s)(cid:129) named
+the securities specified below subject to the conditions on which the said securities
+are now held by the transferor(s) and the Transferee(s) do hereby agree to accept and
+hold the said securities subject to the conditions aforesaid.
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 3Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+CIN: (not legible)
+Name of Company (in full): Resilient Innovations Private Limited
+Name of the Stock Exchange where the company is listed, if Not applicable
+any:
+DESCRIPTION OF SECURITIES
+Kind/Class of Nominal Value of each Amount called up per unit Amount paid up per
+Securities unit of security (2) of security (3) unit of security (4)
+Equity Shares Rs.10/- Rs. 10/- Rs. 10/-
+No. of Securities being transferred Consideration received (Rs.)
+In figures In words In words In figures
+2447 Two Thousand Four Rupees Twenty Four Rs. 24, 470/-
+Hundred Forty Seven Thousand Four Hundred
+Seventy Only
+Distinctive From 7554
+Number
+To 10000
+Corresponding Certificate No.
+Transferor's Particulars:-
+Sr. No. Name(s) in full Signature(s)
+1. Shashvat Munsukhbhai Nakrani Sd/-
+I, hereby confirm that the Transferor has signed before me.
+Signature of witness Name and address Transferee's Particulars:-
+Name in Father's/ Address & Email Id Occupation Existing Folio No, Signature
+Full Mother's/ if any
+Spouse Name
+nd
+Mr. Ashneer Mr. Ashok B-1/36, 2 Floor, Business NA Sd/-
+Grover Grover Malviya Nagar,
+New Delhi -
+110017
+Ashneergrover@gm
+ail.com
+Folio No. of Transferee: 03 Specimen Signature of Transferee
+1 sd/-
+2 sd/-
+3 sd/-
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 4Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+Value of stamp affixed
+Enclosures.
+(1)Certificate of shares or debentures or other Securities(cid:129)
+7. It is averred that although the aforesaid "Form SH-4" expressly mentions the
+amount of purchase consideration under the column titled "consideration received",
+as a matter of fact, the plaintiff did not, receive such consideration.
+8. It was submitted that the defendant represented and assured the plaintiff that the
+defendant would pay the purchase consideration in due course. The suit proceeds on
+the basis that since the purchase consideration was not paid, the property/title in the
+plaintiff's shares did not pass on to the defendant; consequently, the plaintiff
+purports to treat the aforesaid transaction as repudiated.
+9. In support of his contention that the purchase consideration was not paid, the
+plaintiff has sought to file the bank statement of all the plaintiff's accounts in which
+the defendant could have paid the purchase consideration.
+10. In the above background, the plaintiff purported to exercise its rights to rescind
+and terminate the aforesaid agreement and treat "Form SH-4"
+dated 02.07.2018 as cancelled and issued a "Rescission and Termination Notice" dated 18.03.2023.
+In the said notice, it has been stated as under:-
+―Raghavendra Mohan Bajaj D-256, LGF, Defence
+Advocate Colony, New Delhi-110024.
+Garima Bajaj Email: raghavendrambajaj@gmail.com
+Advocate on Record Mobile No. 9810248083
+Office No. 011-40159656 & 9810048083
+Office email: off.rmb@gmail.com
+By Email, Courier, Speed Post and WhatsApp
+To 18th March 2023
+Mr. Ashneer Grover
+N-114, Second Floor,
+Panchsheel Park, New Delhi-110017
+Email Address: ashneer.grover@icloud.com and ashneer.grover@gmail.com Phone Number:
+9560024869 Re: Notice for Rescission and Termination of the agreement, dated 02 July 2018 on
+behalf of Mr. Shashvat Nakrani.
+Dear Mr. Grover:
+We write on behalf of, and under instructions from, our Client, Mr. Shashvat Nakrani
+(hereinafter, ―our Client(cid:129)), with reference to the agreement entered into
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 5Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+(―Agreement(cid:129)) between our Client and you on 02 July 2018 in respect of
+sale/purchase of our Client's (then) Two Thousand Four Hundred and Forty Seven
+(2,447) equity shares in Resilient Innovations Private Limited ("RIPL"), which, as a
+result of a share-split and a bonµs share issue, today stand at Twenty Seven
+Thousand Six Hundred and Twenty Seven (27,627) equity shares (hereinafter, "our
+Client's Shares"). For the purpose of fixing consideration under the Agreement, each
+of our Client's Shares were valued at Rupees Ten (INR 10); thereby making the
+aggregate consideration payable under the Agreement for our Client's Shares as
+Rupees Twenty Four Thousand Four Hundred and Seventy (INR 24,470)
+(hereinafter, the ―Purchase Consideration(cid:129)).
+Pursuant to the Agreement, our Client performed his obligations in their entirety on
+02 July 2018 by executing the necessary forms, namely, Form No.SH-4 (Securities
+Transfer Form), dated 02 July 2018, to give effect to the transaction in respect of our
+Client's Shares in your favour, believing in good faith that you would pay the
+Purchase Consideration to our Client. However, without having paid the Purchase
+Consideration to our Client, you took advantage of our Client's performance of all his
+obligations under the Agreement, and got your name recorded in the register of share
+transfer, and register of members, of RIPL in respect of our Client's Shares.
+Since the execution of the Agreement, and having taken advantage of our Client
+having signed the Form SH-4, you have failed to pay to our Client the Purchase
+Consideration for our Client's Shares by any mode. This is despite the fact that the
+payment of the consideration is a condition of any such agreement, and that too, a
+concurrent condition. You have even failed to pay the Purchase Consideration to our
+Client within a reasonable period of time after the Agreement was entered into. The
+Purchase Consideration remains unpaid even as on date.
+You have made multiple representations and statements in public asserting
+ownership and title over our Client's Shares despite not having made payment of the
+Purchase Consideration to our Client. In your statements, you have not even
+acknowledged or recognized any obligation towards our Client under the Agreement,
+or otherwise. Similar statements have thereafter been made by you in your book,
+titled 'Doglapan' that was made available to the public in the month of December
+2022.
+In view of the complete and substantial failure on your part to pay the Purchase
+Consideration under law, property/title in our Client's Shares has not passed on to
+you, notwithstanding the execution of the Form SH-4, dated 02 July 2018. Further,
+the false statements being made by you in public about your title and ownership of
+our Client's Shares, as stated above, evidence a complete refusal by you to pay the
+Purchase Consideration. You have also disabled yourself from performing the
+Agreement.
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 6Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+Accordingly, our Client, with immediate effect, hereby rescinds and terminates the
+Agreement because of your fundamental breach, non- performance and repudiation
+of the Agreement, which goes to the root of the Agreement.
+As a result of the above, the Form SH-4, dated 02 July 2018, is void, given that
+property/title over our Client's Shares never stood transferred to you. Thus, the Form
+SH-4, dated 02 July 2018, is liable to be declared as such. Accordingly, our Client
+continues to be the legal and beneficial owner of our Client's Shares together with all
+rights that have accrued in respect of our Client's Shares. You are liable to restore to
+our Client the advantage that you have gained under the Agreement. This includes
+recording of ownership over our Client's Shares, together with all rights attached to
+them, by RIPL in its records as well as in the records of the appropriate authorities.
+Our Client is also entitled to all other rights that may get attached with our Client's
+Shares from time to time.
+Consequentially, our Client also seeks and demands that you cease and desist from(a)
+alienating, transferring, selling, creating any encumbrance, third-party rights or any
+other interest of any kind whatsoever in our Client's Shares, or otherwise dealing with
+our Client's Shares in any manner whatsoever, (b) exercising any right of any kind
+whatsoever in respect of our Client's Shares, and (c) wrongly professing, or claiming
+to be, the owner of our Client's Shares amongst the public at large in any manner
+whatsoever. Our Client further reserves his right to alternatively claim compensatory
+damages arising out of your fundamental breach, non-performance and repudiation
+of the Agreement, on account of which the Agreement has been rescinded and
+terminated by our Client, and has become void.
+All rights are reserved.
+Yours sincerely, Raghavendra Mohan Bajaj and Garima Bajaj (Advocates) Email:
+raghavendrambajaj@gmail.com(cid:129)
+11. The defendant replied to the aforesaid termination notice on 19.03.2023, stating
+as under :-
+―3. That it would appear that your Client has not placed the correct facts before you
+and further your Client appears to be mistaken with respect to the position of law. In
+response to the misconceived and obfuscating contents of your Notice dated 18th
+March 2023; I wish to place the correct sequence of events and position of law before
+you and your Client;
+i. That on the execution of the agreement dated 2nd July 2018 in respect to the sale
+and/or purchase of Two Thousand Four Hundred Forty Seven (2,447) equity shares
+of your Client in M/s. Resilient Innovations Private Limited (hereinafter referred to
+as ―subject equity shares(cid:129)) in favor of my Client, the consideration amount of INR
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 7Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+Twenty Four Thousand Four Hundred and Seventy (INR 24,470/-) (hereinafter,
+referred to as ―consideration(cid:129)) was then and there paid in cash by my Client to your
+Client.(cid:129)
+12. In the above background, the present suit came to be filed seeking the above
+mentioned prayer(s).
+13. The defendant has filed a written statement, wherein, it has been averred as under
+:-
+―11.It is humbly submitted that out of the three thousand one hundred and
+ninety-two (3,192) equity shares, the Plaintiff and the Defendant orally agreed on 02
+July 2018 that the Plaintiff would transfer to the Defendant two thousand four
+hundred and forty-seven (2,447) to them for Rupees Ten (INR 10) per equity share,
+payable as consideration. That this translated into a total consideration of Rupees
+Twenty-Four Thousand Four Hundred and Seventy (INR 24,470) (hereinafter, the
+"Purchase Consideration") for Twenty- Four Point Four Seven Percent (24.47%)
+shares in RIPL (this agreement is defined as the "Agreement"). That remaining equity
+shares were transferred by Mr. Koladiya by way of a separate agreement between him
+and the Defendant which is not a part of the present dispute.
+12.That pursuant to the Agreement, the Plaintiff admittedly executed a Form SH-4 in
+favour of the Defendant in respect of the Plaintiff's shares Two Thousand Four
+Hundred and Forty Seven (2,447) equity shares in RIPL. It is submitted that the
+Defendant paid the purchase consideration in cash then and there to the Plaintiff in
+pursuance of the agreement dated 02 July 2018.
+13.It is humbly submitted that after almost 5 years the Plaintiff has come up with this
+bogus and baseless suit on the ground that the Defendant did not pay the purchase
+consideration in lieu of the equity shares transferred by him to the Defendant.
+However, the Plaintiff has failed to attach even one document in the present Plaint
+wherein the Plaintiff has demanded the payment of the purchase consideration from
+the Defendant evincing the fact that the purchase consideration had already been
+paid to the Plaintiff by the Defendant.
+14.It is humbly submitted that the entire suit of the Plaintiff falls flat on this ground
+alone that the purchase consideration had already been paid by the Defendant and
+now the Plaintiff is perjuring himself by making a clearly false averment that the
+purchase consideration was not paid to him. That to demonstrate the same, the
+Defendant seeks to rely upon the Plaint filed by the Company i.e. RIPL against the
+Defendant and his family members in the matter captioned as ―Resilient Innovations
+Private Limited v. Madhuri Jain Grover and Ors.(cid:129) bearing CS (OS) No. 771 of 2022
+pending before this Hon'ble Court. It is pertinent to mention herein that the above
+captioned suit has been filed under the affidavit of the Plaintiff acting as the
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 8Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+Authorised Representative of the Company.
+15.It is submitted that the Para No. 9 of the above mentioned suit filed by RIPL under
+affidavit of the Plaintiff herein clearly states that ―Defendant No. 2's association with
+the Plaintiff began on 2 July 2018, when he became a shareholder of the Plaintiff by
+contributing a paltry sum of INR 31,920 against which he was transferred 3,192
+shares in the Plaintiff company.(cid:129) For clarity, it is submitted that the Defendant had
+paid INR 24,470 to the Plaintiff herein for transfer of his 2,447 equity shares for INR
+10 per equity share as consideration and similarly, the Defendant has paid INR 7,450
+to Mr. Koladiya for transfer of his 745 equity shares for INR 10 per equity share as
+consideration cumulatively amounting INR 31,920 for transfer of 3,192 shares in the
+Company.
+16.It is humbly submitted that this leads to the inexorable conclusion that the
+Plaintiff had admittedly been paid the purchase consideration by the Defendant as
+admitted by the Plaintiff himself. Hence under no circumstances can the Plaintiff
+now claim that the purchase consideration had not been paid by the Defendant when
+in another suit pending before this Hon'ble Court the Plaintiff, as an authorised
+representative of the Company, has claimed and affirmed that the Defendant had in
+fact ―contributed(cid:129) a paltry sum on INR 31,920 to become a shareholder of the
+Company, the said statement has been reaffirmed by the Plaintiff in his
+Replication(supported by the duly affirmed affidavit of the Plaintiff) to the Written
+Statement filed by the Defendant herein. That the relevant para of the Suit captioned
+as ―Resilient Innovations Private Limited v. Madhuri Jain Grover and Ors.(cid:129) bearing
+CS (OS) No. 771 of 2022 has been reproduced below for the kind consideration of this
+Hon'ble Court:
+―9. Defendant No. 2's association with the Plaintiff began on 2 July 2018, when he
+became a shareholder of the Plaintiff by contributing a paltry sum of INR 31,920
+against which he was transferred 3,192 shares in the Plaintiff company. On 5
+November 2018, Defendant No. 2 was appointed as a Director of the Plaintiff. On 12
+December 2018, he was appointed as the CEO of the Plaintiff pursuant to an
+Employment Agreement dated 12 December 2018 (―2018 Employment Agreement(cid:129)).
+The 2018 Employment Agreement provides that Defendant No. 2 would be
+responsible for primarily leading and directing the management of the Plaintiff, with
+substantial control over its key operational decisions, subject to the overall
+supervision of the Board.(cid:129) (Emphasis Supplied)(cid:129)
+14. It is further averred in the written statement that the plaintiff has executed
+multiple agreements, including agreements where RIPL had raised investments,
+acknowledging that the subject equity shares stand transferred in favour of the
+defendant.
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 9Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+15. It is therefore submitted that the plaintiff is estopped from denying the
+shareholding of the defendant and the binding nature of the agreement dated
+02.07.2018. It is emphasized that the plaintiff itself was a signatory to the said
+agreements. The details of the same are set out in the written statement as under :-
+"21. ..........
+S. No. Date Particulars
+1 22nd July 2018 Share subscription and shareholder's agreement
+between Resilient Innovations Pvt. Ltd., Ashneer Grover, Bhavik Koladia,
+SashvatNakrani, Vibha Paul Rishi and SAAM Partners LLP 2 13th Oct 2018 Share
+subscription and shareholder's agreement between Resilient Innovations Pvt. Ltd.,
+promoters, other existing shareholders and BEENEXT2 PTE. Ltd.
+3 12th Dec 2018 Subscription and Shareholders' Agreement Between Resilient
+Innovations Private Limited and BEENEXT2 PTE. Ltd. and SciInvestments VI and
+Sequoia Capital India Trust and the Persons listed in Schedule I And The Persons
+listed in Schedule II 4 25th Feb 2019 Subscription agreement and addendum to share
+subscription and shareholders' agreement 5 22nd March 2019 Share subscription
+agreement by and amongst Resilient Innovations Private Limited, Ashneer Grover,
+Shashvat Mansukhbhai Nakrani and Grace Software Holdings, L.P. 6 28th March
+2019 Shareholders' Agreement by and amongst Resilient Innovations private limited,
+Ashneer Grover, Shashvat Mansukhbhai Nakrani, persons whose names are listed
+inschedule 1 (other existing shareholders), Grace Software Holdings, L.P., Beenext2
+PTE. Ltd., Sci Investments VI and Sequoia Capital India Trust.
+7 15th August 2019 Share Subscription Agreement by and amongst Resilient
+Innovations private limited, Ashneer Grover, Shashvat Mansukhbhai Nakrani,
+Beenext2 PTE. Ltd., Sci Investments VI, Redwood Trust, Grace Software Holdings,
+L.P., Ribbit Cayman in Holdings V, Ltd., Steadview CapitalMauritius Limited and
+ABG Capital.
+8 15th August 2019 Shareholders Agreement by and amongst Resilient Innovations
+private limited, Ashneer Grover, Shashvat Mansukhbhai Nakrani, persons whose
+names are listed in schedule 1 (other existing shareholders), Beenext2 PTE. Ltd., Sci
+Investments VI, Redwood Trust, Grace Software Holdings, L.P., Ribbit Cayman in
+Holdings V, Ltd., Steadview Capital Mauritius Limited and ABG Capital.
+9 13th Feb 2020 Amended and Restated Shareholders' Agreement by and amongst
+Resilient Innovations private limited, Ashneer Grover, Shashvat Mansukhbhai
+Nakrani, persons whose names are listed in schedule 1 (other existing shareholders),
+Beenext2 PTE. Ltd., Sci Investments VI, Redwood Trust, Grace Software Holdings,
+L.P., Ribbit Cayman in Holdings V, Ltd., Steadview Capital Mauritius Limited, ABG
+Capital, Coatue pe Asia 27 LLC, Amplo Opportunities I, L.P. and Amplo II, L.P. 10
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 10Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+13th Feb 2020 Share Subscription Agreement by and amongst Resilient Innovations
+private limited, Ashneer Grover, Shashvat Mansukhbhai Nakrani, Grace Software
+Holdings, L.P., Ribbit Cayman in Holdings V, Ltd., Steadview Capital Mauritius
+Limited, ABG Capital, Coatue pe Asia 27 LLC, Amplo Opportunities I, L.P. and
+Amplo II, L.P. 11 10th Feb 2021 Amended and Restated Shareholders' Agreement by
+and amongst Resilient Innovations private limited, Ashneer Grover, Shashvat
+Mansukhbhai Nakrani, persons whose names are listed in schedule 1 (other existing
+shareholders), Beenext2 PTE. Ltd., Beenext Accelerate Fund PTE. Ltd., Sci
+Investments VI, Redwood Trust, Grace Software Holdings, L.P., Ribbit Cayman in
+Holdings V, Ltd., Steadview Capital Mauritius Limited, ABG Capital, Steadview
+Capital Opportunities PCC Cell 0121-004,Coatue PE Asia 27 LLC, Coatue PE Asia 46
+LLC, Amplo Opportunities I, L.P. and Amplo II, L.P. 12 10th Feb 2021 Share
+Subscription Agreement by and amongst Resilient Innovations private limited,
+Ashneer Grover, Shashvat Mansukhbhai Nakrani, Beenext Accelerate Fund PTE.
+Ltd., Grace Software Holdings, L.P., Ribbit Cayman in Holdings V, Ltd., Steadview
+Capital Mauritius Limited, Coatue PE Asia 27 LLC, Coatue PE Asia 46 LLC, Amplo
+Opportunities I, L.P. and Amplo II, L.P. 13 10th Feb 2021 Share Purchase Agreement
+by and between Coatue PE Asia 27 LLC, Coatue PE Asia 46 LLC, Persons Listed in
+Schedule IV of this Agreement (Sellers) and Resilient Innovations private limited.
+th 14 4 Aug 2021 Share Subscription Agreement by and amongst Resilient
+Innovations private limited, Ashneer Grover, Shashvat Mansukhbhai Nakrani,
+Sequoia Capital Global Growth Fund III - Endurance Partners L.P, BP-E Ribbit
+Opportunity V LLC, Coatue PE Asia 62 LLC, Amplo Opportunities I L.P., Amplo II,
+L.P., Internet Fund VII. PTE. Ltd., DF International Partners II LLC, DF
+International Partners V LLC, SFSPVI LTD. and IP X Resilient, Ltd.
+15 4th Aug 2021 Amended and Restated Shareholders' Agreement by and amongst
+Resilient Innovations private limited, Ashneer Grover, Shashvat Mansukhbhai
+Nakrani, Beenext2 PTE. Ltd., Beenext Accelerate Fund PTE. Ltd., Sci Investments VI,
+Redwood Trust, Sequoia Capital Global Growth Fund III -
+Endurance Partners, L.P, Grace Software Holdings, L.P., IP X Resilient, Ltd, Ribbit Cayman IN
+Holdings V, Ltd., BP-E Ribbit Opportunity V LLC, Steadview Capital Mauritius Limited, ABG
+Capital, Steadview Capital Opportunities PCC Cell 0121-004, Coatue PE Asia 27 LLC, Coatue PE
+Asia 46 LLC, Coatue PE Asia 62 LLC, Amplo Opportunities I, L.P., Amplo II, L.P., Internet Fund VII
+PTE. Ltd, SFSPVI Ltd., DF International Partners II, LLC and DF International Partners V, LLC.
+16 6th Aug 2021 Share Purchase Agreement by and between Coatue PE Asia 62 LLC, Persons Listed
+in Schedule IV of this Agreement (Sellers) and Resilient Innovations private limited.
+16. The written statement also draws attention to the minutes of board meeting of RIPL dated 02nd
+July, 2018, which states as follows :-
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 11Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+―RESILIENT INNOVATIONS PVT LTD CIN: U74999DL2018PTC331205 Regd.
+Address: 90/20, Malviya Nagar, New Delhi - 110017, India. Email:
+hello@bharatpe.com, Phone No.: +91-8980358300 CERTIFIED TRUE COPY OF
+THE RESOLUTION PASSED BY THE BOARD OF DIRECTORS OF RESILIENT
+INNOVATIONS PRIVATE LIMITED IN THEIR MEETING HELD AT REGISTERED
+OFFICE OF THE COMPANY AT 90/20, MALVIYA NAGAR, NEW DELHI - 110017
+ON MONDAY, 2nd DAY OF JULY, 2018 AT 11:00 AM.
+TRANSFER OF EQUITY SHARES(S) RESOLVED THAT pursuant to applicable
+provisions of the Articles of Association of the Company, in view of receipt of the duly
+signed letter of intent to transfer & signed share transfer form of Mr. Shashvat
+Mansukhbhai Nakrani for effectuating the transfer of 2447 Equity Shares of the
+Company having a face value of Rs. 10/-, the transfer of 2447 Equity Shares having a
+face value of Rs. 10/- each in the Company by Mr. Shashvat Mansukhbhai Nakrani to
+Mr. Ashneer Grover, be and is hereby approved and taken on record.
+RESOLVED FURTHER THAT the Directors of the Company, be and are hereby
+severally authorized to take all necessary actions to ensure that the transfer of the
+above said equity shares of the Company is completed including endorsing the
+transfer on the original share certificate in favour of Mr. Ashneer Grover.(cid:129) FOR
+RESILIENT INNOVATIONS PIVATE LIMITED
+-------------------------
+-sd-
+BHAVIK KOLADIYA DIRCTOR DIN: 08090416 ADDRESS: 3B, SIDSAR ROAD,
+KAMINIYA NAGAR, ADHEWADA BHAVNAGAR, TAKHTESHWAR, GUJARAT
+364002(cid:129)
+17. It is further averred in the written statement that in the above circumstances, the transaction in
+question conforms to Section 20 of the Sale of Goods Act and the property in the concerned goods
+(shares) stood transferred to the defendant inasmuch as the contract in question was (i) an
+unconditional contract (ii) in respect of specific goods; (iii) the said goods were in a deliverable
+state.
+18. It is averred that even the plaintiff's version conforms to Section 20 of the Sale of Goods Act,
+1930. It is consequently averred that the reliefs sought by the plaintiff are contrary to the Sale of
+Goods Act, 1930 and the plaintiff has lost his right of lien in respect of the shares in question.
+Submissions of the respective Counsel
+19. In the above background, learned senior counsel for the plaintiff has primarily contended that
+the title in the goods (shares) was not transferred to the defendant on account of non-payment of
+sale consideration. Reference is made on the various provisions of the Sale of Goods Act, 1930
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 12Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+("SOGA") to contend that "payment of price", like "delivery of goods" is a statutory condition of any
+contract of sale, notwithstanding whether the same is a contractual condition.
+20. It is further emphasized that for determining whether the property in goods has passed, the
+terms of contract have to be given precedence. Reliance has been placed on Section 12(2) of the Sale
+of Goods Act to contend that since there has been a breach of condition of contract of sale, which is
+essential to the main purpose of the contract, the same gives a right to the innocent party to treat the
+contract as repudiated.
+21. It is further contended that if the condition of the payment of price is breached by the buyer then
+the seller is an unpaid seller under Section 45 of the Sale of Goods Act. It is contended that the
+remedies of an "unpaid seller" whose property has not passed, are prescribed under Section 46(2) of
+the Sale of Goods Act which provides for the specific remedies which are "in addition to the other
+remedies".
+22. Reliance is also placed on Benjamin's Sale of Goods1, in which it has been stated as under:-
+―Although the seller may have delivered the goods to the buyer, he may be entitled to
+recover possession from the buyer under an express term of the contract; or where,
+before the property in the goods has passed to the 11th Edition, paragraph 16-091
+buyer, he justifiably terminates the contract on account of the buyer's breach. When
+the buyer has possession of the goods but not the property in them, he is the bailee of
+the seller who may be entitled, either under the terms of the contract or under the
+ordinary law of contract, to determine the bailment and demand the immediate
+return of the goods, if the buyer commits a breach of his obligations under the
+contract... ...(cid:129)
+23. It is further contended that this remedy to seek return of goods is otherwise also provided in
+Section 65 of the Indian Contract Act, 1872 (hereinafter, the "ICA"), which will also apply in view of
+Section 3 of SOGA which states that the provisions of the ICA will apply, subject to inconsistency
+with the SOGA. Once a contract, which is voidable at the option of a party, has been rendered void,
+the consequences under Section 65 of ICA would ensue.
+24. It is contended that the property in the plaintiff's shares cannot get transferred to the defendant
+without payment of the purchase consideration, given that the initial agreement, pursuant to which
+the plaintiff's shares were to be transferred to the defendant, was an "agreement to sell".
+25. It is further submitted that the defendant has not filed any document/material to dislodge any
+onus which lies on him to prove that the cash was paid to the plaintiff "then and there". As regards
+the execution of Form SH-4, it is contended that "Form SH-4" (issued under Section 56 of the
+Companies Act, 2013) is a prescribed standard form which by itself is not proof of payment of cash,
+nor can it be said to be a receipt for cash payment. Since it is a prescribed form, no person can alter
+its contents. Therefore, even when consideration is not received, or is to be received on a future date,
+even then the form will reflect the words "Consideration Received", although it may not have
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 13Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+actually been received.
+26. It is further contended that records of a company which are maintained under the Companies
+Act, 2013, are not determinative in any manner whatsoever of the title in shares.
+27. Strong reliance is placed on Pawan Hans Helicopters v. Aes Aerospace Ltd. 2, to contend that the
+title of the shares has not passed to the defendant.
+28. It is further contended that the defendant's averments regarding the conduct of the plaintiff
+remain to be tested at trial and not at the present stage, especially when there is no documentary
+proof produced by the defendant to establish payment of purchase consideration to the plaintiff. It is
+also submitted that in another suit filed by Mr. Bhavik Koladiya, in respect of the transfer of his
+shares to the defendant, the defendant has given undertaking that he will not, inter alia, deal with
+the disputed shares in any manner whatsoever during the pendency of that case. It is submitted that
+the plaintiff is seeking parity with the said order.
+29. As regards the various shareholder agreements in which the defendant has been shown to be a
+shareholder of the plaintiff's shares, it is contended that the said agreements do not give any
+representation to the third parties with respect to the fact that the defendant is the legal owner of
+the shares in question.
+30. Finally, it is contended that irreparable injury shall be caused to the plaintiff if the interim
+injunction as sought is not granted. It is contended that the balance of convenience is in favour of
+the plaintiff.
+31. Per contra, learned counsel for the defendant has also extensively relied upon the various
+provisions of the Sale of Goods Act, 1930, to contend that a stipulation as to the time of payment is
+generally not 2008 (103) DRJ 174 considered a condition essential to the main purpose of the
+Contract; it is contended that the Sale of Goods Act is replete with Sections wherein the rights of the
+parties to postpone payment or postpone delivery without the postponement affecting passing of
+title is recognized.
+32. It is submitted that the plaintiff has not been able to demonstrate how a stipulation as to the
+time of payment of Rs. 24,470/- was essential to the contract. It is further averred that the plaintiff's
+own legal notice dated 18.03.2023 states that "You have even failed to pay the purchase
+consideration to our Client within a reasonable period of time after the agreement was entered into".
+It is contended that this statement itself demonstrates that the plaintiff had agreed to postpone the
+receipt of consideration and hence the plaintiff's contention that the stipulation with respect to time
+of payment was a condition essential to the main purpose of the contract, is clearly misconceived.
+33. It is further submitted that the plaintiff not only executed "Form SH- 4" but also executed a
+series of documentation recognizing the rights of the defendant. It is contended that the plaintiff
+never reserved any rights of disposal whatsoever but rather assented to the unconditional
+appropriation of the shares and further recognized the defendant as a member/shareholder on the
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 14Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+basis of the shares purchased by the defendant from the plaintiff; "Form SH-4" dated 02.07.2018
+acts as a "document of title to goods" as defined in Section 2(4) of SOGA. This is why when a share
+transfer form is executed; and also the transferee's name is recorded in the register of shareholders;
+then the inexorable conclusion is that the title of the shares has passed and the delivery of the shares
+has taken place and that the transfer is complete. Reliance is placed on the following observations in
+Howrah Trading Company vs. CIT3:
+"7. The position of a shareholder who gets dividend when his name stands in the
+register of members of the company causes no difficulty whatever. But transfers of
+shares are common, and they take place either by a fully executed document such as
+was contemplated by Regulation 18 of Table A of the Indian Companies Act, 1913, or
+by what are known as ‗blank transfers'. In such blank transfers, the name of the
+transferor is entered, and the transfer deed signed by the transferor is handed over
+with the share scrip to the transferee, who, if he so chooses, completes the transfer by
+entering his name and then applying to the company to register his name in place of
+the previous holder of the share. The company recognises no person except one
+whose name is on the register of members, upon whom alone calls for unpaid capital
+can be made and to whom only the dividend declared by the company is legally
+payable. Of course, between the transferor and the transferee, certain equities arise
+even on the execution and handing over of a ‗blank transfer', and among these
+equities is the right of the transferee to claim the dividend declared and paid to the
+transferor who is treated as a trustee on behalf of the transferee. These equities,
+however, do not touch the company, and no claim by the transferee whose name is
+not in the register of members can be made against the company, if the transferor
+retains the money in his own hands and fails to pay it to him.(cid:129) Reliance in this regard
+has also been placed on the judgement of the Supreme Court in CIT vs. Bharat Nidhi
+Limited4 and Maneckji Pestanji Bharucha and Anr. vs. Wadilal Sarabhai and Co5.
+34. It is contended that in the present case as can be seen from the averments in the suit; the
+contract has been performed in its entirety; the share transfer form namely Form SH-4 has been
+executed and further the name of the defendant has been entered into the register of shareholders.
+Hence, it is evident that the title to the shares had passed to the defendant. It is further a settled
+principle of law specifically in the context of the transfer of shares; where shares have been
+transferred (in the sense that the title to AIR 1959 SC 775 1982 ILR 1 Del 64 1926Vol 94 1.C.824
+(PC) the shares have passed) and the consideration for such transfer has not been paid; the only
+remedy available to the seller is that to sue for price.
+34. The defendant also relies upon the series of agreements whereby the plaintiff and the defendant
+sold their shareholding to external investors, in which the defendant has been duly reflected to be a
+shareholder. It is emphasized that there was no demur or protest whatsoever at any stage as regards
+the shareholding of the defendant in the concerned company.
+35. On the basis of the above, it is contended that the plaintiff has failed to make out a prima facie
+case. It is further stated that the balance of convenience is also not in favour of the plaintiff and it is
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 15Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+in fact the defendant who will suffer an irreparable loss, if any injunction was to be granted to the
+plaintiff.
+Analysis and Conclusion
+36. Having considered the respective submissions made on behalf of the parties, I find no merit in
+the case set up by the plaintiff for the purpose of the reliefs sought in the present application. The
+reasons are enumerated hereunder.
+Documentation issued in respect of the transfer of shares to the Defendant; delivery of the shares
+and the subsequent conduct of the parties
+37. It is the plaintiff/applicant's own case in the plaint that it entered into an agreement with the
+defendant for transfer of 2247 equity shares in RIPL together with all rights attached to them
+(plaintiff's shares) and to this end, an agreement is stated to have been arrived at between the
+parties on 02.07.2018. On the same day, the plaintiff admittedly executed a "Form SH- 4" in favour
+of the defendant in respect of the plaintiff's shares. The said "Form SH-4", as duly executed between
+the parties has been reproduced hereinabove. A perusal of the same reveals that it clearly sets out
+the distinctive number of shares, the full name and particulars of the transferor and the transferee
+and details of the "consideration received". The averment made in the plaint to the effect that
+although in the duly executed "Form SH- 4", consideration has been reflected to have been
+"received", even though the plaintiff had not, as a matter of fact, received such consideration, is in
+utter contradiction to what is expressly recorded in the duly executed "Form SH-4".
+38. It is notable that "Form SH-4" has been prescribed under the Companies (Share Capital and
+Debentures) Rules, 2014. Rule 11 thereof provides as under:-
+―11. Instrument of transfer--
+(1) An instrument of transfer of securities held in physical form shall be in Form No.
+SH-4 and every instrument of transfer with the date of its execution specified thereon
+shall be delivered to the company within sixty days from the date of such execution.
+(2) In the case of a company not having share capital, provisions of sub-
+rule (1) shall apply as if the references therein to securities were references instead to the interest of
+the members in the company.
+(3) A company shall not register a transfer of partly paid shares, unless the company has given a
+notice in Form No. SH-5 to the transferee and the transferee has given no objection to the transfer
+within two weeks from the date of receipt of the notice.(cid:129)
+39. Thus, the information which is incorporated in "Form SH-4" is statutorily mandated; there is
+also a statutory presumption that the correct information has been mentioned.
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 16Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+40. It is also relevant to note that under Section 88 of the Companies Act, 2013 read with the
+Companies (Management and Administration) Rules, 2014, companies are obliged to maintain a
+register of members for each class of equity shares. Under Rule 5(1) of the Companies (Management
+and Administration) Rules, 2014, the entries in the registers maintained under Section 88 of the
+Companies Act shall be made within 07 days after the Board of Directors or its duly constituted
+committee approves the allotment or transfer of shares/debentures or any other securities, as the
+case may be.
+41. It is thus evident, that the transfer of shares in favour of the defendant and the consequent
+entry/recordal of the defendant as a shareholder of the concerned company was pursuant to
+approval by the Board of Directors or a duly constituted committee of the said Board. The Board
+Resolution dated 02.07.2018, which was admittedly passed in the present case, has been reproduced
+hereinabove.
+42. It is also notable that Rule 3(1) and Rule 3(2) of the Companies (Management and
+Administration) Rules, 2014, inter alia, provide as under:-
+"3. Register of members.-(1) Every company limited by shares shall, from the date of
+its registration, maintain a register of its members in Form No. MGT-1:(cid:129) (2) In the
+case of a company not having share capital, the register of members shall contain the
+following particulars, in respect of each member, namely:-
+(a) name of the member; address (registered office address in case the member is a
+body corporate); e-mail address; Permanent Account Number or CIN; Unique
+Identification Number, if any;
+Father's/Mother's/Spouse's name; Occupation; Status; Nationality; in case the member is a minor,
+name of the guardian and the date of birth of the member; name and address of nominee;
+(b) date of becoming member;
+(c) date of cessation;
+(d) amount of guarantee, if any;
+(e) any other interest if any; and
+(f) instructions, if any, given by the member with regard to sending of notices etc:(cid:129)
+43. It is not the plaintiff's case that the defendant has not been reflected in the register of members
+maintained by the concerned company in the statutorily prescribed Form MGT-1 for the entire
+period after July 2018, till date.
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 17Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+44. Further, Rule 8 of the Companies (Management and Administration) Rules, 2014 provides as
+under:-
+―8. Authentication.- (1) The entries in the registers maintained under section 88 and
+index included therein shall be authenticated by the Company Secretary of the
+company or by any other person authorised by the Board for the purpose, and the
+date of the Board Resolution authorising the same shall be mentioned.
+(2) The entries in the foreign register shall be authenticated by the Company
+Secretary of the company or person authorised by the Board by appending his
+signature to each entry.(cid:129)
+45. Thus, any entry in the register of shareholders of a company is statutorily required to be
+authenticated in the manner prescribed in the aforesaid rule. There is a statutory presumption that
+such authentication was carried out in the present case, during which process, there is no plea of any
+doubt being expressed or any objection being raised by the plaintiff or any other person as to the
+inclusion of the defendant in the register of members of the concerned company.
+46. Thus, the transfer of shares in favour of the defendant and the subsequent inclusion of the
+defendant in the register of members of the plaintiff was pursuant to a statutorily recognised
+process. For the purpose of the present application, there can be no presumption against the validity
+of the transfer in favour of the defendant pursuant to a statutorily mandated process, especially
+when the execution of "Form SH-4" by the plaintiff is admitted and it is not the case of the either of
+the parties that the concerned company has not adhered to the provisions of under the Companies
+(Management and Administration) Rules, 2014 and the Companies (Share Capital and Debentures)
+Rules, 2014.
+47. The law regarding the manner of effectuating transfer of title of shares is also no longer res
+integra and has been the subject matter of numerous judicial pronouncements.
+48. In Maneckji Pestonji Bharucha and Anr. v. Wadilal Sarabhai and Co.6, the Privy Council was
+concerned with a situation where blank transfer Forms had been executed by the registered holders
+of shares of a company. In that context, it was observed by the Privy Council as under:-
+"So soon, therefore, as Arajania, acting for Bharucha, handed Gora the certificates
+and transfers and Gora accepted them and gave the cheque, the goods became
+ascertained goods, the sale was complete and the property passed. From that time
+onward Bharucha and Arajania could only sue Gora on the cheque, or for the price of
+the shares unpaid in respect that the cheque had not been honoured. They had no
+longer any jus in re of the certificates and transfers. They had no statutory lien, for
+they had parted with possession, and, consequently, as they had no contract with
+Defendants Nos. 2 and 3, they could not sue them for delivery of the shares, whether
+the Defendants had got good title as against Gora or had not."
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 18Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+49. The said judgment was cited with approval in Commissioner of Income Tax, Delhi (Central) v.
+M/s. Bharat Nidhi Ltd., (1982) ILR 1Delhi64. In that case, the Court was concerned with the issue
+whether transfer of shares could be effectuated without delivery of the shares and without execution
+of a share transfer form. It was held in that case that for the purpose of a valid transfer, there must
+be a valid transfer form, wherein 1926 Vol 94 1.C.824 (PC) the shares must be specified by serial
+numbers. The Court noticed the judgement of this Court in Seth R. Dalmia v. The Commissioner of
+Income Tax- (1971) ILR 1 Delhi 30(4), wherein it was held that even execution of blank transfer
+form would result in transfer of equitable ownership of the shares, and that the transfer would be
+complete once the name of the transferee is entered in the registers of the company. The relevant
+observations in Bharat Nidhi (supra) are as under :
+"6. Goods are moveable property in terms of Sale of Goods Act. When and at what
+time a property can pass on to the buyer is laid down in Chapter III. Section 19
+provides that where there is a contract for the same of specific or ascertained goods
+the property in them is transferred to the buyer at such time as the parties to the
+contract intend it to be transferred; and for the purpose of ascertaining the intention
+of the parties to the contract regard shall be had to the conduct of the parties.
+Sub-section (2) of Section 19 elaborates that the rules in Sections 20 to 24 are to be
+looked at for ascertaining the intention of the parties as to the time at which the
+property in the goods is to pass to the buyer. Section 21 provides that where there is a
+contract for the sale of specific goods and the seller is bound to do something to the
+goods for the purpose of putting them into a deliverable state the property does not
+pass unless such thing is done and the buyer has notice thereof. The Tribunal has
+however, not referred to Section 21 because according to it Section 20 which provides
+that if there is an unconditional contract for the sale of specific goods in a deliverable
+state the property in goods passes to the buyer when the contract is made, and it is
+immaterial whether the time of payment of the price or time of delivery of the goods,
+is postponed and opined that the mere fact that the payment was not made on
+5-2-1948 or that the delivery of shares was not made does not mean that the property
+did not pass on to the buyers in Feburay, 1948. This however, omits to notice that in
+terms of Section 21 unless shares were specified by serial numbers which can be
+identified it cannot be said to be a contract for sale of specified goods as
+contemplated by Section 21 of the Act, as they would remain unascertained. See
+(1928 ILR 50 Allahabad 695 (1) A.W. Domingo v. L.C. De Souza. It is by now well
+established that only a person who is on the register is in full sense of word the owner
+of the share. But the title to get on the register consists in possession of a certificate
+together with transfer signed by the registered holder(cid:129). Vide (AIR 1926 PC 38) (2)
+Maneckji Pestonji Bharucha v. Wadilall Sarabhai & Company. An agreement to
+transfer shares in a company accompanied with the actual instrument of transfer
+which has not been completed so far as the transferor could complete it does not
+amount to a transfer deed sufficient to cause title to pass. By itself it would be
+nothing more than an enforceable agreement to convey and until the transfer
+endorsement is signed the shares would be unascertained goods and would not be in
+a deliverable state. Vide (AIR 1941 Madras 769) (3) Kuppiah Chetty v. Saraswathi
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 19Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+Ammal. In what circumstances legal ownership or equitable ownership passes to the
+buyer has been the subject matter of good deal of case law. But we need not dilate on
+this because almost a similar matter raising these very points has been the subject
+matter of a decision of this court namely ILR (1971) I Delhi 30 (4), Seth R. Dalmia v.
+Commissioner of Income-Tax, which was very fairly and properly brought to our
+notice by the counsel for the assessee, Mr. Bishamber Lal himself. In that case also
+the sale was again by the present assessee Bharat Nidhi and was on the same terms as
+in the present case. There also no money was paid at the time of entering into
+agreement in February, 1948 nor were the shares transferred. It was recognised by
+the assessee that under the Companies Act unless the shares are registered with the
+company the person who is registered with the company continues to be the owner
+and the company will not recognise the person as an owner unless registration takes
+place. Realising this argument had been sought to be raised that even if shares
+continued to be registered in the name of the vendor (as in the present case
+undoubtedly the said shares continued to be registered in the name of the assessee),
+as there was at least an unconditional contract for sale of the beneficial ownership of
+the shares. The bench accepted that equitable ownership could pass but held that the
+equitable ownership shares can be transferred by the owner by signing a blank
+transfer form and handing over the share scrips to the transferee. The bench
+observed:
+―It would, therefore, follow that equitable ownership in shares can be transferred by
+the owner by signing a blank transfer form and handing over that transfer form
+alongwith the share scrips to the transferee. So far as the company of which the
+shares are the subject matter of transfer is concerned, it would not recognise the
+transferee as the owner of the shares till such time as the transfer is registered and
+the name of the transferee is entered in its registers as the owner of those shares. It
+would be only after his name is entered in the registers of the company as owner of
+the shares that the transferee would acquire legal ownership in the shares.(cid:129) [R.
+Dalmia's case (supra.)].
+In the present case admittedly there is not even a suggestion that any transfer forms
+or the share scrips were handedover to Mrs. Jain or Mr. Dalmia by the assessee. The
+argument, therefore, that equitable ownership in the shares was transferred to the
+assessee on 5-2-1948 must be repelled. That without the specification of the shares
+the contract for sale for specific goods as contemplated by Section 21 of the Sale of
+Goods Act cannot be held to be complete was also accepted by the said Division
+Bench. We can find no difference at all not only on the points of law but frankly more
+or less even on the question of facts, between the instant case and the above case."
+50. Again, in Howrah Trading Co. Ltd. v. Commissioner of Income Tax, Central, Calcutta7, it was,
+inter alia, held as under :-
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 20Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+―7. The position of a shareholder who gets dividend when his name stands in the
+register of members of the company causes no difficulty whatever. But transfers of
+shares are common, and they take place either by a fully executed document such as
+was contemplated by Regulation 18 of Table A of the Indian Companies Act,1913, or
+by what are known as ‗blank transfers'. In such blank transfers, the name of the
+transferor is entered, and the transfer deed signed by the transferor is handed over
+with the share scrip to the transferee,who, if he so chooses, completes the transfer by
+entering his name and then applying to the company to register his name in place of
+the previous holder of the share........(cid:129)
+51. Thus, even in the case of a blank transfer form being executed, the transferee is entitled to
+complete the transfer by entering his name and then applying to the company to register his name
+in the name of a previous holder of the shares. The present case stands on a much higher footing
+inasmuch as the transfer of shares has been effectuated by following the rigors prescribed in the
+Companies Act and the statutory Rules framed thereunder. This has not been controverted in the
+plaint.
+52. The subsequent conduct of the parties pursuant to the transfer is also of vital importance in the
+present case inasmuch as after the transfer was effectuated in favour of the defendant, in the
+ensuing years, a series of agreements (16 in number) were entered into wherein the plaintiff and the
+defendant sold their shareholdings to external investors. It has been submitted by the learned
+counsel for the defendant that in respect of these 16 agreements, a sum of nearly Rs. 4500 crores
+(Rupees Four Thousand Five Hundred Cores) was infused into the company. In addition, the
+plaintiff was also paid a personal consideration of nearly Rs. 40 crores by various external AIR 1959
+SC 775 investors.
+53. Admittedly, in all these agreements, to which both the plaintiff and the defendant were parties,
+the defendant was represented to be as a shareholder of the concerned company. It is completely
+untenable for the plaintiff to suggest that the defendant was wrongly portrayed as a shareholder in
+all these agreements or that the plaintiff was "induced" to sign these agreements.
+Position under the Sale of Goods Act, 1930
+54. The contention on behalf of the plaintiff that the title in the concerned shares never passed to the
+defendant on account of non-payment of consideration and therefore it is permissible for the
+plaintiff, at this stage, to "repudiate" the contract for sale of shares, is also liable to be rejected,
+inasmuch as the same is contrary to the scheme of the Sale of Goods Act, 1930.
+55. There is no quarrel with the proposition that title in goods (which include shares) is transferred
+from the seller to the buyer only on sale of goods. This position has been affirmed by the Supreme
+Court in Arihant Udyog v. State of Rajasthan8, wherein it has been observed as under :
+"19. Section 20 deals with a situation where specific goods are in a deliverable state.
+In that case property in goods passes to the buyer when the contract is made, even
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 21Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+when time of payment of the price or the time of delivery of the goods or both is
+postponed. In order that Section 20 is attracted, two conditions have to be fulfilled:
+(i) the contract of sale is for specific goods which are in a deliverable state; and (ii)
+the contract is an unconditional contract. If these two conditions are satisfied,
+Section 20 becomes applicable (see Shalimar Chemical Works Ltd. [Agricultural
+Market Committee v. Shalimar Chemical Works Ltd., (1997) 5 SCC 516] ).
+20. However, Section 21 is exception to Section 20 which states that where there is a
+contract for sale of specific goods and the seller is bound to do (2017) 8 SCC 220
+something to the goods for the purpose of putting them into a deliverable state, the
+property does not pass until such a thing is done and the buyer has notice thereof.
+Likewise, Section 22 carves out another exception and mentions that even when the
+specific goods are in a deliverable state but the seller is bound to weigh, measure, test
+or do some other act or thing with reference to the goods for the purpose of
+ascertaining the price, the property does not pass until such act or thing is done and
+the buyer has notice thereof.
+21. Section 23 deals with sale of uncertain goods and appropriation, with which we
+are not concerned here. Likewise, Section 24 deals with a situation where goods are
+sent on approval or ―on sale or return(cid:129) basis, which is also not relevant for our
+purposes.
+"22. A conjoint reading of the aforesaid provisions makes it clear that title in goods is
+transferred from the seller to the buyer only on the sale of goods. As to when such a
+sale fructifies and the property passes is to be ascertained from the intention of the
+parties having regard to the terms of the contract. If no such intention can be
+gathered from the terms of the contract, the property in goods passes where the
+goods are in a deliverable state and there is unconditional contract for sale of specific
+goods."
+56. There is also no quarrel with the proposition that a contract of sale of goods involves (i) transfer
+of property in the goods to the buyer, (ii) payment of price/consideration by the buyer to the seller.
+Necessarily, these are two ingredients of every contract/agreement for sale of goods.
+57. However, the validity or existence of a valid contract for sale of goods is not dispelled merely on
+account of the fact that time of payment of price or the time of delivery of the goods, is postponed.
+This is evident from the following provisions of the Sale of Goods Act:
+"5. Contract of sale how made.--
+(1) A contract of sale is made by an offer to buy or sell goods for a price and the
+acceptance of such offer. The contract may provide for the immediate delivery of the
+goods or immediate payment of the price or both, or for the delivery or payment by
+instalments, or that the delivery or payment or both shall be postponed.
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 22Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+(2) Subject to the provisions of any law for the time being in force, a contract of sale
+may be made in writing or by word of mouth, or partly in writing and partly by word
+of mouth or may be implied from the conduct of the parties."
+"11. Stipulations as to time.--
+Unless a different intention appears from the terms of the contract, stipulations as to
+time of payment are not deemed to be of the essence of a contract of sale. Whether
+any other stipulation as to time is of the essence of the contract or not depends on the
+terms of the contract."
+"19. Property passes when intended to pass.--
+(1) Where there is a contract for the sale of specific or ascertained goods the property
+in them is transferred to the buyer at such time as the parties to the contract intend it
+to be transferred.
+(2) For the purpose of ascertaining the intention of the parties regard shall be had to
+the terms of the contract, the conduct of the parties and the circumstances of the
+case.
+(3) Unless a different intention appears, the rules contained in sections 20 to 24 are
+rules for ascertaining the intention of the parties as to the time at which the property
+in the goods is to pass to the buyer."
+"20. Specific goods in a deliverable state.--
+Where there is an unconditional contract for the sale of specific goods in a deliverable
+state, the property in the goods passes to the buyer when the contract is made, and it
+is immaterial whether the time of payment of the price or the time of delivery of the
+goods, or both, is postponed."
+58. As such, although, payment of price to the seller is a mandatory condition of any contract for
+sale of goods, a contract for sale of goods and transfer of title can fructify even where the time of
+payment of price or the time of delivery of goods, or both, is postponed. As such, the statutory
+provisions repel the contention of the plaintiff that in the present case, non- payment /
+postponement of the payment of the price by itself leads to the inference that the contract of sale of
+shares in the present case did not fructify.
+59. Under the statutory framework, for the purpose of passing of title, what is relevant is whether
+the contract for sale of goods has been concluded, and it is immaterial whether the time of payment
+of price or the time of delivery of goods or both is postponed.
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 23Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+60. The above position has also been affirmed in paragraphs 19-22 of the judgement of the Supreme
+Court in Arihant Udyog v. State of Rajasthan9(supra).
+61. Thus, what is of relevance in the present case is the conclusion of the contract for sale of shares
+and not whether payment or delivery or both have been postponed or not. Once the contract for sale
+of shares is concluded, the rights of an unpaid seller are circumscribed under Section 46 of the Sale
+of Goods Act, which provides as under:-
+―46. Unpaid seller's rights.--
+(1) Subject to the provisions of this Act and of any law for the time being in force,
+notwithstanding that the property in the goods may have passed to the buyer, the
+unpaid seller of goods, as such, has by implication of law--
+(a) a lien on the goods for the price while he is in possession of them;
+(b) in case of the insolvency of the buyer a right of stopping the goods in transit after
+he has parted with the possession of them;
+(c) a right of re-sale as limited by this Act.
+(2) Where the property in goods has not passed to the buyer, the unpaid seller has, in
+addition to his other remedies, a right of withholding delivery similar to and
+co-extensive with his rights of lien and stoppage in transit where the property has
+passed to the buyer.(cid:129)
+62. Section 46 (1)(a) clarifies that an unpaid seller retains a lien on the goods for the price "while he
+is in possession of them". Admittedly, the plaintiff in the present case is no longer in the possession
+of the shares, the same having been delivered to the defendant pursuant to execution of "Form
+SH-4". Furthermore, Section 46(2) deals with a situation where property in the goods has not
+passed to the buyer in terms of a contract of sale.
+63. Section 47 of the Sales of Goods Act deals with the Seller's lien and provides as under:-
+―47. Sellers lien:
+supra (1) Subject to the provisions of this Act, the unpaid seller of goods who is in
+possession of them is entitled to retain possession of them until payment or tender of
+the price in the following cases, namely:--
+(a) where the goods have been sold without any stipulation as to credit;
+(b) where the goods have been sold on credit, but the term of credit has expired;
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 24Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+(c) where the buyer becomes insolvent.
+(2) The seller may exercise his right of lien notwithstanding that he is in possession of
+the goods as agent or bailee for the buyer.(cid:129) A bare perusal of the above provision
+makes it clear that the same is applicable only when an unpaid seller is in the
+possession of the concerned goods.
+64. For the purpose of the present application, the contention of the plaintiff is that title in the goods
+has not passed to the defendant despite the fact that:
+(i) the shares have been delivered to the Defendant ;
+(ii) Form SH-4 was duly filled up and executed at the time when the contract was
+entered into, specifically mentioning details of "consideration received" and the
+particulars/ distinctive numbers of the shares;
+(iii) the recordal of transfer of shares in favour of the Defendant stood completed in
+July 2018 itself pursuant to a Board resolution passed by the concerned company,
+which was well within the knowledge of the plaintiff.
+(iv) the defendant's ownership in respect of the shares has since been reflected in
+numerous agreements with third parties to which the plaintiff himself was a party.
+65. Even assuming that a sum of Rs. 24,470/- was not paid at the time of execution of Form SH-4
+(as alleged), it is evident from the plaintiff's own legal notice dated 18.03.2023 that it agreed to
+postpone the receipt of consideration. The said legal notice inter-alia, states ―you have even failed to
+pay the purchase consideration to our client within a reasonable period of time after the agreement
+was entered into.(cid:129) As such, the factum of postponement of receipt of sale consideration is admitted.
+The statutory position (as set out hereinabove), and also noticed in Arihant Udyog (supra) is clear to
+the effect that mere postponement of payment of price does not dispel the existence of a valid
+contract of sale and passing of title thereunder. At best, the plaintiff has a right to sue for the unpaid
+consideration and/ or claim damages.
+66. In Suraj Enterprises v. Official Liquidator of Wood Polymers Ltd.10, it has been held as under:-
+―37... The unpaid seller of goods loses his lien when he delivers the goods and the
+buyer obtains lawful possession. Hence ―when the vendor has given the buyer
+possession under the contract of sale all his rights in the goods are completely gone;
+he must recover the price exactly as he would recover any other debt (u), and has no
+longer any claims on the goods sold superior to those of any other creditor. The
+delivery and acceptance of possession complete the sale, and give the buyer the
+absolute unqualified and indefeasible rights of property and possession in the things
+sold, though the price be unpaid and the buyer insolvent unless, indeed, the whole
+transaction is vitiated by actual fraud ―(v).(cid:129) Source: Pollock & Mulla -- The Sale of
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 25Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+Goods Act, Fifth Edition.(cid:129)
+67. The fact that the sale and transfer of shares stands concluded in the present case is also evident
+from the fact that admittedly, there is no reservation of right of disposal in favour of the seller of the
+goods (i.e. the plaintiff). In this regard, reference would be apposite to Section 25 of the (2005) 1
+GCD 661 Sale of Goods Act,1930, which provides as under:-
+―25. Reservation of right of disposal.--
+(1) Where there is a contract for the sale of specific goods or where goods are
+subsequently appropriated to the contract, the seller may, by the terms of the
+contract or appropriation, reserve the right of disposal of the goods until certain
+conditions are fulfilled. In such case, notwithstanding the delivery of the goods to a
+buyer, or to a carrier or other bailee for the purpose of transmission to the buyer, the
+property in the goods does not pass to the buyer until the conditions imposed by the
+seller are fulfilled.
+(2) Where goods are shipped or delivered to a railway administration for carriage by
+railway and by the bill of lading or railway receipts, as the case may be, the goods are
+deliverable to the order of the seller or his agent, the seller is prima facie deemed to
+reserve the right of disposal. (3) Where the seller of goods draws on the buyer for the
+price and transmits to the buyer the bill of exchange together with the bill of lading
+or, as the case may be, the railway receipt, to secure acceptance or payment of the bill
+of exchange, the buyer is bound to return the bill of lading or the railway receipt if he
+does not honour the bill of exchange; and, if he wrongfully retains the bill of lading or
+the railway receipt, the property in the goods does not pass to him.
+Explanation.--In this section, the expressions ―railway(cid:129) and ―railway administration(cid:129) shall have
+the meanings respectively assigned to them under the Indian Railways Act, 1890 (9 of 1890).](cid:129)
+68. In Pawan Hans Helicopters v. Aes Aerospace Ltd.11, this court was concerned with a situation
+where, in the relevant contract between the parties, it was clearly mentioned that the title in the
+goods would pass only on the purchaser making the full payment of consideration under the
+Agreement. This aspect is observed in the said judgment and is reproduced hereunder:
+―7....At this juncture, it may be relevant to note that clause 7 of the addendum of
+24.09.1999 specifically stipulated that the title in the goods would only pass to the
+purchaser once the full payment of GBP 9,00,000 under the said agreement is
+received by the vendor upon the delivery of the package FOB Mumbai for shipment to
+U. K."
+69. In that context, it was held as under:-
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 26Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+2008 (103) DRJ 174 ―17...The intendment under the said clause is clear that unless
+and until the petitioner received the full price for the said goods, the property in them
+would not pass to the respondent and would continue to vest in the petitioner. In the
+light of Section 19 of the Sale of Goods Act, 1930, it can be safely concluded, at this
+stage, that the property was intended to pass only upon the full payment of GBP
+9,00,000 by the respondent to the petitioner.......(cid:129)
+70. As such, the aforesaid judgment far from supporting the case of the plaintiff, supports the case of
+the defendant inasmuch as there is nothing whatsoever to indicate that unless and until, the plaintiff
+received the full price for the shares, the property in them would pass to the defendant, and the
+same would continue to vest in the plaintiff.
+71. In addition to the judgements in Maneckji (supra), M/s Bharat Nidhi (supra) and Howrah
+Trading (supra), in Uday Punj vs. Commissioner of Income Tax, (2012) SCC Online Del 3517, this
+Court again had occasion to consider as to when a contract for sale of shares could be considered to
+be concluded. In Uday Punj, in the context of sale of shares by existing shareholders of a company to
+the members of the public, the question that arose for consideration before this Court was whether
+transfer of the shares stood completed when shares were transferred from the demat account of the
+selling shareholders into the demat account of the Registrar to the issue, or whether it could be said
+to be completed only when sale price of the shares was transferred into the account of the selling
+shareholders, it was held by this Court as under :
+―9. Section 19 of the Sale of Goods Act, to the extent it is relevant, provides that
+where there is a contract for sale of specific or ascertained goods, the property in
+them is transferred to the buyer at such time, as the parties to the contract intend it
+to be transferred. It further provides that to ascertain the intention of the parties,
+regard shall be had to the terms of the contract, the conduct of the parties and the
+circumstances of the case. It also provides that unless a different intention appears,
+the rules contained in Sections 20 to 24 are the rules for ascertaining the intention of
+the parties, as to the time at which the property in the goods is to pass to the buyer.
+Section 20 of the Sale of Goods Act, provides that where there is an unconditional
+contract for the sale of specific goods in deliverable state, the property in goods
+passes to the buyer when the contract is made and it is immaterial whether the time
+of payment of the price or the time of delivery of the goods, or both is postponed.
+Section 21 of the Act provides that where there is a contract for the sale of specific
+goods and the seller is bound to do something to the goods for the purpose of putting
+them into a deliverable state, the property does not pass until such thing is done and
+the buyer had notice thereof.
+10. In the case before us, once the shares were transferred from the demat account of
+the appellant to the demat account of Registrar to the issue, they were in a deliverable
+state and, therefore, on allotment of shares to the applicants in the public issue, or in
+any case on credit of shares in their demat account, the property i.e. ownership rights
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 27Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+in the shares stood transferred to the applicants in the public issue. The fact that
+transfer of money which the applicants in the public issue had already paid alongwith
+the share application, to the bank account of the appellant took place on 06.01.2006
+was wholly irrelevant as far as passing of property in the shares was concerned.
+The fact that the sale consideration had not been transferred to the bank account of the appellant by
+05.01.2006 did not have the effect of postponing the passing of property in the shares to the
+applicants in the public issue."
+72. As such, prima facie, there is no merit in the contention of the plaintiff that the contract for sale
+of shares did not fructify in the sense contemplated under the Sale of Goods Act, 1930, and/or that
+title therein did not pass to the defendant.
+Admission on behalf of the plaintiff in CS(OS) 711/2022
+73. Learned counsel for the defendant has drawn attention to the fact that in a civil suit i.e. CS(OS)
+711/2022, captioned as Resilient Innovations Pvt. Ltd. v. Madhuri Jain Grover & Ors., the plaint of
+which has been affirmed and verified by the plaintiff herein as the authorised representative of the
+plaintiff company in that suit, it has been pleaded as under:-
+―16. It is humbly submitted that this leads to the inexorable conclusion that the
+Plaintiff had admittedly been paid the purchase consideration by the Defendant as
+admitted by the Plaintiff himself. Hence under no circumstances can the Plaintiff
+now claim that the purchase consideration had not been paid by the Defendant when
+in another suit pending before this Hon'ble Court the Plaintiff, as an authorised
+representative of the Company, has claimed and affirmed that the Defendant had in
+fact ―contributed(cid:129) a paltry sum on INR 31,920 to become a shareholder of the
+Company, the said statement has been reaffirmed by the Plaintiff in his
+Replication(supported by the duly affirmed affidavit of the Plaintiff) to the Written
+Statement filed by the Defendant herein. That the relevant para of the Suit captioned
+as ―Resilient Innovations Private Limited v. Madhuri Jain Grover and Ors.(cid:129) bearing
+CS (OS) No. 771 of 2022 has been reproduced below for the kind consideration of this
+Hon'ble Court:
+―9. Defendant No. 2's association with the Plaintiff began on 2 July 2018, when he
+became a shareholder of the Plaintiff by contributing a paltry sum of INR 31,920
+against which he was transferred 3,192 shares in the Plaintiff company. On 5
+November 2018, Defendant No. 2 was appointed as a Director of the Plaintiff. On 12
+December 2018, he was appointed as the CEO of the Plaintiff pursuant to an
+Employment Agreement dated 12 December 2018 (―2018 Employment Agreement(cid:129)).
+The 2018 Employment Agreement provides that Defendant No. 2 would be
+responsible for primarily leading and directing the management of the Plaintiff, with
+substantial control over its key operational decisions, subject to the overall
+supervision of the Board.(cid:129) (Emphasis Supplied)(cid:129)
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 28Shashvat Nakrani vs Ashneer Grover on 15 December, 2023
+74. The aforesaid pleadings have been verified by the plaintiff in the following terms:-
+"Page 141- Verification - ―I, Shashvat Mansukhbhai Nakrani, the Authorized
+Signatory of the Plaintiff, do hereby solemnly affirm and verify that the statements
+contained in Paragraphs 01 to 178 of the foregoing plaint are true to my knowledge
+and believed by me to be true....(cid:129)
+75. The same is also supported by an affidavit of the plaintiff which inter- alia reads as under:-
+"Page 142- Affidavit dated 6th Dec 2022 - ―I, Shashvat Mansukhbhai Nakrani... 1.
+That I am the Authorised Signatory of the Plaintiff and I am fully conversant with the
+facts and circumstances of the case and hence competent to swear this affidavit in
+support thereof .... That what is stated in Paragraphs 01 to 178 of the Plaint have been
+drafted under my instructions and are true and correct to the best of my personal
+knowledge...(cid:129)
+76. There is merit in the submissions of the learned counsel for the defendant that the pleadings in
+the present suit are in direct and utter contradiction to the position enunciated in the aforesaid CS
+(OS) 711/2022 where it has been categorically admitted that the defendant "became a shareholder",
+by "contributing a paltry sum of INR 31, 920 against which he was transferred 3192 shares in the
+Plaintiff company(cid:129). Thus, the factum and extent of the shareholding of the defendant herein, stands
+admitted in that suit. This additional aspect, also disentitles the plaintiff to any interim relief.
+77. For all the aforesaid reasons, this Court is not inclined to grant an interim injunction in favour of
+the plaintiff/applicant, as prayed for. However, considering that the shares of the defendant in
+question are subject matter of the present suit and considering that the plaintiff has also made an
+alternative prayer seeking damages, it is directed that in case, the defendant proposes to
+transfer/deal with/alienate the shares in question, prior intimation with regard to any such
+proposed transaction(s) together with details thereof, shall be provided to the Court.
+78. The application stands disposed of with the aforesaid directions.
+79. Needless to say, the observations made hereinabove, are only for the purpose of deciding the
+present application.
+SACHIN DATTA, J DECEMBER15, 2023/r/as
+Indian Kanoon - http://indiankanoon.org/doc/1547286/ 29

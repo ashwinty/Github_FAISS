@@ -1,0 +1,680 @@
+Metadata: id=>285
+name=>M S Simplex Concrete Piles vs Union Of India on 23 February 2010
+date=>23 February 2010
+court=>HIGH COURT OF DELHI
+link=>http://indiankanoon.org/doc/198200255/
+-----
+Content: M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+Delhi High Court
+M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+Author: Valmiki J. Mehta
+* IN THE HIGH COURT OF DELHI AT NEW DELHI
++ CS(OS) No.614A/2002
+23rd February, 2010
+M/S. SIMPLEX CONCRETE PILES (INDIA) LTD.
+...Petitioner
+Through: Mr. V.P.Chaudhry, Senior Advocate with
+Mr. G. Tushar Rao, Advocate and Mr.
+Nitinjiya Chaudhry, Advocate.
+VERSUS
+UNION OF INDIA ....Respondent.
+Through: Mr. B.V. Niren, Advocate.
+CORAM:
+HON'BLE MR. JUSTICE VALMIKI J.MEHTA
+1. Whether the Reporters of local papers may be allowed to see the judgment?
+2. To be referred to the Reporter or not? Yes
+3. Whether the judgment should be reported in the Digest? Yes
+% JUDGMENT (ORAL)
+VALMIKI J.MEHTA, J
+1. An issue of far reaching importance is called for decision in the present case. The issue is that can
+contractual clauses dis-entitle a person from claiming damages which a person is otherwise entitled
+to under law. Putting it differently, can a person who is guilty of breach of contract and is
+consequentially liable in law to pay damages under Section 73 of the Contract Act or other charges
+under Section 55 of the Contract Act 1872, can prevent the CS(OS)614A/2002 Page 1 aggrieved party
+from claiming the same by contractually so providing i.e. can the Arbitrator be prevented from
+awarding the damages/losses simply because clauses in the contract prohibits award of
+damages/losses.
+2. The relevant contractual clauses in this case are Clauses 11A to 11C and which clauses read as
+under:
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 1M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+"11. Time, delay and extension.--(A) Time is of the essence of the contract and is
+specified in the contract documents or in each individual works order.
+As soon as possible, after contract is let or any substantial work order is placed and
+before work under it is begun, the GE and the contractor shall agree upon the time
+and progress chart. The chart shall be prepared in direct relation to the time stated in
+the contract documents or the works order for completion of the individual items
+thereof and/or the contract or works order as a whole. It shall include the forecast of
+the dates for commencement and completion of the various trades, processes or
+sections of the work, and shall be amended as may be required by agreement between
+the GE and the contractor within the limitation of time imposed in the contract
+documents or works order. If the work be delayed:
+(i) by force majeure, or
+(ii) by reason of abnormally bad weather, or
+(iii) by reason of serious loss or damage by fire, or
+(iv) by reason of civil commotion, local combination of workmen, strike or lockout,
+affecting any of the tradesmen employed on the work, or
+(v) by reason of delay on part of nominated sub-contractors, or nominated suppliers
+which the contractor has, in the opinion of GE, taken all practicable steps to avoid, or
+reduce, or
+(vi) by reason of delay on the part of contractors or tradesmen engaged by the
+Government in executing work not forming part of the contract, or * * *
+(viii) by reason of any other cause, which in the absolute discretion of the accepting
+officer is beyond the contractor(cid:128)s control; then in any such case the officer
+hereinafter mentioned may make fair and reasonable extension in the completion
+dates of individual items or groups of items of works for which separate periods of
+completion are mentioned in the contract documents or works order, as applicable.
+* * *
+CS(OS)614A/2002 Page 2
+(B) If the works be delayed:
+(a) by reason of non-availability of government stores in Schedule B or
+(b) by reason of non-availability or breakdown of government tools and plant listed
+in Schedule C;
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 2M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+then, in any such event, notwithstanding the provisions hereinbefore contained, the
+accepting officer may in his discretion, grant such extension of time as may appear
+reasonable to him and the same shall be communicated to the contractor by the GE
+in writing. The decision so communicated shall be final and binding and the
+contractor shall be bound to complete the works within such extended time. (C) No
+claim in respect of compensation or otherwise, howsoever arising, as a result of
+extensions granted under Conditions (A) and (B) above shall be admitted."
+On the basis of the aforesaid clauses, it is contended that even if there is a breach of contract by the
+objector/Union of India in causing delays by its own faults, even then, damages cannot be claimed
+by a contractor and such damages cannot be awarded by the Arbitrator.
+3. The issue involved in the present case has become further complex because of two judgments of
+the Supreme Court dealing with very much these Clauses 11A to 11C. Whereas in the case of
+Ramnath International Construction (P) Ltd. Vs. Union of India (2007)2SCC 453, the Supreme
+Court while interpreting these clauses has held that even if the employer/Union of India is at fault,
+yet, Clauses 11A to 11C bar the entitlement of the contractor to damages, on the other hand, a recent
+judgment of the Supreme Court reported as Asian Techs Limited Vs. Union of India and others
+(2009)10SCC 354 holds that the clauses in question, namely, 11A to 11C, prevents only the
+department from granting damages, but it does not prevent the Arbitrator from awarding
+CS(OS)614A/2002 Page 3 damages which are otherwise payable by the employer on account of its
+breach of contract.
+4. By the impugned Award, the Arbitrator has very logically, thoroughly, exhaustively and with
+clarity interpreted the relevant Clauses 11A to 11C and held that Clause 11A ought not to be
+interpreted to deny damages to a contractor when the fault is of the employer. Since the Award
+effectively discusses and gives the rationale for interpretation of Clauses 11A to 11C to entitle the
+contractor to damages, I reproduce below few of the relevant paragraphs of the Award and which
+read as under:
+"36. The above agreement between the parties carries an exception clause and that is
+concerning the dispute for which final and binding decision is vested in an authority
+or an official. The dispute in the reference is for claim for losses or damages on
+account of prolongation of contract period. No final and binding decision as to
+whether claim for losses or damages on account of prolongation of contract period
+could be made or not is catered for in the contract. Condition 11(A) and 11(B) of
+IAFW-2249 provide for grant of extension to contract period. Use of words „final and
+binding decision(cid:128) in these two conditions relates to quantum or extent of extension
+granted implying thereby that the decision of authorities stated therein is final and
+binding on the length of extension granted. Contractor cannot thus dispute if his
+request for extension of time is not approved upto the date requested by him. This is
+not the case in the present reference as full extension, upto the certified date of
+completion of contract, had been granted. The use of term „final and binding(cid:128) in
+these conditions 11(A) and (B) can thus have no other implication. Now, I turn to the
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 3M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+provisions contained in Condition 11(c) of IAFW-2249. It states that no claim in
+respect of compensation or otherwise, however arising as a result of extension
+granted under conditions 11(A) and (B) shall be admitted. UOI, in their submissions
+and arguments, heavily relied on these provisions and argued that all reasons for
+extensions of time were on account of failure on the part of Contractor in timely
+fulfilment of his contractual obligations.
+Though condition 11(c) does not contain for any final and finding binding decision by any authority
+or official, as envisaged in the arbitration agreement between the parties, yet it carries the force of
+stopping the Contractor for raising any claim of compensation. There is, however, an over-riding
+provision i.e. the reason necessitating the grant of extension have to fall within those listed in
+Condition 11(A) and (B). It is quite logical to have such a provision in the contract as the Contractor
+accepts the CS(OS)614A/2002 Page 4 liability, including financial liability, if the contract gets
+delayed for the reasons given in condition 11(A) and (B). If, on the other hand, it becomes necessary
+to grant extension to contract period for reasons other than those listed in Condition 11(A) and (B),
+the liability and consequences thereof are not accepted by the Contractor. This has been made very
+specific and made known to Contractor before quoting. This agreed provision of the contract needs
+to be respected. The line of demarcation is therefore explicitly drawn between the parties in
+accepting responsibilities for liabilities arising out of delays caused in execution of the Contract.
+Extension to contract period could be granted under Condition 7 and 9 of IAFW-2249. Contractor
+could be justified extension of time if for any reason he is prevented from performance of his
+obligations. Sections 51 to 55 of Indian Contract Act would refer. In any case, the two parties to a
+contract, could mutually agree to a new completion date but as per IAFW-2249, Contractor is
+stopped from raising claim for compensation only and only if reasons for grant of extension to
+contract period fall within those listed in conditions 11(A) and (B) and not for any other reason.
+Provisions of condition 11 (c) cannot therefore be applied across the board and details would need to
+be examined after affording due respect to this condition 11(c).
+39. The discussions in Para 36 above make it necessary to go through the reasons listed in the said
+conditions 11(A) and (B). Condition 11(A) has seven reasons with reasons (i) to (vi) referring to
+force-majeure, abnormally bad weather, fire, civil commotion, strike or lockout, delays by
+nominated suppliers or sub contractors despite best efforts of contractor or by Government
+Contractor/tradesmen in executing works not forming part of contract. All these six reasons relate
+to occurrences or events on which Contractor could have had no control whatsoever. Reason (vii)
+goes further to add "by reason or any other cause, which in the absolute discretion of the Accepting
+Officer is beyond the control of Contractor". The reason (vii) is thus an extension of reasons (i) to
+(vi) without specific mention of cause. UOI submitted that this reason covered all aspects which the
+Accepting Officer considered as beyond Contractor(cid:128)s control. According to them, this would also
+include the reasons of delay even if caused at the hands of Department as these were also beyond the
+control of Contractor. On this specific issue, Contractor relied on the rule of „ejusdem generis" and
+even referred to Supreme Court Judgement AIR 1979 SC 65. I have examined this aspect and opine
+that reason (vii) cannot be considered in isolation of other reasons (i) to (vi). It obviously intends
+any reason or any specific causes, other than those listed in (i) to (vi), which are beyond
+contractor(cid:128)s control that is the causes on which Contractor can have no control. It cannot be made
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 4M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+to encompass the reason or causes which are within Government(cid:128)s or Department(cid:128)s control and
+then they cause the delays. In the garb of the wording of reason (vii), it is not correct to bring in such
+reasons or delays caused at the hands of Department. Such a liability cannot, contractually, be
+passed on to the Contractor for he cannot be expected to provide for it in his quotation. If the
+arguments of UOI were to be accepted then it would imply that consequences of all or any delays,
+consciously or otherwise, caused by Department would be borne by Contractor. I cannot therefore
+subscribe to CS(OS)614A/2002 Page 5 the views of UOI and hold that reason 11 A(vii) cannot be
+made to include, in its ambit, the delays caused at the hands of the Department.
+40. In view of the above discussions, Contractor is stopped from raising any claim for compensation
+or otherwise, howsoever arising, only for reasons falling under condition 11(A) and (B) of
+IAFW-2249 with the implication of reason (vii) as concluded by me in the preceding paragraph. For
+reasons, other than these, which lead to grant of extension to contract period, condition 11(c) cannot
+come into action. This conclusion is based on logical, just and fair interpretation of condition 11(c)."
+5. I would have ordinarily accepted this thorough reasoning as given in the Award, however, the
+Supreme Court has in fact held just the opposite in the judgment of Ramnath International's case
+(supra), in paragraph 12 thereof, and which reads as under:
+12. Clause (C) provides that where extensions have been granted by reason of the
+delays enumerated in clause (A) which were beyond the control of the contractor, or
+on account of the delays on the part of the employer specified in clause (B), the
+contractor is not entitled to make any claim either for compensation or otherwise,
+arising in whatsoever manner, as a result of such extensions. After enumerating
+certain delays, sub-clause (viii) of clause (A) specifically mentions delay on account of
+any other cause beyond the control of the contractor. The causes for delays specified
+in clause (A), thus, encompass all delays over which the contractor has no control.
+This will necessarily include any delays attributable to the employer or any delay for
+which both the employer and the contractor are responsible. The contract thus
+provides that if there is any delay, attributable either to the contractor or the
+employer or to both, and the contractor seeks and obtains extension of time for
+execution on that account, he will not be entitled to claim compensation of any
+nature, on the ground of such delay, in addition to the extension of time obtained by
+him. Therefore, the claims for compensation as a consequence of delays, that is Claim
+24 of the Hangar Contract and Claims 13 to 16 of the Road Contract are barred by
+clause 11(C).
+(Underlining is mine) As already stated above, the Supreme Court in the recent judgment of Asian
+Techs Limited's case (supra) has held to the contrary while interpreting the same clauses.
+CS(OS)614A/2002 Page 6
+6. What should a High Court do when faced with two judgments of the Supreme Court which
+apparently cannot be reconciled with respect to its ratios? The Full Bench of the Patna High Court in
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 5M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+the judgment reported as Amar Singh Yadav Vs. Shanti Devi and Ors. AIR 1987 Pat 191 has held that
+when there are two differing judgments of the Supreme Court, then, the High Court should follow
+that judgment which lays down the correct law. The relevant paras of the judgment are as under:
+"15. In fairness to the learned Counsel for the respondents, it must be said that the
+aforesaid observation indicates that there is a direct conflict on this point herein with
+the ratio in the Himalaya Tiles and Marble (Private) Limited, ( AIR 1980 SC 1118)
+(supra). However, both the judgments have been rendered by a Bench consisting of
+two Hon'ble Judges and cannot possibly be reconciled. This situation at once brings
+to the fore the somewhat intricate question posed at the outset, which has come to be
+of not infrequent occurrence, namely, when there is a direct conflict between two
+decisions of the Supreme Court, rendered by co-equal Benches which of them should
+be followed by the High Courts and the Courts below.
+16. Now the contention strongly urged on behalf of the respondents that the earlier
+judgment of a co-ordinate Bench is to be mechanically followed and must have
+preeminence, irrespective of any other consideration, because the latter one has
+missed notice thereof, does not commend itself to me. When judgments of the
+superior Courts are of co-equal Benches, and, therefore, a matching authority, then
+their weight inevitably must be considered by the rational and the logic thereof and
+not by the mere fortuitous circumstance of the timeand date on which they were
+rendered. Equally, the fact that the subsequent judgment failed to take notice of the
+earlier one or any presumption that a deviation therefrom could not be intended,
+cannot possibly be conclusive. Vital issues, pertaining to the vital questions of the
+certainty and uniformity of the law, cannot be scuttled by such legal sophistry. It is
+manifest that when two directly conflicting judgments of the superior Court and of
+equal authority exist, then both of them cannot be binding on the Courts below. A
+choice, however difficult it may be, has to be made in such a situation and the date
+cannot be the guide. However, on principle, it appears to me, that the High Court
+must in this context follow the judgment, which would appear to lay down the law
+more elaborately and accurately. The mere incidence of time, whether the judgments
+of co-equal Benches of the superior Court are earlier or later, and whether the later
+one missed consideration of the earlier, are matters which appear to me as hardly
+relevant, and, in any case, not conclusive.
+CS(OS)614A/2002 Page 7
+17. The view I am inclined to take has the support of the high authority of Jessel M. R.
+in Hampton v. Holman (1877) 5 Ch D 183. Therein also the learned Master of the
+Rolls was faced with the difficult task of choosing between the two decisions of equal
+authority, which were directly in conflict with each other. He observed as follows : --
+"Now I take it that both the cases to which I have referred are not to be reconciled
+with Hayes v. Hayes (1828) 38 ER 822 at all events, they differ from it so far as to
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 6M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+leave me at liberty now to say that Hayes v. Hayes is not sound law; indeed it appears
+that Sir John Leach himself was dissatisfied with his decision."
+Again in Miles v. Jarvis (1883) 24 Ch D 633, Kay, J., was similarly faced with two
+judgments of equal weight which were in conflict. He observed as follows :--
+".......... The question is which of these two decisions 1 should follow, and, it seems to
+me that 1 ought to follow that of the Master of the Rolls as being the better in point of
+law."
+Reference in this context may in particular be made to the celebrated case of Young v.
+Bristol Aeroplane Co. Ltd. (1944) KB 718. Therein, in a similar context of the Court of
+appeal being bound by its previous decisions, it was held that it was not only entitled
+but indeed duty bound to decide which of the two conflicting decisions of its own will
+it follow in case of a clear divergence of the opinion in the earlier precedents.
+18. I am not unaware that in Govindnaik G. Kalaghatigi v. West Patent Press
+Company Limited AIR 1980 Kan 92, a narrowly divided Full Bench has taken the
+view, by majority of three : two, that in such a situation, the later of the two decisions
+should be followed. A perusal of the judgment would, however, show that, in fact,
+there were two questions firmly posed before the Full Bench -- firstly that where
+there was a conflict of two decisions of the Supreme Court of unequal Benches, which
+one is to be followed and, secondly, when these decisions are of co-equal Benches,
+then which decision is to be followed. It seems somewhat patent that the majority
+view adverted to the first of the two questions alone, and, there does not appear to be
+any discussion whatsoever on the second question. The minority decision, however,
+while agreeing with the majority view on the first question, adverted to the second
+question and considered the matter in detail, concluding as follows : --
+".....It seems to us, therefore, the High Court would be well advised to consider which
+of two conflicting decisions it will follow in the interest of the administration of
+justice and it ought to follow that which is better in point of law than in point of
+time."
+With great respect, I am inclined to wholly agree with the aforesaid view of the
+minority and it bears repetition that the majority view does not seem to have even
+adverted to this question in essence.
+CS(OS)614A/2002 Page 8
+20. I am not unmindful of the legal aphorism that a living authority is not to be
+quoted. Yet, because of the eminence, Mr. Seervai's authoritative Constitutional Law
+of India already achieved, it is necessary to notice his opinion in this context, in the
+latest edition of that work at page 2244 (Third Edn.).
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 7M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+"But judgments of the Supreme Court, which cannot stand together, present a serious
+problem to the High Courts and to the subordinate Courts. It is submitted that in
+such situations, the correct thing is to follow that judgment which appears to the
+Court to state the law accurately, or more accurately than the other conflicting
+judgment."
+23. I am more than amply conscious of the difficulties of making a choice between
+decisions of the superior court when they are in direct conflict with each other. But,
+such a duty can neither be skirted nor evaded. It was rightly and forcefully pointed
+out by Lord Denning in Seaford Court Estates Ltd. v. Asher (1949) 2 All ER 155 that
+when a Judge comes up against such a truck, he is not to fold his hands and it is his
+duty to iron out the creases. Therefore, when such a divergence arises and the
+litigant's fortune depends thereon, the issue has to be frontally adjudicated upon.
+Obviously, in such a situation, it is not the province of the High Court or the
+subordinate court to comment on the judgment of the Supreme Court, which are
+patently entitled to respect. Its plain duty, in the interest of justice, is to respectfully
+follow that which appears to it to state the law accurately or, in any case more
+accurately than the other conflicting judgment. The view I am inclined to take is not
+only fortified, but in a way derived from the Full Bench judgment in Indo Swiss Time
+Limited v. Umrao AIR 1891 P&H 213. It, perhaps, deserves highlighting that though
+on another point the learned Judges of the Full Bench differed but on this particular
+momentous issue there was an absolute unanimity. The subsequent Full Bench
+decision in Kulbhushan Kumar and Co. v. State of Punjab AIR 1984 P & Har 55 is also
+in a way relevant and instructive.
+24. To conclude on this aspect, it is held that where there is a direct conflict betwixt
+two decisions of the Supreme Court rendered by co-equal Benches, the High Court
+must follow that judgment which appears to it to state the law more elaborately and
+accurately. The answer to question (1) posed at the outset is rendered in these terms."
+7. Various other High Courts of the country have also held that when there are conflicting judgments
+of Supreme Court of co-equal Benches, then, the High Court ought to follow the judgment which
+lays down the law more correctly. The aforesaid judgment in the case of Amar Singh Yadav (supra)
+relied upon the judgement of Indo Swiss Time Limited vs. Umrao and Ors AIR CS(OS)614A/2002
+Page 9 1981 P &H 213 (FB) and the ratio of which judgment was followed by the Bombay High Court
+in the judgment reported as The Special Land Acquisition Officer (I), Bombay and Anr. Vs. The
+Municipal Corporation of Greater Bombay AIR 1988 Bom 9. The Full Bench High Court of
+Allahabad in the judgment reported as Ganga Saran Vs. Civil Judge, Hapur, Ghaziabad and others
+AIR 1991 All 114 has held as under:
+"7. One line of decision is that if there is a conflict in two Supreme Court decisions,
+the decision which is later in point of time would be binding on the High Courts. The
+second line of decisions is that in case there is a conflict between the judgments of
+Supreme Court consisting of equal authorities, incidence of time is not a relevant
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 8M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+factor and the High Court must follow the judgment which appears it to lay down
+elaborately and accurately.
+8. Similar situation arose before a Full Bench of Punjab and Haryana High Court in
+the case of M/s Indo Swiss Time Limited, Dundahera Vs. Umrao, AIR 1981 Punj &
+Har 213. What the Full Bench in the said case held is extracted below (at pp. 219-220
+of AIR):
+"Now the contention that the latest judgment of a co-ordinate Bench is to be
+mechanically followed and must have pre-eminence irrespective of any other
+consideration does not commend itself to me. When judgments of the superior Court
+are of co-equal Benches and therefore, of matching authority then their weight
+inevitably must be considered by the rationale and the logic thereof and not by the
+mere fortuitous circumstances of the time and date on which they were rendered. It is
+manifest that when two directly conflicting judgments of the superior Court and of
+equal authority are extant then both of them cannot be binding on the courts below.
+Inevitably a choice, though a difficult one, has to be made in such a situation. On
+principle it appears to me that the High Court must follow the judgment which
+appears to it to lay down the law more elaborately and accurately. The mere incidence
+of time whether the judgments of coequal Benches of the Superior Court are earlier
+later is a consideration which appears to me as hardly relevant".
+This decision was followed by the Bombay High Court in the case of Special Land Acquisition Officer
+Vs. Municipal Corporation, AIR 1988 Bombay 9. The majority of Judges in the Full Bench held that
+if there was a conflict between the two decisions of equal benches which cannot possibly
+CS(OS)614A/2002 Page 10 reconcile, the courts must follow the judgment which appear to them to
+state the law accurately and elaborately. We are in respectful agreement with the view expressed by
+the Full Bench of Punjab & Haryana High Court in the case of M/s Indo Swiss Time Limited Vs.
+Umrao (AIR 1981 Punj & Har
+213) (Supra) especially when the Supreme Court while deciding Qamaruddin(cid:128)s case (1990 All WC
+308) (Supra) did not notice the U.P. amendment to S.115, C.P.C. and earlier decision of the Supreme
+Court. In the light of the view expressed in this case it is to be examined as to which of the case
+decided by the Supreme Court lays down the law accurately. As noticed earlier the U.P. Amendment
+Act No.XXXXI of 1978 amended S.115 of Code of Civil Procedure. By virtue of this amendment,
+revision u/S.115, S.P.C. did not lie to the High Court against the appellate or revisional order passed
+by the District Court where the valuation of the suit is less than Rs.20,000/-. This amendment came
+up for consideration in M/s Jupiter Chit Fund (Pvt) Ltd. Vs. Dwarka Diesh, (AIR 1979 All 218) (FB)
+(Supra) and it was held that S.115, C.P.C. as amended by U.P. Amendment Act assigns mutually
+exclusive jurisdiction to the High Court and district Court. This full bench decision was affirmed by
+Supreme Court in its two decisions namely in the cases of Vishesh Kumar V. Shanti Prasad, (AIR
+1980 SC 892) and Vishnu Awatar Vs. Shiv Autar (AIR 1980 SC 1575) (supra). A perusal of the
+judgment of the Supreme Court in the case of Qamaruddin(cid:128)s case (1990 All WC 309) (Supra)
+indicates that it was not brought to the notice of the bench deciding the case that it was a case from
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 9M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+U.P. and that S.115, C.P.C. amended by U.P. Amendment Act No.XXXI of 1978 governed the matter.
+The matter was disposed of as if S.115, C.P.C. as originally enacted applied."
+8. All the above judgments have been considered by a Division Bench of this Court in the judgment
+reported as Smt. Gopa Manish Vora Vs. Union of India MANU/DE/0841/2009 and the relevant
+paras of which read as under:
+"19. We are, therefore, faced with a situation where one line of decisions of the
+Supreme Court indicates that the five circumstances mentioned in Alka Gadia (supra)
+are exhaustive and another line of decisions of the Supreme Court of benches of equal
+strength indicates that the said circumstances are illustrative and not exhaustive.
+This raises the question as to what the High Court is to do in a situation where there
+is a conflict between decisions of the Supreme Court rendered by Benches of equal
+strength. In Ganga Saran v. Civil Judge, Hapur, Ghaziabad and Ors.
+MANU/UP/0025/1991 : AIR1991All114 , a Full Bench of CS(OS)614A/2002 Page 11
+the High Court of Allahabad considered this very question. The Full Bench observed
+as under:
+7. One line of decision is that if there is a conflict in two Supreme Court decisions, the
+decision which is later in point of time would be binding on the High Courts. The
+second line of decisions is that in case there is a conflict between the judgments of
+Supreme Court consisting of equal authorities, incidence of time is not a relevant
+factor and the High Court must follow the judgment which appears it to lay down law
+elaborately and accurately.
+20. The Full Bench of the Allahabad High Court referred to a Full Bench decision of
+the Punjab and Haryana High Court in the case of Indo Swiss Time Limited,
+Dundahera v. Umrao and Ors. MANU/PH/0164/1981, wherein it was observed as
+under:
+Now the contention that the latest judgment of a co- ordinate Bench is to be
+mechanically followed and must have pre-eminence irrespective of any other
+consideration does not commend itself to me. When judgments of the superior Court
+are of co-equal Benches and therefore, of matching authority then their weight
+inevitably must be considered by the rationale and the logic thereof and not by the
+mere fortuitous circumstances of the time and date on which they were rendered. It is
+manifest that when two directly conflicting judgments of the superior Court and of
+equal authority are extant then both of them cannot be binding on the courts below.
+Inevitably a choice, though a difficult one, has to be made in such a situation. On
+principle it appears to me that the High Court must follow the judgment which
+appears to it to lay down the law more elaborately and accurately. The mere incidence
+of time whether the judgments of coequal Benches of the Superior Court are earlier
+later is a consideration which appears to me as hardly relevant.
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 10M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+21. The Allahabad High Court in Ganga Saran (supra) agreed with the view taken by
+the Full Bench of Punjab & Haryana High Court in Indo Swiss Time Limited (supra)
+that when there is a conflict between two decisions of equal Benches, which cannot be
+reconciled, the courts must follow the judgment which appears to them to state the
+law accurately and elaborately.
+22. A Division Bench of this Court in Virender Kumar @ Bittoo v. State
+MANU/DE/0583/1995 : 59(1995)DLT341 also considered the question of conflict of
+judgments of different Benches of the Supreme Court of co-equal strength. The
+Division Bench noted with approval the decision of the Full Bench of the Allahabad
+High Court in the case of Ganga Saran (supra) as having been laid down that if there
+is a conflict between two decisions of equal Benches of the Supreme Court, which
+cannot possibly be reconciled, the courts must follow the judgment which appears to
+them to state the law accurately and elaborately and particularly so when the later
+decision of the Supreme Court did not notice the earlier decision."
+CS(OS)614A/2002 Page 12
+9. I would have ordinarily decided this case on a totally different issue, viz of the
+contractual clauses being void under Section 23 of the Contract Act, and which aspect
+I will dilate upon a little later, however, Mr. V.P.
+Chaudhary, Senior Advocate, appearing for the petitioner, has argued that this Court must decide as
+to which judgment applies i.e. whether of Ramnath International or Asian Techs and for this
+purpose has invited my attention to the decision of the Supreme Court reported as M/s. Indian
+Petrochemicals Corp. Ltd. Vs. Shramik Seva AIR 2001SC 3510 and para 8 thereof in which the
+Supreme Court mandates the High Court to take a view on merits on the issue, although there is
+apparently conflicting views as per the judgment of the Supreme Court. This para 8 reads as under:
+"8. We have perused the impugned order of the High Court. We are unable to
+appreciate the approach of the High Court. Even when it was faced with diametrically
+apposite interpretation of the judgment of this Court, it was expected of the High
+Court to decide the case (writ petition) on merit according to its own interpretation of
+the said judgment. Instead the High Court after referring to rival contentions of the
+parties, in para 3, observed thus:
+"In our view, the right course for the petitioner will be to approach the Apex Court
+and to seek a clarification of the said order. Mr. Singhvi is agreeable to take necessary
+steps."
+And having directed the appellants herein to take back the employees for a period of
+four months or until order is passed by this Court whichever is earlier, disposed of
+the writ petition."
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 11M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+10. In deciding this issue of the disentitlement to damages to the contractor (because of Ramnath
+International's case) or the entitlement to damages (on account of Asian Techs Limited's case),
+however, I would prefer to decide this case and base this judgment wholly, independently on my
+view that clauses CS(OS)614A/2002 Page 13 which bar and disentitle a contractor to claim its just
+claims/damages/monetary entitlement, and which a contractor is entitled to by virtue of provisions
+of Sections 73 and 55 of the Contract Act, are void by virtue of Section 23 of the Contract Act, 1872. I
+am also taking up this aspect of Section 23 first because the present discussion will help in deciding
+whether correct law is laid down in Ramnath International's case or in Asian Techs Limited's case. It
+is therefore necessary, at this stage, to reproduce Section 23 of the Contract Act. The same reads as
+under:
+"23. What considerations and objects are lawful, and what not.--The consideration or
+object of an agreement is lawful, unless-- it is forbidden by law 1; or is of such a
+nature that, if permitted, it would defeat the provisions of any law; or is fraudulent;
+or involves or implies injury to the person or property of another; or the Court
+regards it as immoral, or opposed to public policy.
+In each of these cases, the consideration or object of an agreement is said to be
+unlawful. Every agreement of which the object or consideration is unlawful, is void."
+A reading of the aforesaid provision of Section 23 shows that where the consideration
+or object of an agreement is unlawful, the said agreement is void. The consideration
+or object of an agreement is unlawful if it is forbidden by law or it is of such a nature
+that if permitted it defeats the provisions of law or the same involves injury to the
+person or property of another or the Court regards it as immoral or opposed to public
+policy. Two parts of this Section are relevant for determining the issue in the present
+case.
+The first part being that a clause in an agreement is unlawful and void when the CS(OS)614A/2002
+Page 14 same is opposed to public policy. The second part is that such a contractual clause is void if
+allowing operation of such clause will defeat the provisions of law.
+11. The expression "public policy" has been a subject matter of various decisions of the Supreme
+Court. It has been held that the expression "public policy" has to be interpreted in the context of the
+statute in which such expression appears. The expression "public policy" as per the requirement and
+the context of the statute in which the expression is found, has been accordingly interpreted by the
+Supreme Court. What is therefore the meaning which should be attributed to this expression as
+found in Section 23 is the question. Instead of referring to various judgments, I would seek to refer
+to the observations and the ratio of the Supreme Court in one of its recent judgments reported as
+Indian Financial Association of Seventh Day Adventists Vs. M.A. Unneerikutty and Another
+(2006)6SCC 351 on the meaning of this expression in Section 23. I refer to this judgment because in
+a few paragraphs the Supreme Court has encapsulated the law with regard to the expression „public
+policy(cid:128) and in the process has also referred to its earlier decisions on the point as also the relevant
+commentaries of certain authors. Paras 16 to 19 of the said judgment lays down the ratio with regard
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 12M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+to the meaning of the expression "public policy", and which I with all humility adopt, for the
+purpose of the decision in the present case. These paragraphs 16 to 19 read as under:
+CS(OS)614A/2002 Page 15
+16. Section 23 of the Contract Act lays down that the object of an agreement becomes unlawful if it
+was of such a nature that, if permitted, it would defeat the provisions of any law.
+17. The term "public policy" has an entirely different and more extensive meaning from the policy of
+the law. Winfield defined it as a principle of judicial legislation or interpretation founded on the
+current needs of the community. It does not remain static in any given community and varies from
+generation to generation. Judges, as trusted interpreters of the law, have to interpret it. While doing
+so, precedents will also guide them to a substantial extent.
+18. The following passage from Maxwell, Interpretation of Statutes, may also be quoted to advantage
+here:
+"Everyone has a right to waive and to agree to waive the advantage of a law or rule made solely for
+the benefit and protection of the individual in his private capacity which may be dispensed with
+without infringing any public right or public policy. Where there is no express prohibition against
+contracting out of it, it is necessary to consider whether the Act is one which is intended to deal with
+private rights only or whether it is an Act which is intended as a matter of public policy...."
+19. The doctrine of public policy may be summarised thus11: "Public policy or the policy of the law is
+an illusive concept; it has been described as „untrustworthy guide(cid:128), „variable quality(cid:128), „uncertain
+one(cid:128), „unruly horse(cid:128), etc.; the primary duty of a court of law is to enforce a promise which the
+parties have made and to uphold the sanctity of contracts which form the basis of society, but in
+certain cases, the court may relieve them of their duty on a rule founded on what is called the public
+policy; ... but the doctrine is extended not only to harmful cases but also to harmful tendencies; this
+doctrine of public policy is only a branch of common law, and just like any other branch of common
+law, it is governed by precedents; the principles have been crystallised under different heads and
+though it is permissible for the courts to expound and apply them to different situations, it should
+only be invoked in clear and incontestable cases of harm to the public."
+(Underlining supplied)
+12. The following principles can be culled out from the aforesaid paragraphs:
+(i) Public policy is a changing concept, it is not static but dynamic; it changes from time to time and
+the Courts have been empowered while interpreting this doctrine to resort to, judicial legislation
+euphemistically called „interpretation(cid:128), to further the public interest, equity, good conscience and
+justice.
+CS(OS)614A/2002 Page 16
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 13M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+(ii) A law which is made for individual benefit can be waived by an individual/private person,
+however, when such law includes a public interest/public policy element, such rights arising from
+the law cannot be waived because the same becomes a matter of public policy/public interest.
+13. The Supreme Court in its judgment reported as M.G. Brothers Lorry Service Vs. M/s. Prasad
+Textiles 1983(3)SCC 61 has held that a contractual clause which is in the teeth of a provision which
+furthers the intendment of a statute, has to give way and such a clause becomes void and inoperative
+by virtue of Section 23 of the Contract Act. The Supreme Court in M.G. Brother's case was dealing
+with a contractual provision which sought to set at naught Section 10 of the Carriers Act 1865. The
+Supreme Court in the said judgment has held the following :
+"Condition 15 of the Way Bill is void in view of Section 23 of the Contract Act because
+its object was to defeat the provisons of Section 10 of the Carriers Act.
+If under a particular bargain the rights of the parties were extinguished that would
+not hit the provisions of Section 28 of Contract Act and as such would not be violative
+of Section 23 of the said Act. But if rights are not extinguished but only the remedies
+are barred different consideration would apply.
+"The Carriers Act was passed, not only to limit the liability of the carriers, but also to declare the
+liability of the carriers. Therefore, any contract or bargain which seeks to defeat the liability of the
+carriers as enacted by law would defeat the provisions of that Act. Under Condition 14 there was
+neither any extinguishment or liability nor contracting out of liability but only a special period of
+limitation of notice was provided other than Section 10 of the Carriers Act. If Condition 15 be
+permitted then it will defeat the provisions of Section 10 of the Carriers Act. Even in a case where
+the plaintiff was unaware of the arrival of the goods at the destination or was unaware of a loss or
+damage, the plaintiff would not have any right to institute a suit if no claim was made and could not
+have been made within 30 days as stipulated in Condition 15 of the Way Bill. In essence Condition
+15 was to impose additional obligation upon the owner of CS(OS)614A/2002 Page 17 consignee
+because it stipulated giving of the notice either from the date of the arrival of the goods at the
+destination which more oftener than not, is not known to the owner of the goods, or from the date of
+booking, which again is useless because unless loss or damage occurs no liability arises."
+(underlining added) I have reproduced the portions of the judgment from the head note because the
+head note portion faithfully reproduces the relevant ratio of the judgment.
+14. A Division Bench of this court has also recently considered the legal position under Section 23 of
+the Contract Act in the judgment reported as Ircon International Ltd. Vs. NBCC 155 (2008) DLT
+226. The relevant paragraphs of this judgment are paras 15,20,21,27 and 28:
+15 .The learned Counsel for the appellant has also relied upon AIR 2006 SC 963,
+(2006) 6 SCC 315, AIR 1965 Pat. 239, AIR 1996 All. 72 and AIR (37) 1950 Lah. 174
+wherein the part of the arbitration agreement, "which makes the arbitrator(cid:128)s
+determination „final(cid:128) and binding between the parties" and declares that the parties
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 14M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+have waived the right of an appeal or objection „in any jurisdiction(cid:128), has been held to
+be hit by Section 28 of the Contract Act and also being against public policy
+20. After considering the judgments relied upon by the appellant and discussed by us
+above, we are of the opinion that a person may waive his rights. Such waiver of rights
+is permissible even in relation to a benefit conferred under the law. But it is trite that
+no right can be waived where public policy or public interest is involved. The contract
+between the parties must be in obedience to law and not in derogation thereof.
+Contracting out is permissible provided it does not deal with a matter of public
+policy. An agreement under no circumstances can violate the public policy
+[Centrotrade Minerals and Metal Inc. v. Hindustan Copper Ltd., 2006 (11) SCC 245].
+21. Section 28 of the Contract Act which provides for agreements in restraint of legal
+proceedings as void, the parties cannot by a contract seek to exclude the application
+of a statutory provision as it is not valid Mukul Dutta Gupta v.
+Indian Airlines Corpn., AIR 1962 Cal. 1311. The most obvious and direct form of contracting out of a
+statute is where a party agrees not to make a claim for a benefit for which a statute provides. But it
+may take many other forms, varying with the nature, subject matter and the object or purpose of the
+statute, and the means selected to escape from its provisions or its operations. Express
+CS(OS)614A/2002 Page 18 statutory prohibitions against contracting out renders void an agreement
+or clause that is inconsistent with it. But when there is no express prohibition in the statute, an
+agreement; the operation of which defeats or circumvents the purpose or policy of the statute, would
+also be barred.
+27. The object of the rule is, that no party/person should be left remedy less. Necessary corollary to
+this would be that, if no adequate remedy is provided for by a special statute through the Forum
+established under it for a particular purpose/situation, civil Courts remedy to administer justice
+cannot be said to be ousted to deal with even such cases.
+28. So far as the part in the arbitration clause in the said agreement regarding the non-applicability
+of the Act of 1996 is concerned, we consider that it is void and the parties cannot by themselves
+exclude the statute itself which is being drafted by the Legislature to look after the arbitration
+matters.
+(underlining is mine)
+15. The issue therefore boils down to whether rights which are created by Section 73 and 55 of the
+Contract Act can or cannot be contractually waived. If there is a public policy or public interest
+element in these Sections, then the rights under these sections cannot be waived. Let us examine the
+matter. If we look at that portion of the Contract Act, 1872 till Section 73 it broadly comprises of
+three parts. The first part is the formation and the requirements for the formation of a legal
+agreement/contract. The second part deals with the performance thereof. The third part deals with
+the effect of breach of the contract.
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 15M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+Provisions pertaining to the effect of breach of contract, two of which provisions are Sections 73 and
+55, in my opinion, are the very heart, foundation and the basis for existence of the Contract Act. This
+is because a contract which can be broken at will, will destroy the very edifice of the Contract Act.
+After all, why enter into a contract in the first place when such contracts can be CS(OS)614A/2002
+Page 19 broken by breaches of the other party without any consequential effect upon the guilty
+party? It therefore is a matter of public policy that the sanctity of the contracts and the bindingness
+thereof should be given precedence over the entitlement to breach the same by virtue of contractual
+clauses with no remedy to the aggrieved party. Contracts are entered into because they are
+sacrosanct. If Sections 73 and 55 are not allowed to prevail, then, in my opinion, parties would in
+fact not even enter into contracts because commercial contracts are entered into for the purpose of
+profits and benefits and which elements will be non-existent if deliberate breaches without any
+consequences on the guilty party are permitted. If there has to be no benefit and commercial gain
+out of a contract, because, the same can be broken at will without any consequences on the guilty
+party, the entire sub-stratum of contractual relations will stand imploded and exploded. It is
+inconceivable that in contracts performance is at the will of a person without any threat or fear of
+any consequences of a breach of contract. Putting it differently, the entire commercial world will be
+in complete turmoil if the effect of Sections 55 and 73 of the Contract Act are taken away.
+In view of the observations of the Supreme Court in the case of India Financial (supra) and the
+Division Bench of this court in Ircon International (supra) and again of the Supreme Court in the
+case of M.G.Brothers, the expressions "public policy" and "if permitted will defeat the
+CS(OS)614A/2002 Page 20 provisions of law" in Section 23 have to be interpreted to further the
+object of the Contract Act and not defeat the same. That being so, it is clearly a matter public policy
+and public interest that the sanctity of the contracts are preserved. To permit a contractual clause
+having the object to defeat the very contract itself, is a matter of grave public interest. If such a
+Clause is allowed to stand, then, the same will defeat the very basis of existence of the Contract Act.
+Having thus expounded at some length I thus need not say any further on the intendment of the
+Contract Act and the public interest/public policy behind Sections 55 and 73 thereof.
+16. Provisions of the contract which will set at naught the legislative intendment of the Contract Act,
+I would hold the same to be void being against public interest and public policy. Such clauses are
+also void because it would defeat the provisions of law which is surely not in public interest to
+ensure smooth operation of commercial relations. I therefore hold that the contractual clauses such
+as Clauses 11A to 11C, on their interpretation to disentitle the aggrieved party to the benefits of
+Sections 55 and 73, would be void being violative of Section 23 of the Contract Act. The
+interpretation given by the Supreme Court in the Ram Nath International case is a literal and strict
+interpretation of clauses whereby the expression "reason beyond the control of the contractor" has
+been so strictly and literally interpreted to include even those cases which are on account of the
+defaults of the employer itself and but CS(OS)614A/2002 Page 21 for the said judgment I would
+have preferred to interpret the clauses in the manner which the Arbitrator has done and not strike
+them down by applying Section 23 of the Contract Act. I have also reproduced above the reasoning
+given in the Award which in my opinion, would otherwise have been enough to dispose of this case,
+however, the said findings in the award being totally against a direct opposite interpretation given to
+such clauses by the Supreme Court, would therefore have to give way.
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 16M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+17. I may finally note that the Supreme Court in its recent judgment reported as G. Ramachandra
+Reddy Vs. UOI, 2009(6) SCC 414 has, though without referring to Section 23 of the Contract Act,
+held that a clause in a contract cannot prevent the award of damages although the same are
+otherwise payable in law.
+18. The issue which now remains to be addressed however is does Ram Nath International's
+judgment hold the field or the judgment in Asian Techs Ltd applies? This indeed is a vexed question
+and ordinarily, as already stated, I would not have ventured to enter into this area of controversy
+but, since, the learned senior counsel for the petitioner has very strongly pressed for decision on this
+aspect also, I am accordingly adverting to this aspect. Before doing so, I may note that both the
+judgments of Asian Techs Ltd. and Ram Nath International are of benches of two Judges. Further,
+the decision in Asian Techs case does not refer to the judgment of Ram Nath International
+CS(OS)614A/2002 Page 22 case although identical clauses have also been dealt with in the Asian
+Techs case. In terms of the various Full Bench judgments of different High Courts and the Division
+Bench judgment of this Court, I have the onerous obligation, as the learned senior counsel for the
+petitioner put, to decide that which of the two judgments should operate. One way in my opinion,
+would be that the effect of the two cases and the ratio of the two cases can be said to be
+distinguishable because the judgment in the Ram Nath International case , does not deal with the
+position that Arbitrators right to award such damages is unfettered and a contractual clauses which
+debars payment of damages only prevents the department from doing so. That however, would be
+an over simplification, because, both the judgments squarely deal with the issue of an arbitration
+Award entitling or disentitling a contractor for damages.
+19. In my opinion, if I look at the issue from both the micro and macro positions, keeping in focus
+the intendment of legislation called the Contract Act, then, the judgment in the case of Asian Techs
+Ltd. can be said to laying down a law which would further the object and purpose of the Contract
+Act. I must hasten to add that I am still doubtful whether I am entitled to decide the aspect that out
+of two decisions of Supreme Court, which one is to prevail, therefore, my observations are strictly in
+terms of the limited parameters of the facts of the present case required to decide the aspect of the
+entitlement or the disentitlement to damages in view of the provisions of Section 55 and 73 of the
+CS(OS)614A/2002 Page 23 Contract Act. I would with all due respect to the learned senior counsel
+for the petitioner, would not venture further and would leave it finally for a larger Bench of this
+court or the Supreme Court itself to consider whether at all there is any conflict between the
+judgments of Ram Nath International and Asian Techs Ltd and if there is a conflict, the ratio of
+which of the two judgments ought to prevail. I am therefore, deciding this case, to make things very
+clear, only on the basis of the decision that contractual clauses which prohibit the entitlement to
+rightful damages of a person is clearly hit and are void by virtue of Section 23 of the Contract Act.
+20. For the purposes of record, I may say that no other issue was pressed before me by the objector
+except this issue of disentitlement of the claimant/petitioner/non-applicant to damages on the basis
+of Clauses 11 A to 11C of the Contract Act and as per the interpretation thereof in Ramnath
+International's case.
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 17M/S. Simplex Concrete Piles ... vs Union Of India on 23 February, 2010
+21. I may note that the argument of the objector with regard to the fact that damages could not have
+been decided by the Arbitrator was sought to be canvassed by the learned senior counsel for the
+petitioner as being barred by "res judicata" because of an order passed in a petition under Section
+20 of the Arbitration Act, 1940, referring all the disputes including the present dispute of damages
+for decision by the Arbitrator, but, in view of my other findings given above, I am not pronouncing
+upon this issue which has been canvassed and CS(OS)614A/2002 Page 24 argued by the learned
+senior counsel for the petitioner. Mr.V.P. Chaudhary, appearing for the petitioner very fairly does
+not press his objections being I.A. No. 11421/2003. Interest at the rate of 9% per annum is awarded
+on the awarded amount from the date of this judgment till payment under Section 29 of the
+Arbitration Act, 1940. The award is made rule of the court. Let the decree be drawn in terms of
+thereof. Parties to bear their own costs.
+VALMIKI J.MEHTA, J
+February 23, 2010
+Ne
+CS(OS)614A/2002 Page 25
+Indian Kanoon - http://indiankanoon.org/doc/198200255/ 18

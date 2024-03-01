@@ -1,0 +1,5 @@
+pandas
+llama-index.core
+streamlit
+openai
+faiss-cpu

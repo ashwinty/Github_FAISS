@@ -1,0 +1,835 @@
+Metadata: id=>109
+name=>Union Of India vs Jashan Mal Co on 8 April 1976
+date=>8 April 1976
+court=>High Court
+link=>http://indiankanoon.org/doc/130044/
+-----
+Content: Union Of India vs Jashan Mal & Co. on 8 April, 1976
+Union Of India vs Jashan Mal & Co. on 8 April, 1976
+Equivalent citations: AIR1976DELHI335, 1976RLR298
+JUDGMENT
+H.L. Anand, J.
+(1) This judgment would dispose of C.R. 60/72, C.R. 04/72 and S.A.O. 30/73, which raise a common
+question as to the circumstances in which a consignee may sue the Railways for compensation on
+account of loss and/or damage to the goods, while in transit.
+(2) C.R. 60/72 arises out of a suit filed by the respondents, M/s. Jashan Mal & Co., fruit and
+vegetable Merchants, Subzimandi, Delhi for compensation on account of damage caused to a
+consignment of mangoes booked from Vizianagaram Station to New Delhi over the Northern
+Railway. The plaintiff was the consignee mentioned in the railway receipt. The suit was resisted on
+behalf of the Union, inter alia, on the ground that the plainitiff, though a firm of commission agents
+and a consignee mentioned in the receipt, was not the owner of the goods and could not sue. The
+suit was decreed by the Judge Small Cause Court, Delhi. On the question of locus standi, the trial
+Court held, relying on the case of Jalan and. Sons, Ltd. Air 1949 East Punjab 190(1) and the case of
+Ghamandi Lal Naneh Mal, R.F.A. 18-D/1958 decided on March 1, 1967(2) that the plaintiff "being a
+consignee can bring this suit for damages against Union of India". Aggrieved by the decree, the
+Union of India has brought up the matter on a revision.
+(3) C.R. 64/72 arises out of a suit filed by M/s. B. Prahlad & Company, fruit and vegetable
+merchants, Subzimandi, Delhi for compensalion in identical circumstances and the plea on behalf of
+the Union as to the locus standi of the plaintiff was repelled for the reasons that prevailed in the
+above suit. The judgment and decree of the trial Court is challenged by the Union in revision.
+(4) S.A.O. 30/73 arises out of a suit filed by M/s. Lal Chand Madhev Das, fruit & vegetable
+Merchants, Subzimandi, Delhi, a consignee. The plea of the Union that the plaintiff had no locus
+standi to file the suit, being a bare consignee, prevailed with the trial court and the suit was
+accordingly dismissed. Relying on the case of Ghamandi Lal (supra) and that of Morvi Mercantile
+Bank Ltd., , the trial court held that an endorsee of a railway receipt for valuable consideration could
+maintain a suit in his own name. The plea of the plaintiff was, however, turned down on the ground
+that although the plaintiff produced "Some evidence of having advanced some money to the
+consignor" but the evidence could not be looked into "in the absence of a plea" to the effect that the
+plaintiff had property in the goods. The judgment and decree of the trial court was, however,
+reversed in appeal and the suit was decreed and it was held, on the authority of the case of Jalan and
+Sons (supra) and that of Ghamandi Lal (supra) and of Lakshmi Ratan Cotton Mills Ltd., , that the
+plaintiff having "advanced the price of the consignment to the consignor" had the "right to institute
+the suit in his own name". The case was accordingly remanded to the trial court for decision on
+merits. The Union has brought up the matter on a Second Appeal.
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 1Union Of India vs Jashan Mal & Co. on 8 April, 1976
+(5) At the hearing of these matters, it was not disputed that the respondents were, during the
+material time, commission agents. It was, however, not disputed on behalf of the respondents that,
+although in the suit out of which S.A.O. 30/73 has arisen, some evidence was produced to show that
+the plaintiff in that case had advanced certain amounts to the consignor, there was no averment in
+any of the three plaints that the plaintiffs were commission agents or that they had advanced any
+money to the consignors or that they were consinees for consideration or had any title to or property
+in the goods, either as owners or otherwise. It was, therefore, understood that the plea of the
+respondents, as to their locus standi to maintain the suits, would have to be decided in the context of
+the contention that a bare consignee, to whom the goods are consigned for the purpose of sale on
+commission, was entitled to maintain a suit.
+(6) The only question that, therefore, requires consideration is whether a person to whom goods are
+consigned by the owner for the purpose of sale on commission can be said to have sufficient
+property or interest in the goods so as to entitle him to maintain a suit against the Railways for
+compensation on account of loss or damage to the goods, while in transit.
+(7) Shri R. H. Dhebar, who addressed the main arguments on behalf of the Union, contended that
+with the decision of the Supreme Court in the case of West Punjab Factories, 1966 Supreme Court
+395,(5) the law with regard to the right to sue a carrier of goods for compensation could be said- to
+have been crystallised and that ordinarily the consignor could sue the Railways, unless he was not
+the owner and was acting as an agent of the owner, in which case the owner of the goodscould
+maintain such an action. He further contended that the right to sue arises cither out of the contract
+of carriage or is founded in the title to the goods and that it was either a person who was a party to
+such a contract or the owner of the goods who could maintain such an action. He urged that the
+respondents in the present case, even though commission agents, had no locus standi to file the
+suits because they were neither the owners of the goods nor parties to the contracts of carriage and
+the only inierest they could be said to have in the goods was a prospect to earn a commission on sale
+thereof on behalf of the consignor, which alone could not entitle them to sue.
+(8) Shri Madan Bhatia, who led the defense on behalf of the commission agents, traced the entire
+history of the judicial controversy on the question, sought to widen the scope of the right to
+maintain an action, and urged that the railway receipt was not only a document of title but had been
+judicially assimilated to a bill of lading "for all purposes" and the consignee named in the railway
+receipt, where he was different from the consignor, would be she repository of not only the title to
+the goods to which the receipt relates but also of all the benefits of the contract of carriage
+represented by it and was, therefore, entitled to maintain an action for compensation against the
+Railways merely by virtue of being such a consignee. He further contended that the fact that the
+respondents were admittedly commission agents, reinforces their case to maintain an action
+because of a well-known custom in the trade and, therefore, on the principle of law merchant which
+treat the railway receipt as being symbclic of the goods. He, therefore, urged that in any event a
+commission agent had sufficient interest in the goods which would entitle him to sue and that to
+hold to the contrary, in the words of Suhba Rao J. in Morvi Mercantile Bank (supra), "would be a
+retrograde step and would paralyse the entire mechanism of finance of our internal
+trade............where goods are carried by railway over long distances and remain in transit for long
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 2Union Of India vs Jashan Mal & Co. on 8 April, 1976
+periods of time, the railway receipt is regarded as a symbol of the goods for all purposes." He relied
+on a number of decisions of the various High Courts which concede to the consignee and an
+endorsee the right to maintain such an action. He also sought to spell the right of a consignee, who
+was a commission agent, to sue, from his status as a bailee of the goods for the consignor and
+contended that a consignment to a commission agent for sale squarely fell within the meaning of the
+term "bailment" for it was none other than a delivery of goods for a specific purpose, namely, sale on
+behalf of the consigno. According to his contention, the ratio of some of the earlier decisions which
+had found a right in a consignee or an endorsee to maintain an action because the railway receipt
+had been assimilated to a bill of lading for all purposes had since been sanctified by the observations
+of Subba Rao J. extracted above and the legal position that thus emerged had not in any way been
+whittled down by the decision of the Supreme Court in the case of West Punjab Factories (supra).
+(9) Now a railway receipt is basically a simple document. in the first instance, it contains an
+acknowledgement by the carrier of the receipt by it of goods for 'he purpose of carriage to a specified
+destination. In the second instance, it incorporates a contract of carriage whereby the carrier accepts
+the obligation to carry the goods to a specified destination and to deliver it to a named consignee or
+his agent i.e. the endorsee. It carries a legal obligation for the carrier to take as much care of the
+goods in transit as a prudent person would of his own. The right to sue the carrier for damages on
+account of loss of or damage to the goods, while in transit, has, however, been subject matter of
+fierce judicial controversy and the examination of the question by the various courts has produced a
+sharp conflict of judicial opinion not only between the various courts but even within certain High
+Courts and have over the years led to an unfortunate uncertainty into the law relating to the right to
+sue the Railways on the basis of a railway receipt. The only relieving feature has been that the
+controversy has produced some brilllent judgments by eminent judges, and I say so with respect.
+(10) Generally speaking, the right to sue a carrier may have its genesis either in the relationship
+between the plaintiff and the contract of carriage or in the relationship between the plaintiff and the
+goods, forming subject matter of the contract. Under the ordinary law of contract it is only the
+contracting party who would be competent to sue on a contract on an application of doctrine to
+privity of contract. What is true of an ordinary contract is equally true in respect of a contract of
+carriage. There may, however, be exceptions where, for example, the party entering into the contract
+of carriage is not the principal but acting for another. In such a case the principal would be deemed
+to be the party to the contract and be entitled to sue. There may be yet another exception where on
+the dale the party enters into the contract of carriage, property in the goods has already passed in
+course of a sale. In such a case also, the party that enters into the contract would be deemed to be
+the agent of the true owner. Another instance may be where the goods are consigned by the owner
+under some arrangement, other than sale, which envisages that they would be in transit at the risk
+of the consignee. In such a case also, the consignee would be deemed to be the party to the contract
+and would be entitled to sue. Similarly, the right to sue may arise out of the plaintiff's relationship
+with the goods. Ordinarily, the owner of the goods would be entitled to sue for any injury to the
+goods independently of the contract of carriage. Such a right may also arise where the plaintiff has
+other actionable right in the goods short of being its full owner. Such cases would arise where the
+plaintiff has some special property in the goods. In such cases also, the plaintiff would be entitled to
+sue by virtue of having an actionable right or property in the goods. Such cases may arise where the
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 3Union Of India vs Jashan Mal & Co. on 8 April, 1976
+party seeking to sue is, for exemple, a pledgee of the goods. If one were to apply the two-fold test as
+to the relationship between the plaintiff and the contract of carriage and as to the relationship
+between the plaintiff and the goods, forming subject matter of the contract, there would perhaps
+have been very little difficulty. What has really created complication is that in the course of ordinary
+mercantile practice a railway receipt has been treated as a document of title and considered as
+representing the goods and in dealing with such a document the mercantile community has more or
+less assimilated it to a bill of lading, which by virtue of the provisions of law merchant and the
+statutory provisions, both in England and in India, has assumed an unusual status as a document of
+title so that any endorsement of a bill of lading or mention in it of the name of a person as a
+consignee has the effect of not only transferring the property in the goods to the endorsee or the
+consignee but also amounts to an assignment of ail the rights of the endorser or the consignor in the
+contract which the bill of lading incorporates. What further complicates the situation is that certain
+provisions of the Sale of Goods Act, [S. 2(4)] and the Transfer of Property Act, (S. 137) have
+assimilated a railway receipt to a bill of lading for certain purposes and it has been described in
+statutory provisions as being a document of title with the result that considerable controversy has
+centered round the question if the mention of a person as a consignee in a railway receipt or an
+endorsement on a railway receipt by the consignor or the consignee, for consideration or otherwise,
+had the effect of either transferring the property in the goods in favor of the consignee or endorsee
+or assigning the benefit of the contract of carriage in favor of the assignee or the consignee. Courts
+have taken conflicting views as to the legal effect of mentioning a person as a consignee and as to the
+endorsement of a railway receipt by the consignor or the consignee on the right of such a consignee
+or endorsee to maintain an action against the carrier.
+(11) If Bofore examing, the validity of the various contentions, It would be useful to review the
+leading English and Indian deaistions touching the question as to the right to sue the carrier.
+(12) In England the controversy as to who may sue for loss of or injury to goods while in transit was
+started as far back as the year 1770 and the earliest case on the point is Eves v. James, (1770) 5 Burr
+2680. By 1859 the legal position had more or less been crystallized with the decision in the famous
+case of Dunlop v. Lambert, (1839) 6CI and Fin 600. Halsbury in Halsbury's Laws of England, 4th
+edition, has digested all these cases and some of the later decisions and summarised the legal
+position in his inimitable pithy style in paras 452, 453 and 454 :
+''452.Where goods have been delivered to a carrier, and they are lost or injured, the
+owner of the goods is the proper person to sue for damages. A consignor who
+consigns only as agent, and has no property in the goods, has no right of action unless
+it is given to him by the terms of the contract. Nevertheless where the goods are at the
+consignor's risk until delivery to the consignee, the consignor may have a special
+property in the goods, as bailee, sufficient to entitle him to sue. When, in pursuance
+of a contract of sale, the seller is authorised or required to send the goods to the
+buyer, delivery of the goods to a carrier, whether named by the buyer or not, to be
+carried to the buyer, is prima facie delivery of the goods to the buyer; and where the
+seller thus delivers the goods to the carrier he is deemed to have unconditionally
+appropriated the goods to the contract unless he reserves the right of disposal.
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 4Union Of India vs Jashan Mal & Co. on 8 April, 1976
+Hence, as a general rule delivery of goods by a seller to a carrier for conveyance to the
+buyer places the goods at the consignee's risk and therefore the consignee is the
+proper person to sue in the event of loss or damage. Whenever goods are sent by a
+seller to a buyer by a carrier, to whom the consignee's name is made known, the
+ordinary inference is that the contract of carriage is between the carrier and the
+consignee, and that the consignor is merely the agent of the consignee to make the
+contract." * * * *"
+"453.Delivery to a carrier, does not necessarily vest the property in the goods in the
+consignee; and so, if the property in the goods has never passed to the consignee, the
+consignor should sue for any loss or damage. Where goods are sent to the consignee
+on approval, the consignor alone has a right to sue if the goods are lost or damaged in
+transit." * * * * * "454.The general principle that the owner is the proper person to
+sue may be varied by special agreement between the parties. Thus by agreement
+between the consignor and the consignee the risk of the foods may remain with the
+consignor until delivery, and, by agreement between the consignor and the carrier,
+the carrier may be liable to the consignor. Further, if the consignor has made a
+special contract with the carrier for the carriage of goods or if the consignor has
+delivered them to the carrier as agent for the consignee, the consignee in the person
+to sue, even though the property in the goods has not passed to him, and this may be
+the case even though the consignor has paid the carrier, for, in the absence of any
+arrangement to the contrary, the consignor is always liable ro pay the carrier."
+(13) The course of judicial determination of the right to sue a carrier has not been so smooth in
+India.
+(14) In the case of Amar Chand & Co., Air 1914 Bombay 290, (8) a division bench of the Bombay
+High Court was called upon to consider the question whether a railway receipt, being assignable by
+endorsement under the conditions printed on the back thereof, was an instrument of title to the
+goods u/s 103 of the Contract Act. The railway receipt in that case was a document under which the
+goods were received for a mixed transit by land and sea. It was pointed out that u/s 103 of the
+Contract Act it was not only a bill of lading but any other instrument of title to goods which may be
+assigned with the same effect as results from the assignment of a bill of lading. It was, therefore,
+held that "on the special facts of these cases the railway receipt, if assignable by endorsement, would
+be an instrument of title to the goods u/s 103 of Contract Act". This decision was followed by
+another decision of that court in the case of Dolatram Dwarkadas, Air 1914 Bombay 178, (9) and it
+was held in a very brief judgment that "it must be taken as settled law that a railway receipt is a
+mercantile document of title. That being so we think it necessarily follows that the endorsee of such
+a railway receipt has sufficient interest in the goods covered by it to maintain an action of this kind."
+There is no further discussion in this judgment. In the case of Ramdas Vithaldas Durbar, Air 1916
+Privy Council 7, (10) which arose out of the decision of the Bombay High Court in the case of Amar
+Chand & Co. (supra) the Judicial Committee had to consider if a railway receipt was an instrument
+of title within the meaning of section 103 of Contract Act. On a consideration of the various
+provisions of the law of contract and of the English Factors Act, 1842, Lord Parker, who delivered
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 5Union Of India vs Jashan Mal & Co. on 8 April, 1976
+the judgment of the Board, held that:
+"WHENEVERany doubt arises as to whether a particular document is a 'document
+showing title' or a 'document of title' to goods for the purposes of the Indian Contract
+Act, the test is whether the document in question is used in the ordinary course of
+business as proof of the possession or control of the goods or authorising or
+purporting to authorise, either by endorsement or delivery, the possessor of the
+document to transfer or receive the goods thereby represented."
+It was further pointed out that the word "title" in both the expressions, namely, instrument of title
+or document of title, can relate only the right to receive the delivery of the goods to which the
+instrument or document relates and that "it can have nothing to do with ownership". The learned
+Judge further observed that "the only point in which a bill of lading differs from the other
+documents of title is that its assignment, whether upon a resale or by way of pledge, operates as a
+constructive delivery of the goods to which it refers and that there is no other document of title with
+this peculiarity. " In Mercantile Bank of India Ltd., the question before the Judicial Committee was
+whether the pledge of a railway receipt was tantamount to a pledge of the goods represented by it or
+was merely a pledge of the document. On an examination of the provisions of Sections 102, 103, 172
+and 178 of the Contract Act and following the decision in the earlier case of Ramdas Vithaldas
+(supra) it was held that a railawy receipt was a document of title within Section 178 of the Contract
+Act; that the Section, as it stood then, entitled the owner as well as the mercantile agent to make a
+pledge; and pledge of the document amounts to a pledge of the goods. In Shamji Bhanji Bhagwati J.,
+as he then was, held that even though a railway receipt was a document of title to goods, a mere
+endorsement of it was not by itself enough to transfer the property in the goods and that a bare
+endorsement merely constituted the endorsee an agent of the consignee for the purpose of taking
+delivery; that the endorsement created rights, if any, between the endorser and the endorsee inter se
+but none between the endorsee and the carrier as the property in the goods were never transferred
+to the endorsee, the consignor who entered into the contract of carriage alone was competent to sue;
+that the consignee would have been entitled to sue if the property in the goods had passed to the
+consignee when the contract of carriage was entered into; that a person not a party to the contract
+could not sue on the contract unless the case was covered within the recognised exceptions to the
+principle of privity of contract. It was further pointed out that the railway receipt and other
+documents enumerated in Section 2(4) of the Sale of Goods Act had been assimilated to a bill of
+lacking for purposes of stoppage in transit under Section 103 of the Contract Act and a pledge under
+Section 178 of the Contract Act and not for all purposes. This is how the learned Judge put his
+conclusion :
+"IT is only by reason of the enactment of the Bills of Lading Act, 1855 (18 & 19 Vie. c.
+111) that the issue or transfer of a bill of jading operates as a delivery to the buyer of
+the goods shipped, and the consignee of the bill of lading is entitled to sue upon the
+contract contained in the same. [See also Bills of Lading Act 9 (IX) of 1856 in India].
+Even though as observed by their Lordships of the Privy Council in 18 Born. L. R. 670
+(12) and 37 Born. L.R. 130 (13) the railway receipt and all other documents
+enumerated in S. 2, sub-s. (4), Sale of Goods Act, arc assimilated to bills of lading for
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 6Union Of India vs Jashan Mal & Co. on 8 April, 1976
+the purposes of the right of stoppage in transit under S. 103, Contract Act and a
+pledge under S. 178. Contract Act, the effect of those decisions is not to assimilate the
+railway receipt to a bill of lading for all purposes whatsoever. The position of these
+documents is the same as it was at common law and that position is not affected at all
+by the enactment of S. 2, sub-s. (4). Sale of Goods Act, or the enactment of provisions
+analogous to Ss. 103 and 178, Contract Act therein."
+In Jalan and Sons Ltd. (supra) a Division Bench of the Punjab High Court held that since a railway
+receipt was a mercantile document of title, the endorsement of it vested the endorsee with a valuable
+right and that such an endorsee was not only competent to take delivery but also give a complete
+discharge and that. it followed, therefore that he was competent to bring a suit against the Railways
+for damages. In the case of Gaya Pershad Gopal Narain, , a Full Bench took the view, relying on the
+case of Air 1914 Bombay 178; Air 1924 Allahabad 574 and Air 1949 East Punjab 190, and overruling
+an earlier decision of that Court in 1954 Allahabad 747, that a consignee, who was not the owner of
+the goods, but to whom the goods were consigned for the purpose of sale on commission basis, was
+entitled to maintain a suit for loss in respect of demage caused to the goods while in transit. Kidwai
+J. who spoke for the Court expressed the view that the raiiway would be primarily liable to the
+consignor, who alone was party to I he contract, and that the owner of the goods "as such does not
+come to the picture at all": that according to Indian law noi only the parties to the contract but even
+"persons who arc entitled to a benefit under it or to whom the right had been conferred by transfer
+can also sue. It appears from the judgment that on behalf of she Railways it was conceded that in
+case of non-delivery it was the consignee or the person in whose favor the railway receipt had been
+endorsed, who could sue. This judgment has, however, been subject matter of considerable criticism
+in the later decisions of some of the High Courts. An interesting feature of this ease is that the
+decision primarily turned on the admission by the counsel for the Railways on the question as to the
+right of a consignee to sue and although a number of judgments arc referred to, it is not possible to
+spell out of it the principles on which the decision as based. The case of Shah Mulji Deoji, Air 1957
+Nagpur 31 (15) is a decision of considerable importance. In that case, the goods were consigned to
+self and the consignor had endorsed the railway receipt, which was followed by successive
+endorsements. The plaintifi was the last endorsee. The suit was resisted on the ground that the
+plaintiff had no locus standi to sue. Following two questions were referred to the Division Bench by
+a learned Single Judge :
+"(1)When goods are consigned to self under a railway receipt and the receipt is
+endorsed in favor of another can the endorsee, merely by reason of the endorsement
+in his favor, institute a suit against the railway administration for damages either for
+non-delivery or short delivery of the goods covered by the railway receipt ?
+(2)Where there are a series of endorsements on the railway receipt, can the last
+endorsee institute a suit in his own name on mere proof of the fact that he paid
+consideration to the prior endorsee or is it necessary for the former to establish that
+the title to the goods represented by the railway receipt passed from the original
+consignee through the intermediate endorsees to him?"
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 7Union Of India vs Jashan Mal & Co. on 8 April, 1976
+Kaushalendra Rao & Hidayatullah Jj, who constituted the Division Bench, differed with the result
+that the matter was referred to a third learned Judge. On a review of the decided cases. Rao J,
+proposed the answer to the first question in the negative and felt that in that view the second
+question did not survive. It was held that if the endorsee was to be regarded as an assignee of the
+contract then he would, in the absence of usage, be subject to the rule that the assignee must prove
+his title to sue through all the intermediate assignees, if any. The learned Judge reviewed the leading
+decisions and pointed out that the source of authority of the decisions which had answered the first
+question in the affirmative could be traced back to the decision of the Bombay High Court in the
+case of Amarchand & Co. (supra), which was not concerned with the right of an endorsee of a
+railway receipt to maintain an action against the Railways and that the point that arose for
+consideration in that case was about the right of stoppage in transit by an unpaid vendor. The
+learned Judge then pointed out that the railway receipt had more than one aspect to it, in that
+primarily it was a receipt for the goods accepted for carriage. Secondly, it was a document of title in
+terms of Section 2(4) of the Sale of Goods Act and lastly it was evidence of the contract of carriage
+and cautioned that unless these aspects are clearly kept distinct confusion was bound to result. The
+learned Judge expressed the view that where an action was founded on contract of carriage, the
+proper question to ask was with whom was the contract entered into and if the consignor consigns
+the goods to self he retained the property in the goods and he was the person who was party to the
+contract, and, therefore, a proper person to sue in the absence of a special contract to the contrary.
+It was, therefore, held that a mere endorsement can be considered as constituting the endorsee an
+agent of the consignee for the purpose of taking delivery. The learned Judge distinguished the bill of
+lading by virtue of the provisions of the Bill of Lading Act from documents of title other than a bill of
+lading and held, following Air 1916 P.C. 7 (supra) and that the railway receipt and other documents
+of title mentioned in Section 2(4) of the Sale of Goods Act are assimilated to a bill of lading for the
+specified purposes of right of stoppage in transit under Section 103 of the Contract Act and a pledge
+under Section 178 of the Contract Act. The learned Judge, therefore, expressed his approval of the
+decision of Bhagwati J. in 1947 Bombay 169, and held that an endorsement by itself was not enough
+to constitute an endorsee either as a bona fide pledgee for value or a bona fide transferee for value of
+the goods represented by the railway receipt and that without anything more it only constituted the
+endorsee an agent of the consignee for the purpose of taking delivery and that the endorsement by
+itself did not create any rights between the endorsee and the railway company. The ultimate
+conclusion of the learned Judge is set out in para 46 of the judgment which is in the following terms
+:
+"THOUGHthe cases have accumulated in favor of an affirmative answer to the first
+question, I am constrained to say with the utmost respect, the propositions on which
+they rest cannot bear scrutiny. The fact that the railway receipt is a document of title
+or that the endorsee who has become the owner of the goods covered by it has a
+sufficient interest in the goods does not by itself establish that he can sue on the
+contract of carriage to which he was not a party. It is one thing to say that because a
+railway receipt is a document of title to the goods it may be dealt with as the goods
+themselves and quite a different thing to lay down that any one in possession of the
+document as an endorsee authorised to take delivery can sue the carrier when the
+goods agreed to be carried under the receipt arc not forthcoming at the destination."
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 8Union Of India vs Jashan Mal & Co. on 8 April, 1976
+Hidayatullah C.J., as he then was, however, took a contrary view and proposed an affirmative
+answer to the first question and held on the second question that the last endorsee was entitled to
+sue in his own name without proving that he was a holder for value. Tambe J. to whom the matter
+was referred for decision concurred with Hidayatullah C.J. and according to the majority view an
+unqualified endorsement on a railway receipt has the effect of not only transferring to the endorsee
+property in the goods covered by the railway receipt but also of transferring to him the right and
+benefit of the contract of carriage with the result that such an endorsee would have a right to
+maintain an action to enforce its performance in his own name and to sue for damages on account of
+failure to perform it. It was further held that the title to the railway receipt passes to the endorsee by
+virtue of the endorsement and the endorsee has a right of action and that a railway receipt was in
+effect clothed with all the essential characteristics of negotiability though it may not be a negotiable
+instrument in a strictest sense and that assuming that it did not have the characeristic of
+negotiability, the matter has become so settled that it is unnecessary to prove that they are treated as
+negotiable by the custom in the trade. It was accordingly held that where there were series of
+endorsements on a railway receipt, the last endorsee had a right to institute a suit in his own name
+without proving that he was a holder for value since that would be presumed unless rebutted. In the
+final analysis, this judgment raised the railway receipt to the position that a bill of lading occupies
+both in England and in India after the statutory provisions which have clothed them with a peculiar
+status in law. In General Trading Corporation Ltd., a Division Bench of the Calcutta High Court was,
+inter alia, concerned with the question whether the plaintiffs, who were consignees in respect of
+some of the consignments and endorsees from the consignee in respect of the others, were entitled
+to maintain the actions against the carrier. It was a common case of the parties that the plaintiffs
+were not the owners in all the consignments. In respect of some of the consignments in which the
+plaintiffs were mentioned as consignees, they were acting as shipping agents for the ultimate foreign
+buyers of the goods. In respect of the other consignments, the consignors, who were also consignees,
+had forwarded the railway receipt to the plaintiffs in order that the plaintiffs, as their agents, could
+clear the goods from the Railways and ship them to certain foreign destinations. The plaintiffs had
+not paid any money in respect of any of the goods before the loss. Two questions were, therefore,
+mooted before the Division Bench, namely, (a) is the consignee named in a railway receipt entitled
+to sue the railway for non-delivery of the goods ? and (b) is a buyer endorsee of railway receipt
+entitled to sue the railway ? Mukherjee J. in a very elaborately drawn opinion, answered both the
+questions in the negative. Bachawat J. by a separate opinion, concurred. Mukherjee J. reviewed
+practically all the English and Indian decisions, examined the question on principle and held that
+even though the effect of the decision of the Privy Council in Air 1967 P.C. 7 and was that the railway
+receipt and other documents mentioned in Section 2(4) of the Sale of Goods Act are assimilated to
+the bill of lading for the purpose of Section 103 and 178 of the Contract Act, these documents could
+not be treated on the same footing as bills of lading "for all purposes" and that this limitation was
+inherent in the decisions of the Privy Council themselves. It was further pointed out that it would
+not be correct to ascribe to a railway receipt the various properties and attributes which belong only
+to a bill of lading by virtue of its peculiar position in the law merchant and also by reason of the
+statutory provisions, both in England and in India, on the subject. It was further pointed out that
+from the point of view of negotiability, a railway receipt was more or less comparable to a bill of
+lading as it was at common law before the passing of the Bills of Lading Act, 1855 in England and
+the enactment of the Bills of Lading Act. 1856 in India and that the properties and incidents of a
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 9Union Of India vs Jashan Mal & Co. on 8 April, 1976
+railway receipt and the effect of endorsement and delivery of it in India would be pari materia with
+the properties and incidents of a bill of lading before the statutory protection given to it. The learned
+Judge, therefore, came to the conclusion that an endorsee of a railway receipt could not sue the
+railways on the contract evidenced by the railway receipt merely because the property or the interest
+in the goods has been transferred to him, and that such a person could sue only for conversion or
+negligence and that without such property or interest, he has only the right to receive the delivery of
+the goods and would be in the same position as a bare consignee who has no right or property in the
+goods. The learned Judge characterised sonic of the decisions as having taken wrong view of the law
+and dissented from the view expressed in . The learned Judge subjected to severe criticism the
+decision of the Full Bench of the Allahabad High Court in . Bachwat J, while concurring with the
+opinion of Mukherjee J, added an interesting postscript expressing a virtual wish that the law was
+otherwise than the learned Judge found it to be so. This is contained in para 120 of the judgment
+which could be appropriately reproduced:
+"Iwas inclined to hold, if I could, that every consignee named in the railway receipt as
+also every endorsee of it by the named consignee arc entitled to sue the railway
+administration concerned for loss or injury to the goods. The existing commercial
+practice favors such a right of suit and I was inclined to uphold the practice, if I could.
+But on the authorities, and on principle, I am compelled to hold otherwise. I regret
+this conclusion, because it will encourage technical defense by the railway
+administrations. In the interest of commerce, the Legislature should intervene and
+sanction the existing commercial practice."
+In Ibrahim Isabhai, a Division Bench of that Court held that the railway receipt was a document of
+title in the limited sense of a right to receive or take delivery of the goods', that an endorsement and
+delivery of a railway receipt does not by itself pass title to the goods', that an endorsee was not
+entitled to sue the railway by reason of an endorsement: that an endorsement did not affect the
+property in the goods; that the right of a consignor under the railway receipt was not an actionable
+claim and was, therefore, not transferable; that the benefit of a contract was assignable but the
+assignee did not get the right to sue which vested in a party which was privity to the contract; that
+the Railway Administration could not enter into a contract for the benefit of a third person and the
+mere fact that the consignee was a "pucca Adatia" did not entitle him to institute a suit for damages
+unless he shows that the goods represented by the railway receipt had been transferred to him as
+owner or any interest therein had been created in his favor.
+(15) In the ease of Norvi Mercantile Bank Ltd., (supra) the Supreme Court had an opportunity to
+resolve the conflict and to introduce an element of certainty into tins branch of law when it was
+called upon to consider two questions, namely, if a valid pledge had been created in favor of the
+bank, inter alia, by the endorsement of the railway receipt in its favor and by the delivery of it to the
+bank, and, if not, whether the bank could maintain an action for compensation on account of loss of
+or damage to the goods by virtue of being an endorsee for consideration. Unfortunately, as it now
+appears, the Bench hearing the matter was divided on the first question. While Subba Rao J. as he
+then was and who spoke for himself and for Raghubar Dayal and Bachawat JJ. held that a valid
+pledge had been made in favor of the Bank on the ground that the owner of goods could make a
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 10Union Of India vs Jashan Mal & Co. on 8 April, 1976
+valid pledge of them by transferring the railway receipt representing the said goods, Ramaswami J.
+as he then was, and who speaking for himself and for Mudholkar J. expressed the dissenting
+opinion, answered the question in the negative on the ground that by virtue of the provisions of new
+Section 178 of the Contract Act, a mercantile agent alone was competent to make a valid pledge of
+the goods without the possession of the goods. The majority opinion noticed that the second
+question was a larger question "on which there is a conflict of opinion" but in the view that they took
+of the first question, they did not feel any obligation to deal with the larger question. Subba Rao J.,
+however, expressed his satisfaction for having arrived at a happy conclusion and made certain
+observations which may be said to give some sanctity to the reasoning on which the line of decisions
+which have construed the railway receipt rather liberally could be said to be based. It is these
+observations which, to my mind. have inspired the wide contention urged before me on behalf of the
+commission agents. This is what Subba Rao J. said :
+"WEare glad that, on a reasonable construction of the material provisions of the
+relevant Acts, we have been able to reach this conclusion. To accept the contentions
+of the respondents to the contrary would be a retrograde step and would paralyse the
+entire mechanism of finance of our internal trade. In this vast country where goods
+are carried by railway over long distances and remain in transit for long periods of
+time, the railway receipt is regarded as a symbol of the goods for all purposes for
+which a bill of lading is so regarded in England."
+Ramaswami J., however, went into the larger question, since he had answered the first question in
+the negative. The learned Judge dispelled the contention that the bank was entitled to sue by virtue
+of being an endorsee of the railway receipt. The learned Judge pointed out that as in law a bill of
+lading was not negotiable like a bill of exchange so as to enable the endorsee to maintain an action
+in his own name, the effect of the endorsement being only to transfer the property in the goods but
+not the contract itself and that the documents like the railway receipt were in the same position as
+the bill of lading was before the Bills of Lading Act 1856 and that it was only by reason of the
+enactment of the said statute that the issue or transfer of a bill of lading operated as a delivery to the
+buyer of the goods shipped and the consignee of the bill of lading was entitled to sue upon the
+contract contained in the same, a position that obtains in India vis-a-vis the bill of lading after the
+Act of 1856. The learned Judge further observed that even though the railway receipt and all other
+documents enumerated in Section 2(4) of the Sale of Goods Act were assimilated to bill of lading for
+the purposes of the right of stoppage in transit under section 103, Contract Act but it could not be
+said that the railway receipt has been assimilated to a bill of lading "for all purposes whatsoever". It
+was, therefore, observed that "the legal position of the railway receipt is the same as it was in
+English Law and that position is not affected at all by the enactment of Section 2, sub-section (4) of
+the Sale of Goods Act, or the enactment of provisions analogous to Ss. 103 and 178 of the Contract
+Act". It was, therefore, held that there are no rights created by mere reason of endorsement of a
+railway receipt between the endorsee and the railway company which had issued the receipt to the
+consignee, the only remedy of the endorsee being against the endorser. It was further held that in
+the absence of any usage of trade or any statutory provision to that effect a railway receipt cannot be
+accorded the benefits which flow from negotiability under the Negotiable Instruments Act, so as to
+entitle she endorsee as the holder for the time being of the document of title to sue the carrier the
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 11Union Of India vs Jashan Mal & Co. on 8 April, 1976
+railway authorities in his own name" and lhat "if the claim of the plaintiff is as an ordinary assignee
+of the contract of carriage, then the plaintiff has to prove the assignment in his favor." The learned
+Judge approved the decision of Bhagwati J., as he then was, in , as representing the true legal
+position. The argument that to hold contrary to the contention of the bank would be a "retrograde
+step" and would cause considerable hardship, which prevailed with Subba Rao J, and which were
+the basis of expression of a satisfaction by him in the passage quoted above, did not appeal to the
+learned Judge. This is how the contention was repelled :
+"COUNSELfor appellant has referred to the practice of merchants in treating a
+railway receipt as a symbol of goods and in making pledge of goods by pledge of
+railway receipts, but no such practice or custom has been alleged or proved on behalf
+of the plaintiff in 'the present case. In the absence of such allegation or proof it is not
+open to the Court to take any judicial notice of any such practice. Counsel for
+appellant also referred to possible inconvenience and hardship to merchants if such a
+practice is not judicially recognised but. the argument from inconvenience and
+hardship is a dangerous one and is only admissible in construction where the
+meaning of the statute is obscure. In Sutlers v. Briggs, 1922-1 Ac 1 (19) at p. 8 Lord
+Birkenhead stated :
+"THEconsequences of this view of S. 2 of the Gaming Act, 1835 will no doubt be
+extremely inconvenient to many person. But this is not a matter proper to influence
+the House unless in a doubtful case affording foothold for balanced speculation as to
+the probable intention of the legislature."
+In the present case the language of S. 178 of the Contract Act is clear and explicit and if any hardship
+and inconvenience is felt it is for Parliament to take appropriate steps to amend the law and not for
+the courts to legislate under the guise of interpretation."
+(16) In the case of Punjab Factories Ltd., 1966 Supreme Court 395, (Supra) the Supreme Court had
+yet another opportunity to examine the larger question as to the right of a consignee to sue the
+carrier. The appeals before the Supreme Court arose out of two suits. One suit was by the consignor,
+the original owner of the goods, while the other was filed by the endorsee. The contentions of the
+Union as to the right of the plaintiffs to maintain actions were dispelled and the suits were decreed.
+The decrees were affirmed in appeal. One of the contentions raised before the Supreme Court was
+that the suits were not maintainable. The contention in the first case on behalf of the Union was that
+the consignee being different from the consignor, the original owner of the goods could not bring the
+suit and the consignee alone could maintain it. It was held that ordinarily, it is the consignor who
+could sue because he was party to the contract of carriage and that where the property in the goods
+has passed from the consignor to someone else that other person may be able to sue. The contention
+on behalf of the Union was that the railway receipt was a document of title to goods by virtue of
+provisions or Section 2(4) of the Indian Sale of Goods Act and as such it was the consignee who had
+the title to the goods where the consignor or the consignee were different, interestingly enough, a
+contention which is being raised in the present case on behalf of the consignees, and has throughout
+been emphatically resisted on behalf of the Union. It was held that even though a railway receipt was
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 12Union Of India vs Jashan Mal & Co. on 8 April, 1976
+a document of title to goods covered by it, it did not follow that where the consignor and consignee
+arc different, the consignee is "necessarily the owner of goods and the consignor in such
+circumstances can never be the owner of the goods" and that the mere fact that the consignee is
+different from the consignor "does not necessarily pass title to the goods from the consignor to the
+consignee, and the question whether title to goods has passed to the consignee will have to be
+decided on other evidence." It was pointed out that it was quite possible for the consignor to relain
+title in the goods himself while the consignment is booked in the name of another person. The right
+to sue appears to have been made dependant on the title to the goods and the test enunciated was in
+whom the title to the goods vested during transit. It was found that in terms of the contract between
+the parties the goods would be dispatched by Railways at the seller's risk. until the destination of the
+goods at the godowns of the consignee and the property in the goods had not, therefore, passed to
+the consignee until the goods had reached the destination. The suit of the consignor was, therefore.
+hold to be maintainable because the consignor retained the title to the goods when the loss occurred.
+The conclusion of the Court in respect of the first of the two suits is set out in para 10 of the
+judgment which is reproduced below :
+"THEcontention of the appellant with respect to five of the consignments in the suit
+of the factory was that as the consignee of the five railway receipts was the J. C. Mills,
+the consignor (namely, the factory) could not bring the suit with respect thereto and
+only the J. C. Mills could maintain the suit. Ordinarily, it is the consignor who can
+sue if there is damage to the consignment, for the contract of carriage is between the
+consignor and the railway administration. Where the property in the goods carried
+has passed from the consignor to some-one-else, that other person may be able to
+sue. Whether in such a case the consignor can also sue docs not arise on the facts in
+the present case and as to that we say nothing. The argument on behalf of the
+appellant is that the railway receipt is a document of title to goods [sec S. 2(4) of the
+Indian Sale of Goods Act, No. 3 of 1930], and as such it is the consignee who has title
+to the goods where the consignor and consignee arc different, it is true that a railway
+receipt is a document of title to goods covered by it, but from that alone it does not
+follow, where the consignor and consignee arc different, that the consignee is
+necessarily the owner of goods and the consignor in such circumstances can never be
+the owner of the goods. The mere fact that the consignee is different from the
+consignor does not necessarily pass title to the goods from the consignor to the
+consignee, and the question whether title to goods has passed to the consignee will
+have to be decided on other evidence. It is quite possible for the consignor to retain
+title in the goods himself while the consignment is booked in the name of another
+person. Take a simple case where a consignment is booked by the owner and the
+consignee is the owner's servant, the intention being that the servant will take
+delivery at the place of destination. In such a case the title to the goods would not
+pass from the owner to the consignee and would still remain with the owner, the
+consignee being merely a servant or agent of the owner of consignor for purposes of
+taking delivery at the place of destination. It cannot therefore, be accepted simply
+bacause a consignee in a railway receipt is different from a consignor that the
+consignee must be held to be the owner of the goods and he alone can sue and not the
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 13Union Of India vs Jashan Mal & Co. on 8 April, 1976
+consignor. As we have said already, ordinarily, the consignor is the person,. who has
+contracted with the railway for the carriage of goods and he can sue; and it is only
+where title to the goods has passed that the consignee may be able to sue. Whether
+title to goods has passed from the consignor to the consignee will depend upon the
+facts of each case and so we have to look at the evidence produced in this case to
+decide whether in the case of five consignments booked to the J. C. Mills, the title to
+the goods had passed to the Mills before the fire broke out on March 8, 1943. We may
+add that both the courts have found that title to the goods had not passed to the J. C.
+Mills by that date and that it was still in the consignor and therefore the Factory was
+entitled to sue. We may in this connection refer briefly to the evidence on this point."
+In the second of the two suits, the plaintiff claimed the right to sue the Railways on the ground that
+he was the owner of the goods and relied on the endorsement in his favor by the consignor even
+though it was consigned to self in support of his title to the goods. It was also contended that in any
+event the plaintiff was entitled to maintain the suit as a bare endorsee to a document of title. The
+trial Court found that the plaintiff was not only the owner of the goods and was, therefore, entitled
+to sue but that he was also entitled to sue by virtue of being the endorsee of a document of title. The
+High Court confirmed the finding and held that the plaintiff was not only the owner of the goods but
+was the "endorsed consignee" and in that capacity had the necessary locus standi to sue. The High
+Court also observed that the correctness of this proposition was not challenged before it. It was in
+these circumstances that the Supreme Court held that in view of the concurrent finding of the two
+Courts below that the "plaintiff was the owner of the goods and that was why the railway receipt was
+endorsed in his favor" "he is certainly entitled to maintain the suit". An interesting feature of this
+decision. is that the judgment makes no reference to the almost perennial controversy raised in
+Courts in India with regard to the right of a consignee or an endorsee to file a suit nor is there any
+reference to the earlier decision of the Supreme Court in the case of Morvi Mercantile Bank (supra).
+Interestingly enough, even the majority judgment in the earlier case merely noticed the larger
+controversy and, therefore, felt relieved of the duty to deal with the various decisions and left it to
+the minority to deal with the question in view of the way the minority looked at the first question.
+Unfortunately, however, and I say so with respect, the minority opinion also did not consider the
+various decisions touching the question so as to stabilise the legal position, to the extent it was
+possible for a minority opinion to do so.
+(17) Shri Bhatia, learned counsel for the respondents/plaintiffs, urged that the decisions of the
+various High Courts which had found that a bare consignee and an endorsee would be competent to
+sue by virtue of only being a consignee and endorsee, being based on the principle that the railway
+receipt was a document of title and was to be assimilated to a bill of lading for all purposes, are
+clearly sanctified by the observation of Subba Rao J. in the case of Morvi Mercantile Bank (supra)
+and as a result of this decision the railway receipt has been sublimated to the position of a bill of
+lading without the statutory prop like the Bill of Lading Act, which conferred that higher status on
+the bill of lading both in England and in India. He contended that the observations of Subba Rao J.
+clearly raised the railway receipt to that position and with that judgment holding the field, it was no
+more possible to disputes the proposition that a mere consignee or an endorsee of a railway receipt
+is not only the repository of title to the goods but is the assignee of the contract of carriage as well
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 14Union Of India vs Jashan Mal & Co. on 8 April, 1976
+and has, therefore, the necessary locus standi to sue the railways in his own name. He claimed that
+in the case of West Punjab Factories (supra) the Supreme Court was called upon to consider a
+limited facet of the problem of the right to sue and that there was nothing in the conclusion of the
+Supreme Court in that case which could be said to have, in any manner, whittled down the effect of
+the observations of Subba Rao J. in raising the status of a railway receipt and in lending to it the
+unusual negotiability, a conclusion on which the learned Judge felt so elated. Shri Dhebar, who
+appeared for the Union, however, vehemently challenged this contention and urged that the
+observations of Subba Rao J. have no such effect and that the observations must be seen in the
+context in which they were made and be confined to that. He further urged that with the decision in
+the case of West Punjab Factories (supra) the law relating to the right to sue the railways has more
+or less become crystallised and that the effect of the judgment was that the right to sue must have
+relation either to the contract of carriage or to the title to the goods and where the consignee or
+endorsee claims such a right, he must establish either that he was a party to the contract or was an
+assignee of the rights of the parties to the contract or had title to the goods and that a person who
+did not have either was not competent to sue.
+(18) Is there any conflict between the two decisions of the Supreme Court ? If so, which one would
+prevail ? If not, what exactly is the law with regard to the right to sue the Railways and what are the
+circumstances in which a consignee or an endors (19) On a review of the course of judicial decisions
+from 1914 Bombay 290 to 1966 Supreme Court 395 spanning a period of over half a century, it
+appears that the law with regard to the right to sue the carrier could be said to have been fairly
+crystallised and some of the propositions could be treated as well settled. There is thus no doubt that
+a consignor would be entitled to sue both by virtue of being a party to the contract of carriage as
+indeed, a repository of title to the goods forming subject matter of such a contract, unless of course
+on the date the contract was entered into property in the goods had already passed to the buyer and
+the goods were, therefore, handed to the carrier for delivery to the buyer in course of trade, in which
+case the consignor would be merely deemed to be an agent of the real owner and the real owner
+alone would be competent to sue. Another case in which the original consignor may not be able to
+sue is where there is a contract to the contrary which provides that the goods in transit would be at
+the risk of another, or where even though property in the goods had not transferred, there is a
+special agreement with regard to the right to sue, or the benefit of the contract of carriage has been
+assigned to another in accordance with law. It follows, a fortiori, that a consignee or an endorsee of a
+railway receipt to whom the property in the goods is passed would also be competent to sue. The
+judicial controversy, however, still continues and the legal position of a mere consignee or an
+endorsee in that behalf is not free from doubt. If a bare consignee to whom the railway receipt has
+been delivered or a person in whose favor the railway receipt has been endorsed, without anything
+more by the consignor, in case the consignment was consigned to self, or by the consignee, in the
+other case or by the previous endorsee from either of these would be entitled to maintain an action
+against the carrier in his own right and in his own name is still far from clear A reference to the
+decided cases would appear to indicate that a long line of cases in which such a proposition was
+negatived were based on the logic that even though the railway receipt was a document of title
+known as such to the mercantile community, has certain characteristics of negotiability, though not
+strictly speaking a negotiable instrument, and had, therefore, been assimilated to a bill of lading for
+the purpose of section 103 of the Contract Act and Section 178 of the Contract Act, and for such
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 15Union Of India vs Jashan Mal & Co. on 8 April, 1976
+other purposes, it could not be so assimilated" "for all purposes" because the peculiar characteristic
+claimed for bills of lading, both in England and in India, was not the result of any custom, usage in
+the trade or Law Merchant alone but had its foundation in the Bills of Lading Act, both in England
+and in India. It was pointed out in these decisions that there was no custom among the mercantile
+community that a mere consignment of goods in a railway receipt or mere endorsement of a railway
+receipt would transfer to the consignee or the endorsee anything more than a mere right to take
+delivery of the goods and to give a discharge to the carrier, and did not have the effect either of
+transferring property in the goods or of assignment of the contract of carriage itself. It was also
+pointed out in these cases that with a view to facilitate merchantile dealings Bills of Lading Acts
+were passed both in England and in India as a result of which every consignee of goods named in a
+bill of lading and every endorsee of a bill of lading to whom property of the goods therein mentioned
+passed, upon or by reason of such consignment or endorsement shall have transferred to and vested
+in him all rights of suit, and be subject to the same liability in respect of such goods as if the contract
+contained in the bill of lading had been made with himself. This is exactly what section 1 of the Bill
+of Lading Act, 1856 provides in India and is in turn based on its counterpart in England. These
+decisions, therefore, took the view that the railway receipt would be, at best, in the position in which
+a bill of lading was in England and in India before these enactments were made part of the statute
+book and that, even if the property in the goods may pass, there would be no assignment of the
+contract of carriage. That the courts would have gladly likened a railway receipt to a bill of lading in
+the peculiar position that the latter has come to acquire with the statutory projection given to it, if it
+was possible, in the absence of a statutory prop similar to the aforesaid statutes, remains without
+doubt obviously because such a course would facilitate the course of trade in India where goods have
+to travel long distances on the railway to reach from the point of production to the points of
+exchange and eventually to points of distribution and consumption. The wish expressed by
+Bachawat J. in which I have extracted above, would, to my mind represent an expression of almost
+universal judicial desire. What, however, prevented courts from doing this was what was considered
+by them to be a legal impediment and full expression was given lo this by Ramaswami, J. in his
+minority opinion in the case of Morvi Mercantile Bank (Supra) when it was pointed out that counsel
+for the appellant had referred to possible inconvenience and hardship to merchants if such a
+practice was not judicially recognised "but the argument of inconvenience and hardship is a
+dangerous one and is only admissible in construction where the meaning of statute is obscure." It
+was further pointed out that "if any hardship and inconvenience is felt, it is for Parliament to take
+appropriate steps to amend the law and not for the courts to legislate under the guise of
+interpretation."
+(20) It, however, appears to me that however controversial the task of equating a railway receipt to a
+bill of lading for all purposes may be, and I must confess that there is considerable force in the
+contention that in the absence of a statutory provision on the lines of the Bills of Lading Act, such a
+fetal assimilation is not possible, my task has been made easier by the rather emphatic observation
+of Subba Rao J., and I say so with respect, in the case of Morvi Mercantile Bank (supra) while
+holding that a valid pledge had been made by the endorsement of the railway receipt and the
+delivery of it. Besides certain other things, with which I am not concerned, the learned Judge gave
+expression to a feeling of elation almost in the same strain in which Bachawat J. had expressed a
+wish to hold. These observations, to my mind, do not contain any words of limitation and are not an
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 16Union Of India vs Jashan Mal & Co. on 8 April, 1976
+expression of a mere wish but a considered conclusion that the railway receipt was a symbol of the
+goods and was to be assimilated to a bill of lading "for all purposes for which a bill of lading is so
+regarded in England". It must, therefore, be considered settled, so far as this court is concerned, that
+the consignment of goods to a person, who is mentioned in the railway receipt as a consignee or an
+endorsement of a railway receipt in favor of another would have the effect of not only transferring
+property in the goods but also the rights under the contract of carriage represented by it, unless
+there is something in the language of the endorsement or in the manner in which a person is
+mentioned as the consignee which may deviate from this presumption. The contention that the
+observations of Subba Rao J. would appear to have lost much of their vitality with the later decision
+in the case of west Punjab Factories (supra) does not appear to me to be sustainable. As has been
+pointed out above, the appeal before the Supreme Court arose out of two suits. One suit was by the
+consignor, the original owner of the goods, while the other was filed by the endorsee. The contention
+of the Union as to the right of the plaintiffs to maintain the suits were dispelled and the suits were
+decreed. The decrees were confirmed in appeal. The contention in the Supreme Court in the first
+case was that the consignee being different from the consignor, the original owner of the goods, the
+consignor could not bring the suit and the consignee alone could maintain it. It was held that
+ordinarily it is the consignor who could sue because he was a party to the contract of carriage and
+that where property in the goods was passed from the consignor to someone else that other person
+may be able to sue. The contention of the Union was that a railway receipt was a document of title to
+goods by virtue of the provisions of section 2(4) of the Indian Sale of Goods Act and as such it was
+the consignee who had the title to the goods where the consignor and the consignee were different.
+It was pointed out that even though a railway receipt was a document of title to the goods covered by
+it, it did not follow that where the consignor and the consignee are different, the consignee is
+necessarily the owner of goods and the consignor in such circumstances can never be the owner of
+the goods and that the mere fact that the consignee is different from the consignor does not
+necessarily pass title to the goods from the consignor to the consignee and the question where title
+to goods was passed to the consignee will have to be decided on other evidence. It was also pointed
+out that it was quite possible for the consignor to retain title in the goods himself while the
+consignment is consigned in the name of the other person. The right to sue appears to have been
+made dependent on she title to the goods and the ies£ enunciated was as to the person in whom the
+title to the goods vested during transit. It was found in terms of the contract between the parties that
+the goods would be dispatched by railways at the seller's risk until the destination of the goods at the
+godowns of the consignee and the property in the goods had not, therefore, passed to the consignee
+until the goods had reached the destination. The suit of the consignor was, therefore, held to be
+maintainable because the consignor retained the title to the goods when the loss occurred. In the
+second of the two suits the plaintiff claimed the right to sue the railway on the ground that he was
+the owner of the goods and relied on the endorsement in his favor by the consignor even though it
+was consigned to self. It was also contended that in any event the plaintiff was entitled to maintain
+the suit as a bare endorsee to a document of title.The courts below had returned a concurrent
+finding that the plaintiff was not only the owner of the goods but was the "endorsed consignee" and
+had the necessary locus standi to sue. It was in these circumstances that the Supreme Court held
+that in view of the concurrent finding of the two courts below that "the plaintiff was the owner of the
+goods and that was why the railway receipt was endorsed in his favor" he is certainly entitled to
+maintain the suit. In this case there is no reference to the almost perennial controversy in the courts
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 17Union Of India vs Jashan Mal & Co. on 8 April, 1976
+in India on the question of the right to sue the carrier. The question raised before the Supreme Court
+was a limited one, whether the consignor, who admittedly was the original owner, had the right to
+sue when he consigned the goods to another or had endorsed the railway receipt in favor of another.
+In one case no claim was made by the consignee that he had the right to sue and, therefore, the
+various questions that arose in the earlier decisions or the propositions on which they were
+considered did not arise. In the other set of cases also the right to sue was claimed by the endorsee
+on the basis that he was the owner of the goods and the right was upheld on the basis of concurrent
+finding of fact to that effect in his favor. Nothing in this decision, therefore, to my mind, had any
+impact on the question as to the right of a bare consignee or of a bare endorsee to sue, nor were any
+of the propositions enunciated by Subba Rao, J. were cither raised or examined. This decision, to my
+mind, is a mere reiteration, and I say so with utmost respect, of the well known principle that the
+consignor is ordinarily entitled to sue being party to the contract of carriage as well as being owner
+of the goods and transfer of property in the goods to another or of assignment of the contract of
+carriage in favor of another or a special contract with. the transferee alone could divest such a
+consignor- owner of the right to sue. It is also a re-affirmation of the well established legal position
+that where the consignee had, by virtue of the arrangement between the consignor and the
+consignee, become the repository of a title to the goods he was entitled to sue. The various other
+facets of the problem were left untouched.
+(21) There is, however, an aspect of the matter which creates an insurmountable impediment in the
+way of the .respondents. While likening the railway receipt to a bill of lading may have the effect of
+equating a consingee or an endorsee to the position of a consignee or an endorsee of a bill of lading
+by virtue of the provisions of the Bills of Lading Act in England and in India the basic premises of
+the right to sue from that is that the consignee and the endorsee arc considered in law to be the
+repository of the property in the goods as well as the assignment of the contract of carriage. But
+what happens where the plaintiff on his own showing, as in the present case, slates that he was a
+person to whom the goods had been sent by the owner not in the course of transfer by sale or
+otherwise or for consideration or by way of pledge, etc. but as a commission agent for eventual sale
+on behalf of the consignor. The question arises if such a person would be within the rule that could
+be laid down by virtue of the observations of Subba Rao, J. It appears to me that such a person, on
+his own showing, would be beyond that rule because he claims to be a consignee not in his own right
+but as a consignee who has been entrusted with the duty to sell goods on behalf of the principal.
+Such a person could not, therefore, claim by such a consignment any rights in relation to the
+property or in relation to the contract of carriage in addition to the bare right to receive the goods
+and to give a valid discharge. Shri Bhatia, however, raised an interesting argument that the
+respondents being commission agents to whom the goods had been entrusted by the owners for the
+purpose of sale, could maintain a suit because of two reasons, namely (1) they had sufficiently
+actionable interest in the property because they would have the prospect to earn commission on the
+sale of it; (2) they were constituted bailees of the goods by the owners and by virtue of the contract
+of bailment had a special property in the goods. None of these contentions, to my mind, can stand
+closer scrutiny. The prospect that a commission agent may have of earning commission on the sale
+of goods consigned to him by the owner cannot be said to be a right in the goods or any property in
+the goods. It only makes the commission agent, at best, a person who is interested in the goods. A
+mere prospect to earn commission on the sale of goods belonging to another does not confer any
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 18Union Of India vs Jashan Mal & Co. on 8 April, 1976
+right or property in the goods which may be actionable so as to justify an action for damages against
+the railways. The plea of bailment is of no avail because there is nothing to indicate that a contract of
+bailment came into existence between the consignor and the consignee when the goods were handed
+over by the consignor to the carrier. If it had, then obviously when the goods were lost in transit or
+were damaged the consignee had actionable property in the goods because a bailee in law, being
+bound to lake as much care of the property as he would of his own, or under an obligation to the
+consignor and there was, therefore, the corresponding special property that he had in the goods. The
+goods were being sent of course for being sold on commission and the contract of carriage itself was
+a contract of bailment between the consignor and the Railway administration. The contract of
+bailment between the consignor and the consignee would have come into existence after the goods
+had been delivered to the consignee by the carrier. Until then there was no contract of bailment
+between the consignor and the consignee with the result that until such a time the consignee had no
+obligation to the consignor and could not, therefore, have any special property in the goods as a
+bailee which would have entitled him to sue the Railway administration. In case property in the
+goods was intended to be passed to the consignee or the endorsee or where, for example, the
+consignee or the endorsee may have paid consideration for the sale, as in the case of Ghaniandi Lal
+Nanhey Mal (supra), the position of such a consignee or endorsee would be different. Similarly, if at
+the time of delivering the goods to the carriage the consignor intended to create a contract of
+bailment in favor of the consignee, the carriage of goods by the earner being at the risk of the
+consignee, such a consignee would also be in a different position. None of these positions, however,
+obtain in the present case, in view of the limited relationship that is claimed by the respondents as a
+basis of the right to sue.
+(22) In the result, while Mr. Bhatia succeeds on the broad proposition canvassed by him, the appeal
+and the revisions of the Union must be accepted, with the result that all the three suits would stand
+dismissed. In the peculiar circumstances of the case, however, there- would be no costs.
+(23) Before parting with this case it is necessary to invite attention to two important aspects of the
+controversy that has been raging in the courts in India during the last over 50 years. In the first
+instance, it is useful to recall the observations made by Bachawat, 1. in which have been extracted
+above and in which the learned Judge added a forceful postscript expressing a strong wish that the
+law was otherwise than what the learned Judge was compelled to hold. This was followed by an
+equally emphatic expression of elation by Subba Rao, J. in the case of Morvi Merchantile Bank
+(supra) which has also been extracted above, putting a virtual seal of approval on the proposition
+that a railway receipt ought to be assimilated to a bill of lading for all purposes to facilitate the
+course of trade. Lastly the observations of Ramaswami, J. in the minority opinion in the above case,
+which have also been extracted above, also bring out in bold relief that the question whether a
+railway receipt was to be assimilated to a bill of lading for all purposes was not a matter for judicial
+determination but posed a problem for legislative considcra!.ion. It appears to me that the question
+as to the right to sue a carrier has been the subject matter of more than the necessary controversy
+and there is a strong case for consideration if legislative action on the lines on which the Bills of
+Lading Act, 1856 was passed is called for to put an end to the controversy and such a step would be
+consistent with the need to facilitate the movement of goods in the course of trade.
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 19Union Of India vs Jashan Mal & Co. on 8 April, 1976
+Secondly, review of the decisions spread over the last half a century brings out a very unfortunate
+feature of the litigation policy of the Railway Administration. The decided cases indicate that the
+Railway Administration had been taking absolutely inconsistent and diametrically opposite pleas
+depending on the case set up by the plaintiff. If a consignor filed a suit it was claimed that the
+consignee alone could sue merely by virtue of the fact that he was mentioned as the consignee in the
+railway receipt. Where, however, a consignee was the plaintiff the right to sue was found by the
+Railway Administration only in the consignor in spite of the nature of the transaction which led to
+the movement of the goods from 'the consigner to the consignee. This only manifests a wholly
+unjustified anxiety to resist the claim exactly like an ordinary litigant would with a view to put off
+the evil day, as it were. This, to my mind, is a very unhealthy and unfortunate feature of the
+litigation policy of the Railway Administration. It has often been pointed out that in the field of
+employment the state and its various units must be ideal employers. In the same way it is proper
+and reasonable that in the field of litigation the state and its units must be ideal litigants so that the
+various pros and cons of a defense are properly assessed before embarking on a course of futile
+litigation. The purpose of litigation is not to stall a valid claim but to seek an adjudication of real
+questions in controversy between the parties whether of facts or of law. There is, therefore, a strong
+case for a proper reorientation of the litigation policy of the Railway Administration.
+Indian Kanoon - http://indiankanoon.org/doc/130044/ 20

@@ -1,0 +1,524 @@
+Metadata: id=>367
+name=>Satya Developers Pvt Ltd vs Pearey Lal Bhawan Association on 13 October 2015
+date=>13 October 2015
+court=>HIGH COURT OF DELHI
+link=>http://indiankanoon.org/doc/163623824/
+-----
+Content: Satya Developers Pvt Ltd vs Pearey Lal Bhawan Association on 13 October, 2015
+Satya Developers Pvt Ltd vs Pearey Lal Bhawan Association on
+13 October, 2015
+Author: Mukta Gupta
+Bench: Pradeep Nandrajog, Mukta Gupta
+* IN THE HIGH COURT OF DELHI AT NEW DELHI
+Judgment Reserved on: October 05, 2015
+% Judgment Delivered on: October 13, 2015
++ RFA (OS) 24-25/2011
+SATYA DEVELOPERS PVT LTD. ..... Appellant
+Represented by: Mr.J.K.Mittal, Advocate with
+Mr.Rajveer Singh, Ms.Krishna
+Nandan Kumar, Advocates for
+appellant.
+Mr.Balbir Singh, Sr.Advocate/
+Amicus Curiae.
+versus
+PEAREY LAL BHAWAN ASSOCIATION ..... Respondent
+Represented by: Mr.Simran Mehta, Advocate
+with Mr.Prabhat Kalia,
+Advocate for respondent.
++ RFA (OS) 105/2014
+M/S HDFC BANK LIMITED ..... Appellant
+Represented by: Mr.Raman Kapur, Sr.Advocate
+instructed by Mr.R ishab Raj
+Jain, Ms.Pallavi Deepika,
+Advocates for the appellant.
+Mr.Balbir Singh, Sr.Advocate/
+Amicus Curiae.
+versus
+M/S MEATTLES PRIVATE LIMITED ..... Respondent
+Represented by: Mr.Deepak Bashta, Advocate
+for respondent.
+RFA (OS) 24-25/2011 & 105/2014 Page 1 of 24
+CORAM:
+HON'BLE MR. JUSTICE PRADEEP NANDRAJOG
+HON'BLE MS. JUSTICE MUKTA GUPTA
+MUKTA GUPTA, J.
+Indian Kanoon - http://indiankanoon.org/doc/163623824/ 1Satya Developers Pvt Ltd vs Pearey Lal Bhawan Association on 13 October, 2015
+1. Pearey Lal Bhawan Association (in short „PLBA(cid:129)) filed two suits being CS(OS) Nos. 1016/2008
+and 1018/2008 against Satya Developers Pvt. Ltd. (in short „Satya(cid:129)) whereas M/s Meattles Private
+Limited (in short „Meattles(cid:129)) filed CS(OS) No. 512/2012 against M/s HDFC Bank Ltd. (in short
+„HDFC Bank(cid:129)) seeking declaration and injunction qua the service tax paid in respect of rented
+premises.
+2. The plaintiffs in the suit sought a declaration holding the defendants to be liable to pay the service
+tax leviable on the rent and the maintenance charges payable under the lease deed executed inter se
+the parties, recovery of amount and mandatory injunction requiring the defendants to pay to the
+plaintiff service tax of the amount on the lease rentals payable in future. Thus the three appeals are
+being disposed off by a common judgment as they involve common question of law.
+3. In CS (OS) Nos.1018/2008 and 1016/2008 Plaintiff PLBA claimed that it was a registered society
+and being the owner of the building Pearey Lal Bhawan located at 2, Bahadur Shah Zafar Marg, New
+Delhi-110002 had entered into a registered lease deed dated October 09, 2006 with the Defendant
+Satya Developers in respect of an area measuring 500 sq.feet on the third floor of the premises
+Pearey Lal Bhawan and in respect of an area measuring 2818 sq.feet on the ground floor of the
+premises Peary Lal Bhawan. On October 16, 2006 the parties entered into a further agreement for
+maintenance of common service and facilities. With effect from June 01, 2007 the Central
+Government by amending Chapter-V of the Finance Act, 1994 levied service tax on renting of
+immovable property for business purposes. It was claimed that the service tax being an indirect tax
+has to be deposited by the service provider who was entitled to collect the same from the user of the
+service as it was a tax on the service and not on the service provider.
+4. In the written statements filed Satya referring to the following terms of the lease agreement
+claimed that the parties have contracted that PLBA will pay the tax levied by the government and
+thus it had no liability to pay the service tax:
+"5. That the lessor shall continue to pay all or any taxes, levies or charges imposed by the MCD,
+DDA, L&DO and or Government, Local Authority etc".
+The defendant also relied on clause II (1) of the agreement for maintenance of common service and
+facilities, which reads as under:
+"II (1) That the Lessor to pay all rates, taxes, ground rent, house-tax charges,
+fire-fighting tax, easements and outgoing charges imposed or payable to the MCD,
+L&DO, DDA or Government in respect of the demised premises payable by the Lessor
+and discharge all its obligations well in time".
+5. In CS (OS) No.512/2012 Meattles claimed to be the lessor of the demised premises bearing
+Nos.3909-3912, Hamilton Road, Mori Gate, Kashmere Gate, New Delhi measuring approximately
+2700 sq.ft of built up area on the ground floor leased out to HDFC Bank vide the registered lease
+deed dated November 25, 2004. The issue again raised was in relation to the service tax net w.e.f
+June 01, 2007 vide notification No.23/2007-ST dated May 22, 2007 and Finance Act, 2007.
+Indian Kanoon - http://indiankanoon.org/doc/163623824/ 2Satya Developers Pvt Ltd vs Pearey Lal Bhawan Association on 13 October, 2015
+6. In the written statement filed HDFC Bank also claimed that in terms of Clause 4(v) of the lease
+agreement it was not liable to pay the service tax as agreed between the parties which is reproduced
+as under:
+"The municipal taxes, rates, charges and other outgoings in respect of the demised
+premises that would be determined/fixed/varied from time to time by the Municipal
+Corporation/Municipality/Gram Panchayat or any other local authority shall be paid
+by the Lessor or the Lessee as specified/stipulated in the schedule annexed herewith
+and shall keep the other party indemnified at all times against the same."
+7. In CS (OS) Nos.1018/2008 and 1016/2008 the following common issues were settled except that
+in issue No.3 in CS (OS) No.1016/2008 the amount was `3,55,270/- whereas in CS (OS)
+No.1018/2008 the amount was `24,720/-:
+"1. Whether the plaintiff is entitled to a decree of declaration in favour and against
+the defendant, holding that the defendant is liable to pay the service tax, which is
+leviable on the rent and the maintenance charges payable under the lease deed dated
+09.10.2006 and the Agreement of Maintenance for Common Services and Facilities
+dated 16.10.2006, respectively?
+2. Whether the plaintiff is entitled to a decree of permanent mandatory injunction
+against the defendant directing the defendant to pay to the plaintiff the amount of
+service tax leviable on the rent and maintenance charges payable under the lease
+deed dated 09.10.2006 and the Agreement of Maintenance for Common Service and
+Facilities dated 16.10.2006 respectively, during the currency of the said agreements?
+3. Whether the plaintiff is entitled to recovery of a sum of Rs.24,720/- paid by the
+plaintiff, on behalf of the defendant, on account of service tax for the period
+01.06.2007 to 31.03.2008?
+4. Whether the plaintiff is entitled to interest on the amount of service tax paid by it
+on behalf of the defendant during the pendency of the suit and if so, at what rate?
+5. Relief."
+8. The issues settled in CS (OS) No.512/2012 were:
+"1. Whether the defendant is liable to pay service tax on rent, as alleged in the paint?
+OPP
+2. To what amount, if any, the plaintiff is entitled from the defendant? OPP.
+3. Whether the suit is barred by limited? OPD."
+Indian Kanoon - http://indiankanoon.org/doc/163623824/ 3Satya Developers Pvt Ltd vs Pearey Lal Bhawan Association on 13 October, 2015
+9. In the three suits since beyond the documents no evidence was required to be led and the
+documents were admitted, the parties agreed for the suits to be finally heard without leading
+evidence.
+10. The two learned Single Judges of this Court vide separate judgments dated December 20, 2010
+in CS (OS) Nos.1016/2008 and 1018/2008 and October 19, 2012 in CS (OS) No.512/2012 decided
+the suits in favour of the plaintiffs holding them entitled to recover amount payable towards the
+service tax from the defendants.
+11. Learned counsel for Satya contends that the learned Single Judge erroneously relied upon the
+provisions of Sales of Goods Act, 1930 which have no application to service tax. Section 12B of the
+Central Excise Act relied upon by the learned Single Judge applies only to refund of duty and does
+not provide for the liability of the consumer to pay service tax. Section 68 of the Finance Act, 1994
+and 1997 provided for collection of service tax which term has been changed by the Finance Act of
+1998 and the liability has been fixed on the service provider to pay the service tax. By the lease
+agreement the parties had contracted that taxes would be borne by the lessor and PLBA cannot now
+wriggle out of the terms of the contract. Section 67 of the Finance Act provides for valuation of the
+service tax which would be included in the „gross amount(cid:129) charged by a service provider which
+provision has been ignored by the learned Single Judge. The case of Satya is covered by the decision
+of Supreme Court reported as 2011 (13) SCC 497 Ultra Tech Cement Ltd. (Earlier Ultratech Cemco
+Ltd.) vs. State of Maharashtra and Anr. Reliance is also placed on the decisions reported as 2012
+(26) STR 289 SC Rashtriya Ispat Nigam Ltd. vs. Dewan Chand Ram Saran, 2011 (22) STR 387 Max
+New York Life Insurance Co. Ltd. vs.Insurance Ombudsman and Ors.and 2011 (22) STR 5 MP
+Ravishankar Jaiswal vs.Jabalpur Development Authority and Anr. Referring to the decision
+reported as AIR 1961 SC 1047 Commissioner of Sales Tax, Uttar Pradesh vs.The Modi Sugar Mills
+Ltd. it is contended that in interpreting the taxing statute, equitable considerations are entirely out
+of place nor can any taxing statute be interpreted on any presumptions or assumptions.
+12. Learned counsel for HDFC Bank contends that Section 68 (2) of the Finance Act provides that
+notwithstanding anything contained in sub-section (1) the Central Government is empowered to
+notify in the official gazette the service tax on taxable services, as notified, to be paid by such person
+and in such a manner as may be prescribed. However, there is no notification directing the lessee to
+make the payment of service tax and hence in the absence of a notification no tax liability can be
+fastened on HDFC. Referring to the decision reported as JT 2005 (1) SCC 449 Maruti Udyog Ltd.
+vs.Ram Lal and Ors. it is contended that in construing a legal fiction, the purpose for which it is
+created should be kept in mind and should not be extended beyond the scope thereof or beyond the
+language by which it is created. Further a deeming provision cannot be pushed too far so as to result
+in an anomalous or absurd position. Referring to the decision reported as 2012 (191) DLT 183
+Raghubir Saran Charitable Trust vs. Puma Sports India Pvt. Ltd.it is contended that the service tax
+liability has to be determined in terms of the contract between the parties.
+13. Learned counsel for PLBA on the other hand contends that it is well settled that service tax is a
+Value Added Tax (VAT) and being a consumption tax it is not a charge on the business but on the
+consumer and would be thus leviable to whom the services are provided. It is further contended that
+Indian Kanoon - http://indiankanoon.org/doc/163623824/ 4Satya Developers Pvt Ltd vs Pearey Lal Bhawan Association on 13 October, 2015
+ordinarily the burden of service tax has to be borne in law by the service recipient. Since service tax
+is an indirect tax, the service provider can by an agreement assume the burden of such tax and
+relieve the service recipient/consumer of the same. It is contended that from the terms of the lease
+agreement and also the agreement for maintenance, the service provider has not assumed the
+burden of paying the service tax and the liability would be that of the service recipient. The fact that
+execution of the lease deed dated October 09, 2006 precedes the imposition of tax liability, there
+was no possibility of any conscious assumption of any liability by PLBA as no such liability existed.
+The words „shall continue to pay all or any tax(cid:129) in the lease agreement indicates that the liability of
+the lessor was confined only to the existing levies which already stood imposed at the time of
+execution of lease deed. Reliance is placed on the decision reported in (2007) 7 SCC 527 All India
+Federation of Tax Practitioners & Ors.vs. Union of India & Ors., 2011 (2) SCC 352 Association of
+Leasing and Financial Service Companies vs. Union of India & Ors., 182 (2011) DLT 548 (FB), Home
+Solutions Retails (India) Ltd Union of India & Ors.
+14. Shri Balbir Singh, Senior Advocate who had been requested to assist this Court in this matter
+points out that the three essentials of a taxing statute are chargeability, receivability and assessment
+component. Service tax being an indirect tax, though leviable on the consumer of the services
+however, there is no mechanism by which the government can recover the same from the consumer.
+Thus the liability of payment of the service tax has been fixed on the service provider, that is, the
+lessor to be recoverable from the recipient, that is, the lessee. Referring to Section 64A of Sales of
+Goods Act, 1930 it is stated that unless it is contracted to the contrary, the consumer of the goods
+and thus the consumer of the services has to bear the liability of the tax. Referring to the decision of
+the Supreme Court reported in 1997 (5) SCC 536 Mafat Lal Industries vs.Union of India & Ors. it is
+contended that in case of indirect tax the Court would presume until a contrary is established that a
+duty of excise or a custom duty has been passed on to the consumer. It is undoubtedly a rebuttable
+presumption but the burden of rebutting it lies on the person who claims the refund. It is stated that
+Section 64A of the Sales of Goods Act is based on rule of equity. Service tax being an indirect tax it is
+possible that it may be passed on. Further the statutory provision can be of no relevance to
+determine the rights and liabilities between the parties to the contract and there is nothing in law to
+prevent the parties from entering into an agreement with the burden of any tax arising out of
+obligation of a party under the contract to be borne by such party. Mr.Balbir Singh, Senior Advocate
+points out that pursuant to the 8th report of the Law Commission goods under the Sales of Goods
+Act, 1930 were provided to include the electricity, gas and water and amendments were also brought
+by insertion of Section 64A by replacing Section 10 of the Tariff Act. Section 64A of the Sales of
+Goods Act is a rule of equity based on the basic principle that indirect taxes can be passed on. It is
+stated that it is akin to a situation where Limitation Act may not apply however, the principles of
+Limitation Act would apply and thus the principles of passing on the liability as under the Excise
+Act, Customs Act and Sales Tax Act would apply to the Service Tax as well. Indirectly provisions
+relating to goods in Central Excise Tax have been made applicable to the Service Tax.
+15. The Supreme Court in the decision reported in All India Federation of Tax Practitioners (Supra)
+noted that service tax is an indirect tax levied on certain services provided by certain categories of
+persons including companies, associations, firms, body of individuals etc. Service sector contributes
+about 64% to the GDP. It noted that in contemporary world, development of service sector has
+Indian Kanoon - http://indiankanoon.org/doc/163623824/ 5Satya Developers Pvt Ltd vs Pearey Lal Bhawan Association on 13 October, 2015
+become synonymous with the advancement of the economy and the Economists hold the view that
+there is no distinction between the consumption of goods and consumption of services as both
+satisfy the human needs. It was noted that „Value Added Tax(cid:129) (in short „VAT(cid:129)) which is a general
+tax applies in principle to all commercial activities involving production of goods and provision of
+services. The Supreme Court held that VAT is a consumption tax as it is borne by the consumer and
+„Service Tax(cid:129) is a VAT which in turn is destination based consumption tax. The Supreme Court
+noted that just as excise duty is a tax on value addition on goods, Service tax is on value addition by
+rendition of services. Broadly „Services(cid:129) fall into two categories, namely, property based services
+and performance based services. Property based services cover service providers such as architects,
+interior designers, real estate agents, construction services, mandapwalas etc. and the later being
+services provided by stock-brokers, practising chartered accountants, practising cost accountants,
+security agencies, tour operators, event managers, travel agents etc.
+16. In the decision reported as AIR 2012 SC 2829 Rashtriya Ispat Nigam Ltd.vs. M/s Dewan Chand
+Ram Saran it was held:
+"26. As far as the submission of shifting of tax liability is concerned, as observed in
+paragraph 9 of Laghu Udyog Bharati (Supra), service tax is an indirect tax, and it is
+possible that it may be passed on. Therefore, an Assessee can certainly enter into a
+contract to shift its liability of service tax. Though the Appellant became the Assessee
+due to amendment of 2000, his position is exactly the same as in respect of Sales Tax,
+where the seller is the Assessee, and is liable to pay Sales Tax to the tax authorities,
+but it is open to the seller, under his contract with the buyer, to recover the Sales Tax
+from the buyer, and to pass on the tax burden to him. Therefore, though there is no
+difficulty in accepting that after the amendment of 2000 the liability to pay the
+service tax is on the Appellant as the Assessee, the liability arose out of the services
+rendered by the Respondent to the Appellant, and that too prior to this amendment
+when the liability was on the service provider. The provisions concerning service tax
+are relevant only as between the Appellant as an Assessee under the statute and the
+tax authorities. This statutory provision can be of no relevance to determine the
+rights and liabilities between the Appellant and the Respondent as agreed in the
+contract between two of them. There was nothing in law to prevent the Appellant
+from entering into an agreement with the Respondent handling contractor that the
+burden of any tax arising out of obligations of the Respondent under the contract
+would be borne by the Respondent."
+17. Sections 65 (105) states „Taxabale Service(cid:129) means any service provided or to be provided:
+"(zzzz) .....to any person, by any other person in relation to renting of immovable
+property for use in the course or furtherance of business or commerce.
+Explanation 1.--For the purposes of this sub-clause, "immovable property" includes--
+(i) building and part of a building, and the land appurtenant thereto;
+Indian Kanoon - http://indiankanoon.org/doc/163623824/ 6Satya Developers Pvt Ltd vs Pearey Lal Bhawan Association on 13 October, 2015
+(ii) land incidental to the use of such building or part of a building;
+(iii) the common or shared areas and facilities relating thereto; and
+(iv) in case of a building located in a complex or an industrial estate, all common areas and facilities
+relating thereto, within such complex or estate, but does not include-
+(a) vacant land solely used for agriculture, aquaculture, farming, forestry, animal husbandry, mining
+purposes;
+(b) vacant land, whether or not having facilities clearly incidental to the use of such vacant land;
+(c) land used for educational, sports, circus, entertainment and parking purposes; and
+(d) building used solely for residential purposes and buildings used for the purposes of
+accommodation, including hotels, hostels, boarding houses, holiday accommodation, tents, camping
+facilities.
+Explanation 2.--For the purposes of this sub-clause, an immovable property partly for use in the
+course or furtherance of business or commerce and partly for residential or any other purposes shall
+be deemed to be immovable property for use in the course or furtherance of business or
+commerce;..."
+18. Section 83 of the Finance Act, 2007 makes certain provisions of the Central Excise Act, 1944 as
+in force from time to time applicable in relation to Service Tax as they apply in relation to a duty of
+excise:
+"83. Application of certain provisions of Act 1 of 1944:
+The provisions of the following section of the Central Excise Act, 1944 ( 1 of 1944), as
+in force from time to time, shall apply, so far as may be, in relation to service tax as
+they apply in relation to a duty of excise: -
+9C, 9D, 11B, 11BB, 11C, 12 12A, 12B. 12C, 12D, 12E, 14, [14AA]*, 15, 33A, 35F, 35-FF to
+35-O (both inclusive), 35Q, 36, 36A, 36B, 37A, 37B, 37C, 37D, [38A]* and 40."
+19. Section 12 (b) of the Central Excise Act reads as under:
+"12B. PRESUMPTION THAT INCIDENCE OF DUTY HAS BEEN PASSED ON TO
+THE BUYER.
+Every person who has paid the duty of excise on any goods under this Act shall,
+unless the contrary is proved by him, be deemed to have passed on the full incidence
+of such duty to the buyer of such goods."
+Indian Kanoon - http://indiankanoon.org/doc/163623824/ 7Satya Developers Pvt Ltd vs Pearey Lal Bhawan Association on 13 October, 2015
+20. Thus Section 83 of the Finance Act is a legislation by incorporation applying inter alia Section
+12B of the Central Excise Act to the Service Tax. Halsbury(cid:129)s Law of England (4th Edn., Vol.44 (1)),
+para 127 page 744 deals with incorporation of other enactments by reference as under:
+"It is a common device of legislative drafters to incorporate earlier statutory
+provisions by reference, rather than setting out similar provisions in full. This saves
+space and also attracts the case law and other learning attached to the earlier
+provision. Its main advantage is a Parliamentary one, however, since it shortens Bills
+and cuts down the area for debate."
+21. In the decision reported as 2011 (3) SCC 1 Girnar Traders vs. State of Maharashtra and Ors.the
+Constitution Bench while dealing with legislation by incorporation held that with the development
+of law, the legislature has adopted the common practice of referring to the provisions of the existing
+statute while enacting new laws. It was held that reference to an earlier law in the later law could be
+a simple reference of provisions of earlier statute or a specific reference where the earlier law is
+made an integral part of the new law, that is, by incorporation. In contrast to such simple reference,
+legal incident of legislation by incorporation is that it becomes part of the existing law which implies
+bodily lifting provisions of one enactment and making them part of another and in such cases
+subsequent amendments in the incorporated Act could not be treated as part of the incorporating
+Act. The obvious advantage of a legislation by incorporation is that the judicial precedents and
+discussions on the earlier enactment apply to the later enactments.
+22. Section 83 of the Finance Act 2007 though a legislation by incorporation also takes care of
+non-applicability of future amendments as it provides for applicability of the relevant sections of the
+Central Excise Act 1944 as in force from time to time i.e. the future amendments in the provisions of
+the Central Excise Act would also be applicable mutatis Mutandis to Service Tax. As noted above,
+Section 12B of the Central Excise Act which applies to the Service Tax raises a presumption that the
+incidence of duty has been passed to the buyer unless the contrary is proved. Thus in the absence of
+a contract for the liability of a service tax, it will be presumed that the same has been passed over to
+the service recipient.
+23. Based on the rule of equity similar provision exists in the Sales of Goods Act, 1930, that is,
+Section 64A. The Supreme Court in the decision reported as 2007 (8) SCC 466 Numaligarh Refinery
+Ltd.vs.Daelim Industries Co.Ltd held that whether a party is entitled to be paid such tax or such
+increase has to be ascertained from the intention of the parties to the contract and unless a different
+intention appears from the terms of the contract in the case of imposition or increase in the tax after
+the making of a contract the party shall be entitled to be paid such taxes or such increase. It was
+held:
+"18. In this connection, learned Counsel has invited our attention to Section 64A of
+the Sale of Goods Act, 1930 which reads as under:
+"64-A. In contracts of sale, amount of increased or decreased taxes to be added or
+deducted.- (1) Unless a different intention appears from the terms of the contract, in
+Indian Kanoon - http://indiankanoon.org/doc/163623824/ 8Satya Developers Pvt Ltd vs Pearey Lal Bhawan Association on 13 October, 2015
+the event of any tax of the nature described in Sub-section (2) being imposed,
+increased, decreased or remitted in respect of any goods after the making of any
+contract for the sale or purchase of such goods without stipulation as to the payment
+of tax where tax was not chargeable at the time of the making of the contract, or for
+the sale or purchase of such goods tax-paid where tax was chargeable at that time-
+(a) if such imposition or increase so takes effect that the tax or increased tax, as the
+case may be, or any part of such tax is paid or is payable, the seller may add so much
+to the contract price as will be equivalent to the amount paid or payable in respect of
+such tax or increase of tax, and he shall be entitled to be paid and to sue for and
+recover such addition; and
+(b) if such decrease or remission so takes effect that the decreased tax only, or no tax,
+as the case may be, is paid or is payable, the buyer may deduct so much from the
+contract price as will be equivalent to the decrease of tax or remitted tax, and he shall
+not be liable to pay, or be sued for, or in respect of, such deduction.
+(2) The provisions of Sub-section (1) apply to the following taxes, namely;-
+(a) any duty of customs or excise on goods;
+(b) any tax on the sale or purchase of goods.
+This section also clearly says that unless a different intention appears from the terms of the contract,
+in case of the imposition or increase in the tax after the making of a contract, the party shall be
+entitled to be paid such tax or such increase. In this connection, the intention of the parties is to be
+ascertained, as per the clauses mentioned above.
+24. In the decision reported as 1997 (5) SCC 536 Mafatlal Industries Ltd.& Ors.vs. Union of India &
+Ors. a nine judges Bench of the Supreme Court of India while dealing with the claim of refund held
+that the same was maintainable by virtue of declaration contained in Article 265 of the Constitution
+of India as also under Section 72 of the Contract Act subject to one exception. Noting that the duties
+under the Central Excise and Customs are indirect taxes and supposed to be and are permitted to be
+passed on to the buyers it was held:
+"80. For the purpose of this discussion, we take the situation arising from the
+declaration of invalidity of a provision of the Act under which duty his been paid or
+collected, as the bases, inasmuch as that is the only situation surviving in view of our
+holding on (I) and (II). In such cases the claim for refund is maintainable by virtue of
+the declaration contained in Article 265 as also under Section 72 of the Contract Act
+as explained hereinbefore subject, to one exception : where a person approaches the
+High Court or Supreme Court challenging the constitutional validity of a provision
+but fails, he cannot take advantage of the declaration of unconstitutionality obtained
+by another person on another ground; this is for the reason that so far as he is
+Indian Kanoon - http://indiankanoon.org/doc/163623824/ 9Satya Developers Pvt Ltd vs Pearey Lal Bhawan Association on 13 October, 2015
+concerned, the decision has become final and cannot be re-opened on the basis of the
+decision on another person's case; this is the ratio of the opinion of Hidayatullah, CJ.
+In Tilokchand Motichand and we respectfully agree with it. In such cases, the
+plaintiff may also invoke Section 17(1)(c) of the Limitation Act for the purpose of
+determining the period of limitation for filing a suit. It may also be permissible to
+adopt a similar rule of limitation in the case of writ petitions seeking refund in such
+cases. But whether the right to refund or restitution, as it is called, is treated as a
+constitutional right flowing from Article 265 or a statutory right arising from Section
+72 of the Contract Act, it is neither automatic nor unconditional. The position arising
+under Article 265 is dealt with later in Paras 75 to 77. Here we shall deal with the
+position under Section 72. Section 72 is a rule of equity. This is not disputed by Sri
+F,S. Nariman or any of the other counsel appearing for the appellants-petitioners.
+Once it is a rule of equity, it is un-understandable how can it be said that equitable
+considerations have no place where a claim is made under the said provision. What
+those equitable considerations should be is not a matter of law. That depends upon
+the facts of each case. But to say that equitable considerations have no place where a
+claim is founded upon Section 72 is, in our respectful opinion, a contradiction in
+terms. Indeed, in Kanhaiyalal, the Court accepts that the right to recover the taxes -
+or the obligation of the State to refund such taxes - under Section 72 of the Contract
+Act is subject to "questions of estoppel, waiver, limitation or the like", but at the same
+time, the decision holds that equitable considerations cannot be imported because of
+the clear and unambiguous language of Section 72. With great respect, we think that
+a certain amount of inconsistency is involved in the aforesaid two propositions.
+"Estoppel, waiver...or the like", though rules of evidence, are yet based upon rules of
+equity and good conscience. So is Section 72. We are, therefore, of the opinion that
+equitable considerations cannot be held to be irrelevant where a claim for refund is
+made under Section 72. Now, one of the equitable considerations may be the fact that
+the person claiming the refund has passed on the burden of duty to another. In other
+words, the person claiming the refund has not really suffered any prejudice or loss. If
+so, there is no question of reimbursing him. He cannot be re compensated for what
+he has not lost. The loser, if any, is the person who has really borne the burden of
+duty; the manufacturer who is the claimant has certainly not borne the duty
+notwithstanding the fact that it is he who has paid the duty. Where such a claim is
+made, it would be wholly permissible for the court to call upon the
+petitioner/plaintiff to establish that he has not passed on the burden of duty to a
+third party and to deny the relief of refund if he is not able to establish the same, as
+has been done by this Court in I.T.C. In this connection, it is necessary to remember
+that whether the burden of the duty has been passed on to a third party is a matter
+within the exclusive knowledge of the manufacturer. He has the relevant evidence -
+best evidence - in his possession. Nobody else can be reasonably called upon to prove
+that fact. Since the manufacturer is claiming the refund and also because the fact of
+passing on the burden of duty is within his special and exclusive knowledge, it is for
+him to allege and establish that he has not passed on the duty to a third party. This is
+the requirement which flows from the fact that Section 72 is an equitable provision
+Indian Kanoon - http://indiankanoon.org/doc/163623824/ 10Satya Developers Pvt Ltd vs Pearey Lal Bhawan Association on 13 October, 2015
+and that it incorporates a rule of equity. This requirement flows not only because
+Section 72 incorporates a rules of equity but also because both the Central Excises
+duties and the Customs duties are indirect taxes which are supposed to be and are
+permitted to be passed on to the buyer. That these duties are indirect taxes, meant to
+be passed on, is statutorily recognised by Section 64A of the Sale of Goods Act, 1930.
+25. Noting sub-section 2 of Section 64A of the Sales of Goods Act expressly made sub-Section 1 of
+Section 64A applicable to duty of customs or excise on goods and referring to the decisions of the
+Federal Court in AIR 1942 FC 33 The Province of Madras vs.Boddu Paidanna & Sons and the
+Supreme Court reported as AIR 1962 SC 1281 R.C. Jall v. Union of India it was held in Mafat Lal
+(supra) that in such a situation, it would be legitimate for the Court to presume, until the contrary is
+established, that a duty of excise or a customs duty has been passed on. It is a presumption of fact
+which a Court is entitled to draw under Section 114 of the Indian Evidence Act the same being
+undoubtedly a rebuttable presumption but the burden of rebutting it lies upon the person who
+claims the refund and it is for him to allege and establish that as a fact he has not passed on the duty
+and, therefore, equity demands that his claim for refund be allowed.
+26. Thus as a legislation by reference sub-Section (2) of Section 64A of the Sales of Goods Act
+making applicable sub-Section (1) of Section 64A to any duty of Customs or Excise on goods and as a
+legislation by incorporation Section 83 of the Finance Act making applicable Section 12B of the
+Central Excise Act to Service Act, Section 64A(1) is applicable to Service Tax. From the provisions as
+noted and the decisions of the larger benches it is evident that a service tax is a VAT which in turn is
+a destination based consumption tax and is to be borne by the consumer of goods. Further unless
+contracted to the contrary, the consumer of service is liable to refund the said tax to the service
+provider who in turn is liable to pay to the government.
+27. From the legal position as noted it is evident whether the service tax liability has been agreed not
+to be passed on to the recipient of the service would depend on the interpretation of clauses entered
+into between the parties. Before adverting to the relevant clauses inter se the parties in the present
+case it would be appropriate to note a few decisions on the interpretation of a contract.
+28. The House of Lords in [1998] 1 WLR 896 Investors Compensation Scheme Ltd. vs. West
+Bromwich Building Society summarized the principle of interpretation of contractual documents as
+under:
+"(1) Interpretation is the ascertainment of the meaning which the document would
+convey to a reasonable person having all the background knowledge which would
+reasonably have been available to the parties in the situation in which they were at
+the time of the contract.
+(2) The background was famously referred to by Lord Wilberforce as the "matrix of
+fact," but this phrase is, if anything, an understated description of what the
+background may include. Subject to the requirement that it should have been
+reasonably available to the parties and to the exception to be mentioned next, it
+Indian Kanoon - http://indiankanoon.org/doc/163623824/ 11Satya Developers Pvt Ltd vs Pearey Lal Bhawan Association on 13 October, 2015
+includes absolutely anything which would have affected the way in which the
+language of the document would have been understood by a reasonable man.
+(3) The law excludes from the admissible background the previous negotiations of the
+parties and their declarations of subjective intent. They are admissible only in an
+action for rectification. The law makes this distinction for reasons of practical policy
+and, in this respect only, legal interpretation differs from the way we would interpret
+utterances in ordinary life. The boundaries of this exception are in some respects
+unclear. But this is not the occasion on which to explore them.
+(4) The meaning which a document (or any other utterance) would convey to a
+reasonable man is not the same thing as the meaning of its words. The meaning of
+words is a matter of dictionaries and grammars; the meaning of the document is what
+the parties using those words against the relevant background would reasonably have
+been understood to mean. The background may not merely enable the reasonable
+man to choose between the possible meanings of words which are ambiguous but
+even (as occasionally happens in ordinary life) to conclude that the parties must, for
+whatever reason, have used the wrong words or syntax: see Mannai Investments Co.
+Ltd. v. Eagle Star Life Assurance Co. Ltd. [1997] A.C. 749.
+(5) The "rule" that words should be given their "natural and ordinary meaning"
+reflects the common sense proposition that we do not easily accept that people have
+made linguistic mistakes, particularly in formal documents.
+On the other hand, if one would nevertheless conclude from the background that something must
+have gone wrong with the language, the law does not require judges to attribute to the parties an
+intention which they plainly could not have had. Lord Diplock made this point more vigorously
+when he said in Antaios Compania Naviera S.A. v. Salen Rederierna A.B. [1985] A.C. 191, 201:
+"if detailed semantic and syntactical analysis of words in a commercial contract is
+going to lead to a conclusion that flouts business commonsense, it must be made to
+yield to business commonsense."
+29. In [2009] 2 All ER, 26 Durham vs. BAI (Run Off) Ltd.(in scheme of arrangement) & other cases
+the Queen(cid:129)s Bench Division while dealing with the construction of commercial contracts noted:
+"(203) A summary of helpful principles, drawn largely from the words of Longmore
+LJ in Absalom (on behalf Lloyd's Syndicate 957) v. TCRU Ltd (2005) EWCA Civ 1586
+at (7), (2006) 1 All ER (Comm) 375 at (7), (2006) 2 Lloyd's Rep 129, and based upon
+submissions to me by counsel, which I had approved, in the recent case of Reilly v.
+National Insurance *Guarantee Corporation Ltd (2008) EWHC 722 (Comm) at (13),
+(2008) 2 All ER (Comm) 612 at (13), was again the subject matter of agreement, and I
+repeat and incorporate it:
+Indian Kanoon - http://indiankanoon.org/doc/163623824/ 12Satya Developers Pvt Ltd vs Pearey Lal Bhawan Association on 13 October, 2015
+„(a) Ordinary Meaning. There is a presumption that the words to be construed should
+be construed in their ordinary and popular sense, since the parties to the contract
+must be taken to have intended, as reasonable men, to use words and phrases in their
+commonly understood and accepted sense. (See also para (7)(i)-
+(iii) in the judgment of Longmore LJ and in particular:
+"The object of the inquiry is not necessarily to probe the „real(cid:129) intention of the
+parties, but to ascertain what the language they used in the document would signify
+to a properly informed observer.")
+(b) Businesslike Interpretation. It is an accepted canon of construction that a
+commercial document, such as an insurance policy, should be construed in
+accordance with sound commercial principles and good business sense, so that its
+provisions receive a fair and sensible application. (See also the words of Lord Diplock
+in Antaios Cia Navieras SA v. Salen Rederierna AB, The Antaios (1984) 3 All ER 229
+at 233, (1985) AC 191 at 201 cited at (7)(iv) by Longmore LJ: If a "detailed semantic
+and syntactical analysis of words in a commercial contract is going to lead to a
+conclusion that flouts business common sense, it must be made to yield to business
+common sense".)
+(c) Commercial Object. The commercial object or function of the clause in question
+and its relationship to the contract as a whole will be relevant in resolving any
+ambiguity in the wording.
+(d) Construction to avoid unreasonable results. If the wording of a clause is
+ambiguous, and one reading produces a fairer result than the alternative, the
+reasonable interpretation should be adopted. It is to be presumed that the parties, as
+reasonable men, would have intended to include reasonable stipulation in their
+contract."
+30. In 2009 (5) SCC 713 Vimal Chand Ghevarchand Jain & Ors. vs. Ramakant Eknath Jajoo the
+Supreme Court reiterated the principle of construction of a commercial contract by looking at the
+document as a whole and construing it in its entirety.
+31. Thus a contract has to be construed by looking at the document as a whole and the meaning of
+the document has to be what the parties intended to give to the document keeping the background
+in mind and conclusion that flouts business commonsense must yield unless expressly stated. In the
+present case it will also have to borne in mind whether the parties intend to include taxes which
+were not contemplated at the time of the agreement as indubitably the agreements between the
+parties in the three suits were entered into prior to the Finance Act, 2007 coming into force w.e.f.
+June 01, 2007.
+Indian Kanoon - http://indiankanoon.org/doc/163623824/ 13Satya Developers Pvt Ltd vs Pearey Lal Bhawan Association on 13 October, 2015
+32. In the agreement between HDFC Bank and Meattles Clause 4(v) imposes liability of municipal
+taxes, rates, charges and other outgoings in respect of the demised premises that would be
+determined/fixed/varied from time to time by the Municipal Corporation/Municipality/Gram
+Panchayat or any other local authority only. It is well settled that the Municipal Corporation,
+Municipality, Gram Panchayat or local authority is distinct from the government and thus the clause
+inter se the parties cannot be said to cover the exemption of HDFC Bank to pay to Meattles service
+tax paid by it to the government pursuant to the Finance Act, 2007.
+33. As regards the lease deed and the agreement of maintenance of common services and facilities
+between Satya and PLBA Clause 5 of the lease deed as noted above provides that the lessor shall
+continue to pay all or any taxes, levies or charges imposed by the MCD, DDA, L&DO and or
+Government, Local Authority etc. By use of the words "Lessor shall continue to pay" it is evident that
+the parties contemplated the existing taxes, levies or charges and not future. Even as per the
+agreement of maintenance of common service facilities though the same has no application to the
+service tax however, still the said clause II(1) cannot be said to exclude HDFC Bank from paying
+future service tax.
+34. In view of the discussion aforesaid the judgments and the decrees passed by the learned Single
+Judge in the three suits are upheld. Appeals are dismissed. Parties will bear their own costs.
+35. We place on record our appreciation for the valuable assistance rendered by Mr. Balbir Singh,
+Senior Advocate/learned Amicus Curiae.
+(MUKTA GUPTA) JUDGE (PRADEEP NANDRAJOG) JUDGE OCTOBER 13, 2015 'vn'
+Indian Kanoon - http://indiankanoon.org/doc/163623824/ 14

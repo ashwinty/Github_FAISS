@@ -1,0 +1,1291 @@
+Metadata: id=>178
+name=>Strides Pharma Science Limited vs Round The Clock Logistics Private on 28 July 2023
+date=>28 July 2023
+court=>HIGH COURT OF DELHI
+link=>http://indiankanoon.org/doc/148249971/
+-----
+Content: Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+Delhi High Court
+Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+$~J-1
+* IN THE HIGH COURT OF DELHI AT NEW DELHI
+Judgment reserved on : 20.07.2023
+Judgment pronounced on: 28.07.2023
++ CS(COMM) 438/2023
+STRIDES PHARMA SCIENCE LIMITED ..... Petitioner
+Through: Mr. T.K. Ganju, Sr. Advocate with
+Mr. Sukrit R. Kapoor, Mr. Aviral
+Tripathi & Mr. Samarth Kapoor, Advs.
+Versus
+ROUND THE CLOCK LOGISTICS PRIVATE LIMITED & ORS.
+..... Respondents
+Through: Mr. Utkarsh Joshi, Advocate along
+with Mr. Shekher Kumar, AR for D-1.
+Mr. Kartickay Mathur, Mr. Saransh
+Gupta, Mr. Shanker Kashyap, Advs.
+for D-2 and Mr. Sudhanshu Aggarwal,
+AR of D-2.
+Mr. Sandeep Sethi, Sr. Advocate with
+Mr. Vivek Jain, Mr. Waseem
+Pangarkar, Ms. Mrinal Bharti,
+Mr. Abhishek Gupta, Ms. Nadiya
+Sarguroh, Mr. Manish Sekhari, Mr.
+Swapnil Srivastava, Mr. Mahesh Ahire,
+Mr. Nitin Sharma, Ms. Sanjana
+Srivastava, Mr. Jayesh Srivastava, Mr.
+Vikram Singh Dala & Ms. Shreya
+Sethi, Advs. for D-3 & D-5.
+Mr. Uday Kumar, Advocate for D-4.
+CORAM:
+HON'BLE MR. JUSTICE SACHIN DATTA
+Signature Not Verified
+Digitally Signed
+I.A. No. 11644/2023 in CS (COMM) 438/2023 Page 1 of 56
+By:RADHA BISHT
+Signing Date:28.07.2023
+16:48:59
+JUDGMENT
+I.A. No. 11644/2023
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 1Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+1. The present suit has been filed by the plaintiff (consignor), in connection with a consignment of a
+pharmaceutical goods which was to be consigned to one of its clients namely L.N.K. International
+Inc. New York (consignee).
+2. For the purpose of the aforesaid consignment, the plaintiff engaged the services of defendant no. 1
+i.e., Round the Clock Logistics Pvt. Ltd., a company registered under the Companies Act, 2013. The
+defendant no. 1, in turn, is stated to have forwarded the consignment to another forwarding agent
+i.e., the defendant no. 2 who further forwarded the said consignment to the defendant no. 3.
+Ultimately, the defendant no. 3 is stated to have booked the consignment for transportation to its
+destination through the defendant no. 4 and the defendant no. 5.
+3. Pursuant to the arrangement/understanding between the plaintiff and the defendant no. 1,
+"House Bills of Lading" ("HBOLs") dated 31.03.2023 are stated to have been issued by the
+defendant no. 1. The same are stated to have been handed over to the plaintiff by the defendant No.
+1. The said HBOLs contain a specific reference to each container number in which the goods were to
+be transported, the description of the goods, and the name of the consignee, the port of loading, the
+port of discharge, and the place of delivery. These have been filed alongwith the documents filed
+with the plaint at page nos. 18 to 28. The consignor in the said bills of lading is "Strides Pharma
+Science Limited on behalf of Strides Pharma Global Pte Ltd" and the consignee is "L.N.K
+International Inc." One such HBOL is as under:
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59
+4. It is the admitted case of the plaintiff and the defendant no. 1 that the aforesaid bills of lading
+could not have been used for carriage of the cargo to the destination since the relevant customs
+authority at the port of discharge Signature Not Verified Digitally Signed By:RADHA BISHT Signing
+Date:28.07.2023 16:48:59 (New York, USA) recognise only carriers who are registered with the
+Federal Maritime Commission ("FMC").
+5. Consequently, the defendant no. 1 engaged services of the defendant no. 2, who in turn engaged
+the services of the defendant no. 3. Admittedly, even the defendant no. 3 is not a carrier registered
+with the FMC. Ultimately, services of the defendant no. 4 (EMU Lines Pvt. Ltd.) and the defendant
+no. 5 (Bluetide Eservices Pvt. Ltd.) were availed for the purpose of transportation of the
+consignment to its destination. For this purpose, bills of lading containing the endorsement
+"seaway" came to be issued by the defendant no. 5 [Seaway Bills of Lading ("SBOLs")] in which the
+consigner was again referred to as "Strides Pharma Science Limited on behalf of Strides Pharma
+Global Pte. Ltd". The consignee was reflected to be "L.N.K. International Inc.". As in the case of the
+HBOLs, the SBOLs also make a specific reference to each container, the description of the
+consignment, the name of the vessel etc. These SBOLs also contain the endorsement "Shipped on
+Board". Eight (out of ten) SBOLs contain an endorsement to the effect the goods have been shipped
+on 31.03.2023 whereas two of these SBOLs contain an endorsement to the effect that the goods have
+been shipped on 10.04.2023. The copies of these SBOLs have been filed alongwith the plaint at page
+No. 29 to 39 of the documents accompanying the plaint. A copy of one such SBOL is as under:
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 2Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59
+6. From the reply filed by the defendant no. 4 to the present I.A. and the contentions made by the
+said defendant in its written synopsis, it transpires that apart from the SBOLs, certain bills of lading
+were also issued by the defendant no. 4. In this regard, it has been specifically averred by the
+defendant no. 4 in its reply as under:
+"...............
+It is most respectfully submitted that the Defendant No.3 had approached the
+Answering Defendant and placed the booking of 10 containers for USA. Accordingly,
+Answering Defendant had secured the booking from Carrier- Cosco Line (not a party
+in the present suit) and handed over 10 empty containers to the Defendant No. 3,
+who has handed over back duly stuffed 10 containers to the Carrier. Accordingly,
+Answering Defendant has issued the original Bill of Lading to the Defendant No. 3
+(Bill of Lading is also known as Multimodal Transport Documents) and these 10
+containers are required to be delivered against the presentation of the original Bill of
+Lading at Destination. However, Defendant No. 3 is in the physical possession of all
+the Original Bill of Lading and undertaken to pay the charges in respect of containers
+detention charges, destination and delivery charges for the delay period etc.
+Apparently, Defendant No. 3 has some dispute with the Defendant No. 2 and
+Plaintiff, that is the reason Defendant No. 3 has taken lien on the goods of the
+Plaintiff in order to recover the old dues from Defendant No. 2 and Plaintiff
+.................."
+The bills of lading issued by the defendant no. 4 [copies of which have been handed over during the
+course of hearing] are as under:
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59 It can
+be seen that unlike the HBOLs and the SBOLs, in the above bills of lading, the defendant no.3
+(Cogoport Private Ltd.) is referred to as the consigner and one "City Freight Logistics Inc." has been
+referred to as the consignee. The container numbers referred to in the above bills of lading issued by
+the defendant no. 4 are the same as the container numbers mentioned in the HBOLs and SBOLs.
+The originals of these bills of lading are stated to be in possession of the defendant no. 3. As noticed
+above, the defendant no. 4 has clarified in its reply that it is on account of withholding of the above
+bills of lading that the goods could not be released at the port of discharge. As such, some of the
+requisite documents/bills of lading that are required to get the consignment released at the port of
+discharge are still in possession of the defendant no.3.
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 3Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+7. It has been specifically averred by the defendant no. 3 in its reply to the present application that
+since there are certain outstanding dues payable by the defendant no. 2 to the defendant no. 3, the
+said defendant no. 3 has exercised its right of "lien and detention" in relation to the
+cargo/consignment in question. In this regard, it has been specifically averred by the defendant no.
+3 in its reply as under :-
+"........
+The answering Defendant has the contractual and legal right of lien and detention in
+relation to the cargo / documents claimed bv the Plaintiff, due to the Defendant No. 2
+'s failure to pay the former(cid:128)s dues:
+41. It is submitted that Defendant No. 3 was engaged by Defendant No.2 in the
+capacity of a freight forwarder, as explained above. It is submitted that the invoices
+raised by Defendant No. 3 on Defendant No. 2 make it clear that the Trading
+Conditions shall apply to the transaction. Further, the invoices also make it clear that
+in case of any dispute, the Courts of Mumbai shall have exclusive jurisdiction.
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59
+42. As per Clause 4 of the Trading Conditions, the Defendant No.3, as the Forwarder, has the right
+of lien and detention in the event of non- payment of its dues. In the instant case, Defendant No.2
+has failed to clear invoices, leading to the above-mentioned outstanding dues.
+43. That in this regard, Defendant No.3 had pursued Defendant No.2 demanding the payment of the
+aforesaid dues. However, Defendant No.2 failed to comply with such demands. Thus, left with no
+alternate recourse, the Defendant No.3 exercised its right of lien over the House Bill of Lading for
+the above-mentioned cargos in compliance with the Trading Conditions which forms the agreement
+between the Defendant No.3 and Defendant No.2 and applicable law.
+.............."
+8. As regards the amounts allegedly payable by the defendant no. 2 to the defendant no.3 are
+concerned, the bulk of the aforesaid amounts pertain to services in respect of cargo/consignment in
+which some third party was the consignor and with which the plaintiff is not concerned in any
+manner whatsoever. The details thereof are as under:-
+".................
+13. The tabulated calculation of dues owed by the Defendant No.2 to the Defendant
+No.3 as on date follows:
+First Transaction S. Head of Charge Amount Due No. (in INR/USD) 1 Charges for the
+subject services 11,80,000 invoiced vide Invoice Nos.
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 4Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+COGOM2324015067 dated 31st May 2023.
+2 Charges for the subject services 2,67,572
+invoiced vide Invoice Nos.
+COGO/2223/79485 dated 31st March
+2023.
+3. Charges for the subject services 84,775
+invoiced vide Invoice Nos.
+COGO/2223/79479 dated 31st March
+2023.
+4. Charges for the subject services 44,103
+invoiced vide Invoice Nos.
+COGO/2223/79599 dated 31st March
+Signature Not Verified
+Digitally Signed
+By:RADHA BISHT
+Signing Date:28.07.2023
+16:48:59
+2023.
+5. Charges for the subject services 5,24,377
+invoiced vide Invoice Nos.
+COGOM2324005816 dated 28th April
+2023. (Invoice amount INR
+14,65,192/- and Outstanding amount
+INR 5,24,377)
+6. Charges for the subject services 2,67,624
+invoiced vide Invoice Nos.
+COGOM2324002868 dated 18th April
+2023.
+7. Charges for the subject services 29,075
+invoiced vide Invoice Nos.
+COGOM2324002871 dated 18th April
+2023.
+8. Charges for the subject services 4,720
+invoiced vide Invoice Nos.
+COGOM2324002876 dated 18th April
+2023.
+9. Charges for the subject services 2,506
+invoiced vide Invoice Nos.
+COGOM2324002872 dated 18th Apil
+2023.
+10. Charges for the subject services 1,168
+invoiced vide Invoice Nos.
+COGOM2324002875 dated 18th April
+2023.
+invoiced vide Invoice Nos.
+COGOM2324002867 dated 18th April
+2023.
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 5Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+invoiced vide Invoice Nos.
+COGOM2324002874 dated 18th April
+2023.
+13. Estimated future cost towards $ 1,21,951.219
+security amount, detention and
+storage starting from 7th April 2023
+and containing.
+(1 USD = 82 INR)
+TOTAL (INR) 1,24,06,652
+Signature Not Verified
+Digitally Signed
+By:RADHA BISHT
+Signing Date:28.07.2023
+16:48:59
+9. As regards the plaintiff(cid:128)s consignment, it has been averred by the defendant no. 3
+in its reply that following charges have not been paid towards it:
+Second Transaction S. No. Head of Charge Amount Due (in INR) 1 Charges for the
+subject services invoiced 44,560.27 vide Invoice Nos. CCOGOM2324016383 dated
+13th June 2023.
+2 Charges accrued towards detention, $97,138 storage and destination charges
+starting from 16th June 2023 and containing. (1USD =82 INR)
+3. Estimated future cost per day towards $3200 detention, storage and destination
+charges starting from 10th July 2023 and continuing.
+(1USD=82 INR)
+TOTAL (INR) 83,10,404.71
+10. It can be observed hereinabove, that as far as the plaintiff(cid:128)s consignment is
+concerned, as per the defendant no. 3(cid:128)s own showing, only an amount of Rs.
+44,560.27/- (Forty Four Thousand Five Hundred Sixty and Twenty Seven Paisa Only)
+remains allegedly unpaid by the defendant no. 2 to the defendant no.3. The
+remaining charges claimed are towards detention and storage incurred at the
+destination port. These detention charges are being incurred since the goods have not
+been released to the consignee for want of documents which are being retained by the
+defendant no.3.
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 6Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+11. Admittedly, the invoices which were raised by the defendant no. 3 upon the
+defendant no. 2 in respect of the plaintiff(cid:128)s consignment have been paid to the
+defendant no. 3 except for one invoice for Rs. 44,560.27 which is dated 13.06.2023.
+The said invoices [which have been paid by the defendant no. 2 Signature Not
+Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59 to the
+defendant no. 3] have been enclosed by the defendant no. 2 alongwith its reply to the
+present application.
+12. It is also the case of the defendant no. 1 and the defendant no. 2 that their requisite charges for
+the services performed by the said defendants have been duly received by them and nothing further
+is payable by the plaintiff to them.
+13. In order to break the impasse as a result of the action on the part of the defendant no. 3 in
+withholding the requisite documents that were required for getting the goods released at the port of
+discharge, the plaintiff, vide its email dated 20.06.2023, proposed as under :
+14. The above, without prejudice offer of the plaintiff was not accepted by the defendant no. 3 as a
+result of which the goods could not be released at the Signature Not Verified Digitally Signed
+By:RADHA BISHT Signing Date:28.07.2023 16:48:59 port of discharge and continued to attract
+demurrage. It is notable that the above proposal was made by the plaintiff, to somehow get its
+consignment released, in the light of the aforesaid actions on the part of the defendant no. 3, even
+though admittedly, the plaintiff has nothing to do with the dues allegedly payable by the defendant
+no. 2 to the defendant no. 3 in respect of an altogether third party(cid:128)s consignment. However, despite
+the above attempt, no understanding could be arrived at between the parties. The defendant no. 3
+has continued to insist that it has a lien on the plaintiff(cid:128)s consignment.
+15. It is in this background that the instant suit has been filed, alongwith the present application.
+The prayers sought in the present application are as under:
+".............
+I. In view of the facts and circumstance as afore-stated it is respectfully prayed that
+this Hon(cid:128)ble court is be pleased to:- I. Grant an Ex-Parte Ad-Interim Injunction and
+Mandatory Injunction in favour of the Plaintiff and against the Defendants, their
+nominees, agents, successors or any third person acting through them, thereby
+directing them to hand-over peacefully all the goods as forming part of the Subject
+Consignment to the consignee i.e. LNK International Inc., New York;
+II. Grant an Ex-parte Ad-interim Injunction in favour of the Plaintiff and against the
+Defendants directing them to deposit INR 3,00,00,000/- as security towards failure
+to perform contractual obligation, illegal withholding of the goods, reputational and
+goodwill damage of the Plaintiff.
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 7Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+III. Pass such other and further orders as this Hon(cid:128)ble may deem fit and proper in
+the facts and circumstances of the case. ............."
+Submissions on behalf of Plaintiff
+16. In the aforesaid background, it is contended by the learned senior counsel for the plaintiff that
+the defendant no. 3 has wrongly retained the original bills of lading on account of which the
+consignment in question could Signature Not Verified Digitally Signed By:RADHA BISHT Signing
+Date:28.07.2023 16:48:59 not be released at the port of discharge. It is strenuously contended that
+the action of the defendant no. 3 in retaining the relevant documents/original bills of lading is
+unlawful and illegal. Reliance has been placed on the email dated 14.06.2023 sent by the plaintiff(cid:128)s
+agent in New York (port of discharge) confirming that the consignment is held up on account of the
+hold instructions of the defendant no. 3. It is contended that the plaintiff has nothing to do with the
+transaction between the defendant no. 2 and the defendant no. 3 in respect of some third party(cid:128)s
+consignment/s, and the inter-se disputes between the defendant no. 2 and the defendant no. 3 with
+regard to the charges payable thereunder. It is contended that the same cannot afford any
+justification whatsoever for withholding the consignment of the plaintiff.
+17. It is submitted that demurrage is being incurred on the plaintiff(cid:128)s consignment on a day to day
+basis due to unlawful and illegal actions of the defendant no. 3 and therefore, the defendant no.3
+must be directed not only to forthwith hand over the original bills of lading and all relevant
+documents pertaining to the plaintiff(cid:128)s consignment in its possession so that the goods can be
+released at the destination port, but must also additionally be directed to bear the demurrage
+charges which are being incurred on a day to day basis since their arrival at the port of discharge.
+18. It is submitted that it is patently absurd and illegal on the part of the defendant no. 3 to ascertain
+any right of lien or detention in respect of the consignment in question on account of alleged
+non-payment of its dues by the defendant no. 2 in respect of consignments of a third party with
+which the plaintiff is not at all concerned.
+19. It is contended that it is only with a view to arm twist the defendant no. 2 through the plaintiff,
+that the defendant no. 3 has illegally retained the Signature Not Verified Digitally Signed
+By:RADHA BISHT Signing Date:28.07.2023 16:48:59 requisite original documents/ bills of lading
+and instructed its New York delivery partners to withhold the subject delivery consignment. It is
+stated that the said conduct of the defendant no. 3 is malicious and actionable and calls for urgent
+interim orders. It is submitted that the plaintiff has made out a very strong prima facie case. It is
+also emphasized that the plaintiff shall suffer irreparable harm and loss if the goods in question are
+not released at the port of discharge inasmuch as the goods are perishable in nature and are stored
+in conditions which are non-conducive, as a result of which there is a genuine apprehension that the
+goods would be rendered unusable and thereby lose their entire value. It is submitted that the
+present case is a fit case where the Court should pass a mandatory injunction directing the
+defendant no. 3 to release the original bills of lading and other documents in its possession in
+respect of the consignment in question, to the plaintiff without delay and to direct the defendant no.
+3 to bear the demurrage charges incurred at the port of discharge till the date of handing over the
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 8Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+said documents to the plaintiff. Submissions on behalf of the defendant no. 3
+20. Learned senior counsel for the defendant no. 3 has contended as under:
+(i) That the plaint is liable to be returned due to lack of territorial jurisdiction. It is
+submitted that the invoices raised by the defendant no. 1 on the plaintiff expressly
+exclude the jurisdiction of this Court and nominate Courts in Mumbai for
+adjudication of all matters relating thereto. It is stated that the position with regard
+to the invoices raised by the defendant no. 3 upon the defendant no. 2 is also similar.
+Reliance has been placed in this Signature Not Verified Digitally Signed By:RADHA
+BISHT Signing Date:28.07.2023 16:48:59 regard on the judgment of the Supreme
+Court in M/s Swastik Gases Pvt. Ltd. Vs. Indian Oil Corporation Ltd1.
+(ii) It is submitted that the plaintiff lacks the locus standi to seek the reliefs sought,
+inasmuch as it is only the consignee (LNK International Inc.) who can bring an action
+as per Section (1) of Bills of Lading Act, 1856. In this regard, reliance has been placed
+on the judgment of the Supreme Court in the case of British India Steam Navigation
+Co. Ltd. Vs. Shanmughavilas Cashew Industries and Ors.2
+(iii) It is also stated that the suit is not maintainable against the defendant no. 3 as
+there is no privity of contract between the plaintiff and the said defendant.
+(iv) It is contended that the plaintiff has sought contradictory reliefs inasmuch as on
+one hand, it seeks a mandatory injunction, while on the other hand it claims damages
+for the value of such cargo. It is also contended that granting of the reliefs sought in
+present application would tantamount in granting the final relief which cannot be
+permitted at this stage.
+(v) It is contended that the conditions for grant of mandatory injunction as laid down by the
+Supreme Court in Doarab Cawasji Warden Vs. Coomi Sorab Warden & Ors.3, are not satisfied in the
+present case. It is contended that the plaintiff is (2013) 9 SCC 32 (1990) 3 SCC 481 (1990) 2 SCC 117
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59 not
+the contractual seller of the goods and that it will not suffer any injury even if the cargo remains
+undelivered.
+(vi) It is further contended that the defendant no. 3 has a right of lien in respect of the goods as a
+"bailee". It is contended that in terms of Section 170 of the Indian Contract Act, 1872, the right of the
+bailee to a lien subsists as long as the requisite charges are not paid to the bailee (defendant no.3).
+Certain judgements have been relied upon by the learned Senior Counsel for the defendant No. 3 in
+support of this submission, which have been dealt with hereunder.
+(vii) It is also submitted that the contract between the defendant no.2 and the defendant no.3 vests a
+right of lien on the defendant no.3 by virtue of "Standard Terms of Freight Forwarders Association
+of India" which have been referred to in the invoices raised by defendant no.3 upon the defendant
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 9Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+no.2.
+(viii) It is further contended that since the plaintiff has already raised a monetary claim for
+compensation, even assuming there is any breach on the part of the defendant no.3, the same can be
+compensated in terms of money and as such grant of mandatory injunction is unwarranted.
+Submissions on behalf of the defendant no.1:
+21. It is submitted on behalf of the defendant no. 1 that the said defendant had carried out its
+obligations without delay and had arranged for the prompt shipment for the cargo. It is submitted
+that the relevant bills of lading under which the cargo moved were not issued by it. It is further
+submitted that the Signature Not Verified Digitally Signed By:RADHA BISHT Signing
+Date:28.07.2023 16:48:59 said consignment cannot be released as the original bills of lading are in
+the possession of the defendant no. 3, who is holding onto the same.
+22. It is further submitted that the defendant no. 1 has not delayed the delivery of the goods and
+cannot be held liable for the delay and that it is the defendant nos. 3 to 5 who are responsible for the
+non-delivery of the said consignment.
+Submissions on behalf of defendant no.2:
+23. It is submitted on behalf of the defendant no. 2 that it has no privity of contract with the
+plaintiff. It is submitted that the defendant no. 2 engaged the services of the defendant no. 3 for the
+booking of 10 containers of shipment to be transported from India to New York, U.S.A. The goods
+are stated to have been shipped under a bill of lading issued by defendant no. 5.
+24. It is submitted that the invoices raised by defendant no. 3 on defendant no. 2 were cleared in
+their entirety. To substantiate the same, the defendant no. 2 has also relied on the bank statement
+and payment receipts attached alongwith their reply to the present application. It is submitted that
+upon arrival at its designated destination, the consignment of goods was withheld by the defendant
+no. 3 on the basis that the defendant no. 3 had a right of „lien and detention(cid:128) over the goods.
+25. It is the contention of the defendant no. 2 that, the invoice for Rs.44,560.27/- was raised on the
+defendant no. 2 by the defendant no. 3 on 13.06.2023 on account of GRI "General Rate of Interest".
+It is pointed out that the consignment of goods had reached New York on 12.06.2023 and the
+delivery of the consignment was denied by the defendant no.3 on the very same date. Hence, there
+was no question of the defendant no. 3 holding any lien on account of the said invoice. Further, it is
+contended that there could be Signature Not Verified Digitally Signed By:RADHA BISHT Signing
+Date:28.07.2023 16:48:59 no question of increase in rates after the consignment had already
+reached its destination.
+26. It is also contended that, the defendant no. 2 is not a member of the Federation of Freight
+Forwarders Association of India and therefore it is misconceived to allege that the "Standard
+Trading Conditions of Freight Forwarders" would be applicable to the defendant no. 2. Moreover the
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 10Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+said conditions were never agreed upon between the defendant no. 3 and the defendant no. 2.
+Finally, it is submitted that even under the said rules, the defendant no. 3 shall have no right of lien
+and detention of the said consignment of goods which were unrelated to the transactions with the
+plaintiff.
+Submissions on behalf of Defendant no.4
+27. It is submitted on behalf of the defendant no. 4 that it is a Multimodal Transport Operator
+having regular contract with the Steamer Ship / Vessel(cid:128)s agent / Container Line Carrier, and due to
+which the defendant no. 3 had approached the defendant no. 4, and placed the booking of the
+concerned 10 containers, with the defendant no. 4. The defendant no. 4 had secured the booking
+from "Cosco Line" and handed over 10 empty containers to the defendant no. 3, who had handed
+over back duly stuffed ten (10) containers to "Cosco Line". Accordingly, the defendant no. 4 had
+issued certain bills of lading [also referred to as Multimodal Transport Documents] in favour of
+defendant no. 3, and the ten (10) containers are required to be delivered against the presentation of
+the same.
+28. The defendant no. 4 has placed reliance on certain email communications between the plaintiff
+and defendant no. 3 wherein it is stated that defendant no. 3 has demanded Rs. 2,00,00,000/-
+(Rupees Two Crores Signature Not Verified Digitally Signed By:RADHA BISHT Signing
+Date:28.07.2023 16:48:59 Only) in order to release the said original bills of lading needed to secure
+the release of the goods lying at port. It is claimed that in this regard the plaintiff had offered to pay
+a sum of Rs. 1,15,00,000/- (Rupees One Crore Fifteen Lakhs Only) which was ultimately rejected by
+the defendant no. 3.
+29. It is also contended that there exists no privity of contract between the defendant no. 4 and the
+plaintiff herein and as a result the said defendant no. 4 should not be dragged into the present
+dispute.
+30. It is submitted that due to the ongoing dispute, the demurrage charges being charged on the
+goods lying at port are increasing on a day to day basis and currently the demurrage charges stand
+at USD 112,318 (One Hundred Twelve Thousand Three Hundred and Eighteen US Dollars) and if
+not settled the charges shall keep increasing at USD 4000 Dollars a day, and due to this it is
+submitted that the said demurrage charges are to be paid by the defendant no. 3 as the delay and
+charges in lieu of the delay have all been caused due to the conduct of the defendant no.3.
+Analysis and Findings:
+Locus Standi of the Plaintiff:
+31. Learned senior counsel for the defendant no. 3 has relied on Section 1 of the Bill of Lading Act,
+1856, to contend that in terms thereof, it is only the consignee who has the right to sue in respect of
+the consignment and the plaintiff (consignor) has no right to bring an action with regard thereto.
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 11Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+32. The said contention of the defendant no. 3 is ex-facie untenable. The original bills of lading were
+required to be handed over in the first instance to the consignor. The consignor (plaintiff) is
+aggrieved as a result of withholding of the said bills of lading by the concerned freight forwarding
+agent Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59
+(defendant no. 3). It is incorrect to contend that in such a situation the consignor (plaintiff) has no
+right to sue. It is notable that the controversy in the present case is not with regard to any of the
+terms and conditions in the concerned bills of lading but the act of the defendant no. 3 in refusing to
+part with the original bills of lading and / or other requisite documents to the consignor.
+33. Reliance sought to be placed by learned senior counsel for the defendant no. 3 upon the
+judgement of the Supreme Court in the case of British India Steam Navigation Co. Ltd (supra) is
+misconceived. Specific reliance has been sought to be placed on paragraph 13 of the said judgement
+wherein it has been observed as under:
+".........
+13.......
+the ownership of the goods along with the right to sue is transferred and vested in the
+consignee named in the bill of lading as if the contract contained in the bill of lading
+has been made with himself. ..........."
+34. In British India Steam Navigation Co. Ltd (supra), the Supreme Court was concerned with a
+situation where an action had been brought by the purchaser (consignee) against the charterer of
+the vessel. It was in this context that the Supreme Court construed the terms of the bill lading and
+the liabilities and rights flowing thereunder upon the shipper and the consignee. The same is wholly
+inapplicable to the facts of the present case. Even so, even in British India Steam Navigation Co. Ltd
+(supra), it was observed by the Supreme Court as under:
+".........
+12. Until the Bills of Lading Act, 1855 was passed in England the endorsement of a bill of lading
+would not affect the contract evidenced in it, and the endorsee could not sue or be sued on such
+contract, though he Signature Not Verified Digitally Signed By:RADHA BISHT Signing
+Date:28.07.2023 16:48:59 was the person really interested in goods, the subject of the contract. By
+Section 1 of the Bills of Lading Act, 1855, in England "every consignee of goods named in a bill of
+lading, and every endorsee of a bill of lading to whom the property of goods shall pass, upon or by
+reason of such consignment or endorsement shall have transferred to and vested in him all rights of
+suit and be subject to the same liabilities in respect of such goods as if the contract contained in the
+bills of lading had been made with himself." In Sewell v. Burdick[(1884) 10 AC 74, 85, 104 : 1 TLR
+128] it is held that Section 1 is to be given effect in any proceeding in the English court regardless of
+the proper law governing the transfer of the bill of lading. The property passes by reason of
+consignment or endorsement and the right to sue passes with it. The consignee or endorsee may lose
+his right or liability under the Act by such further endorsement of the bill of lading as divests him of
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 12Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+the property. Such a vesting of rights and liabilities on endorsement of a bill of lading does not in
+any way affect the shipowners' rights against the original shippers or owners of the goods for the
+freight or the shipper's rights under the bill of lading or the liability of the consignee or indorsee by
+reason of his being such consignee or indorsee, or of his receiving the goods in consequence of such
+consignment or indorsement, or any right of stoppage in transitu.
+..........."
+35. In Gudur Krishna Reddy Vs. Union of India and Another4, the High Court of Andhra Pradesh
+has held as under:
+"...........
+10. I do not think that the said Judgment is an authority for the proposition that the
+consignor in no case can institute the suit or in all cases where the goods are
+consigned, it is the consignee who alone can sue for the loss.
+11. The learned Judge for the proposition he laid down in that case relied upon Daws v. Peck(1799) 8
+T.R. 330: Esp. 12: 4 R.R. 675 (T.K.: Term Reports). A reading of that judgment would disclose that
+case does not decide anything like the one held by the Courts below. The facts of that case were that
+the goods were directed to be delivered to one Mr. Odey. It appears that on the direction of Mr. Odey
+the consignment was sent to him by the consignor through a particular carrier: The goods were
+either lost or damaged in the transit. It was contended in that case that the consignor can sue even
+in a case where the title in the goods had passed to the consignee and that the consignee, who had
+instituted the suit, had 1964 SCC OnLine A.P. 31 Signature Not Verified Digitally Signed By:RADHA
+BISHT Signing Date:28.07.2023 16:48:59 no locus standi to institute the suit. It was found that
+when the title in the goods had passed to him and when the consignor acted as his agent in handing
+over the goods to the particular carrier in pursuance of the direction given to him by the consignee,
+the consignee can institute the suit. It is obvious that in the circumstances in which the delivery was
+made to the common carrier it was the vendee who stood to the risk and the damnum et injuria were
+to him and not to the vendor, the plaintiff in that case. The opinion of the Lord Kenyon, Ch. J., is
+illuminating in this behalf. The two other learned Judges also reached the same conclusion. That
+case therefore is not an authority to hold that once the consignment is made it is the consignee alone
+who can institute the suit. When the consignee has locus standi to institute the suit depends
+primarily upon the facts and circumstances of each case. In cases where the consignor has not
+parted with the title in goods, he, being the bailor, can certainly sue for damages the Railway
+Company which is the bailee. In cases however where the title in the goods has passed to the
+consignee, the consignee can also bring a suit for damages against the Railway. In cases however
+where either the consignor or the consignee can claim and the person claiming receives the damages
+from the Railway Company either outside the court or through the court, any; payment thus made in
+the discharge of the claim: by the Railway Company would certainly be a valid discharge as against
+the person who had not put his claim, and the rights of the consignor and the consignee will be
+settled between them. The Railway Company, in any case is liable to pay the compensation because
+of its negligence. In this case it is not in dispute that although the R.R. stands in the name of the
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 13Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+consignee, but it has not been endorsed in his favour conveying the title in the goods.
+12. When it is not in doubt that the title in the baskets of betel leaves consigned from Nellore was
+with the consignor, this case ought not to have presented any difficulty for reaching the conclusion
+that it is the consignor who alone can institute the present suit. The consignee who has not had any
+title in the goods could not have sued in the present case. Merely because the R.R. stands in the
+name of the consignee without the title any goods passing to him he would not be entitled to-
+institute the suit.
+13. I am fortified in my conclusion by the-following decisions:.
+**** **** ****
+15. In Chhangamal v. Dominion of India, AIR 1957 Bom 276, a Bench of the Bombay High Court
+said:
+"The right of action to recover compensation for loss or damage to the goods ordinarily vests in the
+consignor. Where the goods Signature Not Verified Digitally Signed By:RADHA BISHT Signing
+Date:28.07.2023 16:48:59 lost or damaged. In transit are the subject-matter of a contract of sale,
+the owner of the goods may in the absence of a contract to the contrary sue the railway
+administration. Therefore, a consignee who is in possession of a railway receipt duly endorsed by
+the consignor may maintain an action for compensation for loss of the goods covered: thereby, but
+he can do so not because he is the consignee but because he is the owner of the goods. A consignor
+may sue for compensation for loss relying upon the breach of contract of consignment. An owner of
+goods covered by a railway receipt may sue for compensation relying upon his title and the loss of
+goods by misconduct of the railway administration. But a bare consignee, who is not ex party to the
+contract of consignment and who is not the owner of the goods, cannot maintain a suit for
+compensation for loss or damage to the goods. He has no cause of action ex contractu nor ex
+delicto."
+16. I am thus satisfied that as the title in the goods had not passed to the consignee and because the
+plaintiff is the bailor, the Railway, he being responsible to him for the losses and as the plaintiff
+continued to be the owner of the baskets, it is he who could institute the suit. The lower courts
+therefore have erred in holding that the plaintiff has no locus standi to institute the suit. In this case
+the plaintiff has produced a letter of authority from the consignee which shows that the consignee
+has no objection for the plaintiff instituting the suit. Although that letter is there, but in the view
+which I have taken I find no difficulty in rejecting the contention that the plaintiff was not
+competent to Institute the suit. ............."
+36. Reference is also apposite to the inter-se agreement dated 23.07.2020, between the plaintiff and
+the consignee which has been placed on record by the plaintiff. Clause 2.12 thereof clearly states that
+the plaintiff shall retain title and risk of loss until delivery of the consignment. Only after delivery,
+will the title and risk pass onto the consignee.
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 14Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+37. Admittedly, the goods in question have not yet been delivered to the consignee i.e., L.N.K.
+International Inc. New York. As such, the plaintiff continues to retain legal title thereof and
+consequently, has the right to sue or seek relief qua the said goods/consignment.
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59
+Territorial Jurisdiction
+38. As far as the territorial jurisdiction of this Court is concerned, it is averred in the plaint as under
+:-
+"...............
+21. It is stated that this Hon'ble Court also has the territorial jurisdiction to entertain
+and try the present suit by virtue of Section 20 of the Code of Civil Procedure 1908 as
+Defendant No. 2's registered address is within the jurisdiction of this Hon'ble Court.
+Further, the cause of action has arisen within the jurisdiction of this Hon'ble Court.
+The services offered by Defendants are provided through online platforms, and
+accessible from within the jurisdiction of this Hon'ble Court. The Defendant No. 2
+and Defendant No. 4 reside and/or personally work for gain and have their main and
+registered office in Delhi, ill jurisdiction of this Hon'ble Court. Further, the
+Defendant No.3 vide its email dated 21.06.2023 has admitted to having an office in
+Delhi (i.e. at 1002-1003 (V) , 10th Floor Kanchanjunga Building, 18 Barakhamba
+Road, New Delhi-110001) and personally working for gain in Delhi. Further, the
+Defendant No. 1 resides and/or personal(v works for gain and has their main office in
+Delhi at Central Square Plaza-31370, 3rd Floor, Plot No. 20, Manoharlal Khurana
+Marg, Bara Hindu Rao, Near Filmistan Cinema, New Delhi - II 0006. In view thereof,
+as the Defendant No. 2 and Defendant No. 4 are having offices and/or work for gain
+within jurisdiction of this Hon(cid:128)ble Court and further even Defendant No. 1 and
+Defendant No. 3 have their office within jurisdiction of this Hon 'hie Court.
+Additionally, the Defendant No. 5 also works for gain in New Delhi apart from having
+its registered office in Old Delhi Road, Gurgaon. In any event and b way of immense
+precaution the Plaintiff has filed an application under Section 20(2) of the Code of
+Civil Procedure, 1908 seeking leave of this Hon'ble Court to sue Defendant No.1,
+Defendant No. 3 and Defendant No. 5 in the jurisdiction of this Hon 'hie Court. In the
+view thereof, this Hon'ble Court has complete jurisdiction to adjudicate upon the
+present suit.
+............."
+39. Thus, as per the plaint and the memo of parties, each of the defendants has offices/work for gain
+within the jurisdiction of this Court. It is also notable that the defendant no. 1, the defendant no. 2
+and the defendant no. 4 Signature Not Verified Digitally Signed By:RADHA BISHT Signing
+Date:28.07.2023 16:48:59 have not denied or contested the territorial jurisdiction of this Court to
+entertain the present suit.
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 15Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+40. It is also a fact that the concerned bills of lading, which have been retained by the defendant no.
+3 [as reproduced hereinabove], on the face of it, have been drawn up by the defendant no. 4 in Delhi.
+The said bills of lading bear the stamp and Delhi address of the defendant no. 4 and also, the said
+bills of lading also contain the following stipulation:
+"....
+22. Jurisdiction:
+The contract evidenced by or contained in this MTD shall be governed by the law of
+India and any claim or dispute arising hereunder or in connection herewith shall be
+subject to the jurisdiction of the Indian court in Delhi, New Delhi only.
+........"
+41. Stipulations in the context of tax invoice raised by the defendant no.1 upon the plaintiff which
+mentions "subject to Mumbai Jurisdiction" cannot be construed in a manner so as to divest this
+Court of its inherent jurisdiction. The said stipulation is being construed by the defendant no. 3
+(which is not a party to the said tax invoice) in a manner contrary to the understanding of the
+plaintiff and the defendant no.1. As mentioned, it is neither the case of the plaintiff nor the
+defendant no.1 that this Court does not have territorial jurisdiction to entertain the present suit.
+Likewise, the stipulations that may be contained in the inter-se invoices raised by the defendant no.
+2 upon the defendant no. 3 cannot be construed in a manner so as to divest the jurisdiction of the
+Court in an action initiated by the plaintiff against the defendant no. 3 on account of alleged illegal
+withholding of the documents/ bills of lading drawn up for the purpose of the plaintiff(cid:128)s
+consignment.
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59
+42. The reliance placed by the learned senior counsel for the defendant no. 3 on the judgment of
+Supreme Court in the case of M/s Swastik Gases (supra) is also misconceived. All that the said
+judgement holds is that the use of words like "only", "exclusively", "alone" and so on, are not
+necessary to convey the intention of the parties while construing a jurisdiction clause in an
+agreement. In M/s Swastik Gases (supra), the Supreme Court approved the judgment in the case of
+A.B.C. Laminart Pvt. Ltd. Vs. A. P. Agencies5, in which it was held that even without such
+exclusionary words, the maxim „expressio unius est exclusio alterius(cid:128) which translates to, "the
+expression of one thing is the exclusion of another'' may be applied.
+43. Specific reference was made in Swastik Gases (supra) to para 21 of the judgement in A.B.C.
+Laminart (supra), in which it has been observed as under:
+"...........
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 16Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+21. From the foregoing decisions it can be reasonably deduced that where such an
+ouster clause occurs, it is pertinent to see whether there is ouster of jurisdiction of
+other courts. When the clause is clear, unambiguous and specific accepted notions of
+contract would bind the parties and unless the absence of ad idem can be shown, the
+other courts should avoid exercising jurisdiction. As regards construction of the
+ouster clause when words like "alone", "only", "exclusive" and the like have been used
+there may be no difficulty. Even without such words in appropriate cases the maxim
+"expressio unius est exclusio alterius" -- expression of one is the exclusion of another
+-- may be applied. What is an appropriate case shall depend on the facts of the case.
+In such a case mention of one thing may imply exclusion of another. When certain
+jurisdiction is specified in a contract an intention to exclude all others from its
+operation may in such cases be inferred. It has therefore to be properly construed.
+............"
+(1989) 2 SCC 163 Signature Not Verified Digitally Signed By:RADHA BISHT Signing
+Date:28.07.2023 16:48:59
+44. In the concurring opinion of Madan B. Lokur, J., in Swastik Gases (supra), specific reference was
+made to A.B.C. Laminart (supra) as under:
+".................
+43. In A.B.C. Laminart v. A.P. Agencies [A.B.C. Laminart (P) Ltd. v. A.P. Agencies,
+(1989) 2 SCC 163] the relevant clause reads as follows: (SCC p. 167, para 3) "3. ...
+„Any dispute arising out of this sale shall be subject to Kaira jurisdiction.(cid:128)
+44. Despite the aforesaid clause, proceedings were initiated by the respondent in
+A.B.C. Laminart [A.B.C. Laminart (P) Ltd. v. A.P. Agencies, (1989) 2 SCC 163] in
+Salem (Tamil Nadu). The appellant challenged the jurisdiction of the Court at Salem
+to entertain the proceedings since the parties had agreed that all disputes shall be
+subject to the jurisdiction of the courts in Kaira (Gujarat). The trial court upheld the
+objection but that was set aside in appeal by the Madras High Court which held that
+the courts in Salem had the jurisdiction to entertain the proceedings.
+45. The civil appeal filed by the appellant in A.B.C. Laminart case [A.B.C. Laminart
+(P) Ltd. v. A.P. Agencies, (1989) 2 SCC 163] challenging the decision of the Madras
+High Court was dismissed by this Court thereby affirming the jurisdiction of the
+Court in Salem notwithstanding the exclusion clause. While doing so, this Court held
+that when a certain jurisdiction is specified in a contract, an intention to exclude all
+others from its operation may be inferred; the exclusion clause has to be properly
+construed and the maxim expressio unius est exclusio alterius (expression of one is
+the exclusion of another) may be applied. Looking then to the facts and
+circumstances of the case, this Court held that the jurisdiction of courts other than in
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 17Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+Kaira were not clearly, unambiguously and explicitly excluded and therefore, the
+Court at Salem had jurisdiction to entertain the proceedings. ................"
+45. Thus, in A.B.C. Laminart (supra) even in the context of stipulation to the effect that „Any dispute
+arising out of this sale shall be subject to Kaira jurisdiction.(cid:128) [which is similar to the stipulation in
+the present case], it was held by the Supreme Court that even the application of the Maxim
+„expressio unius est exclusio alterius(cid:128) could not lead to the inference that jurisdiction of Signature
+Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59 Courts other
+than Kaira were clearly, unambiguously, explicitly excluded and therefore, it was found by the
+Supreme Court that the Court at Salem had jurisdiction to entertain the proceedings in that case.
+Likewise, in the present case, prima facie, it would be unwarranted to construe a bar of jurisdiction
+of Courts in Delhi.
+46. M/s Swastik Gases (supra), does not derogate or dilute the principle enunciated in A.B.C.
+Laminart (supra), and only reiterates the same. It is a different matter that in the facts of Swastik
+Gases (supra), the application of maxim „expressio unius est exclusio alterius(cid:128), led to the conclusion
+that the jurisdiction of Courts other than Calcutta was found to be impliedly excluded. The said
+conclusion is based on the factual matrix in that case and therefore, cannot be mechanically applied
+to the present case to reach the conclusion that the Courts in Delhi would not have any jurisdiction.
+47. Reference is also apposite to the observations made by the Supreme Court in R.S.D.V. Finance
+Co. Ltd. Vs. Shree Vallabh Glass Works Ltd.6, wherein in the context of a stipulation which is
+identical to the stipulation relied upon by the defendant no. 3 in the present case, it has been held as
+under:-
+".........
+9. We may also consider the effect of the endorsement „Subject to Anand
+jurisdiction(cid:128) made on the deposit receipt issued by the defendant. In the facts and
+circumstances of this case it cannot be disputed that the cause of action had arisen at
+Bombay as the amount of Rs 10,00,000 itself was paid through a cheque of the bank
+at Bombay and the same was deposited in the bank account of the defendant in the
+Bank of Baroda at Nariman Point, Bombay. The five post-dated cheques were also
+issued by the defendant being payable to the plaintiff at Bombay. The endorsement
+„Subject to Anand jurisdiction(cid:128) has been made unilaterally by the defendant while
+issuing the deposit receipt.
+(1993) 2 SCC 130 Signature Not Verified Digitally Signed By:RADHA BISHT Signing
+Date:28.07.2023 16:48:59 The endorsement „Subject to Anand jurisdiction(cid:128) does not contain the
+ouster clause using the words like „alone(cid:128), „only(cid:128), „exclusive(cid:128) and the like. Thus the maxim
+„expressio unius est exclusio alterius(cid:128) cannot be applied under the facts and circumstances of the
+case and it cannot be held that merely because the deposit receipt contained the endorsement
+„Subject to Anand jurisdiction(cid:128) it excluded the jurisdiction of all other courts who were otherwise
+competent to entertain the suit. The view taken by us finds support from a decision of this Court in
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 18Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+A.B.C. Laminart Pvt. Ltd. v. A.P. Agencies, Salem [(1989) 2 SCC 163 : (1989) 2 SCR 1]"
+48. The aforesaid observations clearly apply to the facts of the present case; the use of this
+expression "subject to Mumbai Jurisdiction" cannot be construed to exclude the jurisdiction of any
+or all other Courts who are otherwise competent to entertain the present suit.
+49. Learned counsel for the plaintiff has also rightly relied upon the judgment in the case of Baldev
+Steel Ltd. Vs. The Empire Dyeing and Manufacturing Company Ltd.7, where, in the context of an
+identical stipulation, it has been held as under:-
+".........
+11. On a perusal of the correspondence, as proved on record, it is seen that defendant
+No.3 i.e. M/s. Garlick Engineering, division of defendant No.1, submitted its
+quotation on 25.4.1975, from the Delhi office. Defendant No.1 had a branch office in
+Delhi. Negotiations and discussions took place in Delhi. The order dated 12.6.1973
+was placed by the plaintiff on the defendants in Delhi. The said order had also been
+accepted by defendant No.3 having its office at Delhi from Delhi. The payments to the
+defendants were made at Delhi. From the foregoing, it would be seen that the cause
+of action for suit had arisen in Delhi. Merely, because one of the standard printed
+terms of the quotation, mentioned, subject to "Bombay Jurisdiction", it cannot
+exclude the Delhi Jurisdiction. It was not an exclusionary clause.
+As noticed earlier, the entire negotiations, placement of order and further correspondence was
+through the defendants' office at Delhi. Keeping in mind the explanation to Section 20(c) CPC, as
+also interpreted by the Apex Court in M/s.Patel Roadways Limited Vs. M/s.Prasad Trading
+Company - , it is clear that the Courts at Delhi would have jurisdiction being a place where the
+defendant Corporation was having its divisional or subordinate 2001 SCC OnLine Del 477 Signature
+Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59 office and the
+place where the cause of action arose. Issue No.13 is decided in favor of the plaintiff and against the
+defendants. It is held that the Courts at Delhi have the jurisdiction to try and entertain the suit.
+..........."
+50. In Bela Goyal Proprietor of Ispat Sangrah (India) Vs. VIIPL-MIPL JV (Jaipur) and Ors.8. The
+contention that was raised in that case was similar in terms of the contention raised on behalf of the
+defendant no.3 in the present proceedings and recorded by the Court as under :-
+"........
+11. Qua jurisdiction it is argued even though the principal office of the defendant
+Nos.1 to 3 is in Delhi, yet no cause of action had arisen at Delhi as it arose only at
+Jaipur and in view of the stipulated condition on the invoices viz. subject to Jaipur
+jurisdiction, coupled with the fact defendant have their offices at Jaipur, this Court
+does not have territorial jurisdiction to try this matter.
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 19Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+......."
+51. In the above context this Court held as under:
+"..........
+21. Admittedly defendant nos.2 to 4 have their registered office at Delhi. The
+defendant no.1 is a joint venture of defendant nos.2 and 3. The explanation to Section
+20 CPC makes it clear where principal office is located, the company is presumed to
+carry its business from there. Moreso, if one peruse the three impugned cheques,
+those were of the account in Punjab National Bank, of defendant no.1, being
+maintained at Shalimar Bagh, Delhi. Thus the part of cause of action arose at Delhi
+coupled with the fact the company has its principle office at Delhi; this Court shall
+have the jurisdiction. Merely by mentioning on the invoices viz. the disputes shall be
+subject to the jurisdiction at Jaipur would not snatch away the jurisdiction of this
+Court as there was no exclusion clause in the invoices.
+..............."
+52. As such, the plaintiff cannot be non-suited at the present stage based on the plea of the
+defendant no. 3 regarding lack of territorial jurisdiction. Privity of Contract 2022:DHC:58 Signature
+Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59
+53. It has been contended on behalf of defendant no. 3 that the present suit is not maintainable for
+want of privity of contract between the plaintiff and defendant no. 3. This contention is untenable on
+the face of it. The very grievance of the plaintiff is that the defendant no. 3 has sought to wrongfully
+exercise „lien(cid:128) in respect of the consignment of the plaintiff without any contractual or statutory
+basis. The plaintiff cannot be prevented from agitating this issue on the ground of absence of "privity
+of contract" between the plaintiff and the defendant no.3. In fact, the absence of privity of contract is
+relied upon by the plaintiff in support of its contention that the defendant no. 3 cannot be permitted
+to exercise any "lien" in respect of the plaintiff(cid:128)s consignment.
+Scope of power to grant Mandatory Injunction
+54. In Hammad Ahmed Vs. Abdul Majeed & Ors,9 it has been held by Supreme Court as under :-
+".............
+58. The ad interim mandatory injunction, is to be granted not at the asking but on
+strong circumstance so that to protect the rights and interest of the parties so as not
+to frustrate their rights regarding mandatory injunction. In Deoraj v. State of
+Maharashtra [Deoraj v. State of Maharashtra, (2004) 4 SCC 697], this Court held that
+Court would grant such an interim relief only if it is satisfied that withholding of it
+would prick the conscience of the Court and do violence to the sense of justice,
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 20Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+resulting in injustice being perpetuated throughout the hearing, and at the end the
+Court would not be able to vindicate the cause of justice. Therefore, in appropriate
+case, ad interim injunction in mandatory form can be granted. The Court held as
+under: (SCC p. 703, para 12) "12. Situations emerge where the granting of an interim
+relief would tantamount to granting the final relief itself. And then there may be
+converse cases where withholding of an interim relief would tantamount to dismissal
+of the main petition itself;
+(2019) 14 SCC 1 Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023
+16:48:59 for, by the time the main matter comes up for hearing there would be nothing left to be
+allowed as relief to the petitioner though all the findings may be in his favour. In such cases the
+availability of a very strong prima facie case -- of a standard much higher than just prima facie case,
+the considerations of balance of convenience and irreparable injury forcefully tilting the balance of
+the case totally in favour of the applicant may persuade the court to grant an interim relief though it
+amounts to granting the final relief itself. Of course, such would be rare and exceptional cases. The
+court would grant such an interim relief only if satisfied that withholding of it would prick the
+conscience of the court and do violence to the sense of justice, resulting in injustice being
+perpetuated throughout the hearing, and at the end the court would not be able to vindicate the
+cause of justice. Obviously such would be rare cases accompanied by compelling circumstances,
+where the injury complained of is immediate and pressing and would cause extreme hardship. The
+conduct of the parties shall also have to be seen and the court may put the parties on such terms as
+may be prudent.
+................."
+55. Thus, this Court would grant ad interim mandatory injunction if withholding the same would
+"prick the conscience of the Court and do violence to the sense of justice, resulting in injustice being
+perpetuated throughout the hearing, and at the end, the Court would not be able to vindicate the
+cause of justices".
+56. Likewise, in Dorab Cawasji Warden Vs. Coomi Sorab Warden & Ors.,10 it has been held by the
+Supreme Court as under :
+"..........
+16. The relief of interlocutory mandatory injunctions are thus granted generally to preserve or
+restore the status quo of the last non-contested status which preceded the pending controversy until
+the final hearing when full relief may be granted or to compel the undoing of those acts that have
+been illegally done or the restoration of that which was wrongfully taken from the party
+complaining. But since the granting of (1990) 2 SCC 117 Signature Not Verified Digitally Signed
+By:RADHA BISHT Signing Date:28.07.2023 16:48:59 such an injunction to a party who fails or
+would fail to establish his right at the trial may cause great injustice or irreparable harm to the party
+against whom it was granted or alternatively not granting of it to a party who succeeds or would
+succeed may equally cause great injustice or irreparable harm, courts have evolved certain
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 21Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+guidelines. Generally stated these guidelines are:
+(1) The plaintiff has a strong case for trial. That is, it shall be of a higher standard than a prima facie
+case that is normally required for a prohibitory injunction.
+(2) It is necessary to prevent irreparable or serious injury which normally cannot be compensated in
+terms of money. (3) The balance of convenience is in favour of the one seeking such relief.
+17. Being essentially an equitable relief the grant or refusal of an interlocutory mandatory injunction
+shall ultimately rest in the sound judicial discretion of the court to be exercised in the light of the
+facts and circumstances in each case. Though the above guidelines are neither exhaustive nor
+complete or absolute rules, and there may be exceptional circumstances needing action, applying
+them as prerequisite for the grant or refusal of such injunctions would be a sound exercise of a
+judicial discretion.
+.................."
+57. There is no quarrel with the above parameters for the grant of mandatory injunction. What has
+to be seen is whether the facts of the present case warrants grant of any mandatory injunction.
+There is clearly no legal bar in granting an appropriate mandatory injunction in a deserving case.
+58. In Paras Imports Pvt. Ltd. and Others Vs. Runway Logistics Pvt. Ltd.,11 a Division bench of this
+Court, while deciding an appeal against grant of a mandatory injunction which mandated
+production of a bill of lading, inter alia observed as under:
+".........
+2019 SCC OnLine Del 10342 Signature Not Verified Digitally Signed By:RADHA BISHT Signing
+Date:28.07.2023 16:48:59
+13. The object of interlocutory injunction is to protect the Plaintiff against injury by violation of his
+right. The Court has to see where the balance of convenience lies, by weighing Plaintiff's need for
+protection against the corresponding need of the Defendant to be protected against injury resulting
+from his having been prevented from exercising his legal rights.
+.............
+The relief of mandatory injunction as prayed for is in the nature of a direction to the Appellants to
+produce the original bill of lading or, in the alternate, return all the goods. If the injunction is
+vacated, the suit of the Respondent would become infructuous, as even if Plaintiff were to succeed in
+the suit after trial, the goods would no longer be available. Thus, refusal of injunction would
+certainly and adversely affect the interest of the Plaintiff and considering the facts of the case in
+proper prospective, we find that the approach of the learned Single Judge was appropriate and,
+accordingly, the appeal assailing the order of confirmation of injunction and the dismissal of the
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 22Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+application seeking vacation thereof is rejected. .............."
+59. In the present case, if it is found that the exercise of "lien" by the defendant no.3 is unlawful, the
+same would obviously lead to grave and irreparable injustice to the plaintiff. In such a situation, the
+wrongful exercise of lien cannot be allowed to continue till final disposal of the present suit. An
+obvious wrong cannot be allowed to be perpetuated and this Court would grant appropriate relief,
+even in the form of a mandatory injunction, to redress the same. Far from precluding grant of such a
+relief in such a situation, the judgments cited on behalf of the defendant no. 3 mandate that in an
+appropriate case, mandatory injunction ought to be granted.
+Right of "lien" claimed by the Defendant no.3
+60. Two contentions are raised by the learned senior counsel for the defendant no.3 found in
+support of the alleged right of the defendant no. 3 to exercise lien in respect of the consignment in
+question. Firstly, it is contended that the "Standard Trading Conditions for the Freight Forwarders"
+as framed Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023
+16:48:59 by the Federation of Freight Forwarders Association in India, which find a reference in the
+invoice raised by the defendant no.3 upon the defendant no. 2, enables the defendant no.3 to
+exercise/claim a lien with respect to the goods in question.
+61. Secondly, it is contended that the right to exercise this lien also flows from Section 170 and 171 of
+the Indian Contract Act, 1872.
+62. Both the above contentions are misconceived.
+63. The so-called conditions for the Freight Forwarders (supra) do not have any statutory or
+regulatory basis whatsoever. The defendant no.2 has categorically denied the applicability of the
+same.
+64. Ex facie, the aforesaid "Standard Trading Conditions for Freight Forwarders" cannot apply in a
+situation where the goods of a third party come into the hands of a Freight Forwarder in his capacity
+as such agent of another Freight Forwarder (defendant no.2). The untenability of the contentions of
+the defendant no.3 is evident from the absurd consequences that would entail if the so-called
+Standard Trading of Federation Forwarders were made applicable to the parties such as the plaintiff
+who are not Freight Forwarders, who have no privity of contract with sub-agents of the Freight
+Forwarders engaged by it and in whose hands the goods have come only for the purpose of making
+arrangements for transportation of the concerned goods to the ultimate consignee in question.
+65. Apart from the aforesaid aspect of inapplicability of the aforesaid conditions, even otherwise on
+the face of it, the said conditions cannot come to the aid of the defendant no. 3. The defendant no. 3
+has sought to rely upon Clause 4 of the aforesaid conditions, which speaks of "right to lien and
+detention". The same reads as under:
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59 ".......
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 23Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+4. Right to lien and detention:
+(a) Constituents shall pay the bills presented by the Forwarder within 15 days of their presentation,
+failing which penal interest at 3% above Bank's lending unless specifically agreed to that contrary
+rate of interest shall become due and payable from due date or 15 days as applicable.
+(b) The Forwarder has a right to lien and a right of detention over the goods or other securities and
+effects lying within his power of disposal in respect of any amount whether already due for payment
+or not which the Forwarder is entitled to receive in respect of services to the customer. In exercise of
+the lien under this clause, the Forwarder shall be entitled to dispose of the goods, either by public or
+private sales upon which lien is exercised, to recover his dues, provided that he gives a written notice
+of at least 7 days to the customer of his intention to do so. The Forwarder is entitled to recover all
+the balance amount from the customer after recovery of the dues by the sale of the goods under this
+clause and the right exercised by Forwarder under this clause shall not be deemed to have been
+waiver of his right to take further legal steps to recover the dues.
+............."
+66. A bare perusal of the aforementioned stipulation reveals that:-
+a) Lien can be exercised to recover the dues "in respect of services to the customer".
+Obviously, the services contemplated thereunder are those referable to the goods in
+respect of which lien is sought to be exercised. It is evident that the lien cannot be
+exercised in respect of goods, with regard to which the concerned freight forwarder
+has been paid for the services provided in connection therewith.
+b) The aforesaid rule contemplates that a written notice of at least 7 days be given to the customer of
+its intention to exercise lien over the goods with the freight forwarder. In the present case, no notice
+as contemplated thereunder appears to have been given by the defendant no.3. On the contrary, the
+learned counsel for the defendant no. 3 states that the said defendant has initiated arbitration
+against the defendant no. 2 for recover Signature Not Verified Digitally Signed By:RADHA BISHT
+Signing Date:28.07.2023 16:48:59 of its dues from the said defendant.
+c) In the present case, the goods are no longer in possession of defendant no.3 as they have been
+shipped, and already arrived at the port of destination. As such, there is no occasion to exercise the
+lien as contemplated under the aforesaid rule.
+d) The aforesaid rule contemplates that the freight forwarder shall be entitled to dispose of the
+goods either by public or private sale. Since, the goods have reached the port of destination, there is
+no question of the defendant no.3 conducting a "public or private sale" of the goods. In fact, for the
+purpose of questioning the locus of the plaintiff, it was contended by the defendant no. 3 itself that
+the consignee has rights in respect of the goods in question.
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 24Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+e) The aforesaid stipulation cannot apply in derogation to the statutory prescription in Section 170
+of the Indian Contract Act and in the Multimodal Transportation of Goods Act, 1993 (which have
+been elaborated herein below).
+67. As such reliance by the defendant no.3 on the aforesaid Standard Trading Conditions (supra) is
+misconceived for all the aforesaid reasons.
+68. Reliance has been sought to be placed by the defendant no.3 on Section 170 and 171 of the
+Indian Contract Act, 1872, to contend that it has a right of lien in respect of the goods as a "bailee" is
+also wholly misconceived. Sections 170 and 171 of the Indian Contract Act, 1872, read as under:
+"........
+170. Bailee(cid:128)s particular lien.--Where the bailee has, in accordance with the purpose
+of the bailment, rendered any service involving the exercise of labour or skill in
+respect of the goods bailed, he has, in the absence of a contract to the contrary, a
+right to retain such goods until he receives due remuneration for the services he has
+rendered in respect of them.
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59
+171. General lien of bankers, factors, wharfingers, attorneys and policy- brokers.--Bankers, factors,
+wharfingers, attorneys of a High Court and policy- brokers may, in the absence of a contract to the
+contrary, retain as a security for a general balance of account, any goods bailed to them; but no other
+persons have a right to retain, as a security for such balance, goods bailed to them, unless there is an
+express contract to that effect.1 --Bankers, factors, wharfingers, attorneys of a High Court and
+policy-brokers may, in the absence of a contract to the contrary, retain as a security for a general
+balance of account, any goods bailed to them; but no other persons have a right to retain, as a
+security for such balance, goods bailed to them, unless there is an express contract to that effect.
+..........."
+69. A bare perusal of the Section 170 of the Contract Act reveals that lien contemplated thereunder
+is only in respect of "due remuneration" for "services rendered" in respect of the goods.
+70. In the present case, admittedly all the invoices raised by the defendant no.3 upon the defendant
+no.2 prior to shipment of the goods have been duly paid to the defendant no.3 and only one invoice
+of amounting to Rs. 44,560.27/- has been stated to have not been paid. It is rightly pointed out by
+the defendant no. 2 that the said invoice is dated 13.06.2023, whereas the goods in question had
+reached the port of destination i.e. New York on 12.06.2023 itself, and the plaintiff was denied the
+consignment on 12.06.2023 itself (i.e., prior to issuance of invoice dated 13.06.2023) on account of
+the exercise of the so called lien by the defendant no. 3. Moreover, and importantly, lien has sought
+to be exercised by the defendant no. 3 in respect of services performed by the defendant no. 3 in
+relation to some other consignment unconnected with the plaintiff and unconnected with the
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 25Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+services performed by the defendant no.3 in respect of the plaintiff(cid:128)s goods. This is clearly beyond
+what is contemplated under Section 170 of the Indian Contract Act, 1872.
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59
+71. Further, a bare perusal of Section 171 of the Indian Contract Act, 1872, reveals that it is clearly
+and unambiguously inapplicable to the defendant no. 3 inasmuch as the "general lien(cid:128)
+contemplated thereunder applies only to bankers, factors, wharfingers, attorneys of High Court and
+policy-brokers. Admittedly, there is no contract which enables the defendant no.3 to exercise
+general lien over the plaintiff(cid:128)s goods.
+72. The Judgment of the Supreme Court in the case of Board of Trustees of the Port of Bombay and
+Others v. Sriyanesh Knitters12, while examining the issue as to whether a port trust constituted
+under the Major Ports Trust Act, 1963, could exercise a general lien for their dues over present or
+future consignment of importers, when the dues were in respect of past imports by the said
+importers, clearly circumscribes the scope of Section 171 of the Indian Contract Act, 1872. Reference
+may be made to the following paragraphs of the said judgment :
+"........
+17. Having come to the conclusion that the MPT Act does not oust the provisions of
+Section 171 of the Contract Act what we have now to see is whether the appellants can
+claim any relief or benefit under the said section. Section 171 of the Indian Contract
+Act, 1872 reads as follows: "171. General lien of bankers, factors, wharfingers,
+attorneys, and policy- brokers.--Bankers, factors, wharfingers, attorneys of a High
+Court and policy- brokers may, in the absence of a contract to the contrary, retain as
+a security for a general balance of account, any goods bailed to them; but no other
+persons have a right to retain, as a security for such balance, goods bailed to them,
+unless there is an express contract to that effect."
+This section is in two parts. The first part gives statutory right of lien to four categories only, namely,
+bankers, factors, wharfingers and attorneys of High Court and policy-brokers subject to their
+contracting out of Section 171. The second part of Section 171 applies to persons other than the
+aforesaid five categories and to them Section 171 does not give a statutory right of lien. It provides
+that they will have no right to retain as securities goods bailed to them unless there is an express
+contract to that effect. Whereas in respect of the first (1999) 7 SCC 359 Signature Not Verified
+Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59 category of persons
+mentioned in Section 171 the section itself enables them to retain the goods as security in the
+absence of a contract to the contrary but in respect of any other person to whom goods are bailed the
+right of retaining them as securities can be exercised only if there is an express contract to that
+effect. ........
+27. We are unable to accept this submission. As has already been held earlier the general lien
+contained in Section 171 of the Contract Act is not covered by the provisions of Chapter VI of the
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 26Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+MPT Act. The MPT Act no doubt deals with lien in respect, inter alia, of the goods imported but it
+does not deal with the general lien of the type we are concerned with in this case, namely, amounts
+due in respect of earlier consignments for which payment has not been made. The contract to the
+contrary as envisaged in Section 171 of the Contract Act has to be specific. The MPT Act including
+Chapter VI nowhere provides that the general lien under Section 171 of the Contract Act would not
+be available to the wharfingers in a case where the MPT Act is applicable. ............."
+73. Thus, it is only with respect to the category of persons specified in Section 171 that it is
+permissible to retain goods bailed to them as security and exercise a "general lien" in respect
+thereof.
+74. The matter is put beyond the pale of doubt by a judgment of the Bombay High Court in Anax
+Industries Pvt. Ltd. v. Micro Logistics (I), Pvt. Ltd., Mumbai13, where the High Court of Bombay
+specifically dealt with the right of lien sought to be exercised by a freight forwarding agent. As a
+result of the lien sought to be exercised in that case, the plaintiff therein was compelled to pray for a
+mandatory injunction seeking release of bills of lading illegally withheld by the freight forward
+agent. The Bombay High Court after taking note of Section 170 and 171 of the Indian Contract Act,
+1872, and the judgment of the Supreme Court in Board of Trustees of the Port of Bombay and
+Others v. Sriyanesh Knitters (supra) held as under:
+"......
+2020 SCC OnLine Bom 4352 Signature Not Verified Digitally Signed By:RADHA BISHT Signing
+Date:28.07.2023 16:48:59
+24. The Hon'ble Apex Court in the case of Board of Trustees of the Port of Bombay v. Sriyanesh
+Knitters, (1999) 7 SCC 359 has observed in paragraph 17 thus:
+"17 Having come to the conclusion that the MPT Act does not oust the provisions of
+Section 171 of the Contract Act what we have now to see is whether the appellants can
+claim any relief or benefit under the said section. Section 171 of the Indian Contract
+Act, 1872, reads as follows: 171 General lien of bankers, factors, wharfingers,
+attorneys, and policy- brokers - Bankers, factors, wharfingers, attorneys of a High
+Court and policy-brokers may, in the absence of a contract to the contrary, retain as a
+security for a general balance of account, any goods bailed to them; but no other
+persons have a right to retain, as a security for such balance, goods bailed to them,
+unless there is an express contract to that effect. This section is in two parts. The first
+part gives statutory right of lien to four categories only, namely, bankers, factors,
+wharfingers and attorneys of High Court and policy-brokers subject to their
+contracting out of Section 171. The second part of Section 171 applies to persons other
+than aforesaid five categories and to them Section 171 does not give a statutory right
+of lien. It provides that they will have no right to retain as securities goods bailed to
+them unless there is an express contract to that effect. Whereas in respect of the first
+category of persons mentioned in Section 171 section itself enables them to retain the
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 27Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+goods as security in the absence of a contract to the contrary but in respect of any
+other person to whom goods are bailed the right of retaining them as securities can
+be exercised only if there is an express contract to that effect.
+In the case in hand, pleadings of either party do not suggest that bailee was empowered to exercise
+the general lien envisaged under Section 171 of the Indian Contract Act, 1872.
+........
+25. Thus, in consideration of the facts, evidence and circumstances emerging and flowed therefrom,
+I hold that:
+.........
+(3) Defendants were not entitled to exercise general lien in terms of Section 171 of the Indian
+Contract Act, 1872.
+...........
+26. Goods cargo in the second shipment is a paper, a perishable product, which may loose its utility
+if kept for long period. Even otherwise, plaintiffs have paid sea freight for second consignment.
+Therefore, it is just and proper to direct defendants to release bills of lading immediately. In fact, it
+appears, that since second consignment has not been released within reasonable time, plaintiffs'
+vendees have cancelled the orders. Therefore, the balance of convenience also tilts in favour of the
+plaintiffs. .............."
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59
+75. The above judgement squarely applies to the facts of the present case. In terms thereof, a freight
+forwarding agent like the defendant no.3 is not empowered to exercise "general lien" as envisaged in
+the Section 171 of the Indian Contract Act, 1872.
+76. The above position is reinforced by the statutory prescription contained in the Multimodal
+Transportation of Goods Act, 1993. Reference is apposite to the following provisions of the
+Multimodal Transportation of Goods Act, 1993:
+".......
+2. Definitions.--In this Act, unless the context otherwise requires,--
+(l) "multimodal transport contract" means a contract under which a multimodal
+transport operator undertakes to perform or procure the performance of multimodal
+transportation against payment of freight; (la) "multimodal transport document"
+means a negotiable or non-negotiable document evidencing a multimodal transport
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 28Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+contract and which can be replaced by electronic data interchange messages
+permitted by applicable law;]
+(m) "multimodal transport operator" means any person who-- (i) concludes a
+multimodal transport contract on his own behalf or through another person acting on
+his behalf; (ii) acts as principal, and 2 [not as an agent either of the consignor, or
+consignee or of the carrier] participating in the multimodal transportation, and who
+assumes responsibility for the performance of the said contract; and (iii) is registered
+under sub-section (3) of section 4; ........
+22. Right of multimodal transport operator to have lien on goods and
+documents.--(1) The multimodal transport operator who has not been paid the
+amount of consideration stipulated in the multimodal transport contract shall have a
+lien on the consignment and on the documents in his possession. (2)
+Notwithstanding anything contained in sections 13, 16 and 18, the period during
+which the goods are in possession of the multimodal transport operator in exercise of
+his right of lien referred to in subsection (1) shall not be included for the purposes of
+calculating the time of delay under any of those sections.
+............"
+77. A bare perusal of the above provisions makes it clear that the question of lien arises only if the
+concerned "multimodal transport operator" has not Signature Not Verified Digitally Signed
+By:RADHA BISHT Signing Date:28.07.2023 16:48:59 been paid the amount of consideration
+stipulated in the "multimodal contract" in question. In such a situation, the lien contemplated is on
+the particular consignment which is covered by the concerned "multi modal transport contract" and
+not in respect of other third party contracts.
+78. It has been rightly contended on behalf of the defendant no.2 that all the relevant invoices raised
+by the defendant no. 3 upon it in respect of the consignment in question have been paid [these have
+been filed alongwith the reply of the defendant no. 2], except for a belated invoice of Rs. 44,560.27
+which was raised after the goods had reached New York on 12.6.2023. It has also been brought out
+that even prior to raising of this belated invoice [dated 13.6.2023], the defendant no. 3 had sought to
+exercise its "lien", as a result of which the plaintiff was denied consignment on 12.6.2023.
+79. There is another aspect of the matter. Whereas in the HBOLs (Supra) and the SBOLs (Supra),
+the plaintiff was referred to as the consignor and L.N.K. International Inc., as the consignee, in the
+bill of lading stated to have been furnished by the defendant no.4 to the defendant no.3, even though
+it is in respect of the same consignment and there is reference to the same container numbers which
+are referred to in the "HBOLs" and the "SBOLs'', the consignor(cid:128)s names is mentioned as Cogoport
+Private. Limited. (the defendant no.3) and the consignee is mentioned to be "Citi Freight Logistics
+Inc." This is clearly incongruous, and indicative of the fact that the defendant no.3 has adopted a
+stratagem to prevent release of goods to the plaintiff at the port of destination, and with a view to
+exercise illegal "lien" on the goods in question.
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 29Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+80. The defendant no. 1, the defendant no. 2 and even the defendant no. 4 [which was engaged by
+the defendant no.3 itself] have also affirmed and Signature Not Verified Digitally Signed By:RADHA
+BISHT Signing Date:28.07.2023 16:48:59 contended that the defendant no.3 is not entitled to
+exercise any „lien(cid:128) or withhold the plaintiff(cid:128)s consignment in the manner sought to be done.
+81. The judgments which have been cited by learned senior counsel for the defendant no.3, far from
+supporting the case of the defendant no.3, reinforces the unsustainability of the defendant no.3(cid:128)s
+action.
+82. In M/s. Rasiklal Kantilal And Company Vs. Board of Trustee of Bombay And Others14, the
+Supreme Court was concerned with a situation where the original consignee referred to in the Bills
+of Lading failed to lift the consignment and consequently the unclaimed consignments were
+purchased by the appellant therein. It was in this context that the appellant sought to contend that
+the liability to pay demurrage for the period anterior to the appellant(cid:128)s acquisition of title, be
+collected from the steamer agent of the vessel and not from the appellant. In that context it was
+observed by the Supreme Court as under:
+"..........
+50. As rightly opined in Forbes case [Forbes Forbes Campbell & Co.
+Ltd. v. Port of Bombay, (2015) 1 SCC 228 ], there is no bailor and bailee relationship between the
+Board (the first respondent) and the consignee (the appellant); either voluntarily or statutorily
+compelled but such a relationship exists between the first respondent and the owner of the ship
+(through the steamer agent). It is possible in a given case where the consignee or any other person
+(such as the appellant herein) claiming through the consignor, eventually may not come forward to
+take delivery of the goods for a variety of reasons -- considerations of economy or supervening
+disability imposed by law, etc. Therefore, in such cases, to say that merely because the bill of lading
+is endorsed or the delivery order is issued, the consignor or his agent is absolved of the
+responsibility for payment (of rates or rent for services rendered with respect to goods) would result
+in a situation that the Board would incur expenses without any legal right to recover such amount
+from the consignor and be driven to litigation for recovering the same from the consignee who did
+not take delivery of the goods with whom the Board (2017) 11 SCC 1 Signature Not Verified Digitally
+Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59 had no contract of bailment and
+consequently, no contractual obligation to pay the "rates or rent.
+..............."
+83. The above observations clearly reinforce the locus standi of the plaintiff "consignor" in respect of
+the goods in question, inasmuch as it is recognised that notwithstanding that a bill of lading may be
+endorsed in favour of a particular consignee, yet, the consignor is not absolved of the responsibility
+for payment of requisite charges to the concerned port authorities.
+84. In paragraph 51 of the judgment of Supreme Court again reiterated as under:
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 30Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+"51.......Depending on the nature of the relationship between the consignor and
+consignee, the liability may befall either of them..............."
+85. Importantly, in paragraph 58 of the said judgment, the Supreme Court considered the scope of
+lien under Section 171 of the Indian Contract Act, 1872, and relied upon the judgment in Board of
+Trustees of the Port of Bombay and Others v. Sriyanesh Knitters held (supra) and held as under:
+"..........
+58. Section 59 of the Act creates lien in favour of the first respondent in respect of any goods and
+also authorises the first respondent to seize and detain the goods, it clearly makes a special
+provision. Under the Contract Act, 1872, every bailee has no lien on the goods delivered to him. Such
+a lien is available only to limited classes of bailees specified under Section 171 [Port of Bombay v.
+Sriyanesh Knitters, (1999) 7 SCC 359, p. 370, para 17"17. ... This section is in two parts. The first part
+gives statutory right of lien to four categories only, namely, bankers, factors, wharfingers and
+attorneys of High Court and policy-brokers subject to their contracting out of Section 171. The
+second part of Section 171 applies to persons other than the aforesaid five categories and to them
+Section 171 does not give a statutory right of lien. It provides, that they will have no right to retain as
+securities goods bailed to them unless there is an express contract to that effect. Whereas in respect
+of the first category of persons mentioned in Section 171 the section itself enables Signature Not
+Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59 them to retain the
+goods as security in the absence of a contract to the contrary but in respect of any other person to
+whom goods are bailed the right of retaining them as securities can be exercised only if there is an
+express contract to that effect."] . They are bankers, factors, wharfingers [ For the sake of
+completeness in the narration it must also be mentioned that this Court held in Port of Bombay v.
+Sriyanesh Knitters, (1999) 7 SCC 359 (at para 22) that a Board constituted under the Act is a
+wharfinger.] , attorneys of a High Court and policy-brokers. It can be seen from Section 171 that only
+those specific categories of bailees have a right to retain goods bailed to them as security for the
+amounts due to them. No other category of bailee has such a right unless there is an express contract
+creating such a lien.
+................."
+86. Thus, the above judgment reiterates the position that no general lien can be exercised under
+Section 171 of the Indian Contract Act, 1872, in the absence of an express contract creating such a
+lien. As such, the aforesaid judgment clearly supports the case of the plaintiff.
+87. In Shipping Corpn. Of India Ltd. Vs. C.L. Jain Woollen Mills And, Others.,15 the Supreme Court
+was concerned with the issue as to whether any liability could be fastened on an importer to pay
+demurrage charges in a context of a situation where goods had been detained by the custom
+authorities, and the action of the custom authorities was successfully assailed by the importer.
+88. It was in this context that the right of the bailee (Shipping Corporation of India i.e. the petitioner
+therein) to recover its dues for storage of goods in question was considered by the Supreme Court.
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 31Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+In that context, it was observed in paragraph 7 of the said judgment as under:
+"..............
+7. Before examining the correctness of the rival submissions, one thing is crystal clear that the
+relationship between the importer and the carrier of goods in whose favour the Bill of Lading has
+been consigned and who (2001) 5 SCC 345 Signature Not Verified Digitally Signed By:RADHA
+BISHT Signing Date:28.07.2023 16:48:59 has stored the goods in his custody, is governed by the
+contract between the parties. Section 170 of the Indian Contract Act engrafts the principle of bailee's
+lien, namely, if somebody has received the articles on being delivered to him and is required to store
+the same until cleared for which he might have borne the expenses, he has a right to detain them
+until his dues are paid. But it is not necessary in the case in hand to examine the common law
+principle and the bailee's lien inasmuch as the very terms of the contract and the provisions of the
+Bill of Lading, unequivocally conferred power on the appellant to retain the goods, until the dues are
+paid. Such rights accruing in favour of the appellant cannot be nullified by issuance of a certificate of
+detention by the Customs Authorities unless for such issuance of detention certificate any provisions
+of the Customs Act authorise. We had not been shown any provisions of the Customs Act which
+would enable the Customs Authorities to compel the carrier not to charge demurrage charges, the
+moment a detention certificate is issued. It may be undoubtedly true that the Customs Authorities
+might have bona fide initiated the proceedings for confiscation of the goods which however,
+ultimately turned out to be unsuccessful and the Court held the same to be illegal. But that by itself,
+would not clothe the Customs Authorities with the power to direct the carrier who continues to
+retain a lien over the imported goods, so long as his dues are not paid, not to charge any demurrage
+charges nor the so-called issuance of detention certificate would also prohibit the carrier from
+raising any demand towards demurrage charges, for the occupation of the imported goods of the
+space, which the proprietor of the space is entitled to charge from the importer. The importer also
+will not be entitled to remove his goods from the premises unless customs clearance is given. But
+that would not mean that demurrage charges could not be levied on the importer for the space his
+goods have occupied, since the contract between the importer and the proprietor of the space is in
+no way altered because of the orders issued by the Customs Authorities...
+..........]"
+89. In reaching the above conclusion, the Supreme Court relied upon the judgments in
+"International Airports Authority of India Vs. Grand Slam International",16 and Union of India Vs.
+Sanjeev Woolen Mills17, in which it was affirmed that the customs authorities have no power to
+prevent the proprietor of the space where the goods are stored, from levying demurrage (1995) 3
+SCC 151 (1998) 9 SCC 647 Signature Not Verified Digitally Signed By:RADHA BISHT Signing
+Date:28.07.2023 16:48:59 charges. Importantly, the Supreme Court recognised the principle
+embodied in Section 170 of the Indian Contract Act, 1872, to the effect that lien can be exercised
+only in respect of the charges referable to articles/goods in question.
+90. The judgment in the case of Coats Viyella India Ltd. Vs. India Cements Ltd.18, cited by the
+learned senior counsel for the defendant no.3, again, supports the case of the plaintiff.
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 32Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+91. In that case, the respondent therein had been engaged by the State Trading Corporation ("STC")
+to act as its agent to arrange for actual loading and shipping of a particular consignment of cement.
+In connection therewith, the respondent had engaged the appellant. The question that arose before
+the Supreme Court was whether the monetary claim sought to be raised by the appellant could be
+passed on to the STC. It was held by the Supreme Court that since the appellant(cid:128)s privity of contract
+was only with the respondent, the claim sought to be made by the appellant, could not be passed on
+to the owners of the vessels in question or to the STC since they were not parties to the inter-se
+agreements between the petitioner and respondent therein. The observations of the Supreme Court
+are as under:
+".........
+10.....
+From the facts enumerated hereinabove it is quite clear that as far as the appellant is concerned it
+had privity of contract only with the said respondent. The said agreement contemplated a sort of
+bonus being paid to the appellant in case of quicker or speedy loading of the ship by the appellant of
+the cement supplied by the said respondent. At the same time, the said agreement also
+contemplated that the appellant would be liable to pay demurrage to the said respondent in case the
+required rate of loading as contemplated by the agreement was not maintained. The agreement
+dated 5-12-1974 was only between the appellant and Respondent 1 and the charges referred to in
+clause 7 of the agreement relating to handling charges for cement, stevedoring rates etc. were
+(2000) 9 SCC 376 Signature Not Verified Digitally Signed By:RADHA BISHT Signing
+Date:28.07.2023 16:48:59 admittedly payable to the appellant by the respondent alone. Clause 14 of
+the said agreement contemplated that on the basis of the laytime statements which are prepared,
+Respondent 1 was to make claim on the ship-owners presumably in respect of the handling and
+other charges. This claim by the said respondent on the owners of the vessels or their agents could
+only have been made as a result or consequence of an agreement between the said respondent and
+STC or the owners/agents of the vessels for the simple reason that neither STC nor the said
+owners/agents were parties to the agreement dated 5-12-1974. Clause 14 in that sense indicated that
+what was payable to the appellant would be reimbursed to the said respondent. But we cannot read
+this agreement as a whole to mean that there was any liability of the ship- owners or STC to make
+any payment to the appellant. The agreement dated 5-12-1974 was a principal-to-principal contract
+between the appellant and the said respondent. The rights and liabilities of the appellant arise only
+under this agreement and they could make no claim on the other party on the basis of the laytime
+statements nor could, for that matter, STC or the owner of the ship raise a claim on the appellant for
+demurrage in the event of slow handling of the cargo. ..........."
+92. On the same analogy, the inter-se rights and liabilities of the defendant nos. 2 and 3 cannot be
+asserted against the plaintiff in absence of any principle to principle contract between the plaintiff
+and the defendant no.3. Thus, the said judgment again, clearly supports the case of the plaintiff.
+93. In the above circumstances, the withholding by the defendant no.3 of the requisite
+documents/bills of lading, and exercise of "lien", as a result of which the plaintiff has been unable to
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 33Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+get its consignment released at the port of destination, is ex-facie, impermissible under law.
+94. Further, significant demurrage charges have been levied on account of the withholding by the
+defendant no.3 of the relevant documents and/or exercise of „lien(cid:128) by the defendant no.3. Prima
+facie, the additional liability on account of demurrage incurred at the port of the destination must
+fall on the defendant no.3.
+Signature Not Verified Digitally Signed By:RADHA BISHT Signing Date:28.07.2023 16:48:59
+Conclusion
+95. Having considered the totality of circumstances, as enumerated above, grant of a mandatory
+injunction is clearly warranted in the facts and circumstances of the present case. It would
+completely defeat the ends of justice if the plaintiff(cid:128)s consignment is allowed to perish and/or if
+demurrage charges continue to be incurred in respect thereof, on account of the aforesaid actions of
+the defendant no.3. The purported exercise of „lien(cid:128) by the defendant no. 3 is expropriatory,
+completely contrary to law, and constitutes an egregious wrong. Not only will grave and irreparable
+prejudice be caused to the plaintiff if the goods in question are allowed to perish and/or continue to
+incur demurrage at the port of destination, the same will also not serve the defendant no.3(cid:128)s
+avowed purpose, which is to realize monies in respect of services performed by the defendant no.3
+for the defendant no.2, and for which it is stated to have initiated arbitration against the defendant
+no.2. Even though the goods reached the port of destination as far back as on 12.06.2023, the
+defendant no.3 has refused to part with the requisite documents/bills of lading to enable the
+plaintiff to get the goods released at the port of destination nor has it taken any steps to pay the
+demurrage that is being incurred on a day to day basis. In the circumstances, it is warranted that the
+plaintiff be allowed to get its goods released at the port of destination and realise requisite amounts
+from the consignee [assuming that the goods have not already perished]. The same shall be
+inherently subject to further order/s in the suit.
+96. In the circumstances, a mandatory injunction is issued in favour of the plaintiff and against the
+defendant no.3 directing the defendant no.3 to forthwith release to the plaintiff all original
+documents/bills of lading in its Signature Not Verified Digitally Signed By:RADHA BISHT Signing
+Date:28.07.2023 16:48:59 possession in respect of the plaintiffs consignment, and such other
+document/s in its possession which are required to get the consignment/goods released at the port
+of discharge. The defendant no.3 is also restrained from obstructing or in any manner preventing
+the release of the consignment(s) in question at the port of discharge, either directly or through its
+agents/employees/representatives.
+97. Although, as observed hereinabove, prima facie, the liability to pay demurrage for the period
+during which the goods have been held up at the port of destination on account of illegal exercise of
+„lien(cid:128), must fall on the defendant no.3, however, in the interest of ensuring that the goods are
+released at the earliest, the plaintiff is directed to bear the demurrage charges, subject to further
+order/s in the suit.
+98. The present application is disposed of in the above terms.
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 34Strides Pharma Science Limited vs Round The Clock Logistics Private ... on 28 July, 2023
+SACHIN DATTA, J JULY 28, 2023 ssc/rohit Signature Not Verified Digitally Signed By:RADHA
+BISHT Signing Date:28.07.2023 16:48:59
+Indian Kanoon - http://indiankanoon.org/doc/148249971/ 35

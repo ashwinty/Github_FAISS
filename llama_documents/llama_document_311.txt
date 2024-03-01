@@ -1,0 +1,455 @@
+Metadata: id=>311
+name=>The Directorate Of Enforcement vs M S Karvy Realty India Ltd on 12 February 2024
+date=>12 February 2024
+court=>High Court
+link=>http://indiankanoon.org/doc/178490705/
+-----
+Content: The Directorate Of Enforcement vs M/S Karvy Realty India Ltd. on 12 February, 2024
+The Directorate Of Enforcement vs M/S Karvy Realty India Ltd.
+on 12 February, 2024
+THE HON'BLE THE CHIEF JUSTICE ALOK ARADHE
+AND
+THE HON'BLE SHRI JUSTICE ANIL KUMAR JUKANTI
++ WRIT APPEAL No.611 of 2023
+% Date:12.02.2024
+# Directorate of Enforcement, rep. by Assistant Director,
+Department of Revenue, Hyderabad.
+... Appellant
+vs.
+$ M/s.Karvy India Realty Limited,
+rep. by its Authorised Signatory, and others
+... Respondents
+! Counsel for the appellant : Mr. A.R.L.Sundaresan,
+learned Additional Solicitor General for
+Mr. Anil Prasad Tiwari, learned Standing
+Counsel for Enforcement Directorate
+^ Counsel for the respondents : Mr. T.Niranjan Reddy, and
+Mr. Avinash Desai
+Learned Senior Counsels
+< GIST:
+(cid:128) HEAD NOTE:
+? CASES REFERRED:
+1. (2020) 19 SCC 10
+2. (2008) 14 SCC 107
+3. (2010) 11 SCC 1
+4. (2013) 10 SCC 359
+5. (2018) 6 SCC 21
+6. 2018 SCC OnLine Del 13481
+7. 2023 SCC OnLine Cal 2391 : AIR 2023 Cal 326
+8. (2023) 8 SCC 745
+9. AIR 1950 SC 222
+10. (2010) 11 SCC 1
+11. (2020) 6 SCC 1
+12. (2015) SCC OnLine Sikk 217
+13. 2022 SCC OnLine SC 929
+14. 1923 AllER 150
+15. (2019) 6 SCC 604
+16. AIR OnLine 2019 SC 157 : LL 2021 SC 84
+17. (1989) 3 SCC 709
+18. (2017) 14 SCC 663
+2
+Indian Kanoon - http://indiankanoon.org/doc/178490705/ 1The Directorate Of Enforcement vs M/S Karvy Realty India Ltd. on 12 February, 2024
+THE HON'BLE THE CHIEF JUSTICE ALOK ARADHE
+AND
+THE HON'BLE SHRI JUSTICE ANIL KUMAR JUKANTI
+WRIT APPEAL No.611 of 2023
+JUDGMENT:
+(Per the Hon'ble the Chief Justice Alok Aradhe) This intra court appeal emanates from an order
+dated 13.03.2023 passed by the learned Single Judge in I.A.No.1 of 2022 in W.P.No.41133 of 2022.
+2. Facts giving rise to filing of this appeal briefly stated are that the respondent Nos.1 to 29 in the
+writ appeal are the companies registered under the provisions of the Companies Act, 1956. On the
+basis of a complaint made by the Housing Development Finance Corporation Bank (hereinafter
+referred to as 'the HDFC Bank'), First Information Reports (FIRs) bearing FIR No.78 of 2021, dated
+22.04.2021 and F.I.R.No.86 of 2021, dated 01.05.2021 were registered against M/s.Karvy Stock
+Broking Limited (KSBL) and its directors and M/s.Karvy Comtrade Limited and its Directors
+respectively for the offence under Section 420 IPC. A provisional order of attachment dated
+18.07.2022 was issued under Section 5(1) of the Prevention of Money Laundering Act, 2002
+(hereinafter referred to as 'PMLA') by the Deputy Director, Enforcement Directorate. Thereafter, a
+show cause notice dated 19.09.2022 was issued by the Union of India.
+3. The validity of the aforesaid provisional order of attachment dated 18.07.2022 and show cause
+notice dated 19.09.2022 was assailed in a writ petition inter alia on the ground that a single member
+cannot pass an order of attachment, as Section 6 of PMLA contemplates the constitution of
+adjudicating authority by a chairperson and two members. Another ground attack is that the
+adjudicating authority was not a judicial member and therefore, act of passing of the provisional
+order of attachment which is a quasi-judicial function can only be performed by a member who is
+experienced in the field of law.
+4. The learned Single Judge by a common order dated 13.03.2023 while deciding the interlocutory
+application i.e., I.A.No.1 of 2022 in W.P.No.41133 of 2022, from which the instant appeal emanates,
+decided other three writ petitions, i.e., I.A.No.1 of 2022 in W.P.No.44343 of 2022, W.P.No.34627 of
+2022 and W.P.No.34238 of 2022 and inter alia held as under:
+(1) Under the proceeding under Section 8 of the PMLA, the adjudicating authority
+performs quasi-judicial function as it decides the lis between two contesting parties
+and therefore, the quasi judicial bodies should consist of members having requisite
+qualification in the field of law and should be appointed instead of members having
+no experience in the field of law.
+Indian Kanoon - http://indiankanoon.org/doc/178490705/ 2The Directorate Of Enforcement vs M/S Karvy Realty India Ltd. on 12 February, 2024
+(2) The decision in In Re: Cognizance for Extension of Limitation 1 is applicable to
+the proceeding initiated under the PMLA for computing period of 180 days and the
+adjudicating authority becomes functus officio after the lapse of 180 days if the
+provisional order of attachment is not affirmed.
+Accordingly, the impugned provisional order of attachment and show cause notice were quashed. In
+the 1 (2020) 19 SCC 10 aforesaid factual background, this intra court appeal has been filed.
+5. The learned Additional Solicitor General of India submitted that the learned Single Judge ought
+to have appreciated that the vires of the provision was not under challenge and therefore, it was not
+possible for him to read down a statutory provision. It is contended that the learned Single Judge
+erred in inserting a condition in Section 6(5)(b) of the PMLA to provide that every Bench of the
+adjudicating authority shall invariably have a member having experience in the field of law. It is
+further contended that the adjudicating authority under Section 6 of the PMLA is not a judicial
+tribunal which performs the function which is performed by the Court and is also not a tribunal
+constituted either under Article 323A and 323B of the Constitution of India.
+6. It is also contended that the adjudicating authority constituted under Section 6 of the PMLA
+discharges the function under Section 8(1) and 8(3) of the PMLA which is internal review of
+provisional order of attachment passed by the Deputy Director of the Enforcement Directorate. It is
+urged that it is an interim arrangement and not a final adjudication. It is pointed out that even
+against the aforesaid interim arrangement, remedy of appeal is provided under Section 25(1) of
+PMLA before the appellate authority which is presided over by a retired Chief Justice of the High
+Court. It is contended that against the aforesaid order, further appeal lies before the High Court
+under Section 42 of the PMLA. In support of his submissions, learned Additional Solicitor General
+of India has placed reliance on Pareena Swarup vs. Union of India 2, Union of India vs. Madras Bar
+Association 3, Namit Sharma vs. Union of India 4, State of Gujarat vs. Utility Users' Welfare
+Association 5, J.Sekar vs. Union of India 6, R.P.Infosystems Limited vs. The Adjudication Authority
+7 and Arup Bhuyan vs. State of Assam 8. 2 (2008) 14 SCC 107 3 (2010) 11 SCC 1 4 (2013) 10 SCC 359
+5 (2018) 6 SCC 21 6 2018 SCC OnLine Del 13481 7 2023 SCC OnLine Cal 2391 : AIR 2023 Cal 326 8
+(2023) 8 SCC 745
+7. On the other hand, learned Senior Counsel for respondent Nos.1 and 2 submitted that the
+adjudicating authority constituted under Section 6 of the PMLA is a quasi judicial authority as it
+satisfies the tests laid down by the Supreme Court in Province of Bombay vs. Khushaldas S.Advani
+9. It is further submitted that Section 3(2) of the PMLA provides that the adjudicating authority
+shall consist of a chairperson and two other members and one member each shall be a person
+having experience in the field of law, administration, finance or accountancy. It is contended that
+the adjudicating authority has the trappings of a judicial function and therefore, has to be
+constituted with a member having experience in the field of law.
+8. It is pointed out that the judgment of the Division Bench of Delhi High Court in J.Sekar vs. Union
+of India (supra) has been stayed by the Supreme Court in Union of India vs. J.Sekar vide order
+dated 04.07.2018 passed in Special Leave to Appeal (C) No.12865 of 2018. It is therefore submitted
+Indian Kanoon - http://indiankanoon.org/doc/178490705/ 3The Directorate Of Enforcement vs M/S Karvy Realty India Ltd. on 12 February, 2024
+that the decision of the Division Bench of 9 AIR 1950 SC 222 Calcutta High Court, which is based on
+a decision rendered by a Division Bench of Delhi High Court is of no assistance to the appellant. It is
+argued that learned Single Judge has stayed the adjudication of the show cause notice till
+adjudicating authority is duly constituted. It is, therefore, submitted that the order passed by the
+learned Single Judge does not call for any interference in this intra court appeal.
+9. Learned Senior Counsel for respondent Nos.3 to 29 submits that the adjudicating authority under
+Section 6 of the PMLA has been established to adjudicate on the matters concerning confirmation of
+provisional order of attachment order and confiscation of property. It is further submitted that in
+the light of mandate contained in Section 6(2) of the PMLA, the primacy has to be given to the
+member to be appointed from the field of law. Attention of this Court has also been invited to the
+regulations framed in exercise of powers under Section 6(15) of the PMLA, namely Adjudicating
+Authority (Procedure) Regulations, 2013, which clearly indicate that the adjudicating authority has
+trappings of the Court. It is further submitted that in Section 8 of the PMLA, the word
+"adjudication" has been used which contemplates that adversarial process of hearing should be
+followed by the tribunal. It is submitted that if the tribunals are to be vested with judicial powers
+which are exercised by the Courts, such tribunals should have judicial members. In support of his
+submissions, reference has been made to decisions in State of Gujarat vs. Utility Users' Welfare
+Association (supra), Union of India vs. Madras Bar Association 10, Rojer Mathew vs. South Indian
+Bank Limited 11 and Eastern Institute for Integrated Learning in the Management University vs.
+Government of India 12.
+10. We have considered the submissions made on both sides and have perused the record. PMLA is
+an Act to prevent money laundering and to provide for confiscation of the property derived from, or
+involved in, money laundering and for matters therewith or incidental thereto. In Vijay Madanlal
+Choudhary and others vs. Union of India and 10 (2010) 11 SCC 1 11 (2020) 6 SCC 1 12 (2015) SCC
+OnLine Sikk 217 others 13, the Supreme Court while dealing with the issue of constitutional validity
+of the provisions of the Act has held that it is neither a pure regulatory legislation nor a pure penal
+legislation. It has further been held that it is an amalgam of several facets essential to address the
+source of money laundering, as such in one sense is a sui generis legislation. The Act also provides
+for punishment for offence of money laundering as well as to provide for measures for prevention of
+money laundering. The object is achieved by providing for provisional attachment of proceeds of
+crime which are likely to be concealed or dealt with in any manner which may result in frustrating
+any proceedings relating to confiscation of proceeds under PMLA. Section 2(1)(a) defines the
+expression 'Adjudicating Authority' to mean an Adjudicating Authority appointed under Section 6(1)
+of PMLA. Section 2 (na) provides that 'investigation' includes all the proceedings under this Act
+conducted by the Director or by an authority authorised by the Central Government under PMLA for
+collection of evidence. Section 3 defines expression 'offence of money laundering'. Chapter III deals
+13 2022 SCC OnLine SC 929 with attachment, adjudication and confiscation. Section 6 deals with
+adjudicating authority, composition and powers, whereas Section 8 provides for adjudication.
+Section 11 deals with powers of the Adjudicating Authority regarding summons, production of
+documents, evidence etc.
+Indian Kanoon - http://indiankanoon.org/doc/178490705/ 4The Directorate Of Enforcement vs M/S Karvy Realty India Ltd. on 12 February, 2024
+11. The solitary issue which arises for consideration in this intra court appeal is whether the power
+under Section 8 of PMLA conferred on an Adjudicating Authority can be exercised only by a
+member having experience in the field of law. Before proceeding further, it is apposite to take note
+of relevant extract of Section 6 and Section 8 of PMLA, which are extracted below for the facility of
+reference:
+6. Adjudicating Authorities, composition, powers, etc.--(1) The Central Government
+shall, by notification, appoint an Adjudicating Authority to exercise jurisdiction,
+powers and authority conferred by or under this Act.
+(2) An Adjudicating Authority shall consist of a Chairperson and two other Members:
+Provided that one Member each shall be a person having experience in the field of
+law, administration, finance or accountancy.
+(3) A person shall, however, not be qualified for appointment as Member of an
+Adjudicating Authority,--
+(a) in the field of law, unless he--
+(i) is qualified for appointment as District Judge; or
+(ii) has been a member of the Indian Legal Service and has held a post in Grade I of
+that service;
+(b) in the field of finance, accountancy or administration unless he possesses such
+qualifications, as may be prescribed. (4) The Central Government shall appoint a
+Member to be the Chairperson of the Adjudicating Authority. (5) Subject to the
+provisions of this Act,--
+(a) the jurisdiction of the Adjudicating Authority may be exercised by Benches
+thereof;
+(b) a Bench may be constituted by the Chairperson of the Adjudicating Authority with
+one or two Members as the Chairperson of the Adjudicating Authority may deem fit;
+(c) the Benches of the Adjudicating Authority shall ordinarily sit at New Delhi and at
+such other places as the Central Government may, in consultation with the
+Chairperson, by notification, specify;
+(d) the Central Government shall, by notification, specify the areas in relation to
+which each Bench of the Adjudicating Authority may exercise jurisdiction. (6)
+Notwithstanding anything contained in sub-
+Indian Kanoon - http://indiankanoon.org/doc/178490705/ 5The Directorate Of Enforcement vs M/S Karvy Realty India Ltd. on 12 February, 2024
+section (5), the Chairperson may transfer a Member from one Bench to another Bench.
+(7) If at any stage of the hearing of any case or matter it appears to the Chairperson or a member
+that the case or matter is of such a nature that it ought to be heard by a Bench consisting of two
+Members, the case or matter may be transferred by the Chairperson or, as the case may be, referred
+to him for transfer, to such Bench as the Chairperson may deem fit.
+8. Adjudication.--(1) On receipt of a complaint under sub-section (5) of Section 5, or applications
+made under sub-section (4) of Section 17 or under sub- section (10) of Section 18, if the Adjudicating
+Authority has reason to believe that any person has committed an offence under Section 3 or is in
+possession of proceeds of crime], it may serve a notice of not less than thirty days on such person
+calling upon him to indicate the sources of his income, earning or assets, out of which or by means
+of which he has acquired the property attached under sub-section (1) of Section 5, or, seized or
+frozen under Section 17 or Section 18, the evidence on which he relies and other relevant
+information and particulars, and to show cause why all or any of such properties should not be
+declared to be the properties involved in money-laundering and confiscated by the Central
+Government:
+Provided that where a notice under this sub-section specifies any property as being
+held by a person on behalf of any other person, a copy of such notice shall also be
+served upon such other person:
+Provided further that where such property is held jointly by more than one person,
+such notice shall be served to all persons holding such property.
+(2) The Adjudicating Authority shall, after--
+(a) considering the reply, if any, to the notice issued under sub-section (1);
+(b) hearing the aggrieved person and the Director or any other officer authorised by
+him in this behalf; and
+(c) taking into account all relevant materials placed on record before him, by an
+order, record a finding whether all or any of the properties referred to in the notice
+issued under sub-section (1) are involved in money-laundering:
+Provided that if the property is claimed by a person, other than a person to whom the
+notice had been issued, such person shall also be given an opportunity of being heard
+to prove that the property is not involved in money-laundering.
+(3) Where the Adjudicating Authority decides under sub-section (2) that any property
+is involved in money-
+Indian Kanoon - http://indiankanoon.org/doc/178490705/ 6The Directorate Of Enforcement vs M/S Karvy Realty India Ltd. on 12 February, 2024
+laundering, he shall, by an order in writing, confirm the attachment of the property made under
+sub-section (1) of Section 5 or retention of property or record seized or frozen under Section 17 or
+Section 18 and record a finding to that effect, whereupon such attachment or retention or freezing of
+the seized or frozen property or record shall--
+(a) continue during investigation for a period not exceeding three hundred and sixty-five days or the
+pendency of the proceedings relating to any offence under this Act before a court or under the
+corresponding law of any other country, before the competent court of criminal jurisdiction outside
+India, as the case may be; and
+(b) become final alter an order of confiscation is passed under sub-section (5) or sub-section (7) of
+Section 8 or Section 58-B or sub-section (2-A) of Section 60 by the Special Court.
+Explanation.--For the purposes of computing the period of three hundred and sixty-five days under
+clause (a), the period during which the investigation is stayed by any court under any law for the
+time being in force shall be excluded.
+(4) Where the provisional order of attachment made under sub-section (1) of Section 5 has been
+confirmed under sub-section (3), the Director or any other officer authorised by him in this behalf
+shall forthwith take the possession of the property attached under Section 5 or frozen under
+sub-section (1-A) of Section 17, in such manner as may be prescribed:
+Provided that if it is not practicable to take possession of a property frozen under
+sub-section (1-A) of Section 17, the order of confiscation shall have the same effect as
+if the property had been taken possession of.
+(5) Where on conclusion of a trial of an offence under this Act, the Special Court finds
+that the offence of money-laundering has been committed, it shall order that such
+property involved in the money-laundering or which has been used for commission of
+the offence of money-laundering shall stand confiscated to the Central Government.
+(6) Where on conclusion of a trail under this Act, the Special Court finds that the
+offence of money-
+laundering has not taken place or the property is not involved in money-laundering, it shall order
+release of such property to the person entitled to receive it. (7) Where the trial under this Act cannot
+be conducted by reason of the death of the accused or the accused being declared a proclaimed
+offender or for any other reason or having commenced but could not be concluded, the Special
+Court shall, on an application moved by the Director or a person claiming to be entitled to
+possession of a property in respect of which an order has been passed under sub-section (3) of
+Section 8, pass appropriate orders regarding confiscation or release of the property, as the case may
+be, involved in the offences of money-laundering after having regard to the material before it.
+Indian Kanoon - http://indiankanoon.org/doc/178490705/ 7The Directorate Of Enforcement vs M/S Karvy Realty India Ltd. on 12 February, 2024
+(8) Where a property stands confiscated to the Central Government under sub-section (5), the
+Special Court, in such manner as may be prescribed, may also direct the Central Government to
+restore such confiscated property or part thereof of a claimant with a legitimate interest in the
+property, who may have suffered a quantifiable loss as a result of the offence of money laundering:
+Provided that the Special Court shall not consider such claim unless it is satisfied that
+the claimant has acted in good faith and has suffered the loss despite having taken all
+reasonable precautions and is not involved in the offence of money laundering.
+Provided further that the Special Court may, if it thinks fit, consider the claim of the
+claimant for the purposes of restoration of such properties during the trial of the case
+in such manner as may be prescribed.
+12. Section 6 of PMLA deals with composition and powers of the Adjudicating
+Authority, whereas Section 8 deals with Adjudication. Section 8(1) provides that on
+receipt of a complaint under Section 5(5), or on an application made under Section
+17(4) or under Section 18(10), if the Adjudicating Authority has reason to believe that
+any person has committed an offence, it may issue a show cause notice as to why all
+or any of the properties be not declared to be properties involved in money
+laundering and confiscated by the Central Government. The Adjudicating Authority
+under Section 8(2) is enjoined with a duty to consider the reply to the notice, hear the
+aggrieved person and after taking into account all relevant materials placed on record
+before him, pass an order recording a finding whether all or any of the properties
+referred to in the notice issued under sub-section (1) are involved in money
+laundering. Under Section 8(3), the Adjudicating Authority has the power to confirm
+the order of the attachment of property. Section 8(4) provides that where a
+provisional order of attachment is confirmed, the Director or any other person
+authorised by him shall forthwith take the possession of the property attached under
+Section 5 or frozen under sub-section (1A) of Section 17, in such manner as may be
+prescribed.
+13. The modern Government has undertaken many functions and it regulates several
+activities. New laws are being enacted to create new rights and obligations. Under the
+law created by the legislature, a citizen may be at issue with regard to his rights and
+obligations, with the administration or with another citizen or a body. Thus, the said
+disputes are required to be adjudicated. Therefore, the technique of administrative
+adjudication has been involved.
+The statute which provides for an administrative adjudication can also prescribe the manner in
+which such adjudication shall be undertaken as well as the authority by whom it shall be
+undertaken.
+14. The Supreme Court after taking note of decisions in R vs. Electricity Commrs 14 and decision of
+six-Judge Bench of Supreme Court in Province of Bombay vs. Kushaldas S.Advani (supra) held in
+paras 24 and 25 as under:
+Indian Kanoon - http://indiankanoon.org/doc/178490705/ 8The Directorate Of Enforcement vs M/S Karvy Realty India Ltd. on 12 February, 2024
+24. The legal principles laying down when an act of a statutory authority would be a
+quasi-judicial act, which emerge from the aforestated decisions are these:
+14 1923 AllER 150 Where (a) a statutory authority empowered under a statute to do
+any act (b) which would prejudicially affect the subject
+(c) although there is no lis or two contending parties and the contest is between the
+authority and the subject and (d) the statutory authority is required to act judicially
+under the statute, the decision of the said authority is quasi-judicial.
+25. Applying the aforesaid principle, we are of the view that the presence of a lis or contest between
+the contending parties before a statutory authority, in the absence of any other attributes of a
+quasi-judicial authority is sufficient to hold that such a statutory authority is quasi-judicial
+authority. However, in the absence of a lis before a statutory authority, the authority would be
+quasi-judicial authority if it is required to act judicially.
+The aforesaid view was reiterated with approval in Abdul Kuddus vs. Union of India 15.
+15. Thus, if the functions of Adjudicating Authority under Section 8 of PMLA, which is a creature of
+statute under Section 6 of PMLA, are considered, it is evident that it has authority to determine the
+questions which affects the rights of the persons and is required under PMLA to comply 15 (2019) 6
+SCC 604 with the mandate contained in Section 8(2) of PMLA, undoubtedly performs quasi-judicial
+function.
+16. Now we may advert whether the aforesaid quasi- judicial function under Section 8 of PMLA can
+be performed by an Adjudicating Authority, which can be exercised only by a member having
+experience in the field of law. The Adjudicating Authority, as stated supra, is an authority
+constituted by a statute, namely PMLA, which confers the power on it under Section 8 of PMLA. An
+adjudication is a function which is performed by several statutory authorities under different
+enactments, namely under the Foreign Exchange Regulation Act, 1973; the Smugglers and Foreign
+Exchange Manipulators (Forfeiture of Property) Act, 1976; the Narcotic Drugs and Psychotropic
+Substances Act, 1985 and the Foreign Exchange Management Act, 1999. Thus, when legislature
+confers the function of adjudication on an authority under the statute, the same can be performed
+by such authority within the four corners of the power conferred on it. It is pertinent to note that
+under PMLA, the Adjudicating Authority neither has power to decide on the criminality of offence
+nor does it have power to impose punishment.
+17. At this stage, it is apposite to take note of the decisions of Supreme Court. In Pareena Swaroop
+(supra), the Supreme Court noticed that judicial powers have to be exercised by the Appellate
+Tribunal under PMLA and in order to protect the constitutional guarantee of independence of
+judiciary, the persons who are qualified to be Judges be appointed as members of the Appellate
+Tribunal. In Madras Bar Association (supra), a Constitution Bench of Supreme Court dealt with the
+issue of constitutional validity of parts I-B and I-C of the Companies Act, 1956 inserted by
+Companies Second Amendment Act, 2002 which provided for constitution of National Company
+Indian Kanoon - http://indiankanoon.org/doc/178490705/ 9The Directorate Of Enforcement vs M/S Karvy Realty India Ltd. on 12 February, 2024
+Law Tribunal and National Company Law Appellate Tribunal inter alia on the ground that the
+Parliament does not have legislative competence to vest judicial functions which have been
+performed by the High Court in any Tribunal outside the judiciary. In para 106, the conclusions are
+summarised as under:
+106. We may summarise the position as follows:
+(a) A legislature can enact a law transferring the jurisdiction exercised by courts in
+regard to any specified subject (other than those which are vested in courts by
+express provisions of the Constitution) to any tribunal.
+(b) All courts are tribunals. Any tribunal to which any existing jurisdiction of courts is
+transferred should also be a judicial tribunal. This means that such tribunal should
+have as members, persons of a rank, capacity and status as nearly as possible equal to
+the rank, status and capacity of the court which was till then dealing with such
+matters and the members of the tribunal should have the independence and security
+of tenure associated with judicial tribunals.
+(c) Whenever there is need for "tribunals", there is no presumption that there should
+be technical members in the tribunals. When any jurisdiction is shifted from courts to
+tribunals, on the ground of pendency and delay in courts, and the jurisdiction so
+transferred does not involve any technical aspects requiring the assistance of experts,
+the tribunals should normally have only judicial members. Only where the exercise of
+jurisdiction involves inquiry and decisions into technical or special aspects, where
+presence of technical members will be useful and necessary, tribunals should have
+technical members.
+Indiscriminate appointment of technical members in all tribunals will dilute and adversely affect the
+independence of the judiciary.
+(d) The legislature can reorganise the jurisdictions of judicial tribunals. For example, it can provide
+that a specified category of cases tried by a higher court can be tried by a lower court or vice versa (a
+standard example is the variation of pecuniary limits of the courts). Similarly while constituting
+tribunals, the legislature can prescribe the qualifications/eligibility criteria. The same is however
+subject to judicial review. If the court in exercise of judicial review is of the view that such
+tribunalisation would adversely affect the independence of the judiciary or the standards of the
+judiciary, the court may interfere to preserve the independence and standards of the judiciary. Such
+an exercise will be part of the checks and balances measures to maintain the separation of powers
+and to prevent any encroachment, intentional or unintentional, by either the legislature or by the
+executive.
+18. In Rojer Mathew (supra), another Constitution Bench dealt with the challenge made to the
+constitutional validity of Part XIV of Finance Act, 2017 and Rules made thereunder and held that
+whenever Parliament decides to divest the traditional courts of their jurisdiction and transfer the
+Indian Kanoon - http://indiankanoon.org/doc/178490705/ 10The Directorate Of Enforcement vs M/S Karvy Realty India Ltd. on 12 February, 2024
+same to other analogous court/tribunal, the qualification and acumen of member in such a tribunal
+must be commensurate with that of court from which adjudicatory function is transferred.
+19. Thus, it is evident that whenever the traditional Court is divested of its jurisdiction and the same
+is transferred to any other analogous Courts/tribunal, the qualification and acumen of such a
+member in the tribunal must be commensurate with that of the court from which such an
+adjudicatory function is transferred. In the instant case, it is noteworthy that Adjudicating Authority
+is neither a tribunal constituted under Article 323A or under 323B of the Constitution of India.
+None of the adjudicatory functions which are being performed by the Court had been transferred to
+the Adjudicating Authority.
+20. It is also pertinent to mention that against an order passed under Section 8 of PMLA, an appeal
+is provided under Section 25(1) of PMLA before the appellate authority which is presided over by a
+retired Chief Justice of a High Court. Against the order passed in an appeal, a further appeal lies
+before the High Court under Section 42 of PMLA. Thus, sufficient checks and balances have been
+provided under PMLA.
+21. In International Association for Protection of Intellectual Property (India Group) vs. Union of
+India 16, provisions of Sections 84 and 85 of the Trademarks Act, 1999 were challenged on the
+ground that technical member who has no judicial background cannot act as Chairperson of the
+authority in his absence and pass quasi-judicial orders adjudicating the dispute. The Supreme Court
+repelled the challenge and held that technical members are the persons having practical experience.
+Therefore, the contention that the technical members cannot function without a Chairperson is
+unsustainable. In the absence of any provision in PMLA that function under Section 8 of PMLA
+conferred on the Adjudicating Authority have to be performed by Adjudicating Authority having a
+member of experience in the field of law only, no such inference can be drawn. For yet another
+reason, it is required to be held so.
+22. It is well settled rule of statutory interpretation that the courts should strongly lean against any
+construction which reduces the statutory provision to a futility (see AIR OnLine 2019 SC 157 : LL
+2021 SC 84 Tinsukhia Electric Supply Company Limited vs. State of Assam 17). In Mukund
+Dewangan vs. Oriental Insurance Company Limited 18, it has been held that every word and
+expression which the legislature uses has to be given its proper and effective meaning as the
+legislature does not use an expression without purpose and meaning. Therefore, the principle that
+the statute must be read as a whole is equally applicable to different parts of the same section.
+Section 6(2) of PMLA provides that an Adjudicating Authority shall consist of a Chairperson and
+two other persons. However, various sub-sections of Section 6 of PMLA have to be read in
+conjunction. Section 6(5)(a) provides that jurisdiction of Adjudicating Authority may be exercised
+by the Benches thereof, whereas Section 6(5)(b) empowers the Chairperson of Adjudicating
+Authority to constitute the Benches consisting of one or two members. Section 6(7) of PMLA
+provides that if a Chairperson or a member during the course of hearing feels that matter should be
+heard by a Bench of two members, he/she may transfer the matter to a Bench consisting of two
+members.
+Indian Kanoon - http://indiankanoon.org/doc/178490705/ 11The Directorate Of Enforcement vs M/S Karvy Realty India Ltd. on 12 February, 2024
+17 (1989) 3 SCC 709 18 (2017) 14 SCC 663
+23. Thus, powers under Section 6 can be exercised by an Adjudicating Authority comprising single
+member. Therefore, the proposition that powers under Section 8 of PMLA can be exercised by the
+Adjudicating Authority comprising only from member in the field of law does not deserve
+acceptance as the same would render provisions of Section 6(5) and 6(7) of PMLA nugatory and
+ineffective.
+24. Insofar as decision in Utility Users' Welfare Association (supra), on which reliance has been
+placed, it is noteworthy that the Supreme Court in aforesaid decision dealt with Section 86(1)(f) of
+the Electricity Act, 2013 and held that Commission has the option of adjudicating the disputes
+between the licensees and generating companies or refer the same to arbitration. In the aforesaid
+context, the Supreme Court dealt with the issue whether the State Regulatory Commission
+constituted under Electricity Act which necessarily performs the function of adjudication is required
+to have one member who was or is holding a judicial office or is a person possessing professional
+qualification with substantial experience in the practice of law. The aforesaid decision is of no
+assistance to the respondents.
+25. It is also pertinent to note that the validity of Sections 6(2), 6(3)(a)(ii) and 6(5)(b) of PMLA was
+challenged before the Madras High Court. A Division Bench of Madras High Court in Pay Perform
+India Private Limited vs. the Union of India (judgment dated 31.01.2024 passed in W.P.No.12925 of
+2023 and batch) has upheld the validity of the aforesaid provisions and has held that composition of
+Adjudicating Authority in the absence of judicial officer is not bad in law. A Division Bench of
+Calcutta High Court in R.P.Infosystems Limited (supra) has also held that Adjudicating Authority
+can comprise of a single member bench. We are in agreement with the view taken by the Division
+Benches of Madras High Court and Calcutta High Court.
+26. For the aforementioned reasons, the order dated 13.02.2023 passed by the learned Single Judge
+in I.A.No.1 of 2022 in W.P.No.41133 of 2022 is set aside.
+27. In the result, the appeal is allowed.
+Miscellaneous applications pending, if any, shall stand closed. However, there shall be no order as to
+costs.
+______________________________________ ALOK ARADHE, CJ
+______________________________________ ANIL KUMAR JUKANTI, J 12.02.2024
+Note: LR copy be marked.
+(By order) Pln
+Indian Kanoon - http://indiankanoon.org/doc/178490705/ 12

@@ -1,0 +1,665 @@
+Metadata: id=>91
+name=>Commissioner Of Income Tax Ii vs M S Punjab State Forest Development on 4 October 2013
+date=>4 October 2013
+court=>HIGH COURT OF PUNJAB
+link=>http://indiankanoon.org/doc/39447692/
+-----
+Content: Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+Commissioner Of Income Tax-Ii vs M/S Punjab State Forest
+Development ... on 4 October, 2013
+Author: Ajay Kumar Mittal
+Bench: Ajay Kumar Mittal, Jaspal Singh
+ITA No. 442 of 2009 -1-
+IN THE HIGH COURT OF PUNJAB & HARYANA AT
+CHANDIGARH
+ITA No. 442 of 2009 (O&M)
+Date of Decision: 04.10.2013
+Commissioner of Income Tax-II, Chandigarh
+....Appellant.
+Versus
+M/s Punjab State Forest Development Corporation Ltd.
+...Respondent.
+CORAM:- HON'BLE MR. JUSTICE AJAY KUMAR MITTAL.
+HON'BLE MR. JUSTICE JASPAL SINGH.
+PRESENT: Ms. Urvashi Dhugga, Advocate for the appellant.
+Ms. Radhika Suri, Advocate for the respondent.
+AJAY KUMAR MITTAL, J.
+1. This order shall dispose of two appeals bearing ITA Nos. 660 of 2008 and 442 of 2009 as
+according to the learned counsel for the parties the questions of law therein are identical. For
+brevity, the facts are being taken from ITA No. 442 of 2009.
+2. ITA No. 442 of 2009 has been preferred by the revenue under Section 260A of the Income Tax
+Act, 1961 (hereinafter referred to as "the Act") against the order dated 26.3.2009 passed by the
+Income Tax Appellate Tribunal, Chandigarh Bench "B", Chandigarh (in short "the Tribunal") in ITA
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 1Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+No. 693/Chandi/2008 relating to the assessment year 2005-06, (Annexure A-3) claiming the
+following substantial questions of law:-
+"(1) Whether on the facts and circumstances of the case and in law, the Hon'ble ITAT
+was correct in deleting the addition of Rs.3,33,22,619/- on account of unpaid royalty
+and unpaid interest on royalty made by the Assessing Officer by invoking the
+provisions of Section 43B(a) of Income Tax Act?
+(2) Whether on the facts and circumstances of the case and in law, the order of
+Hon'ble Tribunal is perverse in following the judgment of Apex Court in Kesoram
+Industries Ltd., 266 ITR 721(SC) that royalty is not tax and directing the Assessing
+Officer to delete the disallowance made u/s 43B of the Act, ignoring the crucial issue
+that this judgment no where decides that royalty is not covered u/s 43B of the
+Income-tax Act and also ignoring the fact that section 43B(a) not only includes tax
+but also any sum payable by way of duty, cess or fee by whatever named called?"
+3. Briefly stated, the facts necessary for adjudication of the present appeal as narrated therein are
+that the assessee is a Corporation set up by the Punjab Government for harvesting of trees and filed
+its return on 30.10.2005 for the assessment year 2005-06 declaring income from business and
+profession at `1,28,25,590/-. The said return was processed under Section 143 (1) of the Act on
+17.1.2006. The case was selected for scrutiny and notice under Section 143(2) of the Act was served
+on the assessee on 26.10.2006. Notice under Section 142(1) along with questionnaire was issued on
+22.6.2007 and thereafter another notice was issued and served on the assessee. In pursuance
+thereto, reply was filed. The Assessing Officer on examining the records, vide order dated
+10.12.2007 (Annexure A-1) made addition of `3,33,22,619/- under Section 43B(a) of the Act on
+account of unpaid royalty to the Forest Department, Punjab. Feeling aggrieved, the assessee filed an
+appeal before the Commissioner of Income Tax (Appeals) [for brevity "the CIT(A)"] who vide order
+dated 30.6.2008 (Annexure A-2) sustained the addition made by the Assessing Officer. Still
+dissatisfied, the assessee took the matter before the Tribunal by way of appeal. The Tribunal vide
+order dated 26.3.2009 (Annexure A-3) allowed the appeal. Hence, the present appeal by the
+revenue.
+4. Learned counsel for the appellant-revenue submitted that the royalty which was payable by the
+assessee-respondent to the Forest Department under Indian Forest Act, 1927 (in short the "1927
+Act") was statutory impost as distinguished from contractual liability. Section 43B(a) of the Act was
+amended by Finance Act, 1988 w.e.f. 1.4.1989 whereby the words, "cess or fee, by whatever name
+called" were added. The royalty payable by the assessee to the Forest Department is a statutory levy
+which constitutes "cess or fee by whatever name called, under any law for the time being in force", in
+terms of Section 43B(a) of the Act and the same having not been paid prior to the filing of the return
+was not deductible. Section 9(vi) Explanation 2 of the Act was referred to show the meaning of the
+term 'Royalty' under the Act. Reference was also made to Prem's Judicial Dictionary, and Black's
+Law Dictionary which define the term "royalty". To substantiate that the royalty paid for purchase of
+standing trees by the assessee- Corporation is a statutory impost and not contractual liability,
+learned counsel for the revenue drew support from the following constitutional and statutory
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 2Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+provisions:-
+(a) Articles 366(28) and 298 of Constitution of India;
+(b) Entry 17A, 43 and 47 of Concurrent List III of Schedule VII of the Constitution of
+India;
+(c) Preamble and Sections 39, 40, 50 read with Sections 32, 82 of Indian Forest Act,
+1927;
+5. For distinction between tax and fee, the judgment of the Hon'ble Supreme Court in Om Parkash
+Aggarwal v. Giri Raj Kishori and others (1987) 164 ITR 376 (SC), was cited. Referring to Sections 28
+and 42 of the Rajasthan Excise Act, 1950, it was pleaded that the judgment of Rajasthan High Court
+in Commissioner of Income Tax v. Udaipur Distillary Co. Ltd. (2004) 268 ITR 305 (Raj), was not
+applicable as there is no trading by the State and in such an eventuality, the royalty which was
+charged by the respondent-Corporation could not be said to be the sale price. The judgment in
+Commissioner of Income Tax v. McDowell & Co. Limited (2009) 314 ITR 167 was also not
+applicable. The judgment of the Apex Court reported in State of West Bengal v. Kesoram Industries
+Limited, (2004) 266 ITR 721 (SC) was distinguishable and the decision of the Tribunal based on it
+was unsustainable.
+6. Reliance was placed upon the following judgments:-
+(I)Gorelal Dubey v. Commissioner of Income Tax (2001) 248 ITR 3 (SC);
+(II)Commissioner of Income Tax. v. Gorelal Dubey, (1998) 232 ITR 246 (MP);
+(III)Star Paper Mills Ltd. v. Commissioner of Income Tax (2001) 252 ITR 337 (Cal);
+(IV)Commissioner of Income Tax v. Popular Minerals (2002) 258 ITR 593 (Raj);
+(V)Commissioner of Income Tax v. Nathan Mining Works (2005) 274 ITR 149
+(Mad);
+(VI)Commissioner of Income Tax v. Gujarat Industrial Products (2005) 274 ITR 635
+(Guj);
+(VII)Commissioner of Income Tax v. Gujarat State Forest Development (2007) 288
+ITR 28 (Guj);
+7. On the other hand, learned counsel for the assessee contended that it was sale simpliciter and the
+royalty paid was price of the trees. Under the Sale of Goods Act, 1930, sale of standing timber is sale
+of goods as held by the Hon'ble Supreme Court in State of Maharashtra and others v. Champalal
+Kishanlal Mohota AIR 1971 SC 908. According to learned counsel, no provision of 1927 Act is
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 3Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+attracted. Sections 32 and 82 of 1927 Act are pari materia to Sections 13 and 25 of Mines and
+Minerals Act, 1957 (in short "the 1957 Act") and the Hon'ble Supreme Court in Kesoram Industries
+Ltd.'s case (supra) has held that royalty is not a statutory tax. Even Sections 39, 40 and 50 of the
+1927 Act are also not attracted. Reference was made to the following judgments:-
+(i)India Cement Ltd. v. State of Tamil Nadu, (1991) 188 ITR 690(SC);
+(ii)Commissioner of Income Tax v. McDowell and Co. Ltd. (2009) 314 ITR 167.
+(iii)Amar Chandra Chakraborty v. Collector of Central Excise, AIR 1972 SC 1863;
+(iv)Housing Board of Haryana v. Haryana Housing Board Employees' Union and
+others, AIR 1996 SC 434;
+8. Elaborating her submissions, learned counsel for the assessee reiterated that in view of the
+judgments of the Apex Court in India Cement Ltd. and Kesoram Industries Ltd.'s cases (supra), the
+royalty payable by the assessee-Corporation to Punjab Forest Department is not a 'tax' and that the
+provisions of Section 43B of the Act are not attracted. Circular No. 528 dated 16.12.1988 uses the
+expression 'fee' only which refers to a statutory impost and since the royalty payable by the assessee-
+Corporation is representing only cost of trees paid by the assessee to the State Government, it
+cannot be construed as a statutory impost. Reference was also made to Articles 366(28) and 298 of
+the Constitution of India. She submitted that the sale of trees by the Forest Department, therefore,
+did not show exercising of any power to impose tax by the State Government but only an exercise of
+its executive power to carry on trade or business and, thus, the payment made by the assessee
+thereunder does not fall within the ambit of Section 43B of the Act. It was further submitted that the
+contention of the revenue that payment is a statutory payment under the 1927 Act read with Entry
+Nos. 17A and 47 of List-III Concurrent list of the Constitution of India is also misplaced. In support,
+she referred to the provisions of the 1927 Act to contend that there is no charging section in the said
+Act to collect any tax. According to her, the 1927 Act seeks to consolidate the law relating to forests,
+the transit of forest-produce and duty leviable on timber and forest-produce. Furthermore, once the
+trees are sold by the Forest Department, it cannot be suggested that sum which is paid as royalty is a
+statutory impost but infact the sum paid is out of a contractual obligation. Finally, it was urged that
+the judgments relied upon by the learned counsel for the revenue are inapplicable to the case of the
+assessee-Corporation.
+9. We have heard learned counsel for the parties and perused the record with their able assistance.
+10. On the basis of submissions made by learned counsel for the parties, the issue that arises for
+consideration is whether or not royalty to be paid by the assessee to the Forest Department for
+severing trees would fall in the expression 'any sum payable by way of duty, cess or fee by whatever
+name called under any law for the time being in force' and is covered by Section 43B(a) of the Act,
+for which the following aspects require to be delved into:-
+a) the scope of Section 43B(a) of the Act after its amendment by Finance Act, 1988;
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 4Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+b) the meaning of the word 'royalty' and whether it amounts to tax or not?
+c) the nature of payment made by the assessee - Corporation to the Forest
+Department.
+d) whether in the facts and circumstances, the Tribunal was right in holding that
+provisions of Section 43B(a) of the Act were not attracted?
+11. The provision in dispute is Section 43B, whose relevant portion, as amended by Finance Act,
+1988, reads as under:-
+"43B. Notwithstanding anything contained in any other provision of this Act, a
+deduction otherwise allowable under this Act in respect of ---
+(a) any sum payable by the assessee by way of tax, duty cess or fee, by whatever
+named called, under any law for the time being in force, or XX XX XX XX XX XX
+shall be allowed (irrespective of the previous year in which the liability to pay such
+sum was incurred by the assessee according to the method of accounting regularly
+employed by him) only in computing the income referred to in Section 28 of that
+previous year in which such sum is actually paid by him."
+12. From the perusal of the above, it will be seen that said Section provides that notwithstanding
+anything contained in any other provision of the Act, a deduction otherwise allowable under the Act
+in respect of any sum payable by the assessee by way of tax, duty, cess or fee, by whatever name
+called, under any law for the time being in force shall be allowed in the assessment year in which,
+the sum had been actually paid.
+13. It would be appropriate to state that words "cess or fee, by whatever name called" have been
+inserted in Section 43B(a) of the Act by an amendment made by Finance Act, 1988. Circular No. 528
+dated 16.12.1988 issued by the Central Board of Direct Taxes (CBDT) reported in (1989) 176 ITR 154
+(Statutes) at page 165 has explained the scope and purport behind the aforesaid amendment as
+under:-
+"The words 'tax' and 'duty' have been the subject matter of judicial interpretation and
+there is a controversy as to whether they cover statutory levies like cess, fees, etc.
+Some appellate authorities have held that such cess or fees cannot be the expression
+'tax' or 'duty'. Such an interpretation is against the legislative intent and, therefore, by
+way of clarification, an amendment has been carried out to provide that cess or fees
+by whatever name called, which have been imposed by any statutory authority,
+including a local authority, will be allowed as a deduction only if these are actually
+paid."
+14. A plain reading of the above circular suggests that the scope of the amendment is limited
+inasmuch as it seeks to state that ambit of Section 43B(a) of the Act extends to all statutory levies by
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 5Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+whatever name called whether tax or duty or cess or fee.
+15. Rajasthan High Court in Udaipur Distillary Co. Ltd's case (supra), analysing the scope of Section
+43B(a) of the Act after its amendment with effect from 1.4.1989 held that the said provision
+embraces within its ambit "tax, duty, cess or fee or by whatever name called." The expression "by
+whatever name called"
+derives its colour from preceding words "tax, duty, cess or fee".
+This has been used ejusdem genesis and is applicable on the basis that they must fall within the
+genus taxation" to which the expression "tax, duty, cess or fee" as a group denotes. In other words, it
+has to be compulsory exaction in the exercise of the State's power of taxation where levy and
+collection is duly authorized by law as distinct from an amount chargeable on principle as
+consideration payable under a contract. The relevant observations read thus:-
+"It would be pertinent to note that the expression now used in Section 43B(a) is 'tax,
+duty, cess or fee or by whatever name called'. It denotes that items enumerated
+constitute species of the same genus and the expression 'by whatever name called'
+which follows preceding words 'tax', 'duty', 'cess' or 'fee' has been used ejusdem
+generic to confine the application of the provisions not on the basis of mere
+nomenclature, but notwithstanding the name, they must fall within the genus
+'taxation' to which the expression 'tax', 'duty', 'cess' or 'fee' as a group of its specie
+belong, viz. compulsory exaction in the exercise of the State's power of taxation where
+levy and collection is duly authorized by law as distinct from an amount chargeable
+on principle as consideration payable under a contract. The principle of statutory
+interpretation is well known and well settled that when particular words pertaining to
+a class, category or genus are followed by general words, the general words are
+construed a limited to things of the same kind as those specified. Thus, rule is known
+as the rule of ejusdem generic. It applies when,
+(i) the statute contains an enumeration of specific words;
+(ii) the subjects of the enumeration constitute a class or category;
+(iii) that class or category is not exhausted by the enumeration;
+(iv) the general term follows the enumeration;
+and
+(v) there is no indication of a different legislative intent.
+Reference in this connection may be made to Amar Chandra Chakraborty v. Collector of Central
+Excise, AIR 1972 SC 1863 and Housing Board of Haryana v. Haryana Housing Board Employee'
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 6Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+Union (1996) 89 FJR 283; AIR 1996 SC 434.
+The tax', 'duty', 'cess' or 'fee' constituting a class, denotes various kinds of imposts by the State in its
+sovereign power of taxation to raise revenue for the State. Within the expression of each specie each
+expression denotes a different kind of impost depending on the purpose for which they are levied.
+This power can be exercised in any of its manifestations only under any law authorizing levy and
+collection of tax as envisaged under Article 265 which uses only one expression that no 'tax' shall be
+levied and collected except authorized by law.
+It in its elementary meaning conveys that to support a tax, legislative action is essential it cannot be
+levied and collected in the absence of any legislative sanction by exercise of executive power of the
+State under Article 73 by the Union or Article 162 by the State. Under Article 366(28) 'taxation' has
+been defined to include the imposition of any tax or impost whether general or local or special and
+tax shall be construed accordingly. 'Impost' means compulsory levy. The well known and well settled
+characteristic of "tax" in its wider sense includes all imposts. Imposts in the context have the
+following characteristics:
+(i) the power to tax is an incident of
+sovereignty;
+(ii) "law" in the context of article 265 means an
+Act of Legislature and cannot comprise an executive order or rule without express statutory
+authority;
+(iii) the term "tax" under article 265 read with article 366(28) includes imposts of every kind, viz.,
+tax, duty, cess or fees;
+(iv) As an incident of sovereignty and in the nature of compulsory exaction, a liability founded on
+principle of contract cannot be a "tax" in its technical sense as an impost, general, local or special."
+It was concluded that the State Government was charging/receiving the liquor bottling fee from the
+assessee as consideration for parting with its exclusive privilege to bottle liquor, whether as part of
+manufacturing process or for facilitating its sale. It was further noticed that it did not alter its
+character as the price charged by the State for parting with its exclusive privilege to deal in potable
+liquor was not by way of fee or impost as a facet of taxation as defined in article 366(28) of the
+Constitution. Where the assessee was maintaining its books of account on the mercantile system,
+the claim of deduction of expenses incurred by it by way of bottling charges was exigible during the
+accounting period when it became payable to the State Government. Such liability was allowable
+deduction as an expenditure in the year in which it was incurred even if actual payment was
+deferred. Section 43B was not attracted in such case. The Hon'ble Apex Court affirmed the aforesaid
+judgment by dismissing the appeal filed by the revenue as reported in Mc Dowell & Company's case
+(Supra).
+16. Now reference may be made to the meaning of the term 'Royalty' in various dictionaries.
+According to the learned counsel for the revenue and the assessee, the following would be relevant
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 7Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+which reads thus:-
+Prem's judicial Dictionary:
+"Royalties are payments which the Government may demand for the appropriation of
+minerals, timber or other property belonging to the Government. Two important
+features of royalty have to be noticed, they are, that the payment made for the
+privilege of removing the articles is in proportion to the quantity removed, and the
+basis of the payment is an agreement."
+Black's Law Dictionary "Royalty: A share of the product or profit from real property reserved by the
+grantor of a mineral lease, in exchange for the lessee's right to mine or drill on the land.
+Mineral royalty: A right to a share of income from mineral production."
+Wharton's Law Lexicon "Royalty, payment to a patentee by agreement on every article made
+according to his patent; or to an author by a publisher on every copy of his book sold: or to the
+owner of minerals for the right of working the same on every ton or other weight raised."
+Mozley and Whiteley's Law Dictionary "A pro rata payment to a grantor or lessor, on the working of
+the property leased, or otherwise on the profits of the grant of lease. The word is especially used in
+reference to mines, patents and copyrights." Stroud's Judicial Dictionary "the word 'royalties'
+signifies, in mining leases, that part of the reddendum which is variable, and depends upon the
+quantity of minerals gotten or the agreed payment to a patentee on every article made according to
+the patent. Rights or privileges for which remuneration is payable in the form of a royalty."
+17. Explanation 2 of section 9(vi) the Act also defines 'royalty' as under :
+Explanation 2.--For the purposes of this clause, "royalty" means consideration
+(including any lump sum consideration but excluding any consideration which would
+be the income of the recipient chargeable under the head "Capital gains") for--
+(i) the transfer of all or any rights (including the granting of a licence) in respect of a
+patent, invention, model, design, secret formula or process or trade mark or similar
+property ;
+(ii) the imparting of any information concerning the working of, or the use of, a
+patent, invention, model, design, secret formula or process or trade mark or similar
+property ;
+(iii) the use of any patent, invention, model, design, secret formula or process or
+trade mark or similar property ;
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 8Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+(iv) the imparting of any information concerning technical, industrial, commercial or
+scientific knowledge, experience or skill ;
+(iva) the use or right to use any industrial, commercial or scientific equipment but
+not including the amounts referred to in section 44BB;
+(v) the transfer of all or any rights (including the granting of a licence) in respect of
+any copyright, literary, artistic or scientific work including films or video tapes for use
+in connection with television or tapes for use in connection with radio broadcasting,
+but not including consideration for the sale, distribution or exhibition of
+cinematographic films ; or
+(vi) the rendering of any services in connection with the activities referred to in
+sub-clauses (i) to (iv), (iva) and(v)."
+18. From the above, particularly with reference to Prem's Judicial Dictionary and other Law
+Dictionaries, it emerges that royalty is the payment made for the minerals extracted. Royalties are
+payments which the Government may demand for the appropriation of minerals, timber or other
+property belonging to the Government. Two important features of royalty for removing the articles
+are - (i) the payment is in proportion to the quantity removed: and (ii) the basis of the payment is an
+agreement.
+19. Adverting to the issue, whether royalty amounts to tax or not, it may be observed that in India
+Cement Ltd's case (supra), the Hon'ble Supreme Court held that 'royalty' is a tax. In the case of
+Gorelal Dubey's case (supra), the Hon'ble Supreme Court following the judgment of Constitutional
+Bench in the case of India Cement Ltd.'s case (supra) held that for the purpose of Section 43B(a)
+royalty is a tax and, therefore, unpaid royalty for extraction or limestone cannot be deducted on the
+basis of a mere provision. The deduction would be permissible in the year of payment. Later on a
+Constitution Bench of the Hon'ble Supreme Court had the occasion to consider the issue in Kesoram
+Industries Ltd's case (supra), wherein it was held as under:-
+"We Would like to avail this opportunity for pointing out an error, attributable either
+to a stenographer's devil or to sheer inadvertence, having crept into the majority
+judgment in India Cement Ltd.'s case (supra). The error is apparent and only needs a
+careful reading to detect. We feel constrained - rather duty-bound - to say so, lest a
+reading of the judgment containing such an error - just an error of one word - should
+continue to cause the likely embarrassment and have adverse effect on the
+subsequent judicial pronouncements which would follow India Cement Ltd.'s case,
+feeling bound and rightly, by the said judgment having the force of pronouncement
+by seven-Judges Bench. Para 34 of the report reads as under :
+"In the aforesaid view of the matter, we are of the opinion that royalty is a tax, and as
+such a cess on royalty being a tax on royalty, is beyond the competence of the State
+legislature because Section 9 of the Central Act covers the field and the State
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 9Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+legislature is denuded of its competence under Entry 23 of List II. In any event, we
+are of the opinion that cess on royalty cannot be sustained under Entry 49 of List II
+as being a tax on land. Royalty on mineral rights is not a tax on land but a payment
+for the user of land."
+20. It was further held as under:-
+"In India Cement (vide para 31 [1990] 1 SCC 12) decisions of four High Courts
+holding 'Royalty is not tax' have been noted without any adverse comment. Rather,
+the view seems to have been noted with tacit approval. Earlier (vide para 21 [1990] 1
+SCC 12) the connotative meaning of royalty being 'share in the produce of land' has
+been noted. But for the first sentence (in para 34 [1990] 1 SCC 12 ) which we find to
+be an apparent error, no where else has the majority judgment held royalty to be a
+tax."
+How the abovenoted inadvertent error in India Cement has resulted into throwing on the loop line
+the movement of later case law on this point may be noticed. In State of M.P. v. Mahalaxmi Fabric
+Mills Ltd. and others 1995 Suppl. (1) SCC 642 (decision by a Bench of three learned Judges) and
+Saurashtra Cement and Chemicals Industries and Anr. etc. etc. v. Union of India and Ors. - (2001) 1
+SCC 91 (decision by a Bench of two learned Judges) para 34 (from SCC) in India Cement has been
+quoted verbatim and dealt with. In Mahalaxmi Fabric Mills Ltd. and Ors.'s case (supra), the court
+noticed several dictionaries defining royalty and also the decisions of High Courts available and
+stated that traditionally speaking royalty is an amount which is paid under contract of lease by the
+lessee to the lessor, namely, the State Governments concerned and it is commensurate with the
+quality of minerals extracted. But then (vide para 12), the Court felt bound by the view taken in
+India Cement , reiterated in Orissa Cement, to hold that royalty is a tax. The point that there was
+apparently a 'typographical error' in para 34 in India Cement was specifically raised but was
+rejected. In Saurashtra Cement and Chemicals Industries and Anr. (supra) too the Court felt itself
+bound by the decision in Mahalaxmi Fabric Mills Ltd. and Ors. (supra), backed by India Cement,
+and therefore held royalty to be tax.
+We have clearly pointed out the said error, as we are fully convinced in that regard and feel
+ourselves obliged constitutionally, legally and morally to do so, lest the said error should cause any
+further harm to the trend of jurisprudential thought centering around the meaning of 'royalty'. We
+hold that royalty is not tax. Royalty is paid to the owner of land who may be a private person and
+may not necessarily be State. A private person owning the land is entitled to charge royalty but not
+tax. The lessor receives royalty as his income and for the lessee the royalty paid is an expenditure
+incurred. Royalty cannot be tax. We declare that even in India Cement it was not the finding of the
+Court that royalty is a tax. A statement caused by an apparent typographical or inadvertent error in
+a judgment of the Court should not be misunderstood as declaration of such law by the Court. We
+also record, our express dissent with that part of the judgment in Mahalaxmi Fabric Mills Ltd. and
+Ors. which says (vide para 12 of SSC report) that there was no 'typographical error' in India Cement
+and that the said conclusion that royalty is a tax logically flew from the earlier paragraphs of the
+judgment."
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 10Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+21. It is evident from the latter Constitution Bench decision of the Hon'ble Supreme Court in
+Kesoram Industries' case (supra) that the royalty is not a tax.
+22. Drawing a distinction between "royalty and "tax", a Division Bench of the High Court of Punjab
+and Haryana in Dr. Shanti Saroop Sharma v. State of Punjab, AIR 1969 P&H 79, in para 45 held as
+under:-
+" 45.....So, if a person is merely in occupation of land which contains minor minerals,
+he is not liable to pay any royalty , but it is only when he holds a mining lease and by
+virtue of that extracts one or more minor minerals that he is called upon to pay
+royalty to the Government where the lease is in respect of the land in which minor
+minerals vest in the Government. Royalty thus has its basis in the contract between
+the grantor and the holder of a mining lease, and it is not a compulsory charge for
+holding such lease but payment to the owner of the minerals for the privilege of
+extracting the minor minerals computed on the basis of the quantity actually
+extracted and removed from the leased area. Accordingly royalty is not of the same
+nature as a tax or a fee. It is true that it is not a fee as it is not payment for the
+services rendered, but if we exclude it from that category, it does not follow that it
+must be classed as tax. It is in essence the consideration which the owner of a
+property may receive from those whom he allows the use of his property for
+exploitation of the mineral resources contained therein. In that view of the matter, it
+is more akin to rent or compensation payable to an owner by the occupier or lessee of
+land for its use or exploitation of the resources contained therein. Merely because the
+provision with regard to royalty is made by virtue of the rules relating to the
+regulation of the mining leases and a uniform rate is prescribed. It does not follow
+that it is a compulsory exaction in the nature of tax or impost."
+23. Following the aforesaid decision of this Court in Dr. Shanti Saroop Sharma's case (supra), the
+Division Bench of the Gujarat High Court in Saurashtra Cement and Chemical Industries Limited v.
+Union of India, AIR 1979 Guj 180 has emphatically laid down:
+"royalty may not be a fee but it is not a tax. S.9 itself elaborates the nature of royalty
+which can be levied. It, inter alia, provides that the holder of a mining lease shall pay
+royalty in respect of any mineral removed or consumed by him or by his agent,
+manager, employee, contractor or sub lessee from the leased area. This elaboration in
+Section 9 itself clearly shows that royalty is a payment for the mineral which is
+removed or consumed by the holder of a mining lease. The sub soil property
+ordinarily belongs to the Union. When mining lease is granted in favour of a person,
+he wins minerals from a particular area by application of labour and by spending on
+winning the minerals. The minerals themselves - the property beneath the soil -
+belong to the Union. When the holder of a mining lease removes these minerals or
+consumes them, he can do so only on payment of its price or value. Therefore,
+expression "royalty" used in section 9 appears to us to be a share which the Union
+claims in the minerals which have been won from the soil by the lessee and which
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 11Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+otherwise belong to it. No holder of a mining lease can say that what it lying beneath
+the soil becomes his own property merely by virtue of the fact that because of mining
+lease, he has won those minerals. Basically and fundamentally it is the property of the
+Union which is brought on the surface from beneath the soil by the lessee. In
+consideration of the labour and the enterprise which the holder of a mining lease
+applies for winning those minerals from sub soil strata, he takes away a part; while
+the Union, the owner of those minerals, takes away another part. Therefore, in our
+opinion, royalty is a share in such minerals and not a tax in the form of a compulsory
+exaction. It is not compulsory because anyone who applies for a mining lease to win
+minerals for being removed or consumed must pay its price. If he does not want to
+pay the price, he may not apply for a mining lease. Clause (28) of Article 366 defines
+the expression "taxation" so as to include imposition of any tax or impost, whether
+general or local or special, and states that "tax" shall be construed accordingly.
+Royalty which is a share of the owner of the minerals - the Union - won by the lessee
+from the soil with the authority of the Union can never be said to be an imposition on
+the holder of a mining lease. In Dr. Shanti Saroop Sharma v.State of Punjab, AIR
+1969 Punjab and Haryana 79, the question as to the true nature and character of
+royalty arose in the context of this very Act and in the context of R.20 of Punjab
+Minor Mineral Concession Rules. The view which the Punjab High Court has taken in
+this behalf is that royalty is neither a tax nor a fee but is more akin to rent. In that
+decision, several definitions of royalty have been examined by the Punjab High Court.
+In Wharton's Law Lexicon, Fourteenth Edition, royalty is stated to be payment to the
+owner of minerals for the right of working the same on every ton or other weight
+raised. In Stroud's Judicial Dictionary of Words and Phrases, Third Edition, it has
+been stated to be the reddendum, which is variable and which depends upon the
+quantity of minerals gotten. In Mozley and Whiteley's Law Dictionary (7th Edition), it
+has been stated:-
+"A pro rata payment to a grantor or lessor on the working of the property leased or
+otherwise on the profits of the grant or lease".
+In Corpus Juris Secundum, Vol.77, "Royalty" has been stated to be a payment made to the
+landowner by the lessee of a mine in return for the privilege of working it. It is, therefore, clear that
+royalty is the price paid for the privilege of exercising the right to explore the minerals. It may be the
+whole or a part of the consideration of a mining lease. In our opinion, therefore, royalty specified in
+S.9 is neither a tax nor a fee but is a payment made by the lessee to the lessor (in case of mining
+lease) for removing or consuming the sub soil property which the lessee has won by the application
+of his labour and enterprise..."
+24. For determining the nature of payment made by the assessee-Corporation to the Forest
+Department, it would be apposite to examine various constitutional and statutory provisions to
+which reference has been made by learned counsel for the parties during the course of arguments.
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 12Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+25. Article 366(28) of the Constitution of India defines "taxation" to mean any tax or impost,
+whether general or local or special. 'Impost' is a compulsory levy. Article 298 confers power on the
+Union and the State to carry on any trade or business and to enter into business contracts during the
+course of such trade or business. Further, the reference made by the parties to entry No.17A read
+with entries 43 and 47 of Concurrent List III of 7th Schedule is only relevant to understand the field
+of legislation covered under the 1927 Act, but it cannot be understood as authorizing levy of a fee in
+the nature of a tax imposed by the State.
+26. Referring to the statutory provisions of the 1927 Act, on which reliance had been placed by
+learned counsel for the revenue, the relevant provisions may be noticed:-
+Preamble "An Act to consolidate the law relating to forests, the transit of forest
+produce and the duty leviable on timber and other forest produce."
+Section 32:
+"32. Power to make rules for protected forests.The State Government may make rules
+to regulate the following matters, namely:
+(a) the cutting, sawing, conversion and removal of trees and timber, and the
+collection, manufacture and removal of forest-produce, from protected forests;
+(b) the granting of licences to the inhabitants of towns and villages in the vicinity of
+protected forests to take trees, timber or other forest-produce for their own use, and
+the production and return of such licences by such persons;
+(c) the granting of licences to persons felling or removing trees or timber or other
+forest-produce from such forests for the purposes of trade, and the production
+d) the payments, if any, to be made by the persons mentioned in clauses (b) and (c)
+for permission to cut such trees, or to collect and remove such timber or other
+forest-produce;
+(e) the other payments, if any, to be made by them in respect of such trees, timber
+and produce, and the places where such payment shall be made;
+(f) the examination of forest-produce passing out of such forests;
+(g) the clearing and breaking up of land for cultivation or other purposes in such
+forests;
+(h) the protection from fire of timber lying in such forests and of trees reserved under
+section 30;
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 13Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+(i) the cutting of grass and pasturing of cattle in such forests;
+(j) hunting, shooting, fishing, poisoning water and setting traps or snares in such
+forests and the killing or catching of elephants in such forests in areas in which the
+Elephants Preservation Act, 1879 (6 of 1879), is not in force;
+(k) the protection and management of any portion of a forest closed under section
+30; and
+(l) the exercise of rights referred to in section 29."
+None of the aforesaid power to make rule can be read as charging section for levy of any tax or fee or
+cess or duty by the State Legislature. Section 39 of the 1927 Act empowers the Central Government
+to impose duty on timber and other forest produce. It reads thus:-
+"39. Power to impose duty on timber and other forest- produce.
+(1) The Central Government may levy a duty in such manner, at such places and at
+such rates as it may declare by notification in the Official Gazette on all timber or
+other forest- produce--
+(a) which is produced in the territories to which this Act extends, and in respect of
+which the Government has any right;
+(b) which is brought from any place outside the territories to which this Act extends:
+(2) In every case in which such duty is directed to be levied ad valorem, the Central
+Government may fix by like notification the value on which such duty shall be
+assessed.
+(3) All duties on timber or other forest- produce which, at the time when this Act
+comes into force in any territory, are levied therein under the authority of the State
+Government, shall be deemed to be and to have been duly levied under the provisions
+of this Act.
+(4) Notwithstanding anything in this section, the State Government may, until
+provision to he contrary is made by Parliament, continue to levy any duty which it
+was lawfully levying before the commencement of the Constitution, under this
+section as then in force: Provided that nothing in this sub- section authorizes the levy
+of any duty which as between timber or other forest- produce of the State and similar
+produce of the locality outside the State discriminates in favour of the former, or
+which, in the case of timber or other forest- produce of localities outside the State,
+discriminates between timber or other forest- produce of one locality and similar
+timber or other forest- produce of another locality."
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 14Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+Section 40 deals with non-application of limit of amount chargeable as purchase money or royalty
+on any timber or other forest produce, which reads as under:-
+40. Limit not to apply to purchase-money or royalty.-Nothing in this Chapter shall be
+deemed to limit the amount, if any, chargeable as purchase-
+money or royalty on any timber or other forest- produce, although the same is levied on such timber
+or produce while in transit, in the same manner as duty is levied.
+Section 50 provides for payments to be made by claimant before timber is delivered to him in the
+following terms:-
+"50. Payments to be made by claimant before timber is delivered to him - No person
+shall be entitled to recover possession of any timber collected or delivered as
+aforesaid until he has paid to the Forest- officer or other person entitled to receive it
+such sum on account thereof as may be due under any rule made under section 51."
+Section 82 of the 1927 Act relates to 'Recovery of Money due to Government', as under:-
+"82. Recovery of money due to Government - All money payable to the Government
+under this Act, or under any rule made under this Act, or on account of the price of
+any forest- produce, or of expenses incurred in the execution of this Act in respect of
+such produce, may, if not paid when due, be recovered under the law for the time
+being in force as if it were an arrear of land- revenue."
+A combined reading of these provisions shows that they do not confer any power on the State
+Government to levy tax or fee or cess or duty. In so far power under Section 82 of the 1927 Act is
+concerned, it only authorises to enforce recovery and cannot be construed as conferring power on
+State Government to levy tax or fee or cess or duty in relation to forest produce. It is well recognized
+legal principle that power to tax has to specifically emanate from a charging section and there
+cannot be any tax by drawing inference or by implication. An amount paid by the assessee as a
+consideration for something be it mineral rights or bottling fee for right to bottle liquor which is
+vested in the State government or cutting of standing timber cannot fall within the ambit of tax,
+duty, cess or fee even though it may have a statutory origin.
+27. Consideration for severing standing trees/timber under a contract falls within the term 'sale'
+under the provisions of Sale of Goods Act, 1930 as held by Hon'ble the Supreme Court in Champalal
+Kishanlal Mohota's case (supra), in the following terms:-
+"4. The expression "sale of goods" in Entry 54 List 11 of Sch. VII of the Constitution
+has the same connotation as it has in the Sale of Goods Act, 1930. This Court in The
+State of Madras v. Gannon Dunkerley & Co. (Madras) Ltd.(1959) SCR 379 = (AIR
+1958 SC 560) observed that the expression "sale of goods" was, at the time when the
+Government Of India Act, 1935, was enacted, a term of well-recognised legal import
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 15Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+in the general law relating to sale of goods and in the legislative practice relating to
+that topic and must be interpreted in Entry 48 in List 11 in Sch. VII of the Act as
+having the same meaning as in the Sale of Goods Act, 1930 : see also Pandit Banarsi
+Das Bhanot v. The State of Madhya Pradesh, 1959 SCR 427 = (AIR 1958 SC 909). The
+expression " sale of goods" in Entry 54 in List II of Sch. VII of the Constitution has
+also the same meaning as that expression had in Entry 48 in List II of the
+Government of India Act, 1935. The State Legislature may not therefore extend the
+import of the expression " sale of goods" so as to impose, liability for tax on
+transactions which are not sales of goods within the meaning of the Sale of Goods
+Act.
+5. By Art. 366(12) of the Constitution the expression "goods" is defined as inclusive of
+"all materials, commodities and articles". That is, however an inclusive definition and
+does not throw much light on the meaning of the expression "goods". But the
+definition of "goods"
+in the Sale of Goods Act, 1930, as meaning "every kind of moveable property other than actionable
+claims and money; and includes stock and shares, growing crops, grass, and things attached to or
+forming part of the land which are agreed to be severed before sale or under the contract of sale".
+Standing timber may ordinarily not be regarded as "goods", but by the, inclusive definition given in
+s. 2(7) of the Sale of Goods Act things which are attached to the land may be the subject- matter of
+contract of sale provided that under the terms of the contract they are to be severed before sale or
+under the contract of sale.
+6. In the present case it was expressly provided that the timber agreed to be sold shall be severed
+under the contract of sale. The timber was therefore "goods" within the meaning of s. 2 (7) of the
+Sale of Goods Act and the expression "sale of goods" in the Constitution in Entry 54 List 11 having
+the same meaning as that expression has in the Sale of Goods Act, sale of timber agreed to be
+severed under the terms of the contract may be regarded as sale of goods."
+28. The distinction between tax and fee was explained by the Hon'ble Apex Court in Om Parkash
+Aggarwal's case (supra). It was noticed that a tax is a compulsory exaction of money by public
+authority for public purposes enforceable by law and is not payment for services rendered. It was
+held as under:-
+"This definition brings out in our opinion, the essential characteristics of a tax as
+distinguished from other forms of imposition which, in a general sense, are included
+within it. It is said that the essence of taxation is compulsion, that is to say, it is
+imposed under statutory power without the taxpayer's consent and the payment is
+enforced by law. The second characteristic of tax is that it is imposition made for
+public purpose without reference to any special benefit to be conferred on the payer
+of the tax. This is expressed by saying that the levy of tax is for the purposes of
+general revenue, which when collected forms part of the public revenues of the State.
+As the object of a tax is not to confer any special benefit upon any particular
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 16Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+individual, there is, as it is said no element of quid pro quo between the tax-payer and
+the public authority. Another feature of taxation is that as it is a part of the common
+burden, the quantum of imposition upon the tax- payer depends generally upon his
+capacity to pay."
+The three principal characteristics of a tax noticed by Mukherjea, J. in the above passage are:
+(i) that it is imposed under statutory power without the tax-payer's consent and the
+payment is enforced by law; (ii) that it is an imposition made for public purposes
+without reference to any special benefit to be conferred on the payer of the tax; and
+(iii) that it is a part of the common burden, the quantum of imposition upon the tax-
+payer depending generally upon the capacity of the tax payer to pay."
+29. Further, defining the scope of "fees", it was observed as follows:-
+"Coming now to fees, a "fee" is generally defined to be a charge for a special service
+rendered to individuals by some governmental agency. The amount of fee levied is
+supposed to be based on the expenses incurred by the government in rendering the
+service, though in many cases the costs are arbitrarily assessed. Ordinarily, the fees
+are uniform and no account is taken of the varying abilities of different recipients to
+pay. These are undoubtedly some of the general characteristics, but as there may be
+various kinds of fees, it is not possible to formulate a definition that would be
+applicable to all cases. ........
+If, as we hold, a fee is regarded as a sort of return or consideration for services
+rendered, it is absolutely necessary that the levy of fees should on the face of the
+legislative provision, be correlated to the expenses incurred by government in
+rendering the services."
+30. Having noticed the legal position, we now proceed to examine the factual matrix herein.
+According to the learned counsel for the assessee, the following procedure has been laid out for
+transfer of trees by the Forest department to the assessee
+- Corporation:-
+"i). The Divisional Forest Officer of the Forest Department offers the marking lists of
+the trees to be cut to the concerned Divisional Manager of the Punjab State Forest
+Dev. Corporation Limited. The marking list inter alia shows the location of trees,
+species, number of trees, volume of trees etc.
+ii) On the basis of the above referred letter the officials of the Corporation take into
+possession the trees so transferred and a statement on the possession receipt is
+prepared specifying therein the details of the species of the trees transferred no. of
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 17Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+trees transferred and the volume of trees transferred, location etc. This possession
+receipt is jointly signed by the officials of both the forest Department and the
+Corporation.
+iii) A quarterly statement called the 'joint Royalty Statement' is prepared and signed
+by the officers of both the forest Department and the corporation. A joint royalty
+statement reflects the description of the trees transferred to the corporation during
+the quarter reflecting therein the location of trees, no. of trees and the volume of
+trees, species etc. The corporation pays royalty on the basis of joint royalty statement
+after applying royalty rates fixed by the State Govt. after consultation with the officers
+of the corporation.
+iv) As per the terms and conditions fixed by the State Government for payment of
+royalty the corporation pays royalty within seven months from the date of the offer of
+the trees. The payment is made on the basis of the volume of wood and no. of trees
+included in the joint royalty statements."
+The assessee-Corporation had obtained permission to severe standing trees from the Forest
+Department against consideration to be paid to the Government. It is only the State Government
+which has given the nomenclature to the cost of trees as Royalty. The royalty is the cost of trees sold
+by the Punjab Government to the assessee - Corporation for cutting and selling after processing the
+same. The specific number, location, species and volume of trees are marked by Forest department
+which are grown by them for felling by the assessee. The assessee cannot exceed such number
+allotted to it. It is primarily the price to be paid by the assessee to the State Government for severing
+the grown trees. In this process, the State Government exercises its executive power to carry on
+trade or business and does not impose any tax or fee or cess or duty. The nature of payment by the
+assessee would fall as sale consideration. Alternatively, even as per nomenclature by the State if it is
+taken to be royalty, yet in that situation also, it cannot be said to fall within the expression "tax,
+duty, cess or fee or by whatever name called" under Section 43B(a) of the Act. In other words, the
+payment accrues or arises by virtue of contractual obligation of the assessee and not as a result of
+any statutory impost.
+31. Adverting to the judgments relied upon by learned counsel for the revenue, suffice it to notice
+that they do not help her case as these judgments were either prior to the judgment in Kesoram
+Industries Ltd.'s case (supra) or the Hon'ble Court had adjudicated the issue following judgment of
+the Apex Court in India Cement's case (supra) without considering the impact of Kesoram
+Industries Limited's case (supra) on the factual matrix involved therein.
+32. In view of the above, it is concluded that the amount in question does not satisfy the test of being
+fee, duty, cess or tax or by whatever name called and thus, does not fall within the provisions of
+Section 43B(a) of the Act.
+33. Accordingly, we do not find that there was any error in the approach adopted by the Tribunal.
+Thus, the substantial questions of law are answered against the revenue and in favour of the
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 18Commissioner Of Income Tax-Ii vs M/S Punjab State Forest Development ... on 4 October, 2013
+assessee. The appeals stand dismissed.
+(AJAY KUMAR MITTAL)
+JUDGE
+October 04, 2013 (JASPAL SINGH)
+gbs/gs JUDGE
+Indian Kanoon - http://indiankanoon.org/doc/39447692/ 19

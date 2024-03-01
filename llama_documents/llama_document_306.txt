@@ -1,0 +1,1393 @@
+Metadata: id=>306
+name=>Narang Hotels And Resorts Pvt Ltd vs State Of Maharashtra And Ors on 9 October 2003
+date=>9 October 2003
+court=>High Court
+link=>http://indiankanoon.org/doc/1402605/
+-----
+Content: Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra
+And Ors. on 9 October, 2003
+Equivalent citations: [2004]135STC289(BOM)
+Author: V.C. Daga
+Bench: V.C. Daga, J.P. Devadhar
+JUDGMENT
+V.C. Daga, J.
+1. This petition raises an interesting but intricate question as to whether sale of eatables or goods to
+foreign airlines for consumption on board during the period such aircraft is a foreign going aircraft
+constitute ''sale in the course of export" within the meaning of Section 5(1) of the Central Sales Tax
+Act, 1956 ("the CST Act", for short).
+Factual scenario :
+2. The factual scenario giving rise to the present petition is as under :
+M/s. Narang Hotels and Resorts Pvt. Ltd., the petitioners herein are the registered
+dealer under the Bombay Sales Tax Act, 1959 ("the BST Act", for short). They have
+separate business unit, being the "Flight Kitchen", which carried on business under
+the name and style "Ambassador Sky Chef located at Vile Parle, Bombay-400 099
+("Flight Kitchen", for short).
+3. The petitioners, with a view to have an early decision on the issue as to whether or not sales made
+by them from Flight Kitchen were liable to local sales tax, filed an application under Section 52(1)(c)
+of the BST Act to the Commissioner of Sales Tax, Maharashtra State, Bombay.
+4. It was the contention of the petitioners that the sales of goods to the foreign airlines by the Flight
+Kitchen were in the course of export within the meaning of Section 5(1) of the CST Act. The said
+sales occasioned export of the goods out of the territory of India : by transfer of documents of title of
+the goods : after the goods crossed the customs frontiers of India, as such the sales effected by them
+to the foreign airlines were not exigible to the provisions of the BST Act.
+5. The learned Commissioner of Sales Tax after hearing the parties was pleased to hold that the said
+transactions effected by the petitioners, detailed hereinabove, were liable to be taxed under the BST
+Act, they being local sales. In the result, the contentions raised by the petitioners did not find favour
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 1Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+with the Commissioner of Sales Tax. The application moved by the petitioners under Section
+52(1)(c) of the BST Act came to be rejected by order dated May 2, 1988.
+6. Being aggrieved by the aforesaid order of determination dated May 2, 1988, the petitioners
+preferred an appeal under Section 55 of the BST Act before the Maharashtra Sales Tax Tribunal
+("the Tribunal", for short) being Appeal No. 40 of 1988.
+7. The Tribunal, after hearing the parties to the appeal by its well reasoned order, was pleased to
+reject all the contentions urged by the petitioners herein/appellants before the Tribunal. The
+contentions put forth by the petitioners before the Tribunal in support of their appeal were as under
+:
+(a) That initial order for supply of foodstuffs placed by the foreign airlines is received
+by Flight Kitchen, which is always for a probable quantity of goods : thus the goods
+are unascertained in the Flight Kitchen.
+(b) That the goods are ascertained when the order for specific quantity is received by
+supply unit a few minutes before the aircraft takes off. By that time goods already
+cross the customs frontiers of India after completing customs, quarantine and other
+legal formalities and are kept ready for delivery at supply unit at the airside tarmac
+across the Sahar customs station, as such the sale takes place beyond the customs
+frontiers of India and thereafter transfer of title in goods takes place with handing
+over of delivery order by supply unit to the foreign airlines, with a condition not to
+serve the foodstuffs to the passengers or utilise the goods on board till the aircraft
+crosses the boundary of India.
+(c) That the sales of goods in question being in the course of export under Section
+5(1) of the CST Act, as such not within the net of the BST Act.
+None of the above contentions found favour with the Tribunal. The Tribunal was pleased to hold
+that the appropriation of the goods, in view of the terms of sale, takes place in the Flight Kitchen at
+Vile Parle, Bombay, which is six kilometres away from Sahar International Airport, Bombay, when
+the goods are segregated and ascertained for preparation and supply. Thus the sale takes place in
+the Flight Kitchen and that handing over of goods by its supply unit at tarmac with the delivery
+order to the foreign airlines is nothing but delivery of goods with a receipt evidencing
+acknowledgement of goods by the foreign going aircraft and that one of the conditions of sale
+prohibiting consumption of goods in India, not being legally enforceable for want of control,
+inspection and checking at the instance of the seller of goods has no legal standing or foundation;
+8. The Tribunal also held that the sale having been effected for consumption on board during the
+period when the aircraft is a foreign going aircraft, the goods have no definite foreign destination,
+which is sine qua non for any transaction of export. The Tribunal thus held that neither such sales
+could be said to be in the course of export nor it occasioned such export or effected by a transfer of
+documents of title to the goods after the goods have crossed the customs frontiers of India, as such
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 2Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+they are local sales exigible to the BST Act. Thus the appeal filed by the petitioners came to be
+dismissed with the aforesaid findings.
+9. Not being satisfied with the aforesaid order of the Tribunal, the petitioners have preferred present
+writ petition under Article 226 of the Constitution of India to challenge the above order of the
+Tribunal.
+Constitutional scheme and legislative structure :
+10. Before embarking upon the rival contentions of the parties, we may proceed to notice the
+relevant provisions of the Constitution and other statutory provisions which have a bearing on the
+issue.
+11. Under Article 286 of the Constitution of India restrictions have been placed on the power of the
+State to tax sales. Articles 286(1) and 286(2) lay down as under :
+"286. Restrictions as to imposition of tax on the sale or purchase of goods.--(1) No
+law of a State shall impose, or authorise the imposition of, a tax on the sale or
+purchase of goods where such sale or purchase takes place--
+(a) outside the State ; or
+(b) in the course of the import of the goods into, or export of the goods out of, the
+territory of India. (2) Parliament may by law formulate principles for determining
+when a sale or purchase of goods takes place in any of the. ways mentioned in Clause
+(1)."
+(3) ................
+List I in the Seventh Schedule to the Constitution specifies the topics in respect of which the Union
+Parliament may legislate. Entries 92 and 92-A of the said List I provides as follows :
+"92. Taxes on the sale or purchase of newspapers and on advertisements published
+therein.
+92-A. Taxes on the sale or purchase of goods other than newspapers, where such sale
+or purchase takes place in the course of inter-State trade or commerce."
+The Parliament in exercise of powers under Article 286, Sub-article (2) enacted the CST Act. The
+Parliament had passed the Act with a view to formulate the principles for determining as to when a
+sale or purchase of goods takes place in the course of inter-State trade or commerce or outside the
+State or in the course of import into or export from India, to provide for levy of collection and
+distribution of taxes on sales of goods in the course of inter-State trade or commerce. Section 5 of
+the Act defines what Article 286 of the Constitution forbids and by virtue of Clause (2) of Article 286
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 3Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+the Parliament by enacting Section 5 of the CST Act has laid down the principles when a sale or
+purchase of goods takes place in the course of the import into or export of the goods outside India.
+Since a controversy has arisen as to the interpretation of principles embodied in Section 5(1) of the
+CST Act, it is necessary to examine the provisions of the said Act.
+Section 3 of the CST Act provides : When is a sale or purchase of goods said to take place in the
+course of inter-State trade or commerce. The relevant provisions of Section 3 are extracted below :
+"A sale or purchase of goods shall be deemed to take place in the course of inter-State
+trade or commerce if the sale or purchase,--
+(a) occasions the movement of goods from one State to another; or
+(b) is effected by a transfer of documents of title to the goods during their movement
+from one State to another."
+Section 4 lays down when is a sale or purchase of goods said to take place outside a State.
+Sub-section (2) of Section 4 is extracted as follows :
+"A sale or purchase of goods shall be deemed to take place inside a State, if the goods
+are within the State,--
+(a) in the case of specific or ascertained goods, at the time the contract of sale is made
+; and
+(b) in the case of unascertained or future goods, at the time of their appropriation to
+the contract of sale by the seller or by the buyer, whether assent of the other party is
+prior or subsequent to such appropriation,"
+Section 5 provides : When is a sale or purchase of goods said to take place in the course of import or
+export. Sub-section (1) of Section 5 is extracted below :
+"(1) A sale or purchase of goods shall be deemed to take place in the course of the
+export of the goods out of the territory of India only if the sale or purchase either
+occasions such export or is effected by a transfer of documents of title to the goods
+after the goods have crossed the customs frontiers of India."
+12. At this stage, it is necessary to refer to the history of the legislation for incorporating Section
+2(ab) of the CST Act. In the case of State of Madras v. Davar and Co. , the Supreme Court was faced
+with the question, namely, "what does the expression crossing the customs frontiers of India in
+Section 5 of the CST Act means ?" In order to get over the difficulty to actually ascertain the point of
+time when ship crosses the territorial waters of India, faced by the Supreme Court in the case of
+State of Madras v. Davar and Co. [1969] 24 STC 481, the Law Commission recommended
+amendment to define the expression "crossing the customs frontiers of India" that is how Section
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 4Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+2(ab) of the CST Act came on the statute book, which reads as under :
+"'Crossing the customs frontiers of India' means crossing the limits of the area of a
+customs station in which imported goods or exported goods are ordinarily kept
+before clearance by customs authorities.
+Explanation.--For the purposes of this clause, 'customs station' and 'customs
+authorities' shall have the same meanings as in the Customs Act, 1962 (52 of 1962)."
+13. The customs frontiers for the purpose of the CST Act is thus equated with the limits of the
+customs station in which the goods are stored, crossing of such station being regarded as amounting
+to crossing the customs frontiers of India. The "customs station" referred to in this definition is the
+one which is defined as such under Section 2(13) of the Customs Act.
+"'Customs station' means any customs port, customs airport or land customs station."
+Customs port is defined in that Act in Section 2(12) :
+"'Customs port' means any port appointed under Clause (a) of Section 7 to be a
+customs port and includes a place appointed under Clause (aa) of that section to be
+an inland container depot."
+Section 7(a) of the Customs Act enables the Central Government, by notification in the Official
+Gazette, to appoint :
+"(a) the ports and airports which alone shall be customs ports or customs airports for
+the unloading of imported goods and the loading of export goods or any class of such
+goods,"
+The relevant sections of the Sale of Goods Act relevant to answer the issue involved need no
+reference at this stage, since the same are being referred to while dealing with the contentions raised
+by the rival parties.
+14. On the canvas of the aforesaid provisions of the CST Act read with the Sale of Goods Act, 1930,
+especially, in the backdrop of the constitutional scheme engrafted under Article 286(1) of the
+Constitution referred to above, the questions that arise for consideration herein are : firstly, when
+the sale shall be deemed to take place in the course of the export of goods out of territory of India;
+secondly, what meaning should be given to the expression "sale occasions such export" occurring in
+Section 5(1) of the CST Act and, thirdly, what do you mean by "crossing the customs frontiers of
+India". In order to answer third question posed herein : two incidental questions would require
+consideration, namely, (i) what are the limits of the area of the customs station ? and (ii) what is a
+customs port ?
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 5Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+15. In order to answer the above questions, Mr. Kapil Sibal and Mr. Aspi Chinoy, learned Senior
+Counsel appearing with Mr. B.C. Joshi for the petitioners and Mr. E.P. Bharucha, learned Senior
+Counsel with Mr. B. Patel appearing for the respondent-State of Maharashtra in their well searched
+submissions addressed us and referred to not only Indian authorities but also some decisions of
+English Court relevant to the issues involved which are referred to hereinbelow.
+Submissions :
+16. Mr. Sibal while challenging the judgment of the Tribunal took us through the text of Section 5(1)
+of the CST Act and submitted that the sales effected by the petitioners from their Flight Kitchen are
+effected to the foreign airlines in the course of export of goods out of territory of India or at any rate
+sales occasioned such export that too by transfer of documents of title (delivery order) to the goods
+after the goods have crossed the customs station at Sahar Airport in a mobile supply unit of the
+petitioners. In his submission, such sales shall have to be regarded as sales having taken place
+within the meaning of Section 5(1) read with Section 2(ab) of the CST Act, not exigible to tax under
+the BST Act. Mr. Sibal submits that the requirement of foreign airlines customers of the petitioners
+is that they shall only accept the goods after they have cleared customs/quarantine and other legal
+formalities and are ready for delivery at the tarmac as such title of the goods is required to be
+transferred by issuing delivery order from their Flight Kitchen to the airline representative directing
+the mobile supply unit to give delivery of the goods mentioned therein to the airline or bearer of the
+delivery order.
+17. Mr. Sibal, with this preface, submits that Section 5(1) of the CST Act is divided into two limbs,
+whilst defining when sale of goods takes place in the course of export. One is where the sale itself
+occasions the movement of goods out of India and the other is where the sale is by a transfer of
+documents of title after the goods had crossed the Indian customs frontiers. Mr. Sibal contends that
+the petitioners/assessee are entitled to relief firstly under the first limb of Section 5(1) since the
+present case involves a sale, occasioning export of goods. He submits that the finding of Tribunal
+that for want of destination to the goods the sale in question does not occasion export, by relying
+upon the decisions of the apex Court in Burmah-Shell Oil Storage and Distributing Co. of India Ltd.
+v, Commercial Tax Officer and Madras Marine and Co. v. State of Madras [1986] 63 STC 169 is
+erroneous in law.
+18. Mr. Sibal, while criticising the judgment of the Tribunal, first contends that the Burmah-Shell
+Oil Storage and Distributing Co. of India Ltd. v. Commercial Tax Officer , was a decision at the time
+when the Customs Act and the CST Act both were not enacted. The case related to the transactions
+of 1953 as such it cannot be regarded as a precedent while interpreting Section 5(1) of the CST Act
+which also contemplates deemed export. Burmah-Shell related to consumption of stores on board a
+ship or aircraft. Such consumption cannot possibly be a deemed export. Such sales or stores to the
+aircraft cannot possibly occasion the export of such goods because such goods are not meant for
+export but are meant for consumption as stores on the aircraft itself for use of the aircraft. In his
+submission, the case of Burmah-Shell involved the consumption of aviation spirit by a foreign
+bound aircraft which cannot ever be considered as a sale occasioning the export of aviation spirit.
+Consequently, the fact and situation in Burmah-Shell and the observations made in the context of
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 6Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+the said fact-situation cannot be regarded as a precedent for the case in hand.
+19. Mr. Sibal further submits that in Madras Marine and Co. v. State of Madras , the apex Court
+approved the observations in Burmah-Shell which referred to a destination of goods to be exported.
+But Madras Marine again was a case involving the sale of stores since the petitioners therein were
+dealers in stores and were doing business as ship chandlers. The facts suggest that the stores meant
+for the use of foreign going vessels were received in a customs bonded warehouse, the goods being
+unascertained goods, and thereafter, indents were placed pursuant to which the goods were
+transferred to the foreign bound vessel. At the time of the placing of the indents, the goods were
+specific and ascertained within the territory of the State of Tamil Nadu. At the time when the
+judgment was rendered, Section 2(ab) was not applicable since the transactions in question were
+prior to September 7, 1976 when Section 2 was substituted and inserted by Act 103 of 1976. Mr.
+Sibal submits that Madras Marine can be differentiated on two counts ; one that the subject-matter
+of the goods that were dealt with and transferred by placing indents on bounded warehouses for the
+purposes of transfer to foreign bound ships were stores, and second that in the absence of Section
+2(ab) sale was treated as having taken place within the State of Tamil Nadu since the sale had been
+completed within the State of Tamil Nadu and since it was not found as a matter of fact that the sale
+occasioned the export. The apex Court in that case found that Section 4 was applicable because that
+was a sale of ascertained goods within the State of Tamil Nadu which did not occasion the export to
+the foreign vessel, and in that context stated that the goods had no foreign destination, by relying on
+Burmah-Shell .
+20. Mr. Sibal submits that Madras Marine and all cases relied upon therein were all the cases of
+transfer of stores to a foreign bound vessel and did not involve the transfer of goods other than
+stores. He, therefore, submits that Burmah-Shell and Madras Marine are for the proposition that in
+the case of stores, viz., aviation spirit, coal, for the crew and other items meant for use by the vessel
+itself in the normal course of its running cannot possibly fall within the first limb of Section 5 and
+the assessee cannot claim such transactions to be in the course of export in the sense that the sale in
+such transactions occasioned the export, because there is no destination for such items meant for
+consumption as stores by the aircraft itself.
+21. Mr. Sibal submits that the conceptual term "stores" is different from goods like food supplied on
+board an airline for the consumption of passengers. Section 2(38) of the Customs Act defines
+"stores". "'Stores' means goods for use in a vessel or aircraft and includes fuel and spare parts and
+other articles of equipment whether or not for immediate fitting". In his submission, it is clear from
+this inclusive definition that the stores meant for use in a vessel or aircraft are essential equipment
+for the functioning of the aircraft or vessel itself and, consequently, cannot possibly have a
+destination in the context of the expression of export under Section 5(1) of the CST Act.
+22. Mr. Sibal again taking exception to the judgment of the Tribunal contends that even if the
+concept of destination was to be applied to the first limb of Section 5(1) since the petitioners' goods
+are not stores, the goods supplied by the petitioners from the Plight Kitchen to the foreign airlines
+have a destination. The destination is the end use of the goods supplied to the aircraft for each
+passenger. He submits that the term "destination" used in Burmah-Shell was in the context of the
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 7Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+test laid down of there being two termini for the goods. In the instant case, the said test is satisfied
+as the termini are the petitioners and the passengers travelling. Further, in the instant case it is
+relevant to point out that there is an express term in the contract that the goods will not be
+consumed in India and the intention to export is manifest and that test also laid down in
+Burmah-Shell is satisfied.
+23. Mr. Sibal submits that the term "destination" finds no mention in Article 286 nor in the CST Act.
+Since the word "export" is used in Section 5, naturally, the said term must take its colour from the
+meaning of "export" under the Customs Act, since the petitioners contend that it is an "export" with
+reference to export laws of India. Now the term "export goods" under the Customs Act means any
+goods which are to be taken out of India to a place outside India [Section 2(19)]. The word "export"
+in Section 2(19) means taking out of India to a place outside India. Mr. Sibal submits that the matter
+stands concluded by the decision of the Supreme Court in the case of Collector of Customs, Calcutta
+v. Sun Industries [1988] 71 STC 149 ; , wherein, while interpreting Section 2(18) of the Customs Act,
+the apex Court opined that the expression "taking out of India to a place outside India" means any
+place in the high seas as long as it is beyond the territorial waters of India and "high seas" would also
+mean a place outside India, being beyond the territorial waters of India. In interpreting the word
+"place" under the Customs Act, the apex Court relied upon the dictionary meaning of place which
+refers to a portion of space occupied by or belonging to a thing under consideration. Therefore, the
+apex Court found that in international trade, any "place" beyond the territorial waters of India
+would be a place outside the country and, therefore, the transaction of sale in question satisfy the
+definition of the word "export" under the Customs Act is the submission advanced by Mr. Sibal to
+bring home his point.
+24. With the aforesaid submission, Mr. Sibal switched over to the second part of Section 5(1) of the
+CST Act to establish that the sales in question have fulfilled both conditions so as to attract second
+limb which contemplates sale by transfer of document of title after the goods had crossed the Indian
+customs frontiers. He submits that Section 5(1) considers certain transactions of goods to be
+deemed to take place in the course of export only if either such sale occasions such export or is
+effected by a transfer of a document of title to the goods after the goods have crossed the customs
+frontiers of India. According to him, as to why the concept of destination may be relevant in the case
+of sale occasioning such export is because the expression "occasioning such export" implies a
+destination. Once that destination is proved then such export shall be deemed to take place in the
+course of export. This concept of export is alien to the second limb of Section 5(1) which requires
+only two ingredients to be satisfied, viz., transfer of documents and the crossing of the customs
+frontiers of India. To say, therefore, that the concept of export is an additional ingredient
+incorporated in the second limb of Section 5(1) is erroneous in law. In any event, the judgment of
+the Supreme Court in the case of Minerals & Metal Trading Corporation of India Ltd. v. Sales Tax
+Officer supports the requirements in respect of the applicability of the second limb of Section 5 and
+only talks of the two ingredients referred to.
+25. Mr. Sibal further submits that the delivery order issued by the petitioners upon their mobile unit
+stationed on the tarmac across the customs barrier is a document of title within the meaning of
+definition under Section 2(4) of the Sale of Goods Act, 1930. He placed reliance on the judgments of
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 8Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+the Supreme Court in Bayyana Bhimayya & Sukhdevi Rathi v. Government, of Andhra Pradesh and
+State of Andhra Pradesh v. Kolla Sree Ramamurthy and the judgment of the Rings Bench in Ant.
+Jurgens Margarinefabrieken v. Louis Dreyfus & Co. (1914) 3 KB 40,
+26. With the aforesaid submissions, Mr. Sibal went on to deal with the adverse findings recorded by
+the Tribunal in the light of the provisions of the Sale of Goods Act. Mr. Sibal submits that Section 23
+of the Sale of Goods Act has no application and could not have been relied upon by the Tribunal
+because the parties under the contract intended that the property in the goods would pass from the
+petitioners to the airlines only upon the transfer of the delivery order. Section 19 of the Sale of
+Goods Act stipulates that in the context of sale of goods, the property in them is transferred to the
+buyer at such time as the parties to the contract intend it to be transferred. This is in respect of sale
+of specific or ascertained goods. Section 19(2) stipulates that in ascertaining the intention of the
+parties regard shall be had to the terms of the contract between the parties and the circumstances of
+the case and that the rules contained in Sections 20 to 24 can only be referred to if the contract for
+sale of goods does not refer to the intention of parties. In this particular case, in his submission, the
+terms of the delivery order itself spell out the intention of the parties that the property in the goods
+would pass upon transfer of the delivery order and that the liability of the consignor in respect of the
+goods conies to an end upon transfer of the delivery order.
+27. According to Mr. Sibal, the contract and understanding between the parties is also reflected in
+the document of April 1, 1987, (para 1) which clearly stipulates that the goods remain the property of
+the petitioners till the transfer of title by issuance of necessary delivery order and that the goods
+remain at the risk of the petitioners till delivery of documents of title. This is reiterated in para 5 ;
+wherein it is stipulated that the goods vest in the airlines only upon delivery of documents and after
+delivery of documents, the goods are exclusively at the risk of the airlines. This service contract
+stipulates the intention of the parties. The conduct of the parties does not suggest to the contrary.
+Consequently, in his submission, reliance on Section 23 of the Sale of Goods Act by the Tribunal is
+both illegal and inappropriate. Mr. Sibal relied upon the following judgments in Hoe Kim Seing v.
+Maung Ba Chit , Arcot Mills Limited v. State of Tamil Nadu and Agricultural Market Committee v.
+Shalimar Chemical Works Ltd. , which according to him, lay down that if parties intention is clearly
+expressed as to when property in goods passes then one cannot go to the provisions of the Sale of
+Goods Act for ascertaining intention.
+28. Mr. Sibal, alternatively, submits that assuming Section 23 of the Sale of Goods Act is applicable,
+the following tests will still have to be satisfied in terms of Section 23. First, that unascertained
+goods were in a deliverable state and unconditionally appropriated to the contract. Under Section
+2(3), the term "deliverable state" means when the goods are in such a state that the buyer would
+under the contract be bound to take delivery of them. In the present case, the contract stipulates to
+the contrary. Indeed, the delivery order stipulates that it is the responsibility of the petitioners to
+have the goods cleared through local customs and have them ready for delivery at consignor's supply
+unit across the Sahar customs station after which alone the consignee is liable to take delivery of the
+goods. Consequently, Mr. Sibal submits, if the goods are not in a deliverable state, Section 23 can
+have no application. Not being in a deliverable stage, they could not be unconditionally appropriated
+to the contract.
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 9Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+29. Mr. Sibal submits that the further requirement of Section 23is that this appropriation must be
+effected with the consent of the seller and the buyer. The revenue has not shown how the buyer and
+the seller in this case consented to the appropriation at the Flight Kitchen prior to the goods
+crossing the customs barrier and prior to the actual delivery at the tarmac by transfer of the delivery
+order. Consequently, he submits that Section 23 in its own terms does not apply to the facts of this
+case. Therefore, the foundation of the finding of the Tribunal that the property in the goods passed
+at the Flight Kitchen and that the goods were appropriated to the contract of sale at the Flight
+Kitchen is incorrect. Mr. Sibal submits that if this basic finding is incorrect then the conclusion of
+the Tribunal, that in the light of this finding the delivery order has no meaning, is thus erroneous.
+30. Mr. Sibal further submits that the Tribunal in support of its finding that the property in the
+goods passed at the Flight Kitchen relied on condition No. 5 of the delivery order which was never
+relied upon by the revenue. He submits that another reason given by the Tribunal in upholding the
+revenues contention, that the goods were appropriated at the Flight Kitchen, is based on
+observations to the effect that the difference between the original order of the airlines on the basis of
+which the food was prepared and put in trays, and the final determination of the quantity of the food
+trays ultimately delivered to the airline was negligible, and that the numerical difference of a few
+items will not have any impact on the concept of "appropriation" at Flight Kitchen. He submits that
+it is a settled law that only goods which are identified and ascertained can be appropriated to the
+contract. There is nothing on record to substantiate the contention of the counsel for the Revenue
+that the difference in the quantity of items of food prepared at the Flight Kitchen as per the airlines
+original order and the quantity of food delivered to the airlines at the tarmac is only a slight
+difference. In fact, such differences can be slight or substantial depending on the requirements of a
+particular flight. In any event, any variation in the quantity of food prepared at the Flight Kitchen
+and the number of items of food actually delivered to the airlines would mean that the goods are not
+identified and ascertained and, consequently, cannot be unconditionally appropriated to the
+contract at the Flight Kitchen. He submits that the Tribunal failed to appreciate that the
+appropriation can only take place in terms of the provision of law in respect of sale of goods dealing
+with appropriation, viz., Sections 19 to 23 of the Sale of Goods Act. The Tribunal has in this context
+relied on Section 23 which, according to him, is both inappropriate and illegal and, therefore, this
+finding of the Tribunal is erroneous. Mr. Sibal while concluding his submissions, submits that the
+sales considered from any angle are beyond the net of the BST Act.
+Per Contra :
+31. Mr. E.P. Bharucha, learned Senior Counsel for the respondents submitted that the foodstuffs
+sold by the petitioners to the foreign airlines were, according to the petitioners, appropriated to the
+contract only on the tarmac at Sahar airport beyond the customs barriers is factually incorrect. He
+submits that the goods are appropriated in Flight Kitchen. Alternatively, he submits that whether or
+not the appropriation of goods takes place at the tarmac at Sahar airport or at Flight Kitchen makes
+no difference, it being a "sale" within the State of Maharashtra in either case.
+32. Mr. Bharucha submits that Section 4 of the CST Act is a deeming provision. It provides that in
+case of unascertained goods, if the goods are within the State at the time of appropriation of the
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 10Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+contract, the sale would be deemed to be a sale inside the State. He submits that in the facts of this
+case, even according to the petitioners, assuming that the appropriation takes place on tarmac at
+Sahar airport it being within territorial limits of the State of Maharashtra, the transaction will have
+to be treated as sale within the State and cannot be said to be a sale during the course of export. He
+submits that customs barrier or frontier does not affect the territorial limits of the State for the
+purposes of sales tax. In his submission, in order to constitute the sale within the State, the goods, if
+unascertained, should be appropriated to the contract of sale within the State and at that time the
+goods must be within the State. Such sale would be a sale within the State. No other consideration is
+relevant. Turning to the facts of the present case, Mr. Bharucha submits that all the ingredients of
+sale within a State are satisfied, as such the sale is liable to sales tax in the State of Maharashtra. He
+placed reliance on the judgments of the apex Court in Burmah-Shell Oil Storage and Distributing
+Co. of India v. Commercial Tax Officer , Madras Marine and Co. v. State of Madras , State of Madras
+v. Davar & Co. , State of Kerala v. Cochin Coal Company Ltd. , Fairmacs Trading Company v. State of
+Andhra Pradesh .
+33. Mr. Bharucha urged that the apex Court in the aforesaid three judgments referred to
+hereinabdve, while construing Article 286(1)(b) of the Constitution of India held that the term "in
+the course of exports" implies that the goods must have a foreign destination because two notions of
+import and export go in pairs. He submits that the apex Court has rejected the wide definition of
+export as merely taking goods out of the country. Mr. Bharucha while elaborating his submission,
+submitted that in case of Burmah-shell the sale of motor spirit to foreign going aircraft was regarded
+as a local sale and not a sale in the course of exports. The apex Court further held that the customs
+barrier does not limit to the territory of a State for the purposes of sales tax. The sale beyond the
+customs barrier is still a sale in the State, as such within the territory of taxing State,
+34. Mr. Bharucha submits that even though the judgment in Burmah-Shell covered a period prior to
+the coming into force of the CST Act, it was confirmed by the Supreme Court in the subsequent
+judgment in the case of Madras Marine [19861 63 STC 169 (SC), wherein the Apex Court dealt with
+the case of ship stores appropriated to the contract in customs bonded warehouse and delivered on
+board the ship. The apex Court held that all exports involve taking of goods out of the country but all
+the goods taken out of the country cannot be said to be exported. The test applied is that the goods
+must have a foreign destination where they can be said to be imported. The crucial fact is the
+sending of the goods to a foreign destination where they would be received as imports. Mr.
+Bharucha submits that in Madras Marine [1986] 63 STC 169, the apex Court held that the sale took
+place within the State of Tamil Nadu where the appropriation of goods took place, even though it
+was in the customs bonded warehouse. The customs station was within the State of Tamil Nadu, as
+such the sale was held to be liable to local sales tax.
+35. Mr. Bharucha, while refuting the submissions advanced by Mr. Sibal, submitted that the
+aforesaid judgment of the apex Court apply to fuel and ship stores and not to the foodstuffs is not
+correct. According to him, the "stores" have been defined in Section 2(38) of the Customs Act to
+mean the goods to be used in a vessel or aircraft and includes fuel and spare parts and other articles
+of equipment, whether or not for immediate fitting. "Goods" have been defined in Section 2(22) of
+the Customs Act to include along with others, stores and any other kind of movable property.
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 11Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+According to him, a bare reading of these provisions would indicate that food being movables would
+be covered by the definition of stores. Mr. Bharucha pressed into service the CBC Circular No.
+37/96-Cus dated July 3, 1996 which clarifies that ship stores include foodstuffs, alcoholic and other
+beverages on board of a ship. He submits that this circular was issued on the basis of the opinion by
+the World Customs Organisation. Thus it was clear that universally, foodstuffs and drinks consumed
+on board a vessel are regarded as ship stores. In order to buttress his submission, he brought to our
+notice the judgment of the CEGAT in the case of Commissioner of Customs and Central Excise,
+Rajkot v. Saibaba Ship Breaking Corporation (2002) 140 ELT 135 (Bom) ; wherein the above
+circular has been interpreted and followed. Adopting the reasons given in the said judgment by the
+Tribunal Mr. Bharucha submits that "stores" would include foodstuffs and the judgments of the
+apex Court in Burmah-Shell and Madras Marine [19861 63 STC 169, would apply with full rigour to
+the facts of the present case.
+36. Mr. Bharucha submits that as per the petitioners the airlines intimate their approximate
+requirement of meals for the flight to the petitioners. The petitioners then prepare the meals and
+take it to the tarmac. The airlines then intimate the actual quantity required and thereafter the
+delivery order is issued. The delivery of actual required quantity is given and balance is returned.
+Mr. Bharucha, relying upon the findings of fact recorded by the Tribunal, contends that a small
+difference in the quantity at the tarmac would not make any difference, especially, when the
+preparation actually takes place in the flight kitchen. Mr. Bharucha submits that no evidence is
+produced by the petitioners to demolish the finding of the Tribunal that a small change in the
+quantity takes place at tarmac. Therefore, in the wake of these facts, Mr. Bharucha asserted that
+appropriation actually takes place in the flight kitchen and not at the tarmac.
+37. Mr. Bharucha also submits that the sale being a local sale to which the provisions of Section 4 of
+the CST Act are applicable, as such question of same sale being sale in the course of export does not
+arise. In the alternative, he submits that if Section 4 does not apply to the facts of the present case,
+then, only resort to Section 5 of the CST Act can be made. He further submits that at any rate the
+test laid down in Section 5(1) of the CST Act is also not satisfied. Based on the description of Section
+5(1) of the CST Act, he submits that following three criteria of Section 5(1) are not satisfied by the
+transaction in question, i.e., (a) the sale must be in the course of export ; (b) the sale to be effected
+by transfer of documents of title; and (c) the sale must be effected after the goods cross the customs
+frontiers of India. Mr. Bharucha while elaborating his submissions submits that the sale has to be in
+the course of export and reiterated his submissions noted hereinbefore relying on the apex Court
+judgments in Burmah-Shell and Madras Marine [1986] 63 STC 169. He further submits that the
+words "in the course of export" found in Article 286(1)(b) of the Constitution of India have been
+construed by the apex Court and the similar words which find place in Section 5(1) of the CST Act
+have been similarly construed. He further submits that the judgment relied upon by the petitioners
+in the case of Collector of Customs v. Sun Industries with regard to the definition of export is
+irrelevant in the facts of the present case as the said judgment deals with the definition under the
+Customs Act. He submits that the contention based on the said definition has been rejected by the
+apex Court in Madras Marine [1986] 63 STC 169 while dealing with the issue of export under sales
+tax.
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 12Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+38. So far as submission advanced by Mr. Sibal with respect to delivery order is concerned, Mr.
+Bharucha submits that the delivery order is normally not a document of title of goods unlike a bill of
+lading or railway receipt or a lorry receipt. According to him, the delivery order has been referred to
+as a document of title to goods only by an inclusive definition under Section 2(4) of the Sale of
+Goods Act. This inclusive definition cannot be imported in a taxing statute like the CST Act. He
+submits that the Sale of Goods Act governs the relationship of contracting parties with respect to
+contracts for sale of goods. In fact, many of the provisions of the Sale of Goods Act can be excluded
+by the contract. The CST Act is a fiscal legislation. These two statutes are not in part materia, as
+such, relying on the provisions of the Sale of Goods Act, the delivery order cannot be projected as a
+document of title to the goods, Mr. Bharucha submits that no evidence whatsoever was led by the
+petitioners to show that catering industry regards, the delivery order as a document of title to goods
+by endorsement of which the title of goods passes. He placed reliance on paras (21) to (23) of the
+order of the Tribunal, wherein the Tribunal refused to accept the delivery order as document of title.
+39. Mr. Bharucha taking us through the later part of Section 5(1) of the CST Act submits that Section
+5(1) would apply in the case of exports only if the sale takes place by transfer of documents after the
+goods crossed customs frontiers of India. In the case of imports this section will apply only if the
+sale takes place by transfer of documents before the goods crossed customs frontiers of India. He
+submits that in the present case we are concerned with the export. In case at hand, the sale took
+place on the tarmac before the goods crossed the customs frontiers of India. According to him, by no
+stretch of imagination it can be said that the sale in the present case has taken place after the goods
+had crossed customs frontiers of India.
+40. Mr. Bharucha submits that the apex Court had an occasion to consider the question of crossing
+of customs frontiers in the case of State of Travancore-Cochin v. Shanmugha Vilas Cashew-nut
+Factory . In that case, the apex Court observed that detailed provisions have been made by the
+Legislature for levy of customs duty by officers of the Central Government who are stationed along
+the customs frontier. After appraising the goods exported or imported, the duties chargeable, if any,
+are computed and levied and it is not until this process is completed that the goods can be shipped
+for transportation in case of export or cleared by the consignee in case of import. He, therefore,
+submits that it would be logical to hold that the course of export out of, or of the import into, the
+territory of India does not commence or terminate until the goods cross the customs frontiers of
+India. Thus crossing of customs frontiers of India in case of export would arise only after all customs
+formalities are completed and goods are shipped for transportation and the journey starts.
+41. Mr. Bharucha taking us through Section 2(ab) of the CST Act, which defines "crossing the
+customs frontiers of India" submits that it means the limits of the area of a customs station in which
+imported goods or export goods are ordinarily kept before clearance by the customs authorities.
+According to him, all goods for export have to be first brought to a customs area where customs
+formalities are completed before they are loaded on a vessel or an aircraft for transportation.
+Similarly, all imported goods have to be unloaded in a customs area where all customs formalities
+are completed before being allowed to leave or cross the customs area into India.
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 13Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+42. Relying on explanation to Section 2(ab) of the CST Act, Mr. Bharucha submits that the said
+sub-section defines a "customs area" to be the limits of customs station and the term "customs
+station" has to have the same meaning as in the Customs Act. He submits that as per the provision
+of Section 2(13) of the Customs Act, customs area means any customs port, customs airport or land
+customs station. According to him, customs airport has been defined in Section 2(10) to mean any
+airport appointed under Section 7(a) to be a customs airport. He pressed into service Notification
+No. 62/94-Cus dated November 21, 1994 issued under Section 7 and as amended from time to time
+which includes Sahar Airport to be a customs airport. According to him, under Section 8 of the
+Customs Act, the Commissioner has power to specify limits of customs area. The then Additional
+Collector of Customs issued a notification dated November 27, 1968 specifying the limits of Bombay
+Airport at Santacruz to inter alia include the whole aerodrome including the runways, the tarmac,
+the parking base, the hangers for parking and repairs, airline offices, buildings, petrol installations
+and structures bounded by and within the limits prescribed in the said circular. He further submits
+that the export goods first enter the customs area. All the customs formalities are completed in the
+said customs area. The permission of the customs officers is then obtained for export of goods. The
+goods are then loaded on to the aircraft. The aircraft then leaves the customs area. It is only when
+the aircraft leaves the customs area then only it can be said that it has crossed the customs frontiers
+of India.
+43. As an extension of the said argument, Mr. Bharucha further submits that Section 5(1) of the CST
+Act can apply only if the sale by transfer of documents to title takes place after the aircraft has left
+the customs area. In the present case, admittedly, the goods were on the tarmac when the transfer
+took place. Thus, in his submission, the test of Section 5(1) is also not satisfied in the case at hand.
+44. Mr. Bharucha, in order to bring home his above submission, relied upon transaction involving
+import of goods and submitted that on import the goods have to first land in the customs area. At
+that time they cannot be said to have crossed the customs frontiers of India for want of completion
+of customs formalities. Thereafter, on completion of customs formalities assessment of duty is made
+and duty, if any, is paid. The goods are then cleared by the customs and are brought out of the
+customs area into the country. It is only when the goods are cleared out of the customs area the
+goods get mingled with general mass of goods and merchandise in the country then it can be said
+that they have crossed the customs frontiers of India. Section 5(2) provides that for a sale to be in
+the course of import it must take place before the goods have crossed the customs frontiers of India.
+Applying the same analogy to a converse transaction involving import, Mr. Bharucha submits that
+the sale in the course of exports must take place only after the goods have crossed the customs
+frontiers of India meaning thereby vessel or aircraft must leave customs area towards its onward
+journey to a foreign destination. He submits that the judgment referred to by the petitioners in the
+case of Minerals & Metals Trading Corporation v. Sales Tax Officer is clearly distinguishable. The
+sale referred to therein was on high seas, whilst the sale in the present case is by appropriation of
+goods on tarmac within the territorial limits of the State of Maharashtra and before the goods had
+crossed the customs frontiers of India.
+45. Mr. Bharucha turning to the prayer clauses of the petition and relief claimed therein submits
+that since the petitioners did not challenge the orders prior to 1985, consequently, those orders have
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 14Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+become final and conclusive, as such it is not open for the petitioners to challenge the same and
+claim refund in this petition. In support of his submission, he relied upon the judgment of this Court
+in the case of Jayant Dyes & Chemical Co. v. Deputy Commissioner of Sales Tax (Adm. III) (2003)
+27 MTJ 1 (Bom.). Mr. Bharucha, while concluding his submissions, submits that the sale of goods by
+the petitioners to the foreign airlines for consumption on board during the period the aircraft is
+foreign going aircraft is nothing but a local sale as such liable to sales tax under the BST Act. He,
+therefore, submits that this petition is liable to be dismissed with costs.
+Rejoinder :
+46. In rejoinder, Mr. Sibal sharply reacted to the submissions advanced by Mr. Bharucha on behalf
+of the respondents that the provisions of the Sale of Goods Act do not apply in the present case in
+respect of the delivery order since the liability of the assessee under the CST Act is being
+determined. In this context, Mr. Sibal relied upon the definition of documents of title in the Sale of
+Goods Act. Section 2(4) of the Sale of Goods Act defines "documents of title to goods" which include
+"warrant or order for delivery of the goods". Mr. Sibal submits that the contention of the revenue,
+that this definition cannot be relied upon since neither the CST Act nor the BST Act refers to any
+definition of documents of title and, therefore, that a delivery order is a document of title will have
+to be proved by placing reliance on custom and usage in the trade, is erroneous. In his submission,
+firstly, the transaction in question is a sale of goods. The items delivered are goods and they are sold
+by the petitioners/ consignor to the airlines/consignee. Nobody disputes the sale. They only dispute
+the situs of the sale. Consequently, being sale of goods, all provisions of the Sale of Goods Act apply.
+Secondly, the Tribunal itself has relied upon various provisions in the Sale of Goods Act to
+determine when the property in the goods passes. There is no other way to reach a conclusion as to
+when the property in the goods passes without reference to the various provisions of the Sale of
+Goods Act. Mr. Sibal submits that if the Sale of Goods Act is relied upon for the purpose of
+determining when the property in the goods pass and when the goods are appropriated to the
+contract of sale, there is no reason why the definition in the Sale of Goods Act of "documents of title"
+cannot be relied upon, Mr. Sibal relied upon the judgment of the apex Court in the case of Mod.
+Serajuddin v. State of Orissa , wherein the apex Court while dealing with the expression "sale" under
+Section 5 of the CST Act held that the expression "sale" in Section 5 of the CST Act has the same
+meaning as in the Sale of Goods Act. This is reiterated by the apex Court in Ferro Alloys Corporation
+Ltd. v. Union of India [1999] 112 STC 570.
+47. Mr. Sibal submits that the next ingredient required to be proved by the petitioners was that the
+sale was effected by the transfer of documents of title, being the delivery order, after the goods had
+crossed the customs frontiers of India. The revenue in this respect has contended that the customs
+frontiers of India in terms of Section 2(ab) of the CST Act means crossing the limits of the area of a
+customs station. The term "customs station" in turn is defined in the Customs Act in Section 2(13)
+which means any customs port, customs airport or land custom station. The boundaries of a
+"customs airport" in the context of Bombay representing the limits of the Sahar International
+Airport is proved through a notification placed on record. Mr. Sibal submits that this entire
+submission of the Revenue proceeds on a misreading of Section 2(ab). Section 2(ab) of the Act of
+1956 defines the crossing of customs frontiers of India to mean crossing the limits of the area of a
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 15Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+customs station in which imported or exported goods are ordinarily kept before clearance. The
+expression "before clearance" itself implies that crossing customs frontiers of India is a limited area
+of a customs station which is crossed after clearance by the customs authorities. The reliance
+therefore is placed on the definition of a "customs station" in the Customs Act and further
+elaborating upon the outer limits of Sahar Airport has no bearing on the expression crossing the
+customs frontiers of India, on its own terms, therefore, this submission is erroneous. Mr. Sibal
+submits that in any event, if the said submission of the Revenue is correct, it would lead to absurd
+results both in the matter of exports and imports. The very reason why Section 2(ab) was
+incorporated in the Customs Act would be undone if such interpretation as contended by the
+Revenue is accepted. In his submission, the Revenue's submission is erroneous, which can be borne
+out from the following judgment of Andhra Pradesh High Court in Mineral and Metals Trading
+Corporation of India Ltd. v. State of Andhra Pradesh [1998] 110 STC 394 and the judgment of the
+West Bengal Taxation Bench in Brijlal Tulsian v. Commercial Tax Officer [1997] 107 STC 75.
+48. Mr. Sibal, learned counsel for the petitioners, while reacting to the submissions advanced by Mr.
+Bharucha appearing for the Revenue relied upon Circular No. 37/96-Customs dated July 3, 1996
+issued by the Ministry of Finance, Department of Revenue in the context of ship breaking with
+reference to the case of Commissioner of Customs v. Saibaba Ship Breaking Corporation , contends
+that the orders of the Tribunal are not binding upon the High Court and cannot be relied upon as
+precedent for the purpose of interpretation. He further contends that even in terms of the aforesaid
+order of the CEGAT the goods involved were stores because the foodstuffs and drink (along with
+other stores including fuel and oil for running of ship engines and other machinery mentioned
+therein) were for consumption by the crew. Items for consumption by the crew in any event would
+also be stores. Consequently, in his submission, the judgment has absolutely no application to the
+facts of the present case. The department in that context contended that foodstuffs were not input
+and, therefore, duty paid on them was not available for credit. The contention was that all items
+supplied including foodstuffs for consumption by the crew were a necessary part of the ship because
+without this the ship could not have sailed and reached the ship braking yard and, therefore, Modvat
+credit was claimed. Revenue contended that Modvat credit could only be restricted to the extent of
+the input contained in goods and material falling under item 15 of the Tariff. The CEGAT rejected
+the arguments relied upon in defense of stores in the Customs Act and, therefore, found that such
+goods are not classifiable under heading 89.08 and, therefore, not entitled for Modvat credit. Mr.
+Sibal thus submits that the judgment of the CEGAT has absolutely no bearing to the issues before
+this Court. Neither the circular nor the order of the CEGAT has any bearing to the facts of the
+present case.
+49. Mr. Sibal also reacted to another argument raised by Mr. Bharucha, learned counsel for the
+Revenue and not raised at the time when the matter was argued before the Tribunal, that the sales
+in question are exigible to tax by virtue of Section 4 of the CST Act since all the sales which are the
+subject-matter of dispute in this petition were completed within the State of Maharashtra and that
+Sections 3, 4 and 5 of the CST Act are part of a scheme of which Section 4 is subject to Section 3. Mr.
+Sibal submits, if the situs of the sale under Section 4 is in a particular State and yet it is shown that
+the goods sold in a particular State occasioned the movement of goods from one State to another,
+then Section 3 would be applicable and the State in which the sale took place would have no
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 16Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+authority to impose sales tax. Similarly, even though the situs of a sale takes place in a particular
+state but if it is shown that, the sale occasioned the export of such goods or that the sale was effected
+by transfer of documents of title to the goods after the goods had crossed the customs frontiers of
+India, then too Section 4 and the situs of sale would be irrelevant because under Section 5, no tax
+would be leviable to such a transaction. This issue stands concluded by several decisions of the
+Supreme Court and High Courts. He relied upon the following judgments : State of Karnataka v.
+B.M. Ashraf & Co. , Onkarlal Nandlal v. State of Rajasthan , N.D. Georgopoulos v. State of
+Maharashtra [1976] 37 STC 187 (Bom), Guduthur Thimmappa & Son v. State of Andhra Pradesh ,
+Bengal Corporation Private Ltd. v. State of Madras [19651 16 STC 62 (Mad.) and Tata Iron and Steel
+Co. Ltd. v. V.S.R. Sarkar .
+50. Lastly, Mr. Sibal submits that assuming that the sale took place in the State of Maharashtra
+before the goods crossed the customs barrier, if the sale occasioned the export of the goods outside
+the territory of India, the State Government will have no right to tax such a transaction. Besides, if
+the goods are sold within the State of Maharashtra, but the sale is effected by a transfer of
+documents of title beyond the customs frontiers of India, then also the State of Maharashtra would
+not be entitled to levy any sales tax. Mr. Sibal contends that in the present case both limbs of Section
+5(1) apply and that the State of Maharashtra is not entitled to levy tax even assuming that the situs
+of the sale is within the State.
+The issue :
+51. The crux of the issue in the present case is one of potential significance in relation to law of sales
+tax as indicated in the opening part of this judgment, which needs resolution on the basis of the law
+interpreted by the Supreme Court and various High Courts referred to by the rival parties during the
+course of their well studied submissions.
+Authorities on issue :
+52. The provisions of law referred to hereinabove in their interpretation have been attending
+attention of the Supreme Court as well as High Courts. We briefly make a reference to some of such
+decisions.
+53. The principal decisions of the apex Court on interpretation of Article 286(1)(b) of the
+Constitution of India are : State of Travancore Cochin v. Bombay Company Ltd. [1952] 3 STC 434
+(SC); AIR 1952 SC 366, State of Travancore-Cochin v. Shanmugha Vilas Cashew-nut Factory [1953]
+4 STC 205 (SC), Burmah-Shell Oil Storage and Distributing Co. of India Ltd. v. Commercial Tax
+Officer and State of Kerala v. Cochin Coal Company Ltd. .
+54. In the first Travancore-Cochin case [1952] 3 STC 434 (SC); AIR 1952 SC 366, the respondents
+claimed exemption from assessment in respect of sales effected by them to foreign buyers of CIF or
+FOB terms on the ground that such sales took place in the course of the export of the goods out of
+the territory of India within the meaning of Article 286(1)(b) of the Constitution. It is noticeable in
+this case that the contracts were directly between the respondents and their foreign buyers.
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 17Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+Therefore, the court held that the sales which occasioned the export in each case fell within the
+scope of the exemption under Article 286(1) of the Constitution.
+55. In the second Travancore-Cochin case , the respondents imported raw cashew nuts from abroad
+and neighbouring districts in the State of Madras. The respondents converted the same by certain
+processes into edible kernels and exported the kernels to foreign countries. The respondents
+claimed exemption under Article 286(1)(b) in respect of purchase of cashew nuts. The three
+propositions laid down in second Travancore-Cochin case [1953] 4 STC 205 (SC) are these. First,
+sales by export and purchases by import fall within exemption under Article 286(1)(b). Second,
+purchases in the State by the exporter for the purpose of export as well as sales in the State by the
+importer after the goods have crossed the customs barrier are not within the exemption. Third, sales
+in the State by the exporter or importer by transfer of shipping documents while the goods are
+beyond the customs barrier are within the exemption, assuming that the State power of taxation
+extends to such transactions.
+56. The second Travancore-Cochin case [1953] 4 STC 205 (SC), was on the question whether two
+categories of sale or purchase would fall within the scope of exemption under Article 286(1)(b) of
+the Constitution. As to the first category mentioned therein, the apex Court said that the exemption
+under Article 286(1)(b) was for sale or purchase of goods taking place in the course of import of the
+goods "into" or export of the goods "out of the territory of India. Reference to the goods and territory
+of India makes it clear that the words "export out of and "import into" mean that exportation out of
+the country and importation into the country respectively. According to the apex Court, the word
+"course" denotes movement from one point to another and expression "in the course" not only
+implies a period of time during which the movement is in progress, but postulates also a connected
+elation. On this reasoning the Apex Court held that a sale in the course of export means a sale taking
+place not only during the activities directed to the end of exportation of the goods out of the country
+but also as part of or connected with such activities.
+57. In Burmah-Shell , the apex Court observed :
+"While all exports involve a taking out of the country, all goods taken out of the
+country cannot be said to be exported. The test is that the goods must have a foreign
+destination where they can be said to be imported. It matters not that there is no
+valuable consideration from the receiver at the destination end. If the goods are
+exported and there is sale or purchase in the course of that export and the sale or
+purchase occasions the export to a foreign destination, the exemption is earned.
+Purchases made by philanthropists of goods in the course of export to foreign
+countries to alleviate distress there, may still be exempted, even though the sending
+of the goods was not a commercial venture but a charitable one. The crucial fact is the
+sending of the goods to a foreign destination where they would be received as
+imports."
+58. In the case of State of Kerala v. Cochin Coal Company Ltd. [19611 12 STC 1 (SC), the apex Court
+held that the concept of export in Article 286(1)(b) of the Constitution postulates the existence of
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 18Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+two termini as those between which the goods are intended to move or between which they are
+intended to be transported, and not a mere movement of goods out of the country without any
+intention of their being landed in specie in some foreign port.
+59. The principal decision of the apex Court on interpretation of Section 5(1) of the CST Act are Ben
+Gorm Nilgiri Plantations Co., Coonoor v. Sales Tax Officer, Special Circle, Ernakulam , Coffee Board,
+Bangalore v. Joint Commercial Tax Officer, Madras ; the recent decision in Binani Bros. (P.) Ltd. v.
+Union of India and Mod, Serajuddin v. State of Orissa .
+60. In the Ben Gorm Nilgiri Plantations case the appellants were sellers of tea and their purchasers
+were local agents of foreign buyers. The sales were by public auction. The Apex Court held that a
+transaction of sale which is a preliminary to export of the commodity sold may be regarded as a sale
+for export, but is not necessarily to be regarded as one in the course of export, unless the sale
+occasions export. In this case the Apex Court found that the sales by the appellants were intended to
+be complete without the export and as such it could not be said that the sales occasion export. The
+sales were for export and not in the course of export.
+61. In the Coffee Board case the Coffee Board framed rules for sale of coffee to registered exporters.
+The Coffee Board contended that the auctions were in the course of export, because the sales
+themselves occasioned the export of coffee. The revenue contended that the sales were not bound up
+with the export. The Apex Court held that the phrase "sale in the course of export" authorised not
+only a sale and an actual export but that the sale must be a part and parcel of the export. The word
+"occasion" in the context of sale or purchase was held to mean to cause export or to be the
+immediate cause of export. In this case, the phrase "sale in the course of export" was held to
+comprise of three essentials. First, there must be a sale. Second, the goods must actually be
+exported. Third, the sale must be a part and parcel of the export. To establish export a person
+exporting and a person importing are necessary elements as the course of export is between them.
+In this case, the apex Court discussed all its earlier decisions, some of which were on the meaning of
+phrase "in the course of export" occurring in Article 286(1)(b). In this case it is said that the same
+meaning must obviously be given to the phrase "in the course of export" or to the phrase "occasions
+the export".
+62. In the case of Mod. Serajuddin v. State of Orissa [1975] 36 STC 136, the apex Court was
+concerned with the interpretation of words "in the course of export" as found in Section 5(1) of the
+CST Act. While interpreting the said phraseology the Constitution Bench also construed identical
+phraseology found in Section 5(2) dealing with "in the course of import". The majority of the
+Constitution Bench speaking through Ray, C.J. upheld the decision of the High Court against the
+assessee and held that Section 5(1) of the CST Act a legislative meaning to the expressions "in the
+course of export" and "in the course of import". The expression "in the course" implies not only a
+period of time during which the movement is in progress but postulates a connected relation. Sale in
+the course of export out of the territory of India means sale taking place not only during the
+activities directed to the end of exportation of the goods out of the country but also as part of or
+connected with such activities. While considering the question whether the sale is in the course of
+export, the Constitution Bench ruled that the sale which is to be regarded as exempt is a sale which
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 19Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+causes the export to take place or is the immediate cause of the export. To establish export a person
+exporting and a person importing are necessary elements and the course of export is between them.
+The Constitution Bench also observed that sale or purchase in the course of import as envisaged by
+Section 5(2) of the CST Act which is a part materia provision and is almost a mirror image of the
+provision of Section 5(1) dealing with converse type of cases and heavily relied upon another
+Constitution Bench judgment in the case of Binani Bros (P.) Ltd. v. Union of India .
+63. In the case of Ferro Alloys Corporation Ltd. v. Union of India [1999] 112 STC 570, the Apex
+Court while reversing the judgment of the High Court held that the sales were not in the course of
+export. In this case, the price of the goods was in US cents, the destination was a foreign port,
+Richco was required to arrange a certificate pertaining to the discharge of the charge chrome at the
+discharging port, the final settlement of the price was to be based on the weight determined either at
+the port of discharge or at the works of the ultimate buyer and the analysis mentioned in the
+certificate. Whether the charge chrome fell below the specifications could only be determined by the
+assay carried out at the port of discharge. Title to the charge chrome passed to Richco only when the
+goods were found to have met the contractual specification, which was abroad. Therefore, the
+Charge Chrome Agreements were the contracts of sales of charge chrome and not the Off-take
+Agreement. The sales of charge chrome under the charge chrome agreements were sales to Richco
+abroad and the export of the charge chrome was occasioned by the charge chrome agreements. The
+sales were in the course of export within the meaning of Section 5(3).
+Consideration :
+64. Having heard the rival parties at length, having examined the statutory provisions on the canvas
+of the provisions of Article 286(1)(b) of the Constitution, let us first consider the strength of the
+submission canvassed by Mr. Sibal that the interpretation of Article 286(1)(b) cannot be regarded as
+a precedent while interpreting Section 5 of the CST Act. Let us now turn to Article 286 of the
+Constitution.
+65. As originally enacted, Article 286 fell into three parts : Article 286(1) prohibited the imposition
+of tax by a State on the sale or purchase of goods (a) outside the State, (b) in the course of import or
+export of the goods into or out of a territory of India and (c) sale as per fiction created by the
+explanation. Article 286(1)(a) originally contained the explanation, the reproduction of which is not
+necessary at this stage.
+66. The original explanation to Article 286(1) was deleted by the Constitution (Sixth Amendment)
+Act after the judgment in the Bengal Immunity Co. Ltd. v. State of Bihar , and Sub-articles (2) and
+(3) were inserted permitting the Parliament by law to formulate principles for determining when a
+sale or purchase of goods takes place in any of the ways mentioned in Sub-clause (1). The Parliament
+enacted Central Sales Tax Act, 1956 and formulated the principles for determining when a sale or
+purchase of goods takes place in any of the ways mentioned in Clause (1). Accordingly, Section 5
+formulates the principle for determining when the sale or purchase of goods can be said to take
+place in the course of import or export. Section 5(1) lays down when sale or purchase of goods said
+to take place in the course of export, whereas Section 5(2) provides when the sale or purchase of
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 20Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+goods said to take place in the course of import, Section 5(1) and Section 5(2) of the CST Act are
+similar. Section 5(2) is part materia and is almost a mirror image of the provision of Section 5(1)
+dealing with the converse type of case. The Constitution Bench judgment rendered by the Supreme
+Court in the case of State of Bihar v. Tata Engineering & Locomotive Co. Ltd. had examined pari
+materia provision in Article 286(2) of the Constitution dealing with the sales in the course of
+inter-State trade or commerce. The Constitution Bench considered its earlier decisions and observed
+that the decided cases established that sales would be considered as sales in the course of export or
+import or in the course of inter-State trade and commerce :
+"(1) when goods which are in export or import stream are sold; (2) when the contract
+of sale or law under which goods are sold require those goods to be exported or
+imported to a foreign country or from a foreign country as the case may be or are
+required to be transported to a State other than the State in which the delivery of the
+goods takes place, and (3) where as a necessary incidence of the contract of sale
+goods sold are required to be exported or imported or transported out of the State in
+which the delivery of goods takes place."
+From the above judgment it is clear that Article 286 and the interpretation put thereon by the apex
+Court from time to time can always be looked into while interpreting Section 5 of the CST Act. Thus,
+the submission canvassed by Mr. Sibal that it cannot be looked into is misplaced.
+67. Having said so, we must now consider Article 286(1)(b). The words, "in the course of
+......import.....or export" occurring in Article 286(1)(b) have given rise to considerable litigation. In
+State of Travancore-Cochin v. Shanmugha Vilas Cashew-nut Factory [1953] 4 STC 205 (SC),
+Patanjali Shastri, C.J. Observed :
+"A purchase for the purpose of export like production or manufacture for export, is
+only an act preparatory to export and cannot.....be regarded as an act done 'in the
+course of the export of the goods out of the territory of India'......"
+68. In Burmah-Shell case , the Supreme Court said that the crucial test for determining "export" was
+the sending of the goods to a foreign destination where they would be received as "import" even
+though there was no valuable consideration from the receiver at the destination. The words "export"
+and "import" are corelative terms, that is, each implied the other. Consequently, aviation spirit
+loaded on board an aircraft for consumption, though taken out of the country was not exported,
+since it had no destination where it could be said to be imported and was, therefore, not a sale in the
+course of export. Secondly, the consumption of the spirit was for the use of the aircraft and the sale
+was not integrally connected with the taking out of the aviation spirit, the sale was not for purposes
+of export, and Article 286(1)(b) was not attracted. Applying this decision, the Supreme Court in the
+case State of Kerala v. Cochin Coal Company Ltd. , held that the sale of bunker coal to be supplied
+from the assessee's depot in Candle Island in the State of Madras and trimmed into the ships
+standing in the port of Cochin enabling them to sail out of India were not sales "in the course of
+export" within Article 286(1)(b) merely because the coal was to be carried outside India. Thus, mere
+intention to export, without an actual export, is not sufficient to constitute "a sale in the course of
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 21Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+export."
+69. In B.K. Wadeyar, Sales Tax Officer v. Daulatram Rameshwarlal , the Supreme Court said it was
+well settled that if property in the goods passed to the buyer after they had crossed the customs
+frontier for the purposes of export to a foreign country, the sale had taken "in the course of export"
+out of India. The normal rule in F.O.B. Contracts was that, in the absence of a special agreement, the
+property in the goods did not pass until the goods were actually put on board the ship. Normal
+F.O.B. contracts were exempt from sales tax under Article 286(1)(b).
+70. Having understood Article 286(1)(b) in the language of the apex Court let us have a look at the
+provisions of Section 5 of the CST Act ; already reproduced hereinabove. Section 5 defines what
+Article 286 of the Constitution forbids and lays down the principles when a sale or purchase of
+goods takes place in the course of import into or export out of India. Since controversy has arisen as
+to the scope and interpretation of the principles laid down in Section 5(1) of the Act, it is necessary
+to dissect the said provision to understand the concept engrafted therein.
+71. According to Sub-section (1) of Section 5 of the CST Act a transaction of sale may take place in
+the course of export in the following ways, viz. :
+(i) Where the sale takes place in the course of export of goods out of the territory of
+India ;
+(ii) Where the sale occasions the export of goods out of the territory of India ;
+(iii) Where the sale effected by transfer of documents of title to the goods after the
+goods have crossed the customs frontiers of India.
+Let us now consider whether the sales effected by the petitioners can fall in either of the categories
+referred to hereinabove.
+In the course of export :
+72. The sale in order to fall under this category must be a single sale which itself causes the export or
+is in the progress or process of export. In order to understand this concept one may notice, as
+already referred to hereinabove, the simple transactions involved in Wadeyar's case where the
+course of export is quite clear and it is easy to see that the sale is integrally connected with export. In
+K.G. Khosla and Co. (P.) Ltd. v. Deputy Commissioner of Commercial Taxes , the phrase "in the
+course of import" was considered. It was held that in Section 3 of the CST Act the phrases "occasions
+the movement of goods from one State to another" and "occasions the import" means the same
+thing. The movement, it was pointed out must be the result of an agreement or an incident of
+contract of sale, although it was not necessary that the sale should precede the import. Applying the
+said concept to a converse transaction of export the movement of goods must be the result of an
+agreement or an incidence of contract of sale, although it is not necessary that the sale should
+precede the export.
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 22Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+73. A more direct authority is in Ben Gorm Nilgiri Plantations Co. , In that case, sales of the tea
+chests at auctions held at Port Cochin were claimed to be exempt from the levy of sales tax by virtue
+of Article 286(1)(b). The question in the facts of the case was whether the sale to the agent or the
+intermediary was a sale in the course of export out of India. The apex Court found nothing in the
+transaction from which a bond could be said to spring between the sale and intended export linking
+them as part of the same transaction. The sellers had no concern with the export, the sale imposed
+or involved no obligation to export and there was possibility that goods might be diverted for
+internal consumption. The court considered the sales as sales for export and not in the course of
+export.
+74. The principles to be deduced from the aforesaid case is that the phrase "sale in the course of
+export" comprises in itself three essentials : (i) that there must be a sale : (ii) that goods must
+actually be exported; and (iii) the sale must be a part and parcel of the export.
+75. It is no doubt true that each case will depend on its own fact. The facts always play their due part.
+Now turning to the facts of the case in hand the petitioners-sellers had no concern with the export.
+The sale did not involve any obligation to export. The sale was not the part and parcel of the
+transaction of the export. Turning to one of the conditions of delivery order, said to be the document
+containing terms and conditions of sale reads thus : "The goods referred to in this delivery order are
+not meant for consumption in India" which means the obligation is on the buyer not to consume in
+India. The seller has no obligation, not even to export. The seller is not involved in export. Breach of
+this clause does not in any way affect the sale. For example, if the goods are consumed on board the
+aircraft in India, can it be said that there is no sale ? Therefore, this clause which is inserted with an
+intention to give the colour of the transactions falling under Section 5(1) of the CST Act, does not in
+any way make the transaction of sale other than local sale. One more condition which is part of
+condition No. 4 of the delivery order cannot be overlooked, which reads as "the consignors shall not
+be liable for any deterioration in the quality of goods due to delay on consignee's part in taking
+delivery of goods", meaning thereby ; in the event of delay in taking delivery of the goods, may be
+due to cancellation of flight or due to some other technical defect in the aircraft preventing its travel,
+if the goods, namely, the eatables are spoiled the consignors will have to pay without taking the
+goods/eatables on board an aircraft. In such event there cannot be export. If this was so, such sale
+cannot be said to be a sale in the course of export. To constitute sale in the course of export, the sale
+must be a part and parcel of the export. The only sale which can give rise to export is the sale which
+by itself results in movement of the goods from the exporter to the importer. When the sale itself
+causes the export to take place that is to say when the exporter and the importer negotiate and
+complete the sale which without anything more would result in the export of the goods. No other
+sale can qualify for the exemption under Section 5(1) of the CST Act read with Article 286(1)(b) of
+the Constitution. The transaction of sale involved in the case in hand cannot be said to be a sale in
+the course of export. One of the indicia of sale in the course of export is the compulsion to export
+because the sale which is protected under Section 5(1) must itself be inextricably bound up with the
+export. This is not the situation in the case in question. Any buyer who himself is not the importer
+buys for export even if export ultimately results still it cannot be said to be a sale in the course of
+export. Such sale would be considered as sale for export assuming for the time being that Mr. Sibal
+is right in contending that merely taking goods out of the country without any destination amounts
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 23Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+to export.
+76. In short, any transaction of sale prior to the export of the commodity is not necessarily a sale "in
+the course of export", unless there is an integral bond between such sale and the actual exportation ;
+the contract of sale must be such that there is an obligation (either contractual or statutory) to
+export on the part of the buyer : a mere acknowledge on the part of the buyer that the goods are
+being purchased with intention of exporting is not enough.
+77. To establish an export, a person exporting and a person importing are necessary elements. As
+observed hereinabove, in the case at hand, no person exporting and person importing are to be
+found. What we get is a person selling, namely, the petitioners and the person purchasing the goods,
+namely, the foreign airlines. The purchase of goods is not for export but for consumption on board
+an aircraft during the period the aircraft is a foreign going aircraft.
+Sale which occasions the export :
+78. We are now required to find out what is meant by the phrase "sale which occasions the export".
+One thing is clear that language of Section 3, Section 5(1) and Section 5(2) of the CST Act is similar.
+The requirement of each of this provision for considering whether a sale or purchase of the goods
+can be said to have taken place in the course of inter-State trade or commerce or export or import
+are similarly worded. Under the first requirement so specified in each of the three cases, the sale or
+purchase in question should occasion the requisite movement of goods. This movement either may
+be from one State to another or it may be from another country to India or it may be from India to
+another country, as the case may be,
+79. How does one determine whether the sale has occasioned the movement of goods from India to
+another country ? The apex Court as well as the various High Courts in the course several decisions
+which have been referred to hereinabove have laid down some basic tests to find out whether the
+sale has occasioned the requisite movement of goods which we propose to apply to the case in hand.
+80. In Burmah-Shell case it was pointed out that the word "export" did not mean a merely "taking
+out of the country" but that the goods must be sent to a destination at which they could be said to be
+imported. The same meaning must obviously be given to the phrase "occasions the export". We have
+thus to see whether the sale is one which is connected with the export of the goods from this country
+to an importer in another country. The course of export can only begin if there is movement from an
+exporter to an importer as the result of the sale, and then only the sale can be said to occasion the
+export. It is not enough that the sale is followed by an export or is made for the purpose or with a
+view to export ; the sale must be integrally connected with the export.
+81. In B.K. Wadeyer's case it was held that if the property in the goods passed to the buyer after
+crossing the customs frontiers for export out of India, the sale was in the course of export. This is
+because the course of export had already begun and therefore the sale followed the commencement
+of the export operation.
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 24Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+82. The apex Court unequivocally ruled that concept of export in Article 286(1)(b) and under
+Section 5(1) of the CST Act postulates the existence of two termini as those between which the goods
+are intended to move and between which they are intended to be transported and not a mere
+movement of goods out of the country without any intention of their being landed in specie in some
+other foreign port. In other words, the person exporting and the person importing are the necessary
+elements as the course of export is between them (see apex Court judgment in Burmah-Shell ,
+Cochin Coal Company Ltd. [1961] 12 STC 1 and Ferro Alloys Corporation Ltd. [1999] 112 STC 570).
+The view expressed by the apex Court in the aforesaid judgments is that an export sale will only be
+where the sale is to a foreign buyer with whom the local seller has privity of contract and as a direct
+result of such sale of goods are transported across the customs frontiers of India and further even if
+there is no export sale, if the sellers are able to establish that they continue to be owner of goods up
+to or beyond the time when the goods entered the export stream or until after the goods had crossed
+the customs barrier, the sale by them would be one "in the course of export" even though the situs of
+sale may be in the local area.
+83. As already discussed hereinabove, in order to prove that a sale had occasioned in the course of
+export one has to prove not only that the goods have moved from a place inside India to outside, but
+to a place outside India. Mere taking of the goods out of India does not amount to export of the
+goods. In the present case eatables are sold by the petitioners to foreign airlines for consumption on
+board an aircraft during the period an aircraft is a foreign going aircraft. Such transaction cannot be
+treated either as sales in the course of export or the sales, which have occasioned export.
+84. The learned counsel for the petitioners relied upon the decision in the case of Sun Industries . In
+that case, respondent shipped certain goods from Calcutta intended for delivery at Colombo. The
+ship proceeded on the voyage leaving the Indian territorial waters, but developed engine trouble,
+returned and ran aground in Indian territorial waters at Pradeep Port. The Assistant Collector of
+customs rejected the respondents claim for drawback on the ground that the goods could not have
+been deemed to be exported. The Tribunal accepted the claim. On appeal the apex Court held
+affirming the view of the Tribunal, that when ship got clearance and moved out of the Indian
+territorial waters, the export was complete and the title in the goods had passed to the purchasers.
+When goods were taken beyond the territorial waters of India, in such situation goods can be said to
+have been, "taken to a place outside India" within the meaning of Section 2(18) of the Customs Act,
+1962. The fact that the ship was brought back to India did not affect the position. The export was
+complete and the respondent was entitled to the benefit of drawback. This decision relied upon by
+the petitioners is not of any assistance to it. In the above case admittedly, the destination of goods
+was Colombo, a place outside India. Such a destination is conspicuously absent in the present case.
+Apart from this, the case of Sun Industries came to be decided in the peculiar facts of that case. The
+claim of the petitioners that the destination of passengers or the destination of the aircraft should be
+the destination of eatables/goods cannot be accepted, as the goods sold were never intended to be
+taken to that destination. Even the alternative claim of the petitioners that the moment the goods
+were taken out of the Indian Territory the export was complete cannot be accepted.
+85. In the case of Madras Marine Co. v. State of A.P. , a division Bench of the A.P. High Court had
+occasion to consider the provision of Section 5(1) of the CST Act with reference to Article 286 of the
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 25Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+Constitution. In this case the assessee was a dealer in bonded stores and ship chandlers. It imported
+liquor from outside India and supplied it to vessels. The goods imported were kept in a bonded
+warehouse under the supervision of customs authorities. No customs duty was paid. On receipt of
+the orders from a ship's Masters, bills were prepared and goods were released. Customs officer
+accompanied the goods, kept them in a locker of the ship under the customs seal with an
+understanding that the seals would be opened and the goods made available for consumption only
+after the vessel travelled beyond the territorial waters of India. In the case in hand identical
+condition is to be found reading as, "the goods referred to in this delivery order are not meant for
+consumption in India." The assessees in this case of Madras Marine Co. [1984] 56 STC 155 (AP)
+contented that sale did not take place within the State and the sale was in the course of export and as
+such was not exigible to tax. Negativing the contention of the dealer, the division Bench of the High
+Court on the facts and circumstances of the case held that sale took place within the State and the
+sale was not in the course of export and was exigible to local sales tax.
+86. In the case of the same assessee, i.e., Madras Marine and Co. v. State of Madras [1986] 63 STC
+169, the apex Court, affirming the decision of the High Court and dismissing the writ petition and
+special leave, petitions held that as the goods were in bonded warehouses within the State of Tamil
+Nadu in case of ascertained goods at the time when the contract of sale was made and in case of
+unascertained goods at the time of their appropriation to the contract by the company, sales must be
+deemed to be within the State of Tamil Nadu under Section 4(2) of the CST Act. Delivery on board
+the foreign bound ship within the territorial waters did not make the sale one outside the State of
+Tamil Nadu. This was not a case of export as there was no destination for the goods in a foreign
+country. A sale therefore, beyond the customs barrier may still be a sale within the State.
+87. From the above, it is clear though petitioners claim that the sales made by them were effected in
+the course of exports there was no place of destination outside India to treat the sales effected by the
+petitioners as sales in the course of export. The sales were effected to the customer who is a foreign
+airlines for consumption on board an aircraft during the course of foreign going journey which may
+have incidentally taken the goods beyond the territory of India for consumption of their foreign
+going passengers, that by itself could not be considered that the sales were effected in the course of
+exports. When a place of destination outside India is absent, mere transportation of goods beyond
+the Indian Territory does not amounts to sale in the course of export.
+Sale by transfer of documents of title to the goods after the goods have crossed the customs frontiers
+of India :
+88. Sales effected within the State by the exporter by transfer of document while the goods are
+beyond the customs frontiers of India are also within the exemption conferred by Sub-clause (1) of
+Section 5. Before considering the hotly contested issue as to whether or not on the facts and in the
+circumstances of the case the sale has taken place by transfer of title to the goods, we would prefer to
+address our self on another equally debated issue as to what is the concept of "crossing the customs
+frontiers of India" or, in other words, when the goods cross the Indian customs frontiers.
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 26Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+89. Mr. Sibal, learned counsel for the petitioners pressed into service the judgment of the West
+Bengal Taxation Tribunal in Brijlal Tulsian v. Commercial Tax Officer [1997] 107 STC 75, to contend
+that the sales in question have taken place after crossing the customs frontiers of India, as such the
+sales occasioned export. At this state it is necessary to observe that reading of second limb of Section
+5(1) of the CST Act makes it clear that if the sale is effected by transfer of documents of title to goods
+after the goods have crossed the customs frontiers of India, then the sale is deemed to have taken
+place in the course of export of the goods outside the Indian territories.
+90. The definition in Section 2(ab) of the CST Act of the phrase, "crossing the customs frontiers of
+India" reads thus : "crossing the custom frontiers of India means crossing the limits of area of a
+custom station in which imported goods or export goods are ordinarily kept before clearance by
+customs authorities". It was inserted by an amendment in 1976. The objects and reasons of the
+amendments were that the phrase had been interpreted to mean coterminus with the extent of
+territorial waters. This had given rise to practical difficulties, as it was difficult to determine whether
+at the time of sale or purchase the goods had entered or crossed the territorial waters. The actual
+checking of the goods used to take place in the customs station and not at the edge of the territorial
+waters. It was, therefore necessary to so define the expression. A customs station has, by reason of
+explanation to Section 2(ab), the same meaning as in the Customs Act, 1962 and that is "any
+customs port, customs airport or land customs station." A customs port is any port appointed under
+Clause (a) of Section 7 of the Customs Act to be a customs port (that Sahar International Port is a
+customs port is not in dispute) and includes a place appointed under Clause (ab) of that section to
+be an inland container report. Customs airport means any airport appointed under Clause (a) of
+Section 7. Land customs station means any place appointed under Section 7(b). A reading of Section
+2(ab) makes it clear that if the goods cross the area of the customs station, viz., the customs port
+which is notified under Section 7 of the Act, and if the transfer of title in goods is effected by transfer
+of documents of title then it amounts to sale in the course of import.
+91. In the light of the above, it is necessary to understand the concept of crossing the customs
+frontiers of India as defined under Section 2(ab), The customs area has been defined in Section 2(11)
+of the Customs Act as the area of customs station including the area where the export goods or
+import goods are ordinarily kept before clearance by the customs authorities. There is no definition
+of customs frontiers in the Customs Act. Section 2(ab) of the CST Act defines "crossing the customs
+frontiers of India" as crossing the limits of the area of a customs station in which imported goods or
+export goods are ordinarily kept before clearance by customs authorities. In the explanation to the
+said definition it is stated that the definition of expression "customs station" and "customs
+authorities" in the Customs Act shall apply to the CST Act. Therefore, within the meaning of Section
+5(1) of the CST Act the expression "crossing the customs frontiers of India" means crossing the
+limits of area of customs station in which the goods for export are ordinarily kept before clearance
+by the customs authorities, Thus, unless the limits of the customs station are crossed, the goods do
+not cross the customs frontiers of India.
+92. According to Mr. Bharucha, learned counsel for the respondents, so long as the goods do not
+cross the area of any customs port, and here, the Sahar Airport, the transfer of title to goods will
+always be regarded as a local sale. According to Mr. Bharucha, merely storage of the goods in the
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 27Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+customs area for delivery on delivery van or supply unit will not amount to crossing the limits of
+customs station. According to him, it is necessary that the goods must go out of the customs station
+by crossing the outer limits so that it would amount to crossing the area of customs station.
+According to him, mere bringing of goods into the customs station or on tarmac after customs and
+quarantine clearance will not amount to crossing the limits of customs area unless those goods have
+crossed the limits of customs station. Mere parking of the supply unit with goods even after
+completing the customs formalities will not amount to crossing of the customs frontiers of India.
+93. In order to explain concept of crossing of the customs frontiers of India, Mr. Bharucha, relied
+upon the decision of the Supreme Court in Kiran Spinning Mills v. Collector of Customs . As held by
+the Supreme Court in the case of Kiran Spinning Mills v. Collector of Customs , which arose under
+the Additional Duty of Excise (Textiles and Textile Articles) Ordinance, 1978 the taxable event is the
+crossing of the customs barrier, and not the date when the goods had landed in India, or had
+entered the territorial waters. When goods are imported into India even after the goods are
+unloaded from the ship, and even after the goods are assessed to duty subsequent to the filing of a
+bill of entry, the goods cannot be regarded as having crossed the customs barrier until the duty is
+paid and the goods are brought out of the limits of the customs station. In the case of Kiran Spinning
+Mills v. Collector of Customs , the apex Court has observed thus :
+"In other words, the taxable event occurs when the customs barrier is crossed. In the
+case of goods which are in the warehouse, the customs barriers would be crossed
+when they are sought to be taken out of the customs and brought to the mass of
+goods in the country."
+Based on the above judgment Mr. Bharucha contended and, in our opinion, rightly that in case of
+import the customs frontiers of India are not crossed until the goods find their free access into the
+country by crossing the outer limits of the area of customs station which is possible only at the time
+of clearance by the customs authorities. According to him, under Section 5(2) read with Section
+2(ab) of the CST Act and the relevant definitions in the Customs Act, the expression "before goods
+have crossed the customs frontiers of India" means before the goods have crossed the limits of
+customs station, namely, a customs port, or in other words, before the goods have crossed entire
+area of customs station including its outer boundary so that the goods can find their free access into
+the country beyond the customs station upon clearance by the customs authorities.
+94. Mr. Bharucha, learned counsel for the respondents, applying the above concept to a converse
+case of export, submits that in case of import the expression "before the goods have crossed the
+customs frontiers of India" means the goods must have crossed the limits of area of customs station,
+namely, customs port. In other words, the goods must move or undertake onward journey to a
+foreign destination and cross entire customs station including its outer boundary. Turning to the
+facts of this case, Mr. Bharucha submitted that the sales in question are complete much prior to
+crossing the limits of the area of customs station in which the goods are ordinarily kept by the
+customs authorities. In other words, the sales are complete before the goods have crossed customs
+station. Sales being before crossing the customs frontiers of India the sales are local sales exigible to
+local sales tax.
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 28Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+95. Mr. Sibal, learned counsel for the petitioners, in rejoinder, relying upon the judgment of the
+apex Court in the case of Minerals and Metals Trading Corporation of India Ltd. v. State of A.P.
+[1998] 110 STC 394, brought to our notice a passage in Empresa Siderurgica, S.A. v. Merced 337 US
+154 reading as under :
+"It is the entrance of the articles into the export stream that marks the start of the
+process of exportation. Then there is certainty that the goods are headed for their
+foreign destination and will not be diverted to domestic use. Nothing less will
+suffice."
+In his submission, once the goods are kept in the customs station, then, the goods shall be deemed
+to have been in the export stream. In our opinion, the concept sought to put in service cannot be
+applied to the facts of this case. The facts aforestated show that the delivery order is handed over to
+the foreign airlines prior to the goods crossing the customs frontiers of India. We see no difficulty in
+accepting the submission urged by Mr. Bharucha on this count. The submission sought to be
+advanced by Mr. Sibal with respect to the nature of the document styled as "delivery order" to
+contend that it is a document of title, which Mr. Bharucha strongly refuted has become otiose in
+view of our findings recorded hereinabove. Either way, the finding on this question shall not change
+any complexion of the findings recorded or view taken by us on the substantive issue. We, therefore,
+do not propose to dwell further on this issue.
+96. Having held that the sales are complete before the goods have crossed the customs station or
+before crossing the customs frontiers of India, let us find out as to when or at what point of time the
+sale is complete in the facts of the present case.
+97. Let us first examine the meaning of sale as defined in the Act. Section 2(g) of the CST Act
+defines, "sale" thus :
+"'Sale' with its grammatical variations and cognate expressions, means any transfer of
+property in goods by one person to another for cash or for deferred payment or for
+any other valuable consideration, and includes a transfer of goods on the
+hire-purchase or other system of payment by instalments, but does not include a
+mortgage or hypothecation of or a charge or pledge on goods."
+The above definition of sale in the Act shows that the word sale has been given a very wide meaning
+so as to include not only the sale of goods but also the transactions, namely, a transfer of goods on
+hire-purchase system. Further, the use of words, "sale of goods" in Section 3 of the CST Act and the
+words, "contract of sale" occurring in Section 4(2) of the CST Act has been assigned the same
+meaning which is wider to the meaning of sale in the general law. In such a situation the word "sale"
+defined in Section 2(g) and also employed in Section 4 of the CST Act would embrace not only
+completed contract but also the contract of sale or agreement of sale even if such contract of sale or
+agreement of sale provides for delivery of goods as an incident of the contract of sale. This matter
+may be examined from another angle. An agreement to transfer goods to the buyer for a price is an
+important element of sale and the same can also be borne out from Section 4 of the Sale of Goods
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 29Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+Act. If Section 4 of the Sale of Goods Act is read along with Section 4 of the CST Act it would mean
+that an agreement to sale would be a sale within the meaning of "sale" provided that such agreement
+of sale stipulates such delivery of goods or delivery of goods is an incident of the contract of sale, in
+that case, such delivery of goods would be deemed to be occasioned by the sale. It is immaterial that
+actual delivery takes place later on. The apex Court had an occasion to adopt the similar
+interpretation of the word "sale" as defined under Section 2(9) of the CST Act while considering the
+sales involved in the inter-State transaction in the backdrop of Section 3 of the said Act in the case of
+State of Maharashtra v. Embee Corporation . The language of Sections 3, 5(1) and 5(2) of the CST
+Act is similar.
+98. If the above interpretation is applied to the sale in question as projected in the petition, then, it
+would mean that irrespective of the condition in the agreement of sale that delivery of goods shall be
+after customs clearance, i.e., after goods have cleared all local customs, quarantine and all other
+legal formalities and are kept ready for delivery at the consignors' supply unit across the Sahar
+customs station, even in the presence of such condition in the agreement, compliance of customs
+clearance and other formalities on the part of the seller would be nothing but the incidence of
+contract of sale which can be said to have already taken place when the goods moved from flight
+kitchen which is located within the State, i.e., much before the delivery of goods and therefore, in
+our opinion, the sale in question shall be exigible to local sales tax under the BST Act.
+99. Let us now switch over to another shed of the same issue. The submissions advanced by Mr.
+Bharucha, learned counsel for the respondents on second aspect of the same issue is that Section 4
+of the CST Act is a deeming provision. It provides that in the case of unascertained goods, if the
+goods are within the State (i.e., in the present case State of Maharashtra) at the time of
+appropriation to the contract, the sale would be deemed to be a sale inside the State. In his
+submission, in the facts of the present case, admittedly, even according to the petitioners
+appropriation takes place at tarmac at Sahar Airport which is within the territorial limits of the State
+of Maharashtra. According to him, customs barrier or customs frontier does not affect the territorial
+limits of the State for sales tax purposes. Once the appropriation takes place within a State, it is a
+sale within that State and cannot be regarded as sale in the course of export.
+100. Mr. Bharucha submits that all the ingredients of sale within the State, in so far as relevant to
+the facts of the present case are concerned, are satisfied, as such the sale in question is a sale in the
+State of Maharashtra liable to be taxed under the BST Act. He submits that it is not at all necessary
+to consider the provisions of the CST Act. This Court should stop at the stage of Section 4 of the BST
+Act only.
+101. We may at this stage proceed to consider and find out the place of appropriation of contract in
+the light of the provisions of the Sale of Goods Act, 1930. It may be noted that exactly when property
+in goods passes from the seller to the buyer depends on the intention of the parties. This intention
+may, at times, be clearly expressed. If such intention is not clear, it has to be gathered from the
+conduct of the parties and from the circumstances of the case. Now, since parties may sometimes
+express their intention obscurely, courts in England have evolved certain rules of construction to
+govern such sales. Similar rules have been adopted by the Indian Sale of Goods Act, 1930. Thus,
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 30Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+rules contained in Sections 20 to 24 of this Act apply, unless the parties have agreed otherwise. The
+Indian Sale of Goods Act as stated is based largely upon the English and American Acts. Under these
+Acts, namely, the English Sale of Goods Act, the American Uniform Sales Act and the Indian Sale of
+Goods Act, the relevant factor for determining where the sale takes place, is the intention of parties.
+A contract of sale, like any other contract, is a consensual act inasmuch as parties are at liberty to
+settle, amongst themselves, any terms they may choose.
+102. Section 19 attempts to give effect to the elementary principle of the Law of contract that the
+parties may fix the time when the property in the goods shall be treated to have passed. It may be
+the time of delivery, or the time of payment of price or even the time of the making of contract. It all
+depends upon the intention of the parties. It is, therefore, the duty of the court to ascertain the
+intention of the parties and in doing so, they have to be guided by the principles laid down in Section
+19(2) which provides that for ascertaining the intention of the parties, regard shall be had to the
+terms of the contract, the conduct of the parties and the circumstances of the case.
+103. Section 19 of the Sale of Goods Act indicates that in case of unconditional contract of sale in
+respect of specified goods in a deliverable State, the property in the goods passes to the buyer at
+such time as the parties intend it to be transferred. Section 19(3) provides that Sections 20 to 24
+contain the rules for ascertaining the intention of the parties as to the time at which the property in
+the goods shall be treated to have passed to the buyer. Both Sections 19 and 20 apply to the sale of
+"specific" or "ascertained" goods.
+104. In Roe Kim Seing v. Maung Ba Chit , it was held that intention of the parties was the decisive
+factor as to when the property in goods passes to the purchaser. If the contract is silent, intention
+has to be gathered from the conduct and circumstances of the case.
+105. To understand the rules as to passing of property, goods can be divided into three categories. In
+other words, for the purpose of transfer the property as between seller and buyer, goods can be
+divided into three classes, viz., (i) specific or ascertained goods ; (ii) generic or unascertained goods ;
+and (iii) goods sent for approval or "on sale or return" basis.
+106. The rules governing passing or transfer of property in the case of generic or unascertained
+goods are to be found in Sections 18 and 23 of the Sale of Goods Act.
+107. Section 18 lays down where there is a contract for the sale of unascertained goods,--no property
+in the goods passes to the buyer, unless the goods are ascertained. For example, if "A" agrees to sell
+to "B" 20 tons of oil of certain description in his cistern, and he has more than 20 tons of oil of that
+description in his cistern, no property passes to "B", until the 20 tons are separated from the rest
+and they are appropriated to the contract. Considering the rule engrafted in Section 18 and applying
+it to the facts of the case in hand, it is not difficult to hold that when the order is placed in flight
+kitchen it is for unascertained goods but the moment foodstuffs are prepared and goods are
+separated from the rest, they are deemed to have been appropriated to the contract. Assuming that
+we are not right in taking this view, even then, the petitioners are not in a better position in view of
+Section 23 of the Sale of Goods Act.
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 31Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+108. Section 23 of the Sale of Goods Act speaks about "sale of unascertained goods" and the
+appropriation which reads as under :
+"23. Sale of unascertained goods and appropriation.--(1) Where there is a contract for
+the sale of unascertained or future goods by description and goods of that description
+and in a deliverable state are unconditionally appropriated to the contract, either by
+the seller with the assent of the buyer or by the buyer with the assent of the seller, the
+property in the goods thereupon passes to the buyer. Such assent may be expressed
+or implied, and may be given either before or after the appropriation is made.
+(2) Delivery to carrier.--Where, in pursuance of the contract, the seller delivers the
+goods to the buyer or to a carrier or other bailee (whether named by the buyer or not)
+for the purpose of transmission to the buyer, and does not reserve the right of
+disposal, he is deemed to have unconditionally appropriated the goods to the
+contract."
+Let us take a simple example to understand the rule incorporated in Section 23 of the Sale of Goods
+Act. Thus, "A" having quantity of sugar in bulk more than sufficient to fill 20 hogsheads, contracts to
+sell to "B", 20 hogsheads of sugar. After the contract, A fills 20 hogsheads with sugar, and gives
+notice to B that hogsheads are ready, and require him to take them away. "B" says that he will take
+them as soon as he can. By this appropriation by "A", and assent by "B", the property in sugar passes
+to "B" (see Rodhe v. Thwaites, 1827 6 B&C 388).
+109. The petitioners, in the present case relied upon the. affidavit of Mr. Sanjay Narang dated April
+19, 1988 to spell out the terms of contract which, in our opinion, cannot be proved in such a manner.
+But for the time being let us presume that they are the terms of contract. From the affidavit, it is
+clear that the foreign airlines place an order with the petitioners for future goods. They are first class
+lunch/dinner which includes vegetarian and non-vegetarian food with super class breakfast
+including fresh juices, bread rolls, ice cubes, tea bags, fresh lime, jerry cans, etc. At the time of
+receipt of the order, the goods are not ready, they are unascertained goods. They are made ready in
+the Flight Kitchen. The flight kitchen transfers the same to the supply unit to be parked inside the
+International airport after completing customs, quarantine and other legal formalities and keep
+ready for being delivered to a foreign going aircraft. The final requirement of the quantity is notified
+to the supply unit just a few minutes before the flight takes off with slight modification or change in
+the quantity depending upon the eleventh hour cancellation or sale of tickets on counter. In the
+circumstances, it is not difficult to imagine that when the order is received by the flight kitchen the
+goods are unascertained. After receipt of the order the goods are segregated and food articles are
+prepared and are made ready for being delivered through supply unit at airport. Thus the goods are
+ascertained in the flight kitchen itself. Once the food articles are cooked and prepared they can be
+said to be the "specific goods" in deliverable State. When the goods are loaded in the supply unit and
+the same is dispatched to the international airport they are in a deliverable State. At this juncture, if
+one takes a look at the terms and conditions of the delivery order, Clause (4) thereof reads as under :
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 32Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+"4. Since this delivery order is being presented after the goods have cleared all local
+customs, quarantine and the legal formalities and are ready for delivery at consignors
+supply unit across the Sahar customs station the consignee is liable to take delivery of
+the goods with utmost despatch and the consignors shall not be liable for any
+deterioration in the quality of the goods due to delay on consignee's part in taking
+delivery of the goods."
+Reading of the aforesaid clause/condition would show that upon clearance of customs, quarantine
+and other legal formalities when the consignor's supply unit is ready for delivery across the Sahar
+customs station, the consignee is bound to take delivery of goods and the consignor is absolved of
+the liability of the deterioration of the quality of the goods due to delay on consignee's part in taking
+delivery of the goods. What this condition denotes ? This condition clearly denotes that even prior to
+the delivery of the said order the title in the goods is passed or transferred to the foreign airlines
+subject to some minor plus or minus variation in the quantity of food articles depending upon 11th
+hour flight occupancy. Such condition is nothing but incorporation of rule contained in Section 23 of
+the Sale of Goods Act. Such condition can only be justified on the touch stone of Section 23. Once
+the goods are ready for supply, the goods are ascertained and appropriated to the contract.
+Alternatively, assuming that the sale can be said to have taken place with the completion of customs
+and quarantine formalities but before delivery of delivery order or goods in question. Such a sale
+being in the State of Maharashtra the same shall have to be treated within the net of the BST Act.
+110. Having said so, let us turn to another condition, namely, condition No. 5, which reads as under :
+"5. Notwithstanding the goods referred to herein being damaged and/or destroyed
+the consignee shall be liable to make payment for the same to the consignor and shall
+be entitled to receive any insurance claim receivable for such goods."
+This condition also clearly reiterates that the title of the goods stands transferred to the foreign
+airlines when their orders are accepted by the flight kitchen and goods are prepared and/or
+procured by them.
+111. The cumulative reading of the above condition Nos. 4 and 5 would clearly spell out that these
+are the terms and conditions of the contract between the parties. That the seller is not liable for
+future loss due to deterioration in quality of the goods and that the goods are being dispatched at the
+risk of the petitioners may be through supply unit. Reading of condition 5 further compels us to
+logically infer that the consignee, namely, the foreign airlines under terms and conditions of the
+contract between the parties (which are not on record) appears to have taken insurance holding
+themselves as title holders of the goods so as to entitle them to receive an insurance claim for such a
+goods in the event of loss or damages to the goods. In other words, the foreign airlines/consignee
+has also paid premium for policy of insurance. Thus the consignee has treated the goods as its own
+property so that in the event of loss in transit they can validly set up their claim with the insurance
+company to get themselves compensated. In the circumstances, it is clear that the title in goods
+passes in favour of the foreign airlines in the State of Maharashtra.
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 33Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+112. Turning to the other aspect of the matter, relying on the submission of Mr. Sibal that the
+delivery order is a document of title, let us examine one more factor leading to time fact vis-a-vis
+operation of the conditions Nos. 4 and 5 extracted hereinabove. These terms and conditions are to
+be found in the delivery order. The delivery order is to be handed over to the consignee with the
+delivery of goods. Once the goods are delivered with delivery order, then sale of goods with delivery
+of goods is complete, in that event, the question of deterioration of quality of goods can hardly arise.
+No such question can arise once the delivery is accepted by the airlines and the sale is complete. This
+question would arise only in the event of non-delivery of goods or sale not being complete. In that
+event there cannot be delivery of delivery order. In absence of delivery order there cannot be a
+concluded contract enabling the consignor to claim damages even if goods are deteriorated in
+quality due to delay in taking delivery unless there is some other hidden contract between the
+parties.
+113. We may at this stage observe as stated hereinabove that in the instant case, the deed of contract
+between the parties is not on record. The original terms and conditions of contract are also not on
+record. The facts clearly reveal that prior to the impugned transactions of sale the petitioners were
+treating the transaction of sales between them and the foreign airlines as the local transactions
+falling within the sweep of the BST Act and they were paying sales tax on sales effect in favour of
+foreign airlines. It is not possible for us to conceive that there may not be a written contract between
+the parties specifying the terms and conditions of the contract. It appears that subsequently,
+tailor-made terms and conditions of the contract were prepared and got printed on the back of the
+delivery order so as to bring the transactions of sale within the purview of Section 5(1) of the CST
+Act. As a matter of fact, condition Nos. 4 and 5 do suggest existence of written contract between the
+parties other than the contract sought to be projected in the shape or form of delivery order. The
+terms of contract could not have been proved by filing affidavit of Mr. Sanjay Narang. Since the
+petitioners have invoked jurisdiction under Section 52 of the BST Act, it was obligatory on their part
+to produce terms of contract on record if they wanted fair adjudication of the issue in their favour.
+Since both the authorities below relied upon the affidavit of Mr. Narang, we have also relied upon
+the same but with some reservation. The petitioners could not be heard of saying that burden of
+proof was on the authority collecting tax to show how are they entitled to claim the same and not on
+the petitioners. The apex Court in Hiralal v. Badkulal held :
+"Suit for recovery of amount due on basis of adjustment of accounts signed by
+defendant. Defendant denying correctness of amount found due. Defendant who is in
+possession of account books kept by him and from which the balance could be
+ascertained should produce them before court. He cannot be heard to say, relying
+upon the abstract doctrine of onus of proof, that it was no part of his duty to produce
+them unless he was called upon to do so."
+114. We, therefore, are of the view that the real contract between the petitioners and airlines is not
+on record. Had it been on record, it would have gone against the petitioners. In our view the
+material is on record is sufficient to justify the findings recorded by the Tribunal. Assuming that we
+are not right in our view, even then with the delivery of delivery order the sale being at tarmac
+before the goods having crossed the customs frontiers of India, the sale in question would be a local
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 34Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+sale.
+115. One more potent contention advanced by Mr. Bharucha needs little reference which suggests
+that the ship stores include foodstuff, alcoholic and other beverages since the goods are taken on
+board an aircraft to meet the requirements of the foreign going passengers. He further submits that
+the Customs Act being substantive law governing the customs, the provisions thereof can be looked
+into to find out as to how the goods in question were treated by the customs authorities.
+116. He submits that under Section 69 of the Customs Act the goods can only be exported under the
+shipping bill or a bill of export. No such document is brought on record by the petitioners though
+they are presumed to be in possession thereof. Mr. Bharucha further submits that it is also difficult
+to believe that there would be no documents in possession of the petitioners to show as to what
+procedure was adopted and how the goods were treated by the customs when the goods were
+allowed to be taken on board an aircraft. Mr. Bharucha submits that in absence of any other
+evidence one can look into the provisions of the Customs Act and reasonably infer that the goods
+must have been treated as ship stores under Section 89 of the Customs Act. The customs officer
+must have determined the quantities having regard to the number of passengers and crew and
+length of the journey of the aircraft at the time of its departure while permitting airlines to take the
+goods on board. He also relied upon the Circular No. 37/96-Cus dated July 3, 1996 and judgment of
+the CEGAT in the case of Commissioner of Customs v. Saibaba Ship Breaking Corporation in
+support of his submission. It is true that the petitioners have not produced any documents in this
+behalf. In the circumstances of the case, Mr. Bharucha tried to contend that if the goods are treated
+as ship stores then, in that event, possibility of export of the goods to any other country has to be
+excluded. In his submission, the case of Burmah-Shell will apply with full force if this contention is
+accepted. In our view, the submission advanced by Mr. Bharucha, no doubt is a potent contention
+but for want of documents and clear evidence with facts on record with respect to the procedure
+adopted by the customs no positive finding in this behalf can be recorded so as to reach to the
+finding that the goods supplied by the petitioners were ship stores.
+117. In the result, in view of the aforesaid conclusions reached by us and in view of our finding that
+this transaction is not covered by the provision of Section 5(1) of the CST Act, in other words, in
+view of our finding that sale of goods by the petitioners to the foreign going airlines is a local sale
+within the meaning of the BST Act and not a sale covered under Section 5(1) of the CST Act, the
+petition fails and accordingly dismissed, however, with no order as to costs.
+At this stage the learned counsel appearing for the petitioners sought continuation of the interim
+order which is already operating in favour of the petitioners right from the inception of the petition,
+so as to enable them to approach the apex Court. This request made by learned counsel for the
+petitioners is opposed by Mrs. Kajle, appearing for the revenue. However, considering the issues
+involved and the complexity thereof and taking into account the fact that the stay has been operating
+right from the inception of the petition, we see no difficulty in extending the period of interim relief
+for further period of twelve weeks from today. Accordingly, the interim relief is extended for twelve
+weeks from today.
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 35Narang Hotels And Resorts Pvt. Ltd. vs State Of Maharashtra And Ors. on 9 October, 2003
+C.C. expedited.
+Indian Kanoon - http://indiankanoon.org/doc/1402605/ 36

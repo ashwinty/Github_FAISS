@@ -1,0 +1,383 @@
+Metadata: id=>365
+name=>Paul vs Saleena on 17 December 2003
+date=>17 December 2003
+court=>High Court
+link=>http://indiankanoon.org/doc/126137/
+-----
+Content: Paul vs Saleena on 17 December, 2003
+Paul vs Saleena on 17 December, 2003
+Equivalent citations: 2004(1)KLT924
+Author: K.S. Radhakrishnan
+Bench: K.S. Radhakrishnan, Pius C. Kuriakose
+ORDER
+K.S. Radhakrishnan, J.
+1. Would the bar under Section 11(9) of Act 2 of 1965 affect an application filed under Section 11 of
+the Act if the parties are governed by an unregistered lease deed is the interesting question that has
+come up for consideration in these cases.
+2. Tenants are the revision petitioners in these cases. Petitions for eviction preferred under Section
+11(2)(b), 11(4)(ii) and 11(4)(v) were resisted by the tenants under Section 11(9) of the Act on the
+ground that where the tenancy is for a specific period agreed to between the landlord and the tenant,
+landlord is not entitled to apply before the Rent Control Court for an order of eviction before the
+expiry of that period.
+3. C.R.P. No. 1628 of 1997 arises out of R.C.P. No. 2 of 1990, a petition filed by the landlord under
+Sections 11(2)(b) and 11(4)(ii) of the Act. Parties are governed by Ext. A2 rent agreement dated
+5.9.1988. Room was let out on a monthly rent of Rs. 750/-. Rent Control Petition was filed on
+3.2.1990 claiming arrears of rent under Section 11(2)(b) and the Rent Control Court found that
+tenant had committed default in payment of rent from 5.10.1988 onwards till 31.12.1990 at the rate
+of Rs. 750/- per month and ordered eviction under Section 11(2)(b). Rent Control Court also allowed
+the plea of the landlord that the tenant has used the building in such a manner as to destroy or
+reduce its value or utility, materially and permanently. Appellate Authority also confirmed the
+findings of the Rent Control Court.
+4. C.R.P.No. 1764 of 1999 arises out of R.C.P.No. 35 of 1995 which is a petition filed by the landlord
+under Sections 11(2)(b) and 11(4)(v). Parties are governed by Ext.A1 rent dated 17.1.1994. Schedule
+room was rented out on a monthly rent of Rs. 400/-. Landlord claimed arrears for the period from
+January 1995 to July 1995. Rent Control Court noticed that there is no arrears of rent. Consequently
+claim under Section 11(2)(b) was rejected. Noticing that the tenant had ceased to occupy the
+building continuously for a period of six months without reasonable cause, the Rent Control Court
+ordered eviction. Appeal filed against that order was rejected.
+Indian Kanoon - http://indiankanoon.org/doc/126137/ 1Paul vs Saleena on 17 December, 2003
+5. C.R.P. No. 1985 of 1999 arises out of the order in LA. No 291 of 1998 in R.C.P. No. 30 of 1997.
+I.A.No. 291 of 1998 was filed for setting aside the ex parte order. Rent Control Court found no
+reason to set aside the order and dismissed the application. Appellate Authority confirmed the said
+order against which this revision was filed by the tenant.
+6. Ext. A2 unregistered lease deed dated 5.9.1988 governs the parties in C.R.P.No. 1628 of 1997. Ext.
+A2 would indicate that the petition schedule building was let out for a period of 15 years for the
+purpose of carrying on the business of selling gold and silver ornaments. Rate of rent shown in the
+document is Rs. 750/- per month which had to be paid by the tenant on or before fifth of every
+month. Rent Control Petition was filed on 3.2.1990 before the expiry of fifteen years from the date of
+agreement. In CRP No. 1764 of 1999 parties are governed by Ext. A1 rent chit dated 17.1.1994. Rate
+of rent fixed was Rs. 400 per month and the period of lease is for five years. Rent Control Petition
+was filed on 24.7.1995. In CRP No. 1985 of 1999 also parties are the same in CRP No. 1764 of 1999
+and are governed by the same rent chit dated 17.1.1994. In that case rent control petition was filed
+on 4.7.1997 within a period of five years.
+7. The question that is posed for consideration as we have already mentioned, is whether tenant
+could use the unregistered lease deed as a defence under Section 11(9) of the Act to defeat a claim
+raised by the landlord within the period specified in the lease deed for eviction of the tenant on any
+of the grounds mentioned in Section 11 of the Act? The Kerala Buildings (Lease and Rent Control)
+Act, 1965 is an Act enacted to regulate the leasing of buildings and to control the rent of such
+buildings in the State of Kerala. The reason for the enactment is to regulate the leasing of the
+buildings, prevention of unreasonable eviction of tenants and also for control of rent. The Act is a
+self contained statute and the rights and liabilities of the landlord and tenant are to be governed by
+its provisions. Rights available to the tenant and landlord under the general law and the Transfer of
+Property Act are substantially curtailed by the provisions of the Rent Control Act. Though Rent
+Control Act is a piece of social legislation mainly to protect tenants from frivolous eviction, certain
+salutary provisions have also been made in the Act in order to do justice to the landlord. The
+legislation is neither pro-tenant nor-pro-landlord. Rent Control Act does not clearly disable the
+provisions contained in the Transfer of Property Act as far as rights of parties are concerned. At the
+same time, it makes provision for eviction on such specified grounds and it cannot be resisted on the
+basis of rights conferred under the Transfer of Property Act. When eviction is sought by the landlord
+under the provisions of the Rent Control Act and once the requirement contemplated under the
+Rent Control Act are satisfied, tenant cannot claim total prohibition of eviction on the basis of the
+provisions contained in the Transfer of Property Act or the provisions contained in the Contract Act.
+8. Section 11 of the Act confers certain rights on the landlord to get the tenant evicted on specified
+grounds. But Section 11(9) gives an assurance to the tenant that he would not be evicted for a
+specified period if parties so agree so that he could modulate his future course of action accordingly.
+Grounds of bonafide need for own occupation or his dependent who is a member of his family or
+requirement of additional accommodation etc. are not available to be raised by the landlord during
+that specific period. But if the tenant fails to pay rent or without the consent of the landlord sublets
+the building or transfers his rights or uses the building in such a manner as to reduce its value or
+utility materially or permanently or ceased to occupy the building, landlord can seek an order of
+Indian Kanoon - http://indiankanoon.org/doc/126137/ 2Paul vs Saleena on 17 December, 2003
+eviction even if a specific period is mentioned in the lease deed and Section 11(9) will not therefore
+be a bar. There are certain statutory prohibitions, which the tenant is bound to honour unless a
+contrary intention is spelt out from the agreement. On the guise of specific period mentioned in the
+agreement the tenant is not expected to sublease the premises unless otherwise agreed to or
+destroys the utility or value of the tenanted premises materially and permanently or commits default
+in payment of rent or violates the statutory obligations. Section 11(9) calls for a purposive
+interpretation so as to promote the purpose and object of the Act and not to circumvent the
+statutory obligations cast on the tenant by the Rent Control Act.
+9. "Landlord" defined in Section 2(3) of the Act includes any person who is receiving or is entitled to
+receive the rent of a building, whether on his own account or on behalf of another or on behalf of
+himself and others is one of the essential terms is the landlord-tenant relationship. If rent is not paid
+by the tenant Section 11(2) comes to the rescue of the landlord. Section 11(3) also enables the
+landlord to apply for an order of eviction if the landlord bonafide needs the building for his own
+occupation or for the occupation by any member of his family dependent on him. Section 11(4)(i)
+prohibits sublease as well as transfer of tenant's rights in the event of which it enables the landlord
+to apply for eviction of the tenant. Section 11(4)(ii) also would caution the tenant that he shall not
+use the building in such a manner as to destroy or reduce its value or utility, materially and
+permanently. Section 11(4)(iii) states that the Rent Control Court can order eviction if the tenant has
+in his possession a building or subsequently acquires possession of or puts up a building reasonably
+sufficient for his requirement in the same city, town or village. Section 11(4)(iv) enables the landlord
+to apply for eviction of the building if the building is in such a condition that it needs reconstruction
+and if the landlord requires bona fide to reconstruct the same and if he satisfies the Court that he
+has the plan and licence, if any required and the ability to rebuild and if the proposal is not made as
+a pretext for eviction. Section 11(4)(v) enables the landlord to apply if the tenant ceases to occupy
+the building continuously for six months without reasonable cause. Section 11(5) enables the
+landlord who wants to renovate the building to apply for an order directing the tenant to permit him
+to enter and carry out the renovation within a time to be fixed by the Court. Section 11(8) enables
+the landlord to apply for eviction if he requires additional accommodation for his personal use.
+Sections 11(2) and 11(3) gives various rights and obligations to the tenant as well as to the landlord,
+so also Section 11(8). Contention was raised that when the landlord and tenant agree themselves
+that the tenancy is for a specified and stipulated period as per the agreement, registered or
+otherwise, parties are bound by the said agreement and irrespective of the grounds available to the
+landlord under Sections 11(2), 11(4)(ii) and 11(4)(iv) landlord is not entitled to apply for eviction
+before the expiry of the said period as per Section 11(9) of the Act.
+10. The lease of immovable property is governed by Chapter V of the Transfer of Property Act. The
+term "lease" defined in Section 105 of the Transfer of Property Act reads as follows:
+"A lease of immovable property is a transfer of a right to enjoy such property, made
+for a certain time, express or implied, or in perpetuity, in consideration of a price
+paid or promised, or of money, a share of crops, service or any other thing of value, to
+be rendered periodically or on specified occasions to the transferor by the transferee,
+who accepts the transfer on such terms."
+Indian Kanoon - http://indiankanoon.org/doc/126137/ 3Paul vs Saleena on 17 December, 2003
+Contract to the contrary mentioned in Section 106 is from the date of notice of termination of the
+lease and not with regard to the period of lease. Lease of immovable property for agricultural or
+manufacturing purposes shall be deemed to be a lease from, year to year, terminable, on the part of
+either lessor or lessee, by six months' notice and a lease of immovable property for any other
+purpose shall be deemed to be a lease from month to month, terminable, on the part of either lessor
+or lessee, by fifteen days notice unless there is a contract to the contrary. Section 106 deals with
+duration of certain leases in the absence of written contract. Section 107 of the Transfer of Property
+Act states that lease of immovable property from year to year, or for any term exceeding one year, or
+reserving a yearly rent, can be made only by registered instrument. Rights and liabilities of the
+lessor and lessees are dealt with in Section 108 of the Act. Section 108(A) deals with rights and
+liabilities of the lessor. Section 108(B) deals with rights and liabilities of the lessee. Section 107
+stipulates that lease of immovable property from year to year, or for any term exceeding one year, or
+reserving a yearly rent, can be made only by a registered document.
+11. The effect of non-registration of document required to be registered is dealt with in Section 49 of
+the Registration Act, 1908, which says that "no document required by Section 17 or by any provision
+of the Transfer of Property Act, 1882 to be registered shall affect any immovable property comprised
+therein, or confer any power to adopt, or be received as evidence of any transaction affecting such
+property or conferring such power unless it has been registered. Proviso states that an unregistered
+document affecting immovable property and required by this Act or the Transfer of Property Act,
+1882 to be registered may be received as evidence of a contract in a suit for specific performance
+under Chapter II of the Specific Relief Act, 1877 or as evidence of any collateral transaction not
+required to be effected by registered instrument. Inter relation between Section 49 of the
+Registration Act read with Section 107 of the Transfer of Property Act and Section 91 of the Evidence
+Act has come up for consideration before the Apex Court and various High Courts. Counsel on either
+side took us through the various decisions on the point.
+12. Apex Court in Anthony v. K.C. Ittoop & Sons, (2000) 6 SCC 394, examined the relationship
+between landlord and tenant on the basis of the unregistered instrument. That was a case where
+lease deed was intended to be operative for a period of five years. The deed was unregistered
+document. Apex Court held that such lease could not create a lease on the basis of the inhibition
+contained in Section 107 of the Transfer of Property Act, 1882 and Sections 17(1) and 49 of the
+Registration Act, 1908. The Court held that the resultant position is insurmountable that so far as
+the instrument of lease is concerned there is no scope for holding that the appellant is a lessee by
+virtue of the said instrument. The Court is disabled from using the instrument as evidence and
+hence it goes out of consideration, hook, line and sinker. In Satish Chand Makhan and Ors. v.
+Govardhan Das Byas and Ors., 1984 (1) SCC 369, the Apex Court examined the scope of
+unregistered draft lease agreement. While dealing with the provisions of Section 17(1)(d) and 49
+read with Section 106 of the Transfer of Property Act, held as follows:
+"The unregistered draft lease agreement Ext.B2 was clearly inadmissible in evidence
+under Section 4 of the Registration Act, except for the collateral purpose of proving
+the nature and character of possession of the defendants. The document Ext.B2 was
+admissible under the proviso to Section 49 only for a collateral purpose of showing
+Indian Kanoon - http://indiankanoon.org/doc/126137/ 4Paul vs Saleena on 17 December, 2003
+the nature and character of possession of the defendants. The proviso to Section 49
+was however not applicable in the present case inasmuch as the terms of a lease are
+not a "collateral purpose" within its meaning. It follows that the unregistered draft
+lease agreement Ext.B2 was inadmissible in evidence to prove the transaction of
+lease. It was also ineffectual to create a valid lease for a renewed term of nine years
+for want of registration as required under Section 17(1)(d) of the Registration Act."
+The Apex Court in Samir Mukherjee v. Davinder K. Bajaj and Ors., (2001) 5 SCC 259, examined the
+scope of Sections 106 and 107 of the Transfer of Property Act and held as follows:
+"Section 106 lays down a rule of construction which is to apply when the parties have
+not specifically agreed upon as to whether the lease is yearly or monthly. On a plain
+reading of this section it is clear that the Legislature has classified leases into two
+categories according to their proposes and this section would be attracted to construe
+the duration of a valid lease in the absence of a contract or local law or usage to the
+contrary. Where the parties by a contract have indicated the duration of a lease, this
+section would not apply. What this section does is to prescribe the duration of the
+period of different kinds of leases by legal fiction - Leases for agricultural or
+manufacturing purposes shall be deemed to be lease from year to year and all other
+leases shall be deemed to be from month to month. Existence of a valid lease is a
+prerequisite to invoke the rule of construction embodied in Section 106 of the
+Transfer of Property Act.
+Section 107 prescribes the procedure for execution of a lease between the parties.
+Under the first para of this section a lease of immovable property from year to year or
+for any term exceeding one year or reserving a yearly rent can be made only by a
+registered instrument and remaining classes of leases are governed by the second
+para, that is to say all other leases of immovable property can be made either by a
+registered instrument or by an oral agreement accompanied by delivery of
+possession".
+The above mentioned statutory provisions and the decisions would conclusively show in the absence
+of a registered instrument no valid lease from year to year or a term exceeding one year or reserving
+yearly rent can be created.
+13. In the instant case, admittedly lease deeds are unregistered documents. Therefore, tenancy is to
+be treated as tenancy from month to month. Contention was raised even if lease agreements are
+unregistered, period mentioned in the unregistered agreement is the essential condition of the lease
+and consequently parties are bound by the said terms and conditions irrespective of the fact whether
+a document is registered or not. Counsel also submitted that unregistered document can be treated
+as evidence under the proviso to Section 49. Section 49 is extracted below for easy reference.
+49. Effect of non-registration of documents required to be registered.- No document required by
+Section 17 (or by any provision of the Transfer of Property Act, 1882) to be registered shall-
+Indian Kanoon - http://indiankanoon.org/doc/126137/ 5Paul vs Saleena on 17 December, 2003
+(a) affect any immovable property comprised therein, or
+(b) confer any power to adopt, or
+(c) be received as evidence of any transaction affecting such property or conferring
+such power, unless it has been registered:
+Provided that an unregistered document affecting immovable property and required
+by this Act, or the Transfer of Property Act, 1882, to be registered may be received as
+evidence of a contract in a suit for specific performance under Chapter II of the
+Specific Relief Act, 1877, or as evidence of any collateral transaction not required to
+be effected by registered instrument.
+We may now examine even if document is an unregistered one, whether the period
+mentioned therein would be binding on the parties and consequently petition filed
+before the period mentioned in the document would be hit by Section 11(9) of the Act.
+In the absence of registration, lease of immovable property from year to year or for
+any term exceeding one year shall be deemed to be from month to month. Therefore,
+we may proceed as if rent agreements executed between the parties in these cases are
+leases from month to month. All the same, we may examine as to whether the period
+specified in the unregistered lease deeds could be treated as defence within the
+meaning of the proviso to Section 49 and consequently fall within the rigor of Section
+11(9) of the Act. Section 17 of the Registration Act deals with documents of which
+registration is compulsory. Section 17(d) deals with leases of immovable property
+from year to year, or for any term exceeding one year, or reserving a yearly rent which
+requires compulsory registration. It is true that Section 17 does not say that
+unregistered document shall not be received in evidence. Section 49 bars reception in
+evidence of document or proceeding which is required to be registered under Section
+17 of the Registration Act but not registered. The Apex Court in Champalal v.
+Samrathbai (AIR 1960 SC 629) held that filing of an unregistered award under
+Section 49 is not prohibited, what is prohibited is that it cannot be taken into
+evidence so as to affect immovable property falling under Section 17. In Dinaji and
+Ors. v. Daddi and Ors., AIR 1990 SC 1153, the Apex Curt held that non registration of
+a document which is required to be registered under Section 17(1)(b) of the
+Registration Act will not avail to create, declare, assign, limit or extinguish any right,
+title or interest in or to the immovable property comprised in the document. Section
+49 stipulates that no document required to be registered under Section 17 of the
+Transfer of Property Act shall be received as evidence of any transaction affecting
+such property or conferring such power unless it has been registered. The Apex Court
+in Satish Chand Mukhan and Ors. v. Goverdhandas Byas and Ors., AIR 1984 SC 143,
+held that where a lessee remained in possession under an unregistered deed of
+renewal of lease, such deed of renewal was inadmissible in evidence under Section 49
+except for the collateral purpose of proving the nature and character of his
+possession. In Bajaj Auto Ltd. v. Bahari Lal Kolhi, AIR 1989 SC 1806, the Apex Court
+Indian Kanoon - http://indiankanoon.org/doc/126137/ 6Paul vs Saleena on 17 December, 2003
+held that where a lease is entitled to create a sub-lease or not is undoubtedly a
+question of a term of the transaction of lease, and if it is incorporated in the
+document it cannot be disassociated from the lease and considered separately in
+isolation. If a document is inadmissible for nonregistration all its terms are
+inadmissible including the one dealing with the landlord's permission to his tenant to
+sublet. The Calcutta High Court in Pieco Electronics & Electricals Ltd. v. Smt. Tribeni
+Deve (AIR 1990 Cal. 135), held that ejectment cannot be sought on the basis of a
+duration clause in an unregistered lease. Unregistered lease could at best be looked
+into for ascertaining the commencement of possession, rate of rent or similar other
+provisions which are collateral to the principal transaction. The Court held it could
+never have been the intention of the legislature that under the first part of the section
+we should discard an unregistered document for want of registration and at the same
+time under the camouflage of the proviso we should be permitted to look into and
+rely upon all the terms of the inoperative document which do form the integral parts
+of the principal transaction.
+14. The various provisions contained in Sections 11(2) to 11(8) of the Rent Control Act
+are substantial provisions. Compulsorily registerable document, though unregistered
+and inadmissible as evidence of a transaction affecting immovable property, may be
+admitted as evidence of collateral facts, or for any collateral purpose, that is for any
+purpose other than that of creating, declaring, assigning, limiting or extinguishing a
+right to immovable property. Reference be made to the decision of the Bombay High
+Court in Bai Gulabbai v. Shri Datgarji, 1907 (9) Bom.L.R. 393, and Panchapagesa v.
+Kalyanasundaram, AIR 1957 Madras 472). An unregistered deed of lease can be used
+for a collateral purpose to show the nature of possession. In Ishwar Dutt v. Sunder
+Singh (AIR 1961 J & K 45) it was held that the term of lease is not a collateral
+purpose. In Antonia Perreira v. Upendra Venkatesh Juarkar, AIR 1978 Goa 19, it was
+held that the duration of the lease for a fixed period exceeding one year is not a
+collateral purpose. In A.N. Parkas v. N.H. Nagvi, AIR 1989 Delhi 277, it was held that
+an unregistered document of lease can be looked into to know the purpose of letting
+whether residential or commercial, because the said term can be deemed to be
+collateral matter. In Jagajit Industries Ltd. v. Rajiv Gupta, AIR 1981 Delhi 359) it was
+held that term in a lease regarding notice of eviction in a term which affects
+immovable property and therefore it cannot be said to be a collateral transaction. In
+Zarif Ahmad and Anr. v. Satish Kumar and Anr., AIR 1983 All. 164) it has been held
+that an unregistered lease cannot be admitted in evidence for the purpose of
+ascertaining the date on which the tenancy began and what the rent reserved was.
+The Apex Court in Rai Chand Jain v. Miss Chandra Kanta Khosla, AIR 1991 SC 744,
+held that an unregistered lease can be looked into for collateral purposes like for
+ascertaining whether the purpose of the lease was residential or not.
+15. The above mentioned judicial pronouncements and the principles laid down
+therein would clearly show that an unregistered document cannot be used for the
+purpose of establishing that that document created or declared or assigned or limited
+Indian Kanoon - http://indiankanoon.org/doc/126137/ 7Paul vs Saleena on 17 December, 2003
+or extinguished a right to immovable property. Period of lease is integral part of the
+agreement and not a collateral one. Unregistered lease deeds cannot be pressed into
+service to create, declare, assign, limit or extinguish any right, title or interest in or to
+the property comprised in the document. They create only month to month tenancy
+and only if the lease is registered under the Registration Act, it would create transfer
+of right to enjoy the immovable property for a specific term exceeding one year. We
+therefore hold that unregistered lease deeds by which rights of parties in these cases
+are governed would not stand in the way of the landlord from filing application under
+Sections 11(2)(b), 11(4)(ii) or 111(4)(v) of Act 2 of 1965 and the application would hot
+be hit by Section 11(9) of the Act.
+16. Counsel appearing for the tenant contended that the landlord is not entitled to get
+eviction under Section 11(4)(ii) of the Act. In the rent chit it is specifically stated that
+the building shall not be subjected to material alteration. Contention of the tenant
+was that he had removed window situated on the northern side wall and closed down
+that portion using bricks. Similarly a window was also removed from the western wall
+and another door from the southern wall and closed down those portions using
+bricks. Tenant also lowered the level of the floor of the building and cut and removed
+six wooden pieces and has installed concrete pillars at a distance of one feet from the
+wall of the building. Landlord submitted that the tenant has used the building in such
+a manner as to destroy and reduce its value and utility materially and permanently.
+In order to establish the case landlord took out a commission. Ext. C1 is the
+commission report dated 23.11.1992. Tenant on the other hand contended that the
+modification he has made has not affected the utility or value of the building
+materially or permanently. Counsel also placed reliance on several decisions.
+Reference was made to the decision of the Apex Court in Manmohan Das Shah v.
+Bishum Das, AIR 1967 SC 643, Vipin Kumar v. Roshanlal Anand and Ors., (1993) 2
+SCC 614, Seethalakshmi Ammal v. Nabeesath Beevi, 2003 (1) KLT 391, Waryam
+Singh v. Baldev Singh, (2003) 1 SCC 59, Aboobacker v. Nanu, 2001 (3) KLT 815, G.
+Arunachalam v. Thopndarperlenambi, AIR 1992 SC 977, and various other decisions.
+It is well settled to examine the question as to whether tenant used the building in
+such a manner as to reduce its value and utility permanently or materially, stand
+point of the landlord is important. The question as to whether the tenant has altered
+the tenanted premises reducing its value and utility materially or permanently has to
+be decided in the facts and circumstances of each case. Formation of the opinion by
+the landlord is subjective but the existence of circumstances relevant to the inference
+is a sine qua non for the formation of such opinion by the landlord.
+17. As far as this case is concerned, Ext.C1 commission report would positively show
+that window was removed from the western wall and a window from the northern
+wall. Commission report would indicate that the commissioner could not see any
+door or window on the northern and western walls of the building. Tenant examined
+as CPW1 had admitted that at the time when he took the petition schedule building
+on rent there was a door on the western wall and a window on the northern wall and
+Indian Kanoon - http://indiankanoon.org/doc/126137/ 8Paul vs Saleena on 17 December, 2003
+that he had removed both of them. He also admitted that he had removed two
+windows from the northern wall, one door and a window from the western wall and
+another door from the southern wall. Commission report would indicate that the
+scheduled room is the north-eastern room of a larger old building and that the floor
+of the scheduled room lies at a level lower by one feet from the floor level of the
+adjacent southern room. The floor of the southern room was found furnished with
+old tiles and the floor was seen cemented. Commissioner has also noted that in the
+other adjacent room there are only folding wooden frames whereas for the scheduled
+room alone concrete pillars and beam have been found installed to which rolling
+shutters have been fitted. It is also stated that for the purpose of installing the rolling
+shutter and above the shutter the eastern end of the rafters of the roof have been
+found cut and removed to a length of 2 ft. The above mentioned facts would show
+that tenant has used the building in such a manner as to reduce its utility and value
+materially and permanently. Both the Rent Control Court and the Appellate
+Authority found that ground against the tenant. We find no reason to take a different
+view in our revisional jurisdiction.
+18. Tenant in CRP No. 1764 of 1999 has also attacked the order of eviction under
+Section 11(4)(v). It is trite law that it is the burden of the landlord to show that tenant
+has ceased to occupy the premises continuously for a period of six months without
+reasonable cause. In order to establish the case, it is the specific case of the landlord
+that the schedule room was never occupied by the first respondent after it is
+entrusted to him. Though for sometime tenant has been conducting vegetable shop
+thereafter the shop room was kept closed. After 1994 the shop room was always kept
+locked and unoccupied. Third petitioner gave evidence to the effect that first
+respondent has not used the building after it was taken on rent from the original
+landlord's father in November 1994. First respondent used to open the room and
+clean it. Thereafter the room was always remaining locked. First respondent was
+working at Bombay since January 1995 onwards. Exts. A3 and A4 are the notices
+issued to the first respondent which were returned undelivered. In order to show that
+the room was kept closed PW2 was examined. PW1 has also given evidence to that
+effect. In Ext.C1 commission report it has been stated that RW6 has stated that at the
+time of inspection on 24.7.1875 schedule room was seen closed and locked with rust
+and cobwebs on the front shutters. There were posters affixed on the front shutters.
+First respondent has stated that for doing the business in soda, cigarette, beedi, pan
+etc. no licence was obtained by him. Fifth respondent who inspected the schedule
+room on 25.7.1995 could not find any business in cool drinks as claimed by RW3. The
+fact that there was no shelf or other device to keep the vegetables in the schedule
+room would indicate that no such business was carried on there. All these factors
+were taken into consideration by the Rent Control Court and the Appellate Authority
+and came to the conclusion that tenant has ceased to occupy the premises. We find
+no reason to interfere with the orders of the courts below in our revisional
+jurisdiction. The revision petition stands dismissed.
+Indian Kanoon - http://indiankanoon.org/doc/126137/ 9Paul vs Saleena on 17 December, 2003
+19. C.R.P.No. 1985 of 1999 also has to be dismissed. Order of eviction was passed in
+this case since tenant failed to pay the rent. Though application to set aside the order
+was filed the same was dismissed which was later confirmed by the Appellate
+Authority. Since we have already found that landlord is entitled to get eviction under
+Section 11(4)(v) this revision is also liable to be dismissed. We do so. The tenants in
+all these cases are given three month's time from today for vacating the premises on
+condition that each of them should file an undertaking before the Rent Control Court
+within one month from today that they would vacate the premises within the
+aforesaid period and would pay arrears of rent, if any and future rent.
+Indian Kanoon - http://indiankanoon.org/doc/126137/ 10

@@ -1,0 +1,344 @@
+Metadata: id=>220
+name=>Commissioner Of Income Tax vs Desiccant Rotors International on 11 July 2011
+date=>11 July 2011
+court=>HIGH COURT OF DELHI
+link=>http://indiankanoon.org/doc/22836050/
+-----
+Content: Commissioner Of Income Tax vs Desiccant Rotors International ... on 11 July, 2011
+Delhi High Court
+Commissioner Of Income Tax vs Desiccant Rotors International ... on 11 July, 2011
+Author: A.K.Sikri
+REPORTABLE
+* IN THE HIGH COURT OF DELHI AT NEW DELHI
++ ITA No.572 of 2011
+RESERVED ON: MAY 19, 2011
+% PRONOUNCED ON: JULY 11, 2011
+COMMISSIONER OF INCOME TAX . . . APPELLANT
+through : Mr. Sanjeev Sabharwal, Sr.
+Standing Counsel.
+VERSUS
+DESICCANT ROTORS
+INTERNATIONAL
+PVT. LTD. . . .RESPONDENT
+through: Ms. Shashi M. Kapila with Ms.
+Charu Kapoor, Advocates.
+CORAM :-
+HON'BLE MR. JUSTICE A.K. SIKRI
+HON'BLE MR. JUSTICE M.L. MEHTA
+1. Whether Reporters of Local newspapers may be allowed
+to see the Judgment?
+2. To be referred to the Reporter or not?
+3. Whether the Judgment should be reported in the Digest?
+A.K. SIKRI, J.
+1. Before we reproduce the substantial questions of law, which are to be answered, we deem it
+appropriate to state the facts and circumstances under which these questions of law arise for
+consideration. The respondent-assessee was incorporated in the year 1984 and has been engaged in
+the business of manufacturing of environmental control system such as Rotors, Heat Recovery
+Wheels, Desiccant Rotors, etc. For the Assessment Year 2005-06, the assessee filed its income tax
+return on 31.10.2005 declaring total income at `2,49,28,630/-. Along with the return, necessary
+documents including Profit and Loss account was filed. Books of accounts were also produced at the
+time of assessment and were examined by the Assessing Officer. On perusal of the Profit & Loss
+Indian Kanoon - http://indiankanoon.org/doc/22836050/ 1Commissioner Of Income Tax vs Desiccant Rotors International ... on 11 July, 2011
+account, it was noticed by the AO that the assessee has debited an amount of `3,12,57,152/- on
+account of compensation paid towards settlement of dispute. On being asked to clarify the position,
+the assessee company furnished a note with relevant documents, vide letter dated 26.12.2007. In the
+notice, it was stated that the assessee has been exporting its products to one of its customers, viz.,
+M/s Venmar Ventilation Inc. (hereinafter referred to as „VENMAR(cid:129)), Canada for selling their
+products. SEMCO Inc. USA had filed a suit against VENMAR for infringement of their registered
+patents in USA by selling the products of the assessee company. VENMAR settled the dispute with
+SEMCO by paying certain compensation to it. Subsequently, SEMCO instituted the proceedings
+against the assessee company a swell in the Court of USA alleging that sale of products by assessee
+to VENMAR amounted to infringement of their registered patents. Since the cost of litigation was
+expected to be exorbitant, the assessee company after considering the advice of its legal
+representative, settled the dispute with SEMCO by making payment of US& $6,75,000. It was, thus,
+claimed by the assessee that the payment was compensatory in nature to compensate the loss
+incurred by SEMCO as a result of selling the product covered by patent held by SEMCO to
+VENMAR. The assessee also filed certain documents along with its submissions.
+2. The contention of the assessee, before the AO, which has been remained consistent throughout,
+was that the assessee company had made the payment to SEMCO as a result of settlement arrived at
+and not on account of infringement of patent law, did not accept the AO. The AO was of the view
+that SEMCO had fled the Suit for damages and injunction due to infringement of SEMCO(cid:129)s United
+States Patent bearing No.4769053 caused by the assessee company and its customers for
+manufacturing and marketing the Energy Recovery Wheel products. Further, SEMCO had sued
+VENMAR in the same Court for infringement of SEMCO(cid:129)s patent by selling the assessee
+company(cid:129)s product in their patented territory and in those proceedings, the VENMAR had
+acknowledged that the patent held by SEMCO was valid and enforceable and thus, agreed not to sell
+the products that would infringe the patent of SEMCO and accordingly compensated SEMCO for
+such infringement. In these circumstances, according to the AO, the amount paid by the assessee to
+SEMCO was nothing but a "penalty" or as something akin to penalty and the payment was made
+only due to infringement which would, in any way, resulted into a compensation. The AO, further,
+observed that violation of the patents/trademark, etc. is always prohibited by law and therefore, in
+view of the provisions contained in Explanation to Section 37(1) of the Income Tax Act (hereinafter
+referred to as „the Act(cid:129)), the expenditure so incurred by the assessee was not allowable. The AO
+further took the view that the payment was made to avoid any conviction by the Court of Law for
+infringement of patent which is not a normal incident of business and therefore, it is not allowable
+as business expenditure. On this reasoning, the AO disallowed the payment of compensation paid by
+the assessee to settle the dispute and added the same to the assessee(cid:129)s total income.
+3. Feeling aggrieved, the assessee preferred an appeal before the CIT(A). The case as pleaded before
+the AO was reiterated before the CIT(A). It was exemplified by submitting that whatever allegations
+were levelled by SEMCO were denied and disputed in toto by the assessee and even the suit was
+defended for three years. However, keeping in view the cost of litigation and the advice given by its
+legal consultants, the assessee found it expedient and proper to reach an out-of- Court settlement.
+The assessee company emphatically argued before the CIT(A) that the settlement was not on
+account of any infringement of any law inasmuch as no Court of law held anything or given any
+Indian Kanoon - http://indiankanoon.org/doc/22836050/ 2Commissioner Of Income Tax vs Desiccant Rotors International ... on 11 July, 2011
+finding against the assessee company. It was, therefore, contended that the assessee(cid:129)s case is not
+covered by Explanation to Section 37(1) of the Act and therefore, the payment made in the course of
+carrying on assessee(cid:129)s business activity is to be allowed as business expenditure. The assessee also
+placed reliance on the decision of the Supreme Court in the case of Prakash Cotton Mills Vs.
+Commissioner of Income Tax [201 ITR 684]. After considering the AO(cid:129)s order and the assessee(cid:129)s
+submissions, the CIT(A) confirmed the AO(cid:129)s order in disallowing the assessee(cid:129)s claim of deduction
+of payment to SEMCO as a result of out of Court settlement in respect of the proceedings initiated by
+M/s SEMCO against the assessee company for infringement of their patent rights.
+4. Still aggrieved, the assessee went in appeal before the Tribunal. In this appeal, the assessee has
+been able to convince the Tribunal. Accepting the contention of the assessee that the payment was
+not in the nature of any penalty and no such violation of patent law was held to be proved, and it was
+only in the nature of compensation due to settlement arrived at between the parties, the Tribunal
+has permitted it as allowable expenditure under Section 37 of the Act.
+5. Section 37, which is a residuary provision, allows the expenditure as deductable while computing
+the income on the satisfaction of the following conditions:
+"a) Expenditure must not be governed by the provisions of Sections 30 to 36 of the
+Act;
+b) The expenditure must have been laid out wholly and exclusively for the purposes
+of the business of the assessee:
+c) The expenditure must not be personal in nature; and
+d) The expenditure must not be capital in nature."
+6. The Explanation to sub-Section (1) of Section 37 of the Act has been inserted by the Finance
+(No.2) Act, 1988 with full retrospective effect from 01.04.1962 and provides:
+"For removal of doubts, it is hereby declared that any expenditure incurred by an
+assessee for any purposes, which is an offence or which is prohibited by law, shall not
+be deemed to have been incurred for the purpose of business or profession and no
+deduction or allowance shall be made in respect of such expenditure."
+7. The dispute revolves around the issue as to whether the aforesaid expenditure incurred by the
+assessee was for a purpose which would be treated as an "offence" or which is prohibited by law. If
+this be so, the expenditure is not allowable. The Tribunal has held that the expenditure incurred is
+not for a purpose which is an offence or which prohibited by a law. As there was no dispute that the
+expenditure was, in fact, incurred which is neither personal in nature nor capital in nature and it
+was incurred wholly and exclusively for the purposes of business of the assessee, the Tribunal
+permitted the said expenditure thereby allowing the appeal of the assessee.
+Indian Kanoon - http://indiankanoon.org/doc/22836050/ 3Commissioner Of Income Tax vs Desiccant Rotors International ... on 11 July, 2011
+8. Against this order, present appeal is preferred which was admitted on the following substantial
+questions of law:
+"(i) Whether learned ITAT erred in holding that the payment by the assessee to
+SEMCO vide Settlement Agreement is not hit by the provisions in Explanation 1 to
+Section 37 of the Income Tax Act, 1961?
+(ii) Whether learned ITAT erred in deleting the addition of `3,12,57,152/- paid on
+Settlement of Dispute which was incurred wholly and exclusively for the purposes of
+business?"
+9. Since the counsel for the parties were ready to finally argue the matter, the arguments were heard
+simultaneously with framing of aforesaid questions of law. On the conclusion of arguments, request
+from both the sides was made for filing the written submissions within one week. The same was
+granted. Though the learned counsel for the assessee has filed the written submissions, the learned
+counsel for the Revenue has not availed of this opportunity. In these circumstances, we proceed to
+decide the questions of law framed, on the basis of oral submissions of both the parties as well as
+written submissions tendered by the learned counsel for the assessee.
+10. Mr. Sanjeev Sabharwal, learned counsel for the Revenue, argued that no doubt, the payment was
+made by the assessee to M/s SEMCO under the settlement before the judgment could be
+pronounced by the United States District Court, but the tenor of the said settlement would clearly
+reveal that such a settlement was arrived at accepting the fact that the assessee had
+violated/infringed the patent of SEMCO. Damages were paid by the assessee because of this
+infringement and such a payment, submitted the counsel, was for a purpose which is prohibited by
+law. His argument was that the law mandates not to infringe patent right of any person and once it
+is found that the assessee had violated the patent rights of SEMCO thereby compelling SEMCO to
+institute proceedings against the assessee, it would be a clear case where the payment was made for
+a purpose which is prohibited by law. Thus, the Explanation was fully applicable and expenses could
+not be treated as having been incurred for the purpose of business and no deduction is to be allowed
+on such expenses in the nature of penalty.
+11. Learned counsel also took support from the reasons given by the AO as well as the CIT(A) in their
+respective ordeers. He pointed out that the CIT(A) had clearly held that it was a case where there
+was an infringement of United States Patent Law by the assessee. The goods were manufactured and
+sold by the assessee to VENMAR for sale in US and Canada markets and as a manufacturer, the
+assessee could not escape the primary responsibility by stating that it was not directly involved in
+infringement. Further, for making a disallowance under Section 37 in respect of penalty, etc. finding
+by a competent Court was not a condition precedent to attract the Explanation to Section 37(1).
+According to the CIT (A), the Explanation simply states that if expenditure is incurred for any
+purpose, which is an offence, or which is prohibited by law, such expenditure will not be deeded to
+have been incurred for the purpose of business. The Explanation does even imply that there must be
+a finding of a Competent Authority or Court that an offence was committed or that any law was
+infringed. In fact, there may be numerous situations where expenditure is incurred for a purpose,
+Indian Kanoon - http://indiankanoon.org/doc/22836050/ 4Commissioner Of Income Tax vs Desiccant Rotors International ... on 11 July, 2011
+which is prohibited by law, but there may not necessarily be any order of any authority or Court to
+this effect. Payment of protection money, hafta money, ransom, etc. are examples of such
+expenditure. There may not be any order prohibiting a person from making payment of protection
+money but nonetheless the payment will be for a purpose prohibited by law and would not be
+allowable under Section 37 of the Act.
+12. Mr. Sabharwal further submitted that the expenditure was not compensatory in nature. It was
+incurred to avoid the penal consequence of the aforesaid infringement.
+13. Ms. Shashi M. Kapila, learned counsel appearing for the assessee countered the aforesaid
+submission and sought to justify that the reasons given by the Tribunal in spite of its decision. Her
+first submission was that the provisions of the Explanation were not attracted per se as the
+expression "prohibited by law" occurring in the said Explanation is limited to law of land alone, i.e.,
+Indian Law. Dilating on this submission, she argued that the expression "offence" and "prohibited
+by law" occurring in Explanation to Section 37(1) of the Act are not defined in the Act. However,
+Section 3(38) General Clauses Act, 1897 defines "offence" to mean "any act or omission made
+punishable by law for the time being in force". The Calcutta High Court in the case of Susanta
+Mukherjee Vs. Union of India [(1975) 94 CWN 412) after referring to Section 3(38) of the General
+Clauses Act read with Articles 13(3), 366(10) and 372(1) of the Constitution of India and the decision
+of the Supreme Court in the case of Edward Company Mills Vs. State of Ajmer [AIR 1955 SC 25]
+observed in paragraph 13 of the judgment:
+"13. It is abundantly clear from the foregoing references to various provisions of the
+Constitution that a person cannot be convicted of an offence except for violation of
+law in force at the time of commission of the act charged as an offence. Therefore, in
+my opinion, the word "any law for the time being in force" as occurring in Section
+3(38) of the General Clauses Act, 1997 must be construed as "any law for the time
+being in force" in India. Obviously it has no reference to any law of other countries of
+the world."
+14. According to her, similarly, the expression "prohibited by law"
+can only mean prohibited by law in force in India. The expression "prohibited by law"
+as used in the Explanation to Section 37(1) has the same contextual import as the
+expression "forbidden by law" as used in Section 23 of the Indian Contract Act, 1872.
+This came up for the consideration of the Full Bench in the case of Abdul Hameed Vs.
+Mohd.
+Ishaq [AIR 1975 All. 166] wherein the Allahabad High Court observed as under:
+"12. The expression 'law' has not been defined in the Contract Act, nor in the U. P.
+General Clauses Act, 1904, but in the Central General Clauses Act. 1897, 'Indian Law'
+is defined in Section 3 (29) as below:--
+Indian Kanoon - http://indiankanoon.org/doc/22836050/ 5Commissioner Of Income Tax vs Desiccant Rotors International ... on 11 July, 2011
+" 'Indian law' shall mean any Act, Ordinance, Regulation, rule, order, bye-law or
+other instrument which before the commencement of the Constitution had the force
+of law in any Province of India or part thereof, or thereafter has the force of law in
+any Part A State or Part C State or part thereof, but does not include any Act of
+Parliament of the United Kingdom or any Order in Council, rule or other instrument
+made such Act."
+This definition is applicable to all the Central Acts and Regulations made after the
+commencement of the General Clauses Act. The Contract Act was enacted in 1872
+before the commencement of the General Clauses Act, 1897. Therefore, this definition
+is not directly applicable to the Contract Act, but there appears to be no reason why
+the principles contained in the above definition be not made applicable to even the
+earlier enactments. 'Law' must, therefore, include not only an Act and Ordinance but
+also Regulations, rule, order, bye-Law or other instrument which has the force of law.
+Similar inference can be drawn from the provisions of the Constitution also. For the
+purposes of Article 13 of the Constitution the term law' includes any Ordinance,
+order, bye-law, rule, regulation, notification, custom or usage having in the territory
+of India the force of law.
+13. Consequently, where any agreement is forbidden by an order of the competent
+authority having the force of law, it shall be an agreement forbidden by law as
+contemplated by Section 23 of the Contract Act."
+Ms. Kapila, thus, emphatically put that in view of the above, it is clear that the phrase
+"prohibited by law" as used in the Explanation to Section 37(1) of the Act
+contemplates law in force in India. Her submission was that in the present case, it is
+an undisputed fact that there is no violation of any patent laws within the territory of
+India. Section 2(m) of Indian Patent Act, 2005 defines patent as "patent for any
+invention granted under this Act". Patent right is a statutory right and this right can
+be applicable only in such states which recognise this right.
+Patent is valid only in the country of registration. Therefore, a patent registered in
+USA, Canada, etc. is not a patent recognised by the Indian Patent Act. It is for this
+reason that the respondent/assessee still continues to manufacture and sell the
+impugned energy recovery wheel desiccant in India.
+15. Without prejudice to the above, her alternate submission was that there was no infringement of
+even US laws and on the facts of this case, no such finding was recorded by any Court. The payment
+was made as a result of settlement which payment was compensatory in character. The reason for
+settlement was explained to the authorities below, viz., in order to buy peace and not to face
+litigations in US Courts, which is costly. She argued that no damages had been paid under the
+Indian Patent Act or under the US Patent Laws and there was no evidence to show the infringement.
+She also argued that in absence of any violation of the provisions of Indian Patent Act, the payment
+under settlement with SEMCO does not fall within the meaning and scope of expression „offence(cid:129)
+Indian Kanoon - http://indiankanoon.org/doc/22836050/ 6Commissioner Of Income Tax vs Desiccant Rotors International ... on 11 July, 2011
+and „prohibited by law(cid:129) used in Explanation to Section 37(1) of the Act. The assessee still
+manufactures the energy saving wheel using the impugned desiccant and sells it in India as well as
+exports it to other countries without any restrictions and no suit has been filed by SEMCO for
+infringement of its patent in India. However, exports to USA and Canada, past settlement is as per
+the Settlement Agreement.
+16. Ms. Kapila further submitted that even if it is presumed that the payment was made for
+infringement of patent, that entails only civil damages, which are compensatory in nature and it
+cannot be said that the payment made was in the nature of penalty. She pointed out that the
+averments in the plaint filed by SEMCO as per which the only civil damages were claimed and
+criminal suit was scored out in the plaint. Once the payment is treated as purely compensatory in
+nature, the same could not be disallowed as per the law settled by the Supreme Court in the case of
+Prakash Cotton Mills (supra) which principle was reaffirmed by the Apex Court in the case of Mrs.
+Rajalakshmi Narayanan v. Mrs. Margret Kathleen Gandhi and others [211 ITR 244].
+17. After giving our thoughtful consideration to the respective submissions, we are of the view that
+the order of the Tribunal does not call for any interference and both the questions of law set out
+above need to be answered in negative, i.e., in favour of the assessee and against the Revenue.
+18. At the outset, we are inclined to accept the submission of the assessee that the paramount and
+governing consideration behind such a settlement/agreement can be to avoid the expenses and
+uncertainty of further litigation. It is a matter of common knowledge that litigation can turn out to
+be quite expensive and it cannot be even possible, what to talk of feasible, for a small time/middle
+level company in India like the assessee to litigate in US Court. Furthermore, the settlement
+agreement contains a specific recital to this effect inasmuch as it records "whereas, in order to avoid
+the expenses or uncertainty or further litigation, the parties desired to settle and adjust all
+differences and controversies among themselves subject to the terms of this Agreement." No doubt
+in the Agreement, the assessee accepted the patent of SEMCO. That by itself would not mean that
+the assessee also accepted that it was infringing the said patent. Secondly, payment is made by the
+assessee to SEMCO for "loss of goodwill and damages to its capital and for terminating of case US
+Courts" as is clearly mentioned in Clause (3) of the Agreement. No finding is given by any Court that
+the assessee had violated the patent right of SEMCO. With the aforesaid payment, the "Covenants to
+Release" recorded in Clause (2) is as under:
+"2. COVENANTS TO RELEASE 2.1 SEMCO hereby releases, remises and forever
+discharges the Settling Entities and their agents, attorneys, consultants, offices,
+employees, representatives, heirs, successors and assigns and their Customers form
+any and all claims, demands, or causes of action that arise out of or relate to the
+Action, and any and all obligations, actions, causes of action, suits, debts, contracts,
+controversies, agreements, promises, damages, judgments, awards, executions,
+claims and demands whatsoever in law or in equity, and any and all claims for
+damages (and attorneys(cid:129) fees and costs) based upon the violation of a federal, state
+or other statute, regulation or law or arising out of any conduct, contract,
+employments, action, event or circumstance, under the law of any and all nations,
+Indian Kanoon - http://indiankanoon.org/doc/22836050/ 7Commissioner Of Income Tax vs Desiccant Rotors International ... on 11 July, 2011
+whether known or unknown, which occurred at any time up to an including the date
+of the execution of this Agreement, except obligations created by this Agreement, any
+associated licence Agreement and/or by the Consent Judgment to be filed in
+accordance with this Agreement."
+19. It would be pertinent to highlight that the Agreement is applicable within the area defined as
+"territory". This territory mentions some specific countries in Europe as well as Japan, Australia and
+Korea. There is no mention of „India(cid:129) at all. That clearly implies that SEMCO has no objection if the
+assessee continues to manufacture the goods in the same manner using same patent which it has
+been using and marketing it in India or any other countries, which are not stipulated in the
+„territory(cid:129) with respect to which only restraint is provided in the agreement. It is for this reason the
+assessee even today continues to manufacture those goods and is selling the products in this
+country. Once we find that the settlement has arrived at under the aforesaid circumstances, there is
+no room to hold that it was because of the reason that the assessee was violating the patent laws or
+the payment was made for an objective prohibited by law. This is our view even when we presume
+that the expression „prohibited by law(cid:129) would include US laws and would not be confined to law in
+India.
+20. Moreover, we also agree with the contention of the learned counsel for the assessee that the
+payment under the settlement is compensatory in nature. The remedy for infringement of patent
+involves civil action for compensating the damage to private properties. It may be noted that in the
+plaint filed by it, SEMCO has sought civil damages under Sections 284 and 285 of the US Paten
+Code (US 35). Criminal Suit is scored out in the plaint. The relevant provisions of US 35 (Patent
+Code) read as follows:
+"Section 284. Damages Upon finding for the claimant the Court shall award the
+claimant damages adequate to compensate for the infringement, but in no event less
+than a reasonable royalty for the sue made of the invention by the infringer, together
+with interest and costs as fixed by the Court.
+Section 285. Attorney fees The Court in exceptional cases may award reasonable
+attorney fees to the prevailing party."
+21. It will be seen from the above that the damages are calculated for compensating the owner of the
+patent rights for the loss of profit/royalty even under the laws of USA. There is no element of
+penalty even in USA. Even the Indian Patents Act, 1970 (as amended by the Act of 2005) does not
+prescribe any penalty or fine for infringement of a patent registered under that Act. This is clear
+from the Section 108 of the Indian Patent Act, which reads as under:
+"Sec. 108 Reliefs in suit for infringement The reliefs which a Court may grant in any
+suit for infringement include an injunction (subject to such terms, if any, as the Court
+things fit) and, at the option of the plaintiff, either damages or an account of profits."
+Indian Kanoon - http://indiankanoon.org/doc/22836050/ 8Commissioner Of Income Tax vs Desiccant Rotors International ... on 11 July, 2011
+22. Therefore, any payment for infringement of patent, being purely compensatory in nature, cannot
+be disallowed as per the law settled by the Supreme Court in the case of Prakash Cotton Mills
+(supra), where the Apex Court observed as under:
+"... Therefore, whenever any statutory impost paid by an assessee by way of damages
+or penalty or interest is claimed as an allowable expenditure under Section 37(1) of
+the Income-tax Act, the assessing authority is required to examine the scheme of the
+provisions of the relevant statute providing for payment of such impost
+notwithstanding the nomenclature of the impost as given by the statute, to find
+whether it is compensatory or penal in nature. The authority has to allow deduction
+under section 37(1) of the Income-tax act, wherever such examination reveals the
+concerned impost to be purely compensatory in nature. Wherever such impost is
+found to be of a composite nature, that is, partly of compensatory nature and partly
+of penal nature, the authorities are obligated to bifurcate the two components of the
+impost and give deduction to that component which is compensatory in nature and
+refuse to give deduction to that component which is penal in nature."
+23. It was an expenditure which was motivated purely by commercial purpose and would be
+allowable under Section 37(1) of the Act as held by the Apex Court in the case of Sri Venkata Satya
+Narayana Rice Mill Contractor Co. Vs. Commissioner of Income Tax [223 ITR 101].
+24. As regards consent judgment passed by the US District Court in accordance with Clause 2 read
+with Clause 3 of the Settlement Agreement, the law is well-settled by the Supreme Court in the case
+of Pulavathi Venkata Subba Rao Vs. Valluri [AIR 1967 SC 591], wherein the Court held that:
+"A compromise decree is not a decision of the Court. It is the acceptance by the Court
+of something to which the parties had agreed. A compromise decree merely sets the
+seal of the Court on the agreement of the parties."
+25. Since questions formulated are answered on the aforesaid reasoning, it is not necessary to go
+into the issue as to whether the expression „prohibited by law(cid:129) would confine to law in force in
+Indian only. We leave that question open.
+26. We, thus, do not find any merit in this appeal, which is dismissed with costs.
+(A.K. SIKRI) JUDGE (M.L. MEHTA) JUDGE JULY 11, 2011 pmc
+Indian Kanoon - http://indiankanoon.org/doc/22836050/ 9

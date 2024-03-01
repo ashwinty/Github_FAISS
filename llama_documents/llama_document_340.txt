@@ -1,0 +1,617 @@
+Metadata: id=>340
+name=>Union Medical Agency vs The State Of Gujarat on 16 November 1970
+date=>16 November 1970
+court=>High Court
+link=>http://indiankanoon.org/doc/978380/
+-----
+Content: Union Medical Agency vs The State Of Gujarat on 16 November, 1970
+Union Medical Agency vs The State Of Gujarat on 16 November,
+1970
+Equivalent citations: [1973]31STC396(GUJ)
+JUDGMENT
+Desai, J.
+1. An interesting question of law arises for our determination in this reference. The question is
+whether the expression "registered dealer" in clause (ii) of section 8 of the Bombay Sales Tax Act,
+1959 (hereinafter referred to as the "Bombay Act"), bears the meaning that is assigned to it in
+sub-section (25) of section 2, which is the definition section, or whether the said expression is
+capable of bearing a different meaning in view of the subject and context in which it is used in clause
+(ii) of section 8 of the Act. The question arises in these circumstances :
+The assessees were at all material times dealers in spirit and alcohol and were
+registered as dealers under the Bombay Act. During the relevant assessment periods,
+namely, 1st January, 1960, to 31st March, 1963, the assessees had purchased goods
+from one Motibhai Gopalbhai Patel, who was carrying on business at Baroda and was
+at the relevant time a dealer registered under the Central Sales Tax Act, 1956
+(hereinafter referred to as the "Central Act"). The said Motibhai Patel was, however,
+not registered as a dealer under the Bombay Act. During the course of proceedings
+for assessment to sales tax under the Bombay Act, the assessees claimed deduction
+from their turnover in respect of resales of goods purchased by them from the said
+Motibhai Patel. The claim for deduction was found on the provisions of clause (ii) of
+section 8 of the Bombay Act which in substance provides that resales of goods
+purchased by an assessee from a registered dealer shall be deducted from the
+turnover of sales of goods on which sales tax is leviable if certain conditions are
+fulfilled. The Sales Tax Officer rejected the claim of the assessees for such deduction
+on the ground that the said Motibhai Patel from whom the goods were purchased was
+not a registered dealer within the meaning of clause (ii) of section 8 in that he was
+not a dealer registered under the Bombay Act at the relevant time. The assessees
+carried the matter in appeal before the Assistant Commissioner of Sales Tax but the
+appeal was dismissed. The assessees thereupon preferred a second appeal before the
+Gujarat Sales Tax Tribunal (hereinafter referred to as the "Tribunal"), but the
+Tribunal also dismissed the appeal holding that in order to claim deduction from the
+turnover of sales of goods under clause (ii) of section 8 of the Bombay Act, what was
+required to be shown was that the goods were purchased by the dealer on or after the
+appointed day from a "registered dealer" and in view of the definition of the said
+expression as contained in sub-section (25) of section 2 of the Bombay Act, such
+Indian Kanoon - http://indiankanoon.org/doc/978380/ 1Union Medical Agency vs The State Of Gujarat on 16 November, 1970
+registered dealer must of necessity be a dealer registered under the Bombay Act. The
+Tribunal held that since the said Motibhai Patel from whom the assessees had
+purchased the goods in question was not a dealer registered under the Bombay Act,
+the requirements of clause (ii) of section 8 of the Bombay Act were not satisfied and
+the claim for deduction made by the assessees was not justified.
+The assessees thereupon made an application under section 61 of the Bombay Act
+requiring the Tribunal to refer to this court the question of law arising out of its
+order. The Tribunal acceded to the request of the assessees and has stated a case in
+respect of the following question of law :
+"Whether for the purpose of allowing deduction from the turnover of sales under
+clause (ii) of section 8 of the Bombay Sales Tax Act, 1959, purchases of goods made
+by a dealer registered under the Bombay Sales Tax Act, 1959, from a dealer registered
+under the Central Sales Tax Act, 1956, but not registered under the Bombay Sales Tax
+Act, 1959, can be said to be purchases of goods made from the registered dealer
+within the meaning of clause (ii) of section 8 of the Bombay Sales Tax Act, 1959 ?"
+It may be mentioned at this stage that Mr. S. L. Modi, the learned Advocate appearing on behalf of
+the assessees, had submitted in the forefront of his arguments that the question as framed did not
+bring out the real question of law which arises out of the order of the Tribunal. The submission was
+that the question should have been so framed as to confine itself to purchases of goods from a dealer
+registered under the Central Act who, by virtue of section 4 of the Bombay Act, was liable to pay tax
+on the sales of those goods to the dealer registered under the Bombay Act. We find that there is
+justification in the grievance made by Mr. Modi and we have accordingly reframed the question in
+the following terms :
+"Whether for the purpose of allowing deduction from the turnover of sales under
+clause (ii) of section 8 of the Bombay Sales Tax Act, 1959, purchases of goods made
+by a dealer registered under the Bombay Sales Tax Act, 1959, from a dealer who is
+registered under the Central Sales Tax Act, 1956, and who is liable to pay tax under
+section 4 of the Bombay Sales Tax Act, 1959, though not registered under the Bombay
+Sales Tax Act, 1959, can be said to be purchases of goods made from a registered
+dealer within the meaning of clause (ii) of section 8 of the Bombay Sales Tax Act,
+1959 ?"
+The question which arises for our decision turns upon the true construction of clause (ii) of section 8
+of the Bombay Act in the light of the definition of the expression "registered dealer" found in
+sub-section (25) of section 2 of the said Act. In order to appreciate the rival contentions which were
+strenuously urged before us, it would be necessary first to refer to the relevant provisions of the
+Central Act as well as of the Bombay Act. We shall first turn to the Central Act and briefly refer to
+the relevant provisions of the said Act.
+Indian Kanoon - http://indiankanoon.org/doc/978380/ 2Union Medical Agency vs The State Of Gujarat on 16 November, 1970
+2. The Central Act was enacted to formulate principles for determining as to when a sale or purchase
+of goods takes place in the course of inter-State trade or commerce or outside a State or in the
+course of import into or export from India, to provide for the levy, collection and distribution of
+taxes on sales of goods in the course of inter-State trade or commerce and to declare certain goods to
+be of special importance in inter-State trade or commerce and specify the restrictions and
+conditions to which State laws imposing taxes on the sale or purchase of such goods of special
+importance shall be subject. Clause (b) of section 2 of the Central Act defines the expression "dealer"
+to mean "any person who carries on the business of buying or selling goods, and includes a
+Government which carries on such business". "Registered dealer" is defined in clause (f) to mean "a
+dealer who is registered under section 7". We shall presently refer to section 7. However, before we
+do so, it would be convenient to refer to section 6, which reads as under :
+"6. (1) Subject to the other provisions contained in this Act, every dealer shall, with
+effect from such date as the Central Government may, by notification in the official
+Gazette appoint, not being earlier than thirty days from the date of such notification,
+be liable to pay tax under this Act on all sales effected by him in the course of
+inter-State trade or commerce during any year on and from the date so notified.
+(1-A) A dealer shall be liable to pay tax under this Act on a sale of any goods effected
+by him in the course of inter-State trade or commerce notwithstanding that no tax
+would have been leviable (whether on the seller or purchaser) under the sales tax law
+of the appropriate State if that sale had taken place inside that State.
+(2) Notwithstanding anything contained in sub-section (1) or subsection (1-A), where
+a sale in the course of inter-State trade or commerce of goods of the description
+referred to in sub-section (3) of section 8 -
+(a) has occasioned the movement of such goods from one State to another; or
+(b) has been effected by a transfer of documents of title to such goods during their
+movement from one State to another; any subsequent sale to a registered dealer
+during such movement effected by a transfer of documents of title to such goods shall
+not be subject to tax under this Act :
+Provided that no such subsequent sale shall be exempt from tax under this
+sub-section unless the dealer effecting the sale furnishes to the prescribed authority
+in the prescribed manner a certificate duly filled and signed by the registered dealer
+from whom the goods were purchased, containing the prescribed particulars."
+Sub-section (1) of section 7 provides that every dealer liable to pay the tax under the Central Act
+shall make an application for registration under the Act to such authority in the appropriate State as
+the Central Government may, by general or special order, specify, within such time as may be
+prescribed for the purpose and every such application shall contain such particulars as may be
+prescribed. Sub-section (2) of the said section provides that any dealer liable to pay tax under the
+Indian Kanoon - http://indiankanoon.org/doc/978380/ 3Union Medical Agency vs The State Of Gujarat on 16 November, 1970
+sales tax law of the appropriate State, or where there is no such law in force in the appropriate State
+or any part thereof, any dealer having a place of business in that State or part, as the case may be,
+may, notwithstanding that he is not liable to pay tax under the Central Act, apply for registration
+under the said Act to the authority referred to in sub-section (1) and every such application shall
+contain such particulars as may be prescribed. There is an explanation to this sub-section which
+says that for the purposes of the said sub-section, a dealer shall be deemed to be liable to pay tax
+under the sales tax law of the appropriate State notwithstanding that under such law a sale or
+purchase made by him is exempt from tax or a refund or rebate of tax is admissible in respect
+thereof. We are not concerned with the rest of the sub-sections of section 7. Section 8 of the Central
+Act lays down the rate structure of tax on sales in the course of inter-State trade or commerce.
+Transactions of sale in the course of inter-State trade or commerce are classified by section 8 into
+four broad categories, namely : (i) sales to Government falling within section 8(1)(a); (ii)
+transactions falling within section 8(1)(b), that is, sales to a registered dealer other than
+Government of goods referred to in sub-section (3) of section 8; (iii) transactions falling within
+section 8(2)(a), that is, sales of goods which are declared under section 14 to be of special
+importance in inter-State trade or commerce, and (iv) transactions falling within section 8(2)(b),
+that is, sales not falling within section 8(1) in respect of goods other than declared goods. Different
+rates of tax in respect of each of these four categories of transactions are prescribed by the
+Parliament in section 8. So far as sales to Government are concerned, they constitute a large bulk of
+sales in the course of inter-State trade or commerce. For these inter-State sales a uniform rate of tax
+is fixed under section 8(1)(a). The same is the position in regard to inter-State sales falling within
+section 8(1)(b), that is, inter-State sales to a registered dealer of goods described in section 8(3),
+which inter alia include goods of the class or classes specified in the certificate of registration of the
+registered dealer purchasing the goods as being intended for resale by him or, subject to any rules
+made by the Central Government in this behalf, for use by him in the manufacture or processing of
+goods for sale or in mining or in the generation or distribution of electricity or any other form of
+power. There also a uniform rate of tax is prescribed. The rate of tax in respect of both these
+categories of inter-State sales was originally two per cent., but since 1st July, 1956, it has been raised
+to three per cent. It may be mentioned, however, that sub-section (4) of section 8 inter alia provides
+that the provisions of sub-section (1) shall not apply to any sale in the course of inter-State trade or
+commerce, unless the dealer selling the goods furnishes to the prescribed authority in the prescribed
+manner a declaration duly filled and signed by the registered dealer to whom the goods are sold
+containing the prescribed particulars in a prescribed form obtained from the prescribed authority.
+The rate of tax prescribed by section 8(2)(a) for inter-State sales of declared goods is the rate
+applicable to the sale or purchase of such goods inside the appropriate State. The rate applicable to
+the sale or purchase of declared goods inside the appropriate State could not, however, exceed two
+per cent. prior to 1st July, 1966, and, since then, three per cent. by reason of section 15 of the Central
+Act. So far as transactions of sale falling within section 8(2) are concerned, the rate of tax prescribed
+is 10 per cent. or the rate applicable to the sale or purchase of such goods inside the appropriate
+State, whichever is higher. Sub-sections (2-A) and (5) of section 8, broadly speaking, provide that in
+certain circumstances no tax shall be payable or tax shall be payable at a rate lower than that
+prescribed in sub-section (1) or sub-section (2), as the case may be.
+Indian Kanoon - http://indiankanoon.org/doc/978380/ 4Union Medical Agency vs The State Of Gujarat on 16 November, 1970
+3. From the relevant provisions of the Central Act set out above, it would appear that under the said
+Act every dealer is liable to pay tax on sales effected by him in the course of inter-State trade or
+commerce and every such dealer is required to obtain a certificate of registration under the said Act.
+It may be noted that the combined effect of sub-sections (1)(b), (3) and (4) of section 8 is that a
+dealer, who in the course of inter-State trade or commerce sells to a registered dealer, other than the
+Government, goods specified in the certificate of registration of the registered dealer purchasing the
+goods as being intended for resale by him or for use by him in the manufacture or processing of
+goods for sale is liable to pay tax at the concessional rate of 3 per cent. provided the dealer selling
+the goods furnishes to the prescribed authority in the prescribed manner a declaration duly filled in
+and signed by the registered dealer to whom the goods are sold containing the prescribed particulars
+in a prescribed form obtained from a prescribed authority.
+4. We shall now turn to the relevant provisions of the Bombay Act. Section 2 defines various
+expressions used in the Act. The said section, however, is expressly made subject to the restriction
+which is usually found in all definition sections. The opening part of the said section conveys that
+the expressions used in the Act would bear the meaning assigned to them in the definition section
+"unless the context otherwise requires". Sub-section (25) of section 2 defines the expression
+"registered dealer" as meaning a dealer registered under section 22. Sub-section (1) of section 22, in
+so far as it is material, provides that no dealer shall, while being liable to pay tax under section 3 or
+under sub-section (6) of section 19, carry on business as a dealer, unless he possesses a valid
+certificate of registration as provided by the Act. The requirement of obtaining a certificate of
+registration is thus connected with the liability of a dealer to pay tax under section 3 or under
+sub-section (6) of section 19. The rest of the sub-sections of section 22 provide for the manner of
+registration, issue of registration certificate and amendment and cancellation thereof. Section 3
+provides for incidence of tax and sub-section (1) thereof, in so far as it is material, provides that
+every dealer whose turnover either of all sales or of all purchases made during the year ending on
+the 31st day of March, 1959, or the year commencing on the 1st day of April, 1959, has exceeded or
+exceeds the prescribed limit specified in sub-section (4) shall, until such liability ceases under
+sub-section (3), be liable to pay tax under the Act on his turnover of sales and on his turnover of
+purchases made, on or after the appointed day. There is a proviso to the said sub-section, which is
+not material for the present case. The rest of the sub-sections of section 3 also do not require to be
+referred to. Section 6 enacts that subject to the provisions of the Act and to any Rules made
+thereunder, there shall be paid by every dealer, who is liable to pay tax under the Act, the tax or
+taxes leviable in accordance with the provisions of Chapter II. Section 6 is followed by a group of
+sections, which deal with the levy of sales tax or general sales tax, as the case may be, on turnover of
+sales of different classes of goods at prescribed rates. These sections are sections 7 to 10. It is not
+necessary to set out those sections in this judgment. What requires to be noted, however, is that in
+each of these four sections a provision has been made to the effect that in levying the sales tax or
+general sales tax, as the case may be, at the prescribed rates, certain deductions shall be made from
+the turnover of sales of goods of the dealer concerned. In other words, while assessing the sales tax
+or general sales tax, as the case may be, payable by the concerned dealer, sections 7 to 10
+contemplate certain deductions to be made from the turnover of sales of the said dealer. We shall set
+out section 8 in order to illustrate this position. Section 8, as it stood at the material time, read as
+under :
+Indian Kanoon - http://indiankanoon.org/doc/978380/ 5Union Medical Agency vs The State Of Gujarat on 16 November, 1970
+"8. There shall be levied a sales tax on the turnover of sales of goods specified in
+Schedule C at the rate set out against each of them in column 3 thereof, but after
+deducting from such turnover, -
+(i) resales of goods on the purchase of which the dealer is liable to pay purchase tax
+under section 13 or 14,
+(ii) resales of goods purchased by him on or after the appointed day from a registered
+dealer, if the goods at the time of their purchase were goods specified in Schedule C,
+and,
+(iii) sales of goods, or resales of goods to which clauses (i) and (ii) do not apply, to an
+authorised dealer, or recognised dealer, or to a commission agent holding a permit
+who purchases on behalf of a principal who is an authorised dealer or recognised
+dealer, upon such dealer or commission agent, as the case may be, furnishing a
+certificate as provided in section 12."
+It would be seen that in levying sales tax on the turnover of sales of goods specified in Schedule C at
+the rate set out against each of them in column 3 thereof, deduction from turnover is required to be
+made in respect of the following categories of sales or resales of goods : (i) resales of goods on the
+purchase of which the dealer is liable to pay purchase tax; (ii) resales of goods purchased by him on
+or after the appointed day from a registered dealer if the goods at the time of their purchase were
+goods specified in Schedule C; and (iii) sales of goods, or resales of goods, to which clauses (i) and
+(ii) do not apply to an authorised dealer, or recognised dealer, or to a commission agent, provided
+certain conditions are satisfied. We are, in the instant case, directly concerned with clause (ii) of
+section 8 and the effect of the said provision is that if the concerned dealer, upon whom sales tax is
+sought to be levied, shows that in his turnover of sales of goods are included resales of goods
+purchased by him on or after the appointed day from a registered dealer, such resales would be
+deducted from his total turnover provided the goods at the time of their purchase were goods
+specified in Schedule C and he would be assessed to sales tax accordingly.
+5. We may at this stage point out that the obvious intention of the Legislature in enacting this and
+similar provisions is to restrict the levy of sales tax to a single point and to avoid multiple levy of
+sales tax on goods. The intention of the Legislature is that sales tax should be levied at the stage of
+first sale and should be recovered from the registered dealer who effects the first sale and all
+subsequent sales of such goods should not be subjected to sales tax over again. We find that this
+thread runs throughout sections 7 to 10 and the legislative intention is clearly manifested in this
+group of sections which, in substance and effect, provide that the levy of sales tax should be at a
+single point and that too at the point of first sale of the goods. This aspect has a direct bearing on the
+question which arises for our determination in this case and will have to be borne in mind.
+6. We shall now turn to another section of the Bombay Act which creates a special liability to pay tax
+in the case of a dealer who might be registered under the Central Act but who is not registered under
+the Bombay Act on the sales of certain goods. The relevant provision is section 4 of the Bombay Act,
+Indian Kanoon - http://indiankanoon.org/doc/978380/ 6Union Medical Agency vs The State Of Gujarat on 16 November, 1970
+which reads as under :
+"4. (1) Notwithstanding anything in section 3, a dealer who is registered under the
+Central Sales Tax Act, 1956, but who is not liable to pay tax under the said section 3,
+shall nevertheless be liable to pay tax -
+(a) on sales of goods in respect of the purchase of which he has furnished a
+declaration under sub-section (4) of section 8 of the Central Sales Tax Act, 1956, and
+(b) on sales of goods in the manufacture of which the goods so purchased have been
+used, and accordingly, the provisions of sections 7 to 12 (both inclusive) shall apply to
+such sales, as they apply to the sales made by a dealer liable to pay tax under section
+3.
+(2) Every dealer who is liable to pay tax under sub-section (1) shall, for the purposes
+of sections 32, 33, 34, 35, 36, 37, 38, 46, 47 and 48 be deemed to be a registered
+dealer."
+This section provides that a dealer registered under the Central Act, who may not be liable to pay tax
+under section 3 of the Bombay Act, would nevertheless be liable to pay tax under the Bombay Act on
+sales of goods in respect of the purchase of which he has furnished a declaration under sub-section
+(4) of section 8 of the Central Act and on sales of goods in the manufacture of which the purchased
+goods have been used. The provisions of sections 7 to 12 are made applicable to such sales in the
+same manner in which they apply to the sales made by a dealer liable to pay tax under section 3 and
+every dealer who is liable to pay tax under section 4 is, for the purpose of sections 32 to 38 and 46 to
+48, deemed to be a registered dealer. Sections 32 to 38 and 46 to 48 make provision inter alia for
+assessment, reassessment, recovery and refund of tax and imposition of penalty. The effect of these
+provisions is that so far as sales referred to in section 4 are concerned, a dealer registered under the
+Central Act is liable to pay tax thereon like any other dealer registered under the Bombay Act and
+such dealer is deemed to be a registered dealer for certain purposes under the Bombay Act. These
+are the relevant provisions of the Bombay Act, which are required to be noted for the purposes of
+this Act.
+7. Mr. S L. Modi, learned Advocate appearing on behalf of the assessees, urged that in the present
+case, the dealer from whom the assessees had purchased the goods was liable to be assessed to sales
+tax under section 4 of the Bombay Act on the sales made to the assessees and in order to avoid
+multiple levy of sales tax, it was necessary to give to the assessees the benefit of section 8(ii) of the
+Bombay Act, although the dealer from whom the assessees purchased the goods was not a registered
+dealer under the Bombay Act. The submission was that the expression "registered dealer" appearing
+in clause (ii) of section 8 of the Bombay Act was required to be given a meaning different than that
+which is ascribed to it in the definition section in order to carry out the intention of the Legislature
+and the object of clause (ii) of section 8 of the Bombay Act. According to Mr. Modi, clause (ii) of
+section 8 was obviously enacted to ensure a single point levy of sales tax when the first sale was
+effected and to avoid multiple levy of sales tax when subsequent sales of such goods take place. If the
+Indian Kanoon - http://indiankanoon.org/doc/978380/ 7Union Medical Agency vs The State Of Gujarat on 16 November, 1970
+expression "registered dealer" appearing in clause (ii) of section 8 were given the narrow meaning
+ascribed to it in the definition section, the intention of the Legislature would be defeated in a case
+like the present one where special liability to pay sales tax is created by section 4 in respect of sales
+of certain kinds of goods made by a dealer registered under the Central Act. Sales of such goods
+would be subjected to the levy of sales tax at least at two stages; first, when the said goods are sold
+by the dealer registered under the Central Act and secondly, when the dealer registered under the
+Bombay Act, who purchased the goods from such dealer, sells them again within the State. The
+submission was that the definition of the expression "registered dealer" as contained in sub-section
+(25) of section 2 of the Bombay Act was in terms subject to the qualification laid down in the
+opening part of section 2 and that having regard to the context in which the expression "registered
+dealer" is used in clause (ii) of section 8, the expression "registered dealer" should be so construed
+as to include not only a dealer registered under the Bombay Act but also a dealer registered under
+the Central Act who incurs special liability to pay sales tax under the provisions of section 4 of the
+Bombay Act. According to Mr. Modi, such construction would be in consonance with the scheme of
+the Act and instrumental in carrying out the object of the Legislature in enacting clause (ii) of
+section 2 of the Bombay Act.
+8. The argument put forward by Mr. Modi raises the question whether the expression "registered
+dealer" appearing in section 8(ii) should be so construed as to include within its ambit not only a
+dealer registered under the Bombay Act but also a dealer registered under the Central Act upon
+whom a special liability to pay sales tax has been imposed by section 4 of the Bombay Act. Now, it is
+true that sub-section (25) of section 2 defines the expression "registered dealer" as a dealer
+registered under section 22 of the Bombay Act and further that the said definition is an exhaustive
+definition. Ordinarily, therefore, the expression "registered dealer", which is used in section 8(ii),
+would bear the meaning which is given to it in the definition section, namely, sub-section (25) of
+section 2. However, it is well-settled that it is possible for a defined expression to have a somewhat
+different meaning in different sections of the Act depending upon the subject or the context. The
+point for determination is : does that rule apply in the case of the expression under consideration ?
+9. We may, in this connection, first refer to the decision of the Supreme Court in V.F. & G. Insurance
+Co. v. M/s. Fraser and Ross ([1960] 30 Comp. Cas. (Ins.) 13 (S.C.); A.I.R. 1960 S.C. 971). The
+Supreme Court was in that case concerned with the meaning of the word "insurer" which was used
+in sections 33 and 2D of the Insurance Act, 1938. The word was defined by sub-section (9) of section
+2 of the said Act, inter alia, as meaning any body corporate (not being a person specified in
+sub-clause (c) of the said clause), carrying on the business of insurance which is a body corporate
+incorporated under any law for the time being in force in India or stands to any such body corporate
+in the relation of a subsidiary company within the meaning of the Indian Companies Act. The
+appellant-company in that case had closed down its business of insurance and still by virtue of the
+authority conferred upon it by section 33 of the Act, the Government of India passed an order
+directing the Controller of Insurance to investigate the affairs of the company and to submit a
+report. The respondents were thereafter appointed to act as auditors to assist him in the
+investigation. The order passed by the Government of India was challenged by the appellant
+company in a writ petition inter alia on the ground that the company having closed all its insurance
+business, no order could be passed against it under section 33 as that section only applied to an
+Indian Kanoon - http://indiankanoon.org/doc/978380/ 8Union Medical Agency vs The State Of Gujarat on 16 November, 1970
+"insurer", that is, to a company actually carrying on the business of insurance. The writ petition was
+dismissed in the first instance by a single Judge of the Madras High Court and on appeal by a
+Division Bench of the same High Court. The company thereupon carried the matter in appeal to the
+Supreme Court. The argument on behalf of the appellant-company before the Supreme Court was
+based on the exhaustive definition of the word "insurer" in section 2(9) of the Act. The Supreme
+Court, while dealing with this contention, observed as follows :
+"The main basis of this contention is the definition of the word 'insurer' in section
+2(9) of the Act. It is pointed out that that definition begins with the words 'insurer
+means' and is therefore exhaustive. It may be accepted that generally the word
+'insurer' has been defined for the purposes of the Act to mean a person or body
+corporate, etc., which is actually carrying on the business of insurance, i.e., the
+business of effecting contracts of insurance of whatever kind they might be. But
+section 2 begins with the words 'in this Act, unless there is anything repugnant in the
+subject or context', and then comes the various definition clauses of which (9) is one.
+It is well-settled that all the statutory definitions or abbreviations must be read
+subject to the qualification variously expressed in the definition clauses which
+created them and it may be that even where the definition is exhaustive inasmuch as
+the word defined is said to mean a certain thing, it is possible for the word to have a
+somewhat different meaning in different sections of the Act depending upon the
+subject or the context. That is why all definitions in statutes generally begin with the
+qualifying words similar to the words used in the present case, namely, unless there
+is anything repugnant in the subject or context. Therefore, in finding out the meaning
+of the word 'insurer' in various sections of the Act, the meaning to be ordinarily given
+to it is that given in the definition clause. But this is not inflexible and there may be
+sections in the Act where the meaning may have to be departed from on account of
+the subject or context in which the word has been used and that will be giving effect
+to the opening sentence in the definition section, namely, unless there is anything
+repugnant in the subject or context. In view of this qualification, the court has not
+only to look at the words, but also to look at the context, the collocation and the
+object of such words relating to such matter and interpret the meaning intended to be
+conveyed by the use of the words under the circumstances. Therefore, though
+ordinarily the word 'insurer' as used in the Act would mean a person or body
+corporate actually carrying on the business of insurance it may be that in certain
+sections the word may have a somewhat different meaning."
+Having considered the matter in the light of these principles, the Supreme Court in fact found in
+that case that the word "insurer" in section 33 not only refers to a person who is actually carrying on
+business, but in the context of that section and taking into account the policy of the Act and the
+purposes for which the control envisaged by the Act was imposed on insurers, also refers to insurers
+who were carrying on the business of insurance but have closed it.
+10. In Maxwell's Interpretation of Statutes, the learned author has made the following observations
+on this aspect at page 30 of the Eighth Edition :
+Indian Kanoon - http://indiankanoon.org/doc/978380/ 9Union Medical Agency vs The State Of Gujarat on 16 November, 1970
+"Even where an Act contains a definition section it does not necessarily apply in all
+contexts in which a defined word may be found. If a defined expression is used in a
+context which the definition will not fit, the context must be allowed to prevail over
+the 'artificial conceptions' of the definition clause, and the word must be given its
+ordinary meaning."
+In Craies on Statute Law, Sixth Edition, page 213, the learned author has dealt with this question
+and relying upon the decision of Scott, L.J., in Jobbins v. Middlesex County Council ([1949] 1 K.B.
+142), observed that a definition section ought to be so construed as not cutting down the enacting
+provisions of an Act unless there is absolutely clear language having the opposite effect.
+11. It is thus clear that though ordinarily the meaning to be given to an expression found in a
+provision of a statute is one that is given in the definition clause, there may be cases in which that
+meaning may have to be departed from having regard to the context, collocation and the object of
+the statute and it may become necessary to interpret the word differently so as to give effect to the
+enacting provision of the Act.
+12. We may also in this connection refer to another rule of construction applicable to all statutes
+alike, which is spoken of as exposition ex visceribus actus. In Mahomed Tayoob Daruwala v. State of
+Bombay ([1960] 11 S.T.C. 612), a Division Bench of the Bombay High Court has set out the effect of
+this rule of construction in the following words :
+"The court is bound to see that every provision of a statute is construed with
+reference to the context and the other provisions of the statute and preferably of the
+same section, where it is possible to do so. The court is entitled and even bound, as
+far as possible, to see that the interpretation it puts on a particular provision makes a
+consistent enactment of the whole statute. In applying these rules the court has to
+remember what has so often been emphasised that as far as possible nothing can be
+read and nothing can be implied in a taxing statute. One can only look fairly at the
+language used. The indispensable starting point and the first step in case of any
+provision of the nature before us is to examine the words of the particular provision
+under consideration, of course, bearing in mind that it is not a detached enactment
+but one forming a connected scheme."
+In Craies on Statute Law, Sixth Edition, the following observations are found at page 99, which are
+also pertinent :
+"This rule of construction (namely exposition ex visceribus actus) has frequently been
+recognised and acted upon by courts of law from Coke's time down to the present
+day. In Brett v. Brett ([1826] 3 Add. 210, 216), Sir John Nicholl, M. R., said as follows
+: 'The key to the opening of every law is the reason and spirit of the law; it is the
+animus imponentis, the intention of the law-maker expressed in the law itself, taken
+as a whole. Hence, to arrive at the true meaning of any particular phrase in a statute,
+the particular phrase is not to be viewed detached from its context in the statute; it is
+Indian Kanoon - http://indiankanoon.org/doc/978380/ 10Union Medical Agency vs The State Of Gujarat on 16 November, 1970
+to be viewed in connection with its whole context, meaning by this as well the title
+and preamble as the purview or enacting part of the statute.' In Bywater v. Brandling
+([1828] 7 B.& C. 643, 660), Lord Tenterden said : 'In construing Acts of Parliament
+we are to look not only at the language of the preamble or of any particular clause,
+but at the language of the whole Act. And if we find in the preamble or in any
+particular clause an expression not so large and extensive in its import as those used
+in other parts of the Act, and upon a view of the whole Act we can collect from the
+more large and extensive expressions used in other parts the real intention of the
+Legislature, it is our duty to give effect to the larger expressions, notwithstanding the
+phrases of less extensive import in the preamble or in any particular clause.'"
+At page 100, the following observations from the decision of Blackburn, J., in Rein v. Lane ([1867]
+L.R. 2 Q.B. 144, 151), are quoted :
+"It is, I apprehend, in accordance with the general rule of construction that you are
+not only to look at the words, but you are to look at the context, the collocation, and
+the object of such words relating to such matter, and interpret the meaning according
+to what would appear to be the meaning intended to be conveyed by the use of the
+words under the circumstances."
+We shall now proceed to consider the provisions of section 8 of the Bombay Act in the light of these
+principles. As stated above, the legislative intention in providing for deduction in section 8 is to
+avoid multiple levy of tax on sales of goods and to restrict the levy to the stage at which the first sale
+takes place. Similar provisions are to be found also in sections 7, 9 and 10, which are the other
+sections, which deal with the levy of tax on sales of goods specified in different schedules of the Act.
+It would thus appear that the scheme of the Act is that there should be a single point levy of tax and
+that too at the point of first sale. This proposition is not disputed even on behalf of the
+Commissioner. If that be so then there is no reason to limit the meaning of the expression
+"registered dealer" appearing in clause (ii) of section 8 only to a dealer registered under section 2 of
+the Bombay Act and to exclude from the ambit of that expression a dealer registered under the
+Central Act who is liable to be assessed to sales tax under section 4 of the Bombay Act. We must read
+the provisions of section 4 along with the provisions of section 8 and also give effect to the intention
+of the Legislature in providing for deductions in section 8. The context in which the words
+"registered dealer" appear in clause (ii) of section 8 of the Act suggests that the meaning given to the
+said expression in the definition section of the Bombay Act must be departed from and to do so
+would only give effect to the policy of the Act and the object behind enacting the relevant provisions.
+13. Mr. B. R. Shah, the learned Assistant Government Pleader, appearing on behalf of the
+department strenuously urged that there was no warrant for departing from the meaning given to
+the expression "registered dealer" in the definition section while construing the said expression in
+the context of section 8. He contended in the first place that if the Legislature really intended that
+the expression "registered dealer" in section 8(ii) should take within its ambit a dealer registered
+under the Central Act upon whom liability to pay sales tax is imposed under section 4 of the Bombay
+Act, the Legislature would have said so in clear words and it would have made the necessary
+Indian Kanoon - http://indiankanoon.org/doc/978380/ 11Union Medical Agency vs The State Of Gujarat on 16 November, 1970
+provision in sub-section (2) of section 4 of the Bombay Act, which provides that every dealer liable
+to pay tax under sub-section (1) shall be deemed to be a registered dealer for the purposes of certain
+sections of the Bombay Act. The argument in other words was that it would have been specifically
+enacted in sub-section (2) of section 4 that every such dealer shall be deemed to be a registered
+dealer also for the purposes of clause (ii) of section 8 of the Bombay Act. We find that this
+submission, attractive though it may appear at first sight, is fallacious. As observed earlier,
+sub-section (1) of section 4 is enacted with the specific object of imposing upon a dealer registered
+under the Central Act liability to pay sales tax under the Bombay Act on sales of goods specified
+therein at designated rates. Having thus provided for the charge of tax and the rate structure, the
+Legislature has proceeded to lay down in sub-section (2) of section 4 the machinery for assessment,
+reassessment, collection and enforcement of payment of tax and penalty as well as for other
+incidental and connected matters. The Legislature has achieved this object by creating a fiction in
+sub-section (2) of section 4 as a result of which the relevant sections of the Bombay Act, which
+provide the machinery for assessment, reassessment and recovery of tax imposed by section 3 on a
+dealer registered under the said Act, become applicable proprio vigore to a dealer registered under
+the Central Act upon whom liability to pay tax is imposed by section 4. It is apparent that the fiction
+in sub-section (2) is created for this limited purpose, namely, to make section 4 a self-contained
+code which not only imposes the charge of tax and lays down the rate structure but also provides a
+machinery for the assessment and recovery of tax and other allied matters. It would, therefore, have
+been inappropriate or at any rate wholly inartistic for the Legislature to provide in sub-section (2) of
+section 4 that every dealer who is liable to pay tax under sub-section (1) shall be deemed to be a
+registered dealer for the purpose of clause (ii) of section 8 since the latter section provides for the
+levy of sales tax on sales of goods of an altogether different dealer after making certain deductions
+from the turnover of sales of goods of such dealer. The Legislature could have made a specific
+provision, if any, in this behalf only in clause (ii) of section 8 and not in sub-section (2) of section 4.
+14. Mr. Shah next contended that the effect of giving to the expression "registered dealer" in clause
+(ii) of section 8 a meaning different from that found in the definition section would in fact be to
+extend the legal fiction created by sub-section (2) of section 4 beyond its legitimate field. Mr. Shah
+urged that when a legal fiction is created it should be confined to the purpose for which it was
+created and should not be extended to an altogether different or alien field. The argument, in our
+opinion, is wholly misconceived. The expression "registered dealer" in clause (ii) of section 8 is
+construed as taking within its ambit a dealer registered under the Central Act who is made liable to
+pay sales tax under section 4 of the Bombay Act not on account of the legal fiction created by
+sub-section (2) of section 4 of the Bombay Act, but having regard to the context, collocation, object
+and policy of the Act. The legal fiction created by sub-section (2) of section 4 does not at all enter
+into consideration in giving an extended or different meaning to the expression "registered dealer"
+in section 8(ii).
+15. Mr. Shah then advanced an argument founded on provisions of sub-section (3) of section 7 of the
+Bombay Act. Section 7 deals with single point levy of sales tax or general sales tax on declared goods
+and sub-section (3) thereof reads as under :
+Indian Kanoon - http://indiankanoon.org/doc/978380/ 12Union Medical Agency vs The State Of Gujarat on 16 November, 1970
+"(3) In order to ensure that after the date of the coming into force of section 15 of the
+Central Sales Tax Act, 1956, tax shall not be levied on the sales or purchases of
+declared goods at more than one stage, it is hereby provided that if under this Act, or
+any earlier law, any tax has been levied or is leviable on the sale or purchase of such
+goods, then no further tax shall be levied under this Act on any subsequent sale or
+purchase thereof; and accordingly, for the purpose of arriving at the taxable turnover
+of sales or purchases of a dealer, there shall be deducted from his total turnover of
+sales, or as the case may be, of purchases, the sales or purchases of such declared
+goods as have borne tax at any earlier stage."
+Mr. Shah urged that the provisions of sub-section (3) of section 7 would show that whenever it was
+intended that there should be a single point of levy of tax, the Legislature has made a specific
+provision to that effect in the Act. Therefore, if the Legislature had intended that no further tax
+should be levied under the Act on subsequent sales of goods, which might already have been subject
+to sales tax under the provisions of section 4 of the Act at the stage of previous sale, the Legislature
+would have made a clear provision to that effect in section 4 or section 8 on the lines of the
+provisions contained in sub-section (3) of section 7.
+16. We find that this argument of Mr. Shah is also devoid of any merit. Sub-sections (1) and (2) of
+section 7 provide for the levy of tax on sales of declared goods. In these two sub-sections, provision
+is already made for deductions from the turnover of sales of the concerned dealer of declared goods
+in order to avoid multiple levy of tax. Sub-section (3) of section 7 is, however, specifically enacted to
+carry out the mandate of section 15 of the Central Act which contains an injunction that the tax
+payable under the sales tax law of a State on the sale or purchase of declared goods within the State
+shall not be levied at more than one stage. It would appear from the language used in sub-section (3)
+of section 7 of the Bombay Act that it is enacted to ensure that after the date of coming into force of
+section 15 of the Central Act, the mandate contained in the said section is in no case violated and if
+any tax has been levied or is leviable on the sale or purchase of declared goods either under the
+provisions of the Bombay Act (1959) or under any earlier sales tax law of the State, no further tax
+shall be levied on any subsequent sale or purchase of such goods. This provision was obviously
+enacted to meet a special situation, namely, to give complete effect to the provisions of section 15 of
+the Central Act and to ensure that there is no multiple levy of tax even in cases inadvertently left but
+or not specifically covered by the provisions of sub-sections (1) and (2) of section 7, so that there is
+no conflict with section 15 of the Central Act. Sub-section (3) of section 7 cannot, therefore, help us
+in construing clause (ii) of section 8 of the Bombay Act.
+17. Mr. Shah next contended that the legislative history clearly indicated that the Legislature did not
+intend to exempt from the levy of tax subsequent sales of goods, which might have borne the levy of
+tax at the stage of earlier sale under section 4 of the Act. In this connection, Mr. Shah invited our
+attention to the provisions of section 5A of the Bombay Sales Tax Act, 1953, which read as under :
+"5A. (1) A dealer registered under the Central Sales Tax Act, 1956, who is not liable to
+pay tax under section 5 of this Act, shall nevertheless be liable to pay tax on his sale of
+any goods in respect of the purchase of which he has furnished a declaration under
+Indian Kanoon - http://indiankanoon.org/doc/978380/ 13Union Medical Agency vs The State Of Gujarat on 16 November, 1970
+sub-section (4) of section 8 of the Central Sales Tax Act, 1956, or on the sale of any
+goods in the manufacture of which such goods have been used, at a rate equal to the
+aggregate of the rates specified in columns 2 and 3 of Schedule B or, as the case may
+be, at the rate specified under section 7A :
+Provided that the tax under this section shall not be payable if the seller shows to the
+satisfaction of the Collector that the purchaser of the goods is a dealer registered
+under this Act and has furnished to such seller a certificate in the prescribed form
+declaring inter alia that the goods so sold to him are intended for resale by him or for
+use by him, in the prescribed manner, in the manufacture or processing of any goods
+for sale.
+(2) Every dealer who is liable to pay tax under sub-section (1) shall, for the purposes
+of sections 13, 14, 16, 21 and 22, be deemed to be a registered dealer."
+Mr. Shah contended that the provisions of section 5A of the Bombay Act of 1953 are substantially in
+pari materia with the provisions of section 4 of the Bombay Act, 1959, in that both these provisions
+created a special liability in respect of a dealer registered under the Central Act to pay tax on sales of
+goods of specific kind under the sales tax law of the State. However, the 1933 Act enacted a specific
+proviso to section 5A, which provided that the dealer under the Central Act will not be liable to pay
+sales tax under section 5A if the dealer showed to the satisfaction of the Collector that the purchaser
+of the goods was a dealer registered under the Bombay Act and had furnished to the seller a
+certificate in the prescribed form declaring inter alia that the goods sold to him were intended for
+resale by him or for use by him in the manufacture or processing of any goods for sale, as the case
+may be. Mr. Shah drew our attention to the fact that such a proviso was not enacted in section 4 of
+the Act of 1959 nor was a similar provision made in section 8 of the said Act and that having regard
+to this conscious omission on the part of the Legislature, we should proceed on an assumption that
+the Legislature did not intend that no tax shall be levied on subsequent sales of goods which might
+have been subject to levy of sales tax under the provisions of section 5 at the stage of earlier sale. The
+submission made by Mr. Shah cannot be accepted for two reasons. In the first instance, mere
+omission in a later statute of a provision contained in an earlier one cannot by itself be said to be an
+indication of the legislative intent. The Legislature may have omitted to make a similar provision in
+the later Act if it found it unnecessary to make such a provision having regard to the other
+provisions of the Act which might bring about the same effect or it may have made the relevant
+provision in the earlier Act ex abundanti cautela. The circumstance that in a later Act a provision
+which found place in an earlier Act has been deleted cannot, therefore, by itself and conclusively
+determine the question. Secondly, we find that the scheme of the Act of 1953 is materially different
+from the scheme of the Act of 1959. Section 5A of the 1953 Act contemplated the levy of a single
+point tax at the stage when the second sale takes place, viz., the stage at which a dealer registered
+under the Bombay Act effects the sale. Under the 1959 Act, the scheme has been altered and the
+sales tax is now sought to be levied under section 4 on sales of certain class or classes of goods at the
+stage when the first sale takes place. Having regard to this change in the scheme of the Act, it is not
+unreasonable to assume that the Legislature did not find it necessary to enact in section 4 a proviso
+similar to that found in section 5A of the Act since the object of single point levy of sales tax was
+Indian Kanoon - http://indiankanoon.org/doc/978380/ 14Union Medical Agency vs The State Of Gujarat on 16 November, 1970
+achieved by providing for suitable deductions from the turnover of sales of goods in clause (ii) of
+section 8 of the Act.
+18. Mr. Shah lastly urged that if the expression "registered dealer" appearing in clause (ii) of section
+8 were to be interpreted to include a dealer registered under the Central Act on whom a special
+liability to pay sales tax has been imposed by section 4, the object of enacting section 4 itself would
+be frustrated. Mr. Shah elaborated his submission by illustrating the point in this manner : suppose
+the dealer registered under the Central Act sells to a dealer liable to pay sales tax under section 8 of
+the Act not only these goods upon the sale of which sales tax has been assessed under the provisions
+of section 4 of the Act, but also other goods upon the sale of which he was not to be liable to pay
+sales tax under the Bombay Act. In such a case, the dealer registered under the Bombay Act would
+be able to claim deduction from his total turnover of sales of goods not only in respect of the goods
+on the sale of which the dealer under the Central Act has paid sales tax under section 4 but also in
+respect of resales of other goods on the sale of which no liability is imposed upon the dealer
+registered under the Central Act to pay sales tax under the Bombay Act. The argument in other
+words was that the effect of construing the expression "registered dealer" in section 8(ii) to mean
+and include a dealer registered under the Central Act would be to leave doors open for evasion of tax
+on certain class or classes of goods sold by a dealer registered under the Central Act to a dealer
+registered under the Bombay Act. The submission, in our opinion, is misconceived. Even if the
+expression "registered dealer" in clause (ii) of section 8 is given a wider meaning for which the
+assessees contend, it would only include a dealer registered under the Central Act who is liable to
+pay tax on the sales of goods under section 4 and the deduction under clause (ii) of section 8 would
+be allowable only if the goods resold are goods on the sale of which the dealer registered under the
+Central Act is liable to pay tax under section 4 of the Act. If the dealer registered under the Central
+Act has sold to the dealer registered under the Bombay Act goods other than those specified in
+section 4 of the Bombay Act and such goods have been later resold by the dealer registered under
+the Bombay Act, no deduction from turnover of sales would be permissible in respect of resales of
+such goods and such sales would be includible in the total turnover of sales of the dealer registered
+under the Bombay Act. The apprehension voiced on behalf of the department is, therefore,
+misconceived.
+19. The result of the foregoing discussion is that having regard to the context, collocation and the
+object of the expression "registered dealer" in clause (ii) of section 8 of the Bombay Act and having
+regard to the policy of the Act, the said expression would also include a dealer registered under the
+Central Act on whom special liability to pay sales tax has been imposed under section 4 of the Act. A
+dealer who purchases goods from a dealer registered under the Central Act, who is liable to pay sales
+tax on the sale of the said goods by virtue of the provisions of section 4 of the Bombay Act, would,
+therefore, be entitled to deduct from his turnover of sales of goods, resales of goods so purchased by
+him on or after the appointed day if the goods, at the time of their purchase, were goods specified in
+Schedule C.
+20. Our answer to the question as reframed by us is, therefore, in the affirmative. The reference is
+disposed of accordingly. The department to pay to the assessees the costs of this reference.
+Indian Kanoon - http://indiankanoon.org/doc/978380/ 15Union Medical Agency vs The State Of Gujarat on 16 November, 1970
+21. Reference answered accordingly.
+Indian Kanoon - http://indiankanoon.org/doc/978380/ 16

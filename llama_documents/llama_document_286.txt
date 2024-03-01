@@ -1,0 +1,1615 @@
+Metadata: id=>286
+name=>Mafatlal Industries Ltd vs Union Of India Etc Etc on 19 December 1996-2
+date=>19 December 1996
+court=>Supreme Court of India
+link=>http://indiankanoon.org/doc/1198027/
+-----
+Content: Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+Supreme Court of India
+Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+Author: Paripoornan
+Bench: Ahmadi A.M. (Cj), Verma, J.S. (J) Agrawal, S.C. (J), Jeevan Reddy, B.P. (J) Anand, A.S. (J),
+Hansaria B.L. Sen, S.C. (J), Paripoornan, K.S.(J) & (J)
+PETITIONER:
+MAFATLAL INDUSTRIES LTD., AHMEDABAD ETC. ETC..
+Vs.
+RESPONDENT:
+UNION OF INDIA ETC. ETC..
+DATE OF JUDGMENT: 19/12/1996
+BENCH:
+K.S. PARIPOORNAN
+ACT:
+HEADNOTE:
+JUDGMENT:
+(With C.A. Nos. 3256-3270/84, 660/89, 541/89, 2/91, 2578 80/92, 1794/84, 921/92, 4952/91,
+4412/91, 4878/91, 2/86, 6255/90, 289/91, 2966/89, 143/94, 190/95, 5688/89-95, 6094/90,
+565/568/86, 4326/95, 77/95, WP(C) Nos. 189/93, 520/92, 521/93, 1122/88. SLP(C) Nos. 10667/91,
+15832 33/87, 18955/93, 11440/95, 8724/93, 3321/93, 3332/93, 3325/93 & SLP(C) 25078 CC
+15651/92) J U D G M E N T PARIPOORNAN, J.
+Common questions of law arise for consideration in this batch of cases. Initially the matter came up
+before a two- Member Bench. The said Bench felt that the decision of the Constitution Bench
+comprising 5 Judges in Sales Tax Officer, Benaras & Others vs. Kanhaiya Lal Mukundalal Saraf (AIR
+1959 SC 135 = 1959 SCR 1350) requires reconsideration and referred the matter to a larger bench of
+7 Judges. When the matter came up before a bench of 7 Judges, it was noticed that Kanhaiya Lal's
+case (supra) was expressly approved by a bench of 7 Judges in the decision reported in State of
+Kerala v. Aluminium Industries Ltd. [(1965) 16 STC 689], and so, by order dated 28.7.1993, the said
+Bench directed that the matter may be placed before the learned Chief Justice for constituting a still
+larger Bench. That is how this batch of cases came up before a Bench of 9 Judges. We heard, Sri F.S.
+Nariman, Sri Soli Sorabjee and Sri Harish Salve, Senior Advocates, who appeared for the different
+assessees (claimants) and Sri K. Parasaran and Sri M. Chandrashekhar, Senior Advocates who
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 1Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+appeared for the Union of India.
+2. Stated briefly, the controversy centres round the tenability or otherwise of the claim for refund of
+the amounts paid by way of excise duty under the Central Excises and Salt Act, 1944, now titled as
+Central Excise Act, 1944 (hereinafter referred to as `the Excise Act' on the ground that it was so
+done under "mistake of law". it will be convenient to deal with the controversy by adverting to the
+minimal facts in the main appeal argued before us -- Civil Appeal No.3255 of 1984 - Mafatlal
+Industries Ltd., Ahmedabad v. Union of India. The appellant is a textile mill situate at Ahmedabad.
+The appellant and a few other mills manufacture "blended yarn". The said blended yarn was
+captively consumed by the various mills for manufacture of fabric, popularly known as "art silk"
+fabric. For the period prior to March 16/17, 1972, the mills paid excise duty on blended yarn
+manufactured for captive consumption under Tariff Item 18 or 18A of the First Schedule to the
+Excise Act. In Special Application No.1058/72 filed by M/s. Calico Mills, who manufactured fabrics
+and was captively consuming blended yarn, produced by it for manufacturing fabric known as "art
+silk fabric", a Division Bench of the Gujarat High Court by judgment dated 15.1.1976, held that the
+levy of the excise duty on blended yarn prior to March 16/17, 1972, under tariff Item 18 or 18A was
+clearly ultra vires. The High Court directed refund of the excise duty levied for 3 years prior to
+institution of the petition, which was instituted on 6.5.1972. The appellant and other mill-owners
+stated that as a result of the declaration of the law as aforesaid by the Court, they were not liable to
+pay excise duty on blended yarn up to March 16/17, 1972 and that they had paid the excise duty on
+the same upto that date under mistake of law. They requested for refund of the excise duty so paid
+till March 16/17, 1972, stating that such duty was illegally recovered from hem. The Revenue did not
+refund the excise duty as claimed. So, the appellant and others filed suits within thee years of the
+aforesaid judgment (15.1.1976) for refund of excise duty illegally recovered from them, with interest.
+The trial court decreed the suits. In the appeals filed by the Union of India against the aforesaid
+decrees passed by the trial court, the High Court of Gujarat allowed the appeals and set aside the
+decrees passed by the trial courts, by judgment dated 6.4.1984. It was held that in order to
+successfully sustain the claim of restitution based on Section 72 of the Contract Act, the person
+claiming restitution should prove "loss or injury" to him, an in the cases before them, the excise duty
+paid on blended yarn was ultimately passed on to the buyer of the fabric, and so the claim for
+restitution will not lie. In other words, in cases where an assessee has "passed on" the duty paid by
+or realised from him, he has suffered no loss or injury, and the action for restitution is
+unsustainable. The aforesaid statement of the law is seriously disputed by the appellants in Civil
+Appeal No.3255/84 and others.
+3. In the ultimate analysis, the main question that falls for consideration in this batch of cases is,
+whether in an action claiming refund of excise duty (tax) paid under mistake of law, is it essential for
+the person claiming such refund, to establish "loss or injury" to him? In other words, in cases where
+the person from whom the excise duty (tax) is collected, has "passed on" the liability or deemed to
+have passed on the liability, is it open to him to claim refund of the duty paid by him, placing
+reliance on Section 72 of the Indian Contract Act? The further question as to whether an action by
+way of civil suit or a writ petition under Article 226 of the Constitution will lie, in the light of various
+amendments to the Act, claiming "refund" or "restitution", also arises for consideration.
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 2Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+4. I perused the draft judgment prepared by my learned brother Jeevan Reddy, J., wherein on the
+main question, he has held that if the person claiming the refund has passed on the burden of duty
+to another and has not really suffered any loss or prejudice, there is no question of reimbursing him
+and he cannot successfully sustain an action for restitution, based on Section 72 of the Indian
+Contract Act. With great respect, I fully concur with the aforesaid conclusion of my learned brother.
+But, in view of the importance of the question raised, I would like to record my own reasons for the
+aforesaid conclusion. I shall separately deal with the maintainability of the action either by way of
+suit or petition under Article 226 of the Constitution -- the extent to which there is ouster of
+jurisdiction of Courts.
+5. In this batch of cases, the claims by different assessees for refund of excise duty paid by them
+under mistake of law arise over a period of years, and the claims were made in different proceedings
+-- before the departmental authorities, by way of civil suits and writ petitions under Article 226 of
+the Constitution, which are in appeal before us.
+Broadly, the basis for the various refund claims can be classified into 3 groups or categories :-
+(I) The levy is unconstitutional -- outside the provisions of the Act or not contemplated by the Act.
+(II) The levy is based on misconstruction or wrong or erroneous interpretation of the relevant
+provisions of the Act, Rules or Notifications: or by failure to follow the vital or fundamental
+provisions of the Act or by acting in violation of the fundamental principles of judicial procedure.
+(III) Mistake of law -- the levy or imposition was unconstitutional or illegal or not eligible in law
+(without jurisdiction) and, so found in a proceeding initiated not by the particular assessee, but in a
+proceeding initiated by some other assessee either by the High Court or the Supreme Court, and as
+soon as the assessee came to know of the judgment (within the period of limit ation), e initiated
+action for refund of the tax paid by him, due to mistake of law.
+For the periods during which the refund were claimed, there were different statutory provisions
+which governed the subject. They are --
+(a) Period up to 7.8.1977 -- Rule 11 of the Central Excise Rules, before amendment;
+(b) Period from 7.8.1977 to 16.11.80 -- Rule 11 of the Central Excise Rules, as amended.
+(c) Period from 16.11.1980 to 19.9.1991 -- Section 11A and Section 11B of the then Central Excises &
+Salt Act;
+(d) Period after 19.9.1991 -- Section 11A read along with Section 11B of the Act, as amended by Act
+40 of 1991.
+The circumstances and grounds on the basis of which the refund can be claimed, the period within
+which it should be so done, the forum before which the claim should be preferred and whether the
+decision thereon is subject to the jurisdiction of ordinary courts, vary from period to period. We
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 3Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+shall advert to such provisions and their impact on various aspects regarding the claim for refund a
+little later.
+Rule 11 of the Central Excise Rules which dealt with claims for refund of duty as it was in force prior
+to 7.8.1977, is to the following effect:
+"Rule 11. No refund of duties or charges erroneously paid, unless claimed within
+three months.-- No duties or charges which have been paid or have been adjusted in
+an account current maintained with the Collector under Rule 9, and of which
+repayment wholly or in part is claimed in consequence of the same having been paid
+through inadvertence, error or misconstruction, shall be refunded unless the
+claimant makes an application for such refund under his signature and lodges it with
+the proper officer within three months from the date of such payment or adjustment,
+as the case may be."
+It should be noted that Rule 11 before amendment did not provide for any ouster of jurisdiction of
+courts. We shall deal with Rule 11-A as amended and Sections 11A and B of the Excise Act a little
+later. The Revenue states that in view of these later provisions, there is ouster of jurisdiction of
+courts, relating to claims for refund.
+6. The claims by different assessees for refund arose and are/were preferred during different
+periods. After Rule 11 was amended and Section 11A and B were inserted in the Act, the statute
+contained provisions making them exclusive for claiming refund. Be that as it may, it is only relevant
+to state at this juncture that in all cases, irrespective of the relevant statutory provisions in the
+Excise Act and/or the Rules, the claims for refund were made in different proceedings mainly based
+on section 72 of the Indian Contract Act. So the main issue, in all the cases, that arises for
+consideration is, whatever be the nature of the attack regarding the levy, or the basis put forward for
+claiming refund, r the period for which refund is claimed or the character of the proceedings in
+which it was so done, or the different nature or character of the statutory provisions either providing
+or not providing as to how and in what manner the claim should be made, -- whether the claim for
+refund is tenable in any of the proceedings, for any period, based on Section 72 of the Contract Act,
+if the assessee has "passed on" the liability to the consumer or third party?
+7. The levy under the Excise Act is an indirect tax (duty). A duty of excise is levied on the
+manufacture or production of goods. Ordinarily, it is levied on the manufacturer or producer of
+goods. (Since the levy is in relation to or in connection with the manufacture or production of goods,
+it may be levied even at a point later than manufacture or production of the goods.) The duty levied
+will form part of the total cost of the manufacturer or producer. The levy being a component of the
+price for which the goods are sold, is ordinarily passed on the customer. It is a matter of common
+knowledge that every prudent businessman will adjust his affairs in his best interests and pass on
+the duty levied or leviable on the commodity to the consumer. That is the presumption in law.
+8. The claim for refund in these cases is based upon the plea that excise duty was paid when it was
+not eligible. It was so done under mistake of law. Refund is claimed basing the action under Section
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 4Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+72 of the Contract Act, which is to the following effect:
+"Liability of person to whom 72. A person to whom money is paid or thing money has
+been paid, delivered, by mistake or anything or under coercion. delivered, by mistake
+or under coercion, must repay or return it.
+Illustrations
+(a) A and B jointly owe 100 rupees to C. A alone pays the amount to C, and B, not
+knowing this fact, pays 100 rupees over again to C. C is bound to repay the amount to
+B.
+(b) A railway company refuses to deliver up certain goods to the consignee, except
+upon the payment of an illegal charge for carriage. The consignee pays the sum
+charged in order to obtain the goods. He is entitled to recover so much of the charge
+as was illegally excessive." Chapter V of the Indian Contract Act is styled thus:-
+"Of Certain Relations Resembling Those Created By Contract". The Chapter contains five sections --
+Sections 68 to 72. The rights and liabilities dealt with in those Sections accrue from relations
+resembling those created by contract. It is not a real contract, but one implied in law or a quasi-
+contract.
+Law is fairly settled that "Money paid under a mistake or on a consideration which has wholly failed
+or under duress falls under the general head of money "had and received." An action for money "had
+and received" is an action "founded on simple contract" which has been called quasi contract or
+restitution." (See Pollock & Mulla - Indian Contract And Specific Relief Acts (10 the Edition) page
+598).
+9. The Law of Restitution is founded upon the principle of "unjust enrichment". As stated by the
+learned authors, Lord Goff of Chieveley and Gareth Jones in the book "The Law of Restitution" (3rd
+Edn.) 1986, "It presupposes three things: first, that the defendant has been enriched by the receipt
+of a benefit; secondly that he has been so enriched at the plaintiff's expense; and thirdly, that it
+would be unjust to allow him to retain the benefit. These three subordinate principles are closely
+interrelated." (page 16). [See also Cheshire Fifoot & Furmston's "Law of Contract" (12th Edn.) 1991,
+page 649.]
+10. The second aspect aforesaid, namely, that the defendant has been enriched "at the plaintiff's
+expense", has been considered by Peter Birks (Professor of Civil Law, University of Edinburgh) in
+his book "Introduction to the Law of Restitution" rater elaborately. The principles discernible from
+the above discussion has been succinctly stated by Endrew Burrows in his book -- The Law of
+Restitution (1933), at page 16, thus:
+"It is the major theme of Birks' work that this phrase ambiguously conceals two
+different ideas in the law of restitution. The first, and most natural meaning, is that
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 5Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+the defendant's gain represents a loss to the plaintiff: in Birks' terminology a
+`subtraction from' the plaintiff. The second, and less obvious meaning, is that the
+defendant's gain has been acquired by committing a wrong against the plaintiff."
+(Emphasis supplied) The person claiming restitution should have suffered a "loss or injury". In my
+opinion, in cases where the assessee or the person claiming refund has passed on the incidence of
+tax to a third person, how can it be said that he has suffered a loss or injury? How is it possible to
+say that he has got ownership or title to the amount claimed, which he has already recouped from a
+third party? So, the very basic requirement for a claim of restitution under Section 72 of the
+Contract Act is that the person claiming restitution should plead and prove a loss or injury to him; in
+other words, he has not passed on the liability. If it is not so done, the action for restitution or
+refund, should fail.
+11. In this connection, the decision of a three-member Bench of this Court in Mulamchand v. State of
+Madhya Pradesh (AIR 1968 S.C. 1218), affords some guidance. The appellant in that case, purchase
+da right to pluck, collect and remove the forest produce from the proprietors. The right was acquired
+before the propriety rights vested in the State of Madly Pradesh by Act No. 1 of 1951 -- called the
+Abolition Act. Acting under the Act, in April, 1951 the Deputy Commissioner auctioned the forest
+produce of villages covered by the purchases of the appellant. Amongst others, the appellant had
+deposited a sum of Rs.10,000/- towards the right to collect lac from the forest. It turned out that the
+provisions of Article 299 of the Constitution were not complied with and the contract entered into
+by the appellant therein with the State of Madly Pradesh was void. The appellant claimed refund on
+the basis that thee was no valid contract. The trial court as well as the appellate court held that the
+appellant having worked out the contract by collecting the lac from the jungles in pursuance of the
+agreement, was no entitled to refund of the amount of deposit. In the appeal filed by the appellant,
+this Court held that if the money is deposited and the goods are supplied or services rendered in
+terms of the contract, the provisions of Section 70 of the Contract Act may be applicable and, can be
+invoked by the aggrieved party to the void contract. This Court further held at pages 1222-23, thus:
+"The juristic basis of the obligation in such a case is not founded upon any contract or
+tort but upon a third category of law, namely, quasi-contract or restitution. In Fibrosa
+v. Fairbairn, 1943 AC 32 Lord Wright has stated the legal position as follows:
+"..........any civilised system of law is bound to provide remedies for cases of what has
+been called unjust enrichment or unjust benefit, that is, to prevent a man from
+retaining the money of, or some benefit derived from, another which it is against
+conscience that he should keep. Such remedies in English Law are generically
+different from remedies in contract or in tort, and are now recognised to fall within a
+third category of the common law which has been called quasi-contract or
+restitution."
+(7) In Nelson v. Larholt, (1948) 1 KB 339 Lord Denning has observed as follows:
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 6Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+" It is no longer appropriate to draw a distinction between law and equity. Principles
+have now to be stated in the light of their combined effect. Nor is it necessary to
+canvass the niceties of the old forms of action.
+Remedies now depend on the substance of the right, not on whether they can be
+fitted into a particular framework. The right here is not peculiar to equity or contract
+or tort, but falls naturally within the important category of cases where the court
+orders restitution if the justice of the case so requires"
+(Emphasis supplied) This court further stated the law thus: "....... It is well
+established that a person who seeks restitution has a duty to account to the defendant
+for what he has received in the transaction from which his right to restitution arises.
+In other words, an accounting by the plaintiff is a condition of restitution from the
+defendant (See `Restatement of the Law of Restitution', American Law Institute,
+1937 Edn., p. 634)."
+(Emphasis supplied) The observations extracted above indisputable point out that a person who
+seeks restitution, has a duty to disclose or account for what he has received in the transaction. An
+accounting is a condition precedent in an action for restitution. By way of analogy, it can be stated
+that in cases where restitution is claimed under Section 72 of the Contract Act, on the ground of
+payment due to mistake of law, the person claiming restitution, should plead and prove that "he has
+not passed on" the liability to another. That is the nature of "accounting" in cases falling under
+Section 72 of the Contract Act. IN my opinion, the High Court was justified in law in holding that
+since the excise duty paid by the appellant was ultimately passed on to the buyers of the fabric, and
+that the appellant has suffered no loss or injury, the action for restitution based on Section 72 of the
+Contract Act, was unsustainable. (This is the legal position even under general law, without
+reference to Section 11B of Central Excises & Salt Act as amended by Act 40/1991).
+12. Mr. F.S. Nariman, Senior Counsel for the appellants, contended that in an action for restitution
+under section 72 of the Contract Act, the question as to where the incidence of duty or tax has been
+passed on, is an irrelevant factor.There is no such requirement in the Statute. The sheet-anchor of
+the appellant's case is founded on the decision of the Constitution Bench in Kanhaiya Lal's case
+(supra), which was followed by a Bench of 7 Judges in Aluminium Industries' case [(1965) 16 STC
+689]. It was argued that the decision in Kanhaiya Lal's case was followed subsequently in
+Tilokchand Motichand & Ors. v. H.B. Munshi & Anr. (1969 (2) SCR 824), D. Cawasji & Co., etc. etc.
+v. The State of Mysore & Anr. (1975 (2) SCR 511), Dhanyalakshmi Rice Mills Etc. v. The
+Commissioner of Civil Supplies and Another, (1976 (3) SCR 387) etc. The plea was that the law laid
+down in Kanhaiya Lal's case has stood the test of time for nearly four decades and there is no
+requirement either in Section 72 of the Indian Contract Act or in any of the above decisions, holding
+that in order to claim refund or restitution based on Section 72 of the Contract Act, the liability
+(duty) should not have been passed on. Our attention was also invited to the decision of House of
+Lords in Woolwich Building Society v. Inland Revenue Commissioners (No 2) [(1992) 3 All ER 737],
+of the Canadian Court in Air Canada case, (59 D.L.R. (4th series) 161), (in particular dissenting
+judgment of Wilson, J.), of the decision of the Australian Court in Commissioner of State Revenue v.
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 7Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+Royal Insurance Australia Ltd. [(1994) 69 A.L.J. 51], of the European Economic Committee in San
+Giorgio S.P.A. Case (1985 (2) C.M.L.R. 658), and the decision of the United States Supreme Court in
+United States v. Jefferson Electric Manufacturing Co., (78 Lawyers' Edition 859). It was argued that
+the preponderance of judicial opinion in other jurisdictions also is in favour of the view, that passing
+on" of the liability, is an irrelevant factor for consideration in an action for restitution, and at any
+rate, it cannot form the basis of a valid defence in an action for "restitution". Mr. Parasaran, Senior
+Counsel for the Union of India contended that the question of "passing on" of the liability never
+arose for consideration in Kanhaiya Lal's case nor was it decided. The said decision cannot be an
+authority for the proposition that a person claiming refund of tax on the ground of mistake of law is
+not obliged to allege and prove that it has not been passed on; on the other hand, it is mandatory for
+a claimant in such cases to allege and prove that he suffered a loss or detriment. Then and then
+alone, the Court can grant the equitable relief of restitution. Counsel also contended that the
+principle in Kanhaiya Lal's case (supra) has not been uniformally followed by this Court
+subsequently. Counsel also distinguished the various foreign decisions that were brought to our
+notice and highlighted the fact that those decisions were rendered on their own facts. Counsel
+further contended that in cases on indirect levy of tax (cess or fee) which was passed on, this Court
+has negatived the claim for refund in a few cases. Our attention was invited to the following
+decisions :
+Shiv Shanker Dal Mills etc. etc. v. State of Haryana & Ors. etc. [1980 (1) SCR 1170 (1173)], State of
+Madhya Pradesh v. Vyankatlal & Anr. [1985 (3) SCR 561 (566, 568)], M/s. Amar Nath Om Parkash
+and Ors. etc. v. State of Punjab and Ors. etc. [1985 (2) SCR 72 (at pp. 96-100)], Indian Aluminium
+Company Limited v. Thane Municipal Corporation [1992 Supp. (1) SCC 480 (488-489)] and State of
+Rajasthan & Others v. Novelty Stores etc. (AIR 1995 SC 1132).
+13. The main case relied on, Kanhaiya Lal's case (supra) requires a little detailed examination. The
+respondent, Kanhaiya Lal was a firm. For the assessment years 1948-49, 1949-50 and 1950-51, its
+forward transactions were brought to tax by the Assessing Authority -- the Sales Tax officer, as per
+Assessment orders dated 3.1.5.19949, 30.10.1950 and 22.8.1951. On 27.2.1952, the Allahabad High
+Court in Messrs Budh Prakash Jai Prakash v. Sales Tax Officer, Kanpur & Ors., (1952 A.L.J. 332)
+held that the provisions of the Uttar Pradesh Sales Tax Act, taxing forward contracts were ultra vires
+the U.P. Legislature. The said judgment was affirmed by this Court on 3.5.1954. The attempts of the
+assessee to obtain refund of tax basing its claim on Budh Prakash Jai Prakash case before the
+statutory authorities were futile. Thereafter, the assessee-firm filed a writ petition in the High Court,
+praying in quash the assessment orders, and for direction for refund of tax illegally collected. By
+judgment dated 30.11.1956, a learned single Judge of the High Court, allowed the writ petition. In
+the appeal, the Revenue contended that since the tax was paid under mistake of law, it was not
+recoverable. Even so, relying on Section 72 of the Contract Act, the Division Bench affirmed the
+decision of the single Judge. The Revenue took up the matter in appeal before this Court. The pleas
+of the appellant-Revenue, that the assessee should have followed the procedure prescribed by the
+U.P. Sales Tax Act and, that the writ petition filed for refund of money would not lie, were not
+allowed to be urged by this Court. Mainly, two questions arose before this Court for consideration --
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 8Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+(i) Whether the term "mistake" occurring in section 72 of the Contract Act took within its fold
+"mistake of law" as well as "mistake of fact"?
+(ii) Whether the tax paid under mistake of law can be recovered under Section 72 of the Indian
+Contract Act? This Court held that the word "mistake" occurring in Section 72 of the Contract Act
+has been used without any qualification or limitation and, so, it takes within its fold "mistake of law"
+as well as "mistake of fact". On the second question, this Court held that once it is established that
+the payment, even though it be a tax, has been made by the party under a mistake of law, the party is
+entitled to recover the same and a party who received the tax is bound to repay or return it. This
+Court held that there can be no distinction in a tax liability and any other liability on a plain reading
+of Section 72 and the plea that tax paid by mistake of law cannot be recovered under Section 72, will
+not be a proper interpretation of the relevant provisions, but to make a law, adding such words as
+"otherwise than by way of taxes" after the word "paid". The scope of Section 72 was considered only
+within a limited sphere. It should be noticed that no question was raised before this Court that in
+order to claim refund (restitution) of sales tax paid, - (an indirect levy) - under Section 72, the
+claimant should necessarily prove that he has sustained "a loss or injury". In other words, the tax
+collected by him has not been passed on to a third party. Dealing with the plea that the position in
+law obtaining in England, America and Australia that money paid under mistake of law could not be
+recovered, and that similar considerations should weigh in interpreting Section 72, the Court held
+that the true meaning and intent of Section 72 should be interpreted on its own terms, divorced
+from all considerations, as to what was the state of previous law or the law in England or elsewhere.
+This Court made further observations to the following effect:
+`If it is once established that the payment, even though it be of a tax, has been made
+by the party labouring under a mistake of law the party is entitled to recover the same
+and the party receiving the same is bound to repay or return it. No distinction can,
+therefore, be made in respect of a tax liability and any other liability on a plain
+reading of the terms of s. 72 of the Indian Contract Act, even though such a
+distinction has been made in America vide the passage from willoughby on the
+Constitution of the United States, Vol. 1, p. 12 op cit. To hold that tax paid by mistake
+of law cannot be recovered under s. 72 will be not to interpret the law but to make a
+law by adding some such words as "otherwise than by way of taxes" after the word
+"paid."
+(p. 1363) "Voluntary payment of such tax liability was not by itself enough to
+preclude the respondent from recovering the said amounts, once it was established
+that the payments were made under a mistake of law. On a true interpretation of s.
+72 of the Indian Contract Act the only two circumstances there indicated as entitling
+the party to recover the money back are that the monies must have been paid by
+mistake or under coercion. If mistake either of law or of fact is established, he is
+entitled to recover the monies and the party receiving the same is bound to repay or
+return them irrespective of any consideration whether the monies had been paid
+voluntarily, subject however to questions of estoppel, waiver, limitation or the like. If,
+once that circumstance is established the party is entitled to the relief claimed."
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 9Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+(p. 1364) "No question of estoppel can ever arise where both the parties, as in the
+present case, are labouring under the mistake of law and one party is not more to
+blame than the other."
+(p. 1365) "The other circumstances would be such as would entitle a court of equity to
+refuse the relief claimed by the plaintiff because on the facts and circumstances of the
+case it would be inequitable for the court to award the relief to the plaintiff. These
+are, however, equitable considerations and could scarcely be imported when thee is a
+clear and unambiguous provision of law which entitles the plaintiff to the relief
+claimed by him." (p. 1366) "Merely because the State of U.P. had not retained the
+monies paid by the respondent but had spent them away in the ordinary course of the
+business of the State would not make any difference to the position and under the
+plain terms of s. 72 of the Indian Contract Act the respondent would be entitled to
+recover back the monies paid by it to the State of U.P. under mistake of law." (p.
+1367) (Emphasis supplied)
+14. It is apparent that in Kanhaiya Lal's case there was no plea by the Revenue that since the
+assessee has passed on the tax, the claim for refund is unsustainable. Such a question was not posed
+before this Court for consideration. one of the main aspects to be proved in a claim for restitution,
+that the person claiming restitution should have suffered a loss or injury in order to sustain an
+action, was not urged and was not considered. In such a situation the following observations of Lord
+Halsbury in Quinn v. Leathem (1901 A.C. 495 at p. 506) quoted with approval by a Constitution
+Bench of this Court in State of Orissa v. Sudhansu Sekhar Misra (1968 (2) SCR 154 at page
+162) and again in Orient Paper an Industries Ltd. and Another v. State of Orissa & Others (1991
+Supp. (1) SCC 81, at page 96), should govern the matter.
+".....there are two observations of a general character which I which to make, and one
+is to repeat what I have very often said before, that ever judgment must be read as
+applicable to the particular facts proved, or assumed to be proved, since the
+generality of the expressions which may be found there are not intended to be
+expositions of the whole law, but governed and qualified by the particular facts of the
+case in which such expressions are to be found. The other is that a case is only an
+authority for what it actually decides. I entirely deny that it can be quoted for a
+proposition that may seem to follow logically from it. Such a mode of reasoning
+assumes that the law is necessarily a logical code, whereas every lawyer must
+acknowledge that the law is not always logical at all"
+(Emphasis supplied) The above observations should be borne in mind in understanding the scope of
+the decision in Kanhaiya Lal's case, and the cases following the said case. The said decisions cannot
+be understood as laying down the law that even in cases the liability has been "passed on", the
+assessee can maintain an action for restitution.
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 10Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+It also appears that there is some inconsistency in the Kanhaiya Lal's case. The basis in an action for
+restitution under Section 72 of the Contract Act, rests upon the equitable doctrine of unjust
+enrichment. The Court observed on page 1364 that the recovery of the money paid under mistake of
+law or fact can be recovered "subject however to questions of estoppel, waiver, limitation or the
+like". Even so, at page 1366, the Court has observed "equitable considerations could scarcely be
+imported when there is a clear and unambiguous provision of law which entitled the plaintiff to the
+relief claimed by him." The very basis of the claim, though statutorily incorporated in Section 72 of
+the Contract Act, is equitable in nature and if so, how can it be said that equitable considerations
+should not be applied in adjudicating the claim for restitution (refund)? If an assessee has passed on
+the tax to the consumer or a third party and sustained no loss or injury, grant of refund to him will
+result in a windfall to him. Such a person will be unjustly enriched. This will result in the assessee or
+the claimant obtaining a benefit, which is neither legally nor equitably due to him. In other words,
+such a person is enabled to obtain "an unjust benefit" at the cost to innumerable persons to whom
+the liability (tax) has been passed on and to whom really the refund or restitution is due. The above
+factors certainly disentitle such a person from claiming restitution. If the decision in Kanhaiya Lal's
+case (supra) and the cases following the said decision, enables such a person to claim refund
+(restitution), with great respect to the learned Judges, who rendered the above decisions, I express
+my dissent thereto.
+15. Shri Nariman and Shri Sorabjee also contended that if the relief of refund is withheld or denied
+on the ground that the assessee has passed on the tax (liability) to the consumer or third party, it
+will result in a position where the State is enabled to retain and appropriate the unlawful collection
+to itself. The plea was that Article 265 of the Constitution of India contains a mandate to the effect
+that "no tax shall be levied or collected except by authority of law". It was argued that this is a basic
+feature of the Constitution and cannot be ignored. If no tax can be collected except by authority of
+law, the same logic would prevail for retention of amounts collected without the authority of law.
+Reference was made in this connection to the decision of the Madras High Court in Rayalaseema
+Constructions v. Dy. Commercial Tax Officer [10 STC 345 (355-356)] and affirmed by this Court in
+Dy. Commercial Tax Officer, Madras v. Rayalaseema Constructions (17 STC 505). The plea urged
+was that, if the assessee, is denied the refund, the State Government could retain the amount
+illegally collected, and it would amount to violation of the constitutional mandate enshrined in
+Article 265 of the Constitution. An equitable principle will not hold good against a constitutional
+mandate. On the other hand, Counsel for the Union of India, Sri K. Parasaran, brought to our notice
+the following portion of the Preamble and Article 39
+(b) and (c) of the Constitution to contend that Article 265 of the Constitution cannot be construed in
+the light of the basic principles contained in other parts of the Constitution - viz. - the Preamble and
+the Directive Principles of State Policy :-
+"Preamble WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute
+India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to
+secure to all its citizens: JUSTICE, social, economic and political;
+xxxxx xxxxxx xxxxx
+Article 39 (b)-(c):
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 11Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+"(b) that the ownership and control of the material resources of the community are so
+distributed as best to subserve the common good;
+(c) that the operation of the economic system does not result in the concentration of
+wealth and means of production to the common detriment;"
+(Emphasis supplied) Mr. Parasaran also urged that it should be borne in mind that excise duty is an
+indirect levy or tax which could be passed on. Innumerable persons bear the brunt. And it is passed
+on, ordinarily by prudent businessmen. The decisions in R.C. Jall v. Union of India [1962 suppl. (3)
+SCR 436 at 451] and The Province of Madras v. M/s. Boddu Paidanna and Sons [1942 F.C.R.90],
+were referred to. Reference also was made to Section 64A of Sale of Goods Act, 1930 which was
+substituted later by Act 33 of 1963 to show that the levy could be passed on and so recognised by
+statute, and in the above background. there is a presumption that excise duty has been passed on.
+The scope of Article 39(b) of the Constitution, as laid down by this Court in State on Karnataka and
+Anr. etc. v. Shri Ranganatha Reddy & Anr. etc. [1978 (1) SCR 641 (689)], Sanjeev Coke Mfg. Co. v.
+Bharat Coking Coal Ltd. & Anr. [1983 (1) SCR 1000 (1023-24 & 1026)], State of Tamil Nadu etc. etc.
+v. L. Abu Kavur Bai & Ors. [AIR 1984 SC 326 (343) = 1984 (1) SCR 725 (759, 761)] was highlighted.
+Reliance was placed on M/s. Amar Nath Om Parkash and Ors. etc. v. State of Punjab and Ors. etc.
+[1985 (2) SCR 72, at pp.96, 97, 99, 100)] Shiv Shanker Dal Mills etc. etc. v. State of Haryana & Ors.
+etc. [1980 (1) SCR 1170 (1173)], and Walaiti Ram Mahabir Prasad v. State of Punjab & Ors. [AIR
+1984 (P&H) 120, at p. 124], to stress the point that the persons claiming refund who were only
+middle-men, should not be unjustly enriched and allowed to make a "fortune" as it were, at the
+expense of innumerable unidentifiable innocent consumers and that "public interest" requires that
+such persons claiming refund should not be unduly or unjustly benefited; and, public interest is
+better served, if the State is allowed to retain the collection of tax, which could be made/spent, for
+the benefit of the "public".
+16. On an evaluation of the rival pleas urged in the matter, I am of the view that the plea of Counsel
+for Union of India should prevail.
+Following the decision in the Province of Madras case (Supra) and other cases, a Constitution Bench
+of this Court in R.C. Jall v. Union of India (supra) at page 451 stated the nature and character of
+excise duty, thus:
+"Excise duty is primarily a duty on the production or manufacture of goods produced
+or manufactured within the country. It in an indirect duty which the manufacturer or
+producer passes on to the ultimate consumer, that is, its ultimate incidence will
+always be on the consumer.
+(Emphasis supplied) Section 64A of the Sale of Goods Act after its amendment by Act 33 of 1963, in
+providing that in contract of sale amount of increased or decreased taxes, may be added or deducted
+by the seller or by the buyer, in case of increase or decrease or remitted, after the making of the
+contract for the sale or purchase of such goods, without stipulation as to the payment of tax where a
+tax was not chargeable at the time of making the contract, expressly states that the pr visions shall
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 12Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+apply to any duty of customs or excise and any tax on the sale or purchase of goods. the scope of
+Article 39(b) of the Constitution which has as its basis the concept of "distributive justice", as
+explained in three cases referred to in the previous paragraph; Shri Ranganatha Reddy (1978(1) SCR
+641), Sanjeev Coke v. Bharat [1983(1) SCR 1000] and L. Abu [AIR 1984 SC 326] go to show that the
+words "material resources" occurring in Article 39 clause (b) will take in, natural or physical
+resources and also movable or immovable property and it would include all private and public
+sources of meeting material needs, and not merely confined to public possessions. So also, the three
+cases, Shiv Shanker Dal Mills' case [1980 (1) SCR 1170], Amar Nath Om Parkash's case [1985 (2)
+SCR 72] and Walaiti Ram Mahabir Prasad [AIR 1984 (P&H) 120], emphasis the principle that the
+persons who have passed on the burden of the levy -- middlemen -- should not be allowed to
+profiteer by illogtten gains and unjustly enriched. An analysis of the above decisions in detail will
+point out that if Article 265 of the Constitution is literally interpreted and in isolation, and refund
+ordered, in cases where excise duty has been passed on, it will result in a mockery, totally ignoring
+the other salient features of the Constitution and the ground realities. As the Preamble states, the
+Constitution was enacted by the people, to secure to all the citizens, justice, political, social and
+economic. It is fairly settled by the decisions of this Court, that the directive principles contained in
+Part IV of the Constitution are fundamental in the governance of this country and all organs of the
+State including the judiciary are bound to enforce those directives. In interpreting the various
+provisions of the Constitution, the courts have to be realistic and should be alive to the needs of the
+times. There courts have a responsibility to ensure proper and meaningful interpretation of the
+directive principles and to adjust or harmonise the objectives enshrined in the Preamble -- justice,
+political, social and economic and the directive principles contained in Part IV, with the individual
+rights. In the process, it is permissible to restrict, abridge, curtail and in extreme cases, abrogate
+other rights in the Constitution, if found necessary and expedient, in particular situations. In the
+light of the above, I hold that Article 265 should be read along with the Preamble and Article 39(b)
+and (c) of the Constitution, and so construed in cases where the assessee has passed on the liability
+to the consumer or third party, he is not entitled to the claim of restitution or refund. The fact that
+the levy is invalid need not automatically result in a direction for refund of all collections made in
+pursuance thereto. The observation of a three-Member Bench of this Court in Orissa Cement Ltd. v.
+State of Orissa [1991 Supp. (1) SCC 430 (498 para 69)], is apposits in this context.
+"We are inclined to accept the view urged on behalf of the State that a finding
+regarding the invalidity of a levy need not automatically result in a direction for a
+refund of all collections thereof made earlier. The declaration regarding the invalidity
+of a provision and the determination of the relief that should be granted in
+consequence thereof are two different things and, in the latter sphere, the court has,
+and must be held to have, a certain amount of discretion. It is a well settled
+proposition that it is open to the court to grant, mould or restrict the relief in a
+manner most appropriate to the situation before it in such a way as to advance the
+interests of justice."
+17. It is open to the Court to deny the equitable remedy of refund (restitution) in such cases. The
+attempt of persons who have passed on the liability in claiming refund is only to strike at a bargain
+-- to make a fortune at the expense of innumerable unidentifiable consumers. Such persons have
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 13Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+suffered no loss. On the other hand, if the State is allowed to retain the amount, it will be available to
+the community at large and could be made use of for public purposes. On this basis as well, the
+denial of refund or restitution is valid. There is nothing abhorrent or against public policy if refund
+or restitution is withheld in such a situation. It should also be stated that in cases of indirect levy of
+tax which was passed on, this Court has negatived the claim for refund in a few cases, mentioned in
+paragraph 12 (supra); -- Shiv Shanker Dal Mills v. State of Haryana [1980 (1) SCR 1170 (1173)], State
+of Madhya Pradesh v. Vyankatlal & Anr. [1985 (3) SCR 561 (566, 568)], M/s. Amar Nath Om
+Parkash and Ors. v. State of Punjab and Ors. [1985 (2) SCR 72 (96-100)], Indian Aluminium
+Company Limited v. Thane Municipal Corporation [1992 Supp. (1) SCC 480 (488-489)] and State of
+Rajasthan & Ors. v. Novelty Stores etc. [AIR 1995 SC 1132].
+18. It now remains to consider the foreign decisions brought to our notice. The various decisions of
+foreign courts and their scope have been very exhaustively considered by Jeevan Reddy, J. in this
+judgment under the heading "Decisions of foreign courts on the subject". I am in broad agreement
+with my learned brother Jeevan Reddy, J., in the analysis of the various decisions aforesaid. It is
+unnecessary to cover that ground over again.
+19. In this context, it will not be out of place to note that academicians have bestowed great thought
+and in various articles dealt with the matter in sufficient detail, particularly with reference to the
+foreign decisions brought to our notice. To mention a few, they are --
+(1) "When Money is paid in Pursuance of a void authority ...." -- A duty to repay? by Peter Birks;
+[Public Law (1992) page 580] (2) "Restitution of taxes, levies and other imposts:
+Defining the extent of the Woolwich Principle" - by J.
+Beatson. [Law Quarterly Review Vol. 109 (1993) page 401] (3) "Restitution of Overpaid Tax,
+Discretion and Passing-
+on" -- by J. Beatson. [Law Quarterly Review Vol. 111 (1995) page 375 Notes] (4) "Unjust
+Enrichment" - by Steve Hedley. [Cambridge Law Journal 1995 (578-599)] --
+(5) "Unjust Enrichment Claims: A Comparative Overview" - by Brice Dickson [Cambridge Law
+Journal (1995) (100-126)] (6) "The Law of Taxation is not an Island -- Overpaid Taxes and the Law
+of Restitution" - by Graham Virgo; [British Tax Review (1993) (442-467)] (7) "Payments of Money
+under Mistake of Law: A Comparative View" - by Gareth Jones [Cambridge Law Journal (1993)
+Comment (225)] (8) "Restitution, Misdirected Funds and Change of Position"
+- by Ewan McKendrick, [Modern Law Review (1992) Vol.55 (377-385)] In some of the
+articles, the defences to a claim for restitution of overpaid taxes, has been dealt with
+in detail. One of them is the article by Graham Virgo appearing in British Tax Review
+(1993) (pp. 442-467) titled "The Law of Taxation is not an Island -- Overpaid Taxes
+and the Law of Restitution". At pages 462 and 463 under the sub-heading "Passing
+on", the learned author has made the following comment :
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 14Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+"(vii) Passing on 48 Since restitution at common law is based upon the principle of
+reversing an unjust enrichment, it is important to determine whether the defendant
+as actually enriched at the plaintiff's expense. This raises a difficult problem where
+the Revenue was initially enriched at the taxpayer's expense, by virtue of the receipt
+of overpaid tax, but the taxpayer did not ultimately suffer a loss because the burden
+of the payment was passed on to somebody else. This could arise if the taxpayer pays
+excessive VAT and passes the amount overpaid on to customers 49. As a matter of
+principle it could be argued that, in such a case, the taxpayer should not be allowed to
+recover the amount overpaid from the Revenue, because recovery would mean that
+the taxpayer was unjustly enriched at the
+-----------------------------------
+48. This defence differs from that of change of position because with the latter the
+issue relates to the conduct of the payee. With the defence of passing on the issue
+relates to the conduct of the payer.
+49. This specifically dealt with by F.A. 1989, s.24(5) discussed infra, which denies the
+repayment of VAT if it would unjustly enrich the recipient of the payment. expense of
+those who ultimately bore the burden of the tax.50. A possible solution to this is to
+allow those who effectively paid the tax to recover from the tax payer, who in turn
+should recover from the Revenue. However, typically in cases of passing on there are
+many people who effectively bear the burden of the tax and to encourage actions by
+them would be impractical and unrealistic. Thus, in such cases the best approach is to
+allow the Revenue a defence of passing on and enable it to retain the tax and use it for
+the public benefit. However, it remains uncertain to what extent a defence of passing
+on exists in English law.51 Such a defence is recognised by European Community law.
+In Amministrazione delle Finanze dello Stato v. SpA San Giorgio it was held that
+Community law does not prevent Member States from "disallowing repayment of
+charges which have been unduly levied where to do so would entail unjust
+enrichment of the recipients," for example where the unduly levied charges have been
+-----------------------------------
+50. In Moses v. Macferlan (1760) 2 Burr. 1005 at p.1020 Lord Mansfield said that the
+payee "may defend himself by everything which shews that the plaintiff, ex aequo et
+bono, is not entitled to the whole of his demand, or to any part of it." This principle
+suggests that a defence of passing on should exist, for simple reasons of justice.
+51. In Woolwich, supra, Lord Goff deferred the issue of the existence of a passing on
+defence, suggesting (at p.178) that the availability of such a defence may depend on
+the nature of the tax. It is submitted that the only real relevance of the nature of the
+tax relates to the case of determining whether the burden of the tax really was passed
+on.
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 15Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+incorporated in the price of goods and passed on to purchasers. Although this
+decision is confined to charges levied contrary to the rules of Community law, the
+very fact that Community law accepts the validity of a defence of passing on and
+accepts that the rationale of it is to avoid the unjust enrichment of the initial
+taxpayer, is a good reason for the defence to be adopted generally in English law. It
+would be odd if there were a divergence of approach between English and
+Community law on this matter.
+However, it must be noted that Community law "does not prevent" Member States
+from adopting a defence of passing on. The San Giorgio case is not authority for the
+proposition that Member States must adopt such a defence. There has been some
+disquiet expressed as to the need for such a defence in theory and how it would work
+in practice. The defence was rejected in Mason v. New South Wales. The operation of
+the defence is fraught with difficulties because it is not easy to show that the charge
+was passed on in the price of gods. For the price of goods is affected by many factors,
+conditional upon the state of the market. Advocate General Mancini in the San
+Giorgio case said that the "passing on of charges is not generally relevant because of
+the innumerable variables which affect price formation in a free market and because
+of the consequent impossibility of definitively relating any part of the price
+exclusively to a certain cost." Thus, may be the price of goods was increased in an
+attempt to recoup the tax paid to the Revenue from the purchasers of goods, but this
+in turn may have had an impact on sales volume resulting in an overall loss. The
+burden of the enrichment cannot really be said to have been passed on when the
+initial taxpayer suffers a net loss.
+It is submitted that in principle a defence of passing on should exist, with a burden of
+proving this being on the Revenue: it unlawfully demanded the taxes and so it should
+show that repayment would unjustly enrich the taxpayer. It is unlikely that such a
+defence would operate successfully in practice in many cases because of the difficulty
+of proving that the tax was actually passed on."
+(Emphasis supplied) Similarly, in the article by J. Beatson [(1993) 109 L.Q.R. 401
+(427-428)], the learned author has stated regarding passing on, thus:
+" "Passing on." The Law Commission raised the question of whether a payer who has
+"passed on" to others for instance by price increases, the higher cost he has borne
+because of the overpayment should be precluded from recovering. This defence is
+permitted by European Community Law so long as it does not have the effect of
+making the right to recover impossible in practice or excessively difficult to exercise.
+However, it has been criticised, technically because, inter alia, price increases should
+mean that less will be sold, and also because of difficulties of proof. These difficulties
+were noted by Lord Goff, and arguments for a similar limit were not accepted by the
+High Court of Australia in Mason v. New South Wales. However, the underlying
+rationale of a "passing on" defence might be achieved by providing, as in the statutes
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 16Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+on recovery of Value Added Tax and car tax, that recovery should not be allowed if
+the payee can show that the payer would be unjustly enriched if he recovered the
+payment. This would be consistent with the basic equitable features that have
+influenced the development of the action for money had and received. It is also
+possible that such a limit would achieve the same policy ends as the "reasonable and
+just" limit in provisions such as section 33 of the Taxes Management Act 1970 and, if
+so, it might provide a useful method of achieving a measure of rationalisation."
+(pp.427-428)
+20. Mention may also be made about the Law Commission's Report in England, Law
+Consultation Paper No.120 "Restitution of Payments made under a mistake of law" --
+wherein, after discussing the entire case law of England and other jurisdictions, an observation is
+made thus:
+"3.85 In principle there would appear to be no reason why such a defence should not
+apply to cases where the authority can prove on the balance of probabilities that the
+payer would be unjustly enriched because the charge has been passed on. The views
+of consultees on the general issue of a "passing on" defence are invited."
+In Kanhaiya Lal's case (1959 SCR 1350 at page 1367), this Court was not inclined to accept that
+defence in mitigation that the State has not retained the amount, but has spent them away in the
+ordinary course of governmental activities. This plea in defence based on the theory of "Change of
+Position" has been dealt with by Graham Virgo in his article in British Tax Review (1993) at pages
+458-459. See also the views expressed in this behalf by a two-Member Bench of this Court in D.
+Cawasji & Co. v. State of Mysore [1975 (2) SCR 511].
+21. I am of the view that the above academic opinion has got much force. However, it is subject to
+one aspect, stated hereunder. As held by me earlier, ordinarily, the presumption is that the taxpayer
+has passed on the liability to the consumer (or third party). It is open to him to rebut the
+presumption. The matter is exclusively within the knowledge of the taxpayer, whether the price of
+the goods included the `duty' element also and/or also as to whether he has passe don the liability
+since he is in possession of all relevant details. Revenue will not be in a position to have an in depth
+analysis in the innumerable cases to ascertain and find out whether the taxpayer has passed on the
+liability. The matter being within the exclusive knowledge of the taxpayer, the burden of proving
+that the liability has not been passed on should lie on him. It is held accordingly.
+22. The next important question that falls to be considered is, as to what extent the jurisdiction of
+the ordinary courts is ousted, regarding claims for refund of tax illegally levied or collected?
+According to the Revenue, the Act is a special enactment creating new rights and liabilities and has
+also made exhaustive provisions, to ventilate the grievances against all illegal and improper
+assessments by way of appeals, revisions etc. and also to obtain refunds in appropriate cases by
+following certain procedures and fulfilling some conditions. A hierarchy of tribunals is provided to
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 17Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+afford relief to the assessees. Elaborate alternate remedies provided by the Act, taken along with the
+specific bar of the jurisdiction of courts provided in Rule 11 (as amended) and Section 11(B) of the
+Act, and in particular specifying the conditions and procedure for entertaining claims for refund,
+period of limitation within which the claim should be preferred, etc. will oust/bar the jurisdiction of
+ordinary courts in that regard. (Attention was also drawn to Sections 11C, 11D and also to Sections
+12A to D of the Act, to stress the scheme of the Act.) On the other hand, counsel for the
+assessees-claimants urged that the provisions in the Act dealing with refund of tax
+"unconstitutionally" or "illegally" or "unauthorisedly" collected are not exhaustive. Even so, in cases
+where the levy is unconstitutional or illegal or without jurisdiction, the jurisdiction of the Civil
+Courts is not barred to annual the levy and/or order refund.
+23. As stated by me earlier in paragraph 5 of this judgment, the claims for refund can be classified
+broadly into 3 groups. They are --
+(I) the levy is unconstitutional - outside the provisions of the Act or not contemplated by the Act.
+(II) the levy is based on misconstruction or wrong or erroneous interpretation of the relevant
+provisions of the Act, Rules or Notifications; or by failure to follow the vital or fundamental
+provisions of the Act or by acting in violation of the Fundamental Principles of judicial procedure.
+(III) mistake of law -- the levy or imposition was unconstitutional or illegal or not eligible in law
+(without jurisdiction) and, so found in a proceeding initiated not by the particular assessee, but in a
+proceeding initiated by some other assessee either by the High Court or the Supreme Court, and as
+soon as the assessee came to know of the judgment, (within the period of limitation) he initiated
+action for refund of the tax paid by him, due to mistake of law.
+24. The relevant provisions of law that existed during different periods dealing wit the claim for
+refund ar different in content and scope. They are as follows:
+(a) Period up to 7.8.1977 -- Rule 11 of the Central Excise Rules, before amendment;
+(b) Period from 7.8.1977 to 16.11.80 -- Rule 11 of the Central Excise Rules, as amended;
+(c) Period from 16.11.1980 to 19.9.1991 -- Section 11A and Section 11B of the Central Excises & Salt
+Act; and
+(d) Period after 19.9.1991 -- Section 11A read along with Section 11B of the Act, as amended by Act
+40 of 1991. Rule 11 of the Central Excise Rules which was in force prior to 7.8.1977, has been quoted
+in paragraph 5 of this judgment. It contains no specific provision relating to outster of jurisdiction of
+the courts.
+25. Rule 11 of the Central Excise Rules as amended, Section 11A and Section 11B before Amendment
+Act 40 of 1991 and Section 11B, as amended by Act 40 of 1991, will be more important to consider
+the question of ouster of jurisdiction of courts. Sections 11C, 11D as also Sections 12A to D of the Act,
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 18Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+will throw light on the scheme of the Act as amended. They are as follows (insofar as they are
+relevant in the instant cases):-
+Rule 11 as amended "Rule 11. Claim for refund of duty.--
+(1) Any person claiming refund of any duty paid by him may make an application for
+refund of such duty to the Assistant Collector of Central Excise before the expiry of
+six months from the date of payment of duty.
+Provided that the limitation of six months shall not apply where any duty has been
+paid under protest.
+Explanation.-- Where any duty is paid provisionally under these rules on the basis of
+the value or the rate of duty, the period of six months shall e computed from the date
+on which the duty is adjusted after final determination of the value or the rate of
+duty, as the case may be.
+(2) If on receipt of any such application the Assistant Collector of Central Excise is
+satisfied that the whole or any part of the duty paid by the applicant should be
+refunded to him, he may make an order accordingly.
+(3) Where as a result of any order passed in appeal or revision under the Act, refund
+of any duty becomes due to any person, the proper officer may refund the amount to
+such person without his having to make any claim in that behalf.
+(4) Save as otherwise provided by or under these rules no claim for refund of any
+duty shall be entertained.
+Explanation. -- For the
+purposes of this rule, `refund'
+includes rebate referred to in
+Rules 12 and 12A."
+SECTION 11-A
+"11A. Recovery of duties not
+levied or not paid or short-levied or short-paid or erroneously refunded. --(1) When
+any duty of excise has not been levied or paid or has been short-levied or short paid
+or erroneously refunded, a Central Excise Officer may, within six months from the
+relevant date, serve notice on the person chargeable with the duty which has not been
+levied or paid or which has been short-levied or short-paid or to whom the refund has
+erroneously been made, requiring him to show cause why he should not pay the
+amount specified in the notice:
+Provided that where any duty of excise has not been levied or paid or has been
+short-levied or short-paid or erroneously refunded by reason of fraud, collusion or
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 19Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+any wilful mis-statement or suppression of facts, or contravention of any of the
+provisions of this Act or of the rules made thereunder with intent to evade payment
+of duty, by such person or his agent, the provisions of this sub-section shall have
+effect, as if, for the words `six months', the words `five years' were substituted.
+Explanation.-- .........
+(ii) `relevant date' means, --
+(a) in the case of excisable goods on which duty of excise has not been levied or paid
+or has been short-levied or short-paid .........
+(c) in any other case, the date on which the duty is to be paid under this Act or the
+rules made thereunder;"
+SECTION 11-B BEFORE AMENDMENT BY ACT 40/1991 "11B. Claim for refund of
+duty.-- (1) Any person claiming refund of any duty of excise may make an application
+for refund of such duty to the Assistant Collector of Central Excise before the expiry
+of six months from the relevant date: Provided that the limitation of six months shall
+not apply where any duty has been paid under protest.
+(2) If on receipt of any such application, the Assistant Collector of Central Excise is
+satisfied that the whole or any part of the duty of excise paid by the applicant should
+be refunded to him, he may make an order accordingly.
+(3) Whereas a result of any order passed in appeal or revision under this Act refund
+of any duty of excise becomes due to any person, the Assistant Collector of Central
+Excise may refund the amount to such person without his having to make any claim
+in that behalf. (4) Save as otherwise provided by or under this Act, no claim for
+refund of any duty of excise shall be entertained.
+(5) Notwithstanding anything contained in any other law, the provisions of this
+section shall also apply to a claim for refund of any amount collected as duty of excise
+made on the ground that the goods in respect of which such amount was collected
+were not excisable or were entitled to exemption from duty and no court shall have
+any jurisdiction in respect of such claim.
+Explanation. -- For the purpose of this section ............... (B) 'relevant date' means--
+(f) in any other case, the date of payment of duty."
+SECTIONS 11B, 11D AND 12A TO D, AS AMENDED BY ACT 40/1991 "11B. Claim for
+refund of duty.-- (1) Any person claiming refund of any duty of excise may make an
+application for refund of such duty to the Assistant Commissioner of Central Excise
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 20Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+before the expiry of six months from the relevant date in such form and manner as
+may be prescribed and the application shall be accompanied by such documentary or
+other evidence including the documents referred to in section 12A as the applicant
+may furnish to establish that the amount of duty of excise in relation to which such
+refund is claimed was collected from, or paid by, him and the incidence of such duty
+had not been passed on by him to any other person:
+Provided that where an application for refund has been made before the
+commencement of the Central Excises and Customs Laws (Amendment) Act, 1991,
+such application shall be deemed to have been made under this sub-section as
+amended by the said Act and the same shall be dealt with in accordance with the
+provisions of sub-section (2) substituted by that Act:
+Provided further that the limitation of six months shall not apply where any duty has
+been paid under protest.
+(2) If, on receipt of any such application, the Assistant Commissioner of Central
+Excise is satisfied that the whole or any part of the duty of excise paid by the
+applicant is refundable, he may make an order accordingly and the amount so
+determined shall be credited to the Fund:
+Provided that the amount of duty of excise as determined by the Assistant
+Commissioner of Central Excise under the foregoing provisions of this sub-section
+shall, instead of being credited to the Fund, be paid to the applicant, if such amount
+is relatable to--
+(a) rebate of duty of excise on excisable goods experted out of India or on excisable
+material used in the manufacture of goods which are exported out of India;
+(b) unspent advance deposits lying in balance in the applicant's account current
+maintained with the Commissioner of Central excise;
+(c) refund of credit of duty paid on excisable goods used as inputs in accordance with
+the rules made, or any notification issued, under this Act;
+(d) duty of excise paid by the manufacturer, if he had not passed on the incidence of
+such duty to any other person;
+(e) the duty of excise borne by the buyer, if he had not passed on the incidence of
+such duty to any other person;
+(f) the duty of excise borne by any other such class of applicants as the Central
+Government may, by notification in the Official Gazette, specify:
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 21Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+Provided further that no notification under clause (f) of the first proviso shall be
+issued unless in the opinion of the Central Government the incidence of duty has not
+been passed on by the persons concerned to any other person.
+(3) Notwithstanding anything to the contrary contained in any judgment, decree,
+order of direction of the Appellate Tribunal or any Court or in any other provision of
+this Act or the rules made thereunder or any other law for the time being in force, no
+refund shall be made except as provided in sub-section (2). Explanation.-- For the
+purposes of this section, ......... (B) `relevant date' means --
+(f) in any other case, the date of payment of duty."
+(Emphasis supplied) Section 11C deals with the power of Central Government to dispense with
+recovery of excise duty in certain specified cases, which is not necessary for our discussion. Section
+11D and Section 12A to D highlight the new scheme of the Act, relating to refund and they are as
+follows:- 11D. Duties of excise collected from the buyer to be deposited with the Central Government
+(1) Notwithstanding anything to the contrary contained in any order or direction of the Appellate
+Tribunal or any court or in any other provision of this Act or the rules made thereunder, every
+person who has collected any amount from the buyer of any goods in any manner as representing
+duty of excise, shall forthwith day the amount so collected to the credit of the Central Government.
+(2) The amount paid to the credit of the Central Government under sub-section (1) shall be adjusted
+against duty of excise payable by the person on the finalisation of assessment and where any surplus
+is left after such adjustment, the amount of such surplus shall either be credited to the Fund or, as
+the case may be, refunded to the person who has borne the incidence of such amount, in accordance
+with the provisions of section 11B and the relevant date for making an application under that section
+in such cases shall be the date of the public notice to be issued by the Assistant Commissioner of
+Central Excise." "12A Price of goods to indicate the amount of duty paid thereon Notwithstanding
+anything contained in this Act or any other law for the time being in force, every person who liable
+to pay duty of excise on any goods shall, at the time of clearance of the goods, prominently indicate
+in all the documents relating to assessment, sale invoice and other like documents, the amount of
+such duty which will form part of the price at which such goods are to be sold. 12B. Presumption
+that incidence of duty has been passed on to the buyer Every person who has paid the duty of excise
+on any goods under this Act shall, unless the contrary is proved by him, be deemed to have passed
+on the full incidence of such duty to the buyer of such goods.
+12C. Consumer welfare fund (1) There shall be established by the Central Government a fund, to be
+called the Consumer Welfare Fund. (2) Thee shall be credited to the Fund, in such manner as may
+be prescribed, --
+(a) the amount of duty of excise referred to in sub-section (2) of section 11B or sub-section (2) of
+section 11C or sub-section (2) of section 11D;
+(b) the amount of duty of customs referred to in sub-
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 22Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+section (2) of section 27 or sub-section (2) of section 28A, or sub-section 92) of
+section 28B of the Customs Act, 1962 (52 of 1962);
+(c) any income from investment of the amount credited to the Fund any other monies received by
+the Central Government for the purposes of this Fund.
+12D. Utilisation of the Fund (1) Any money credited to the Fund shall be utilised by the Central
+Government for the welfare of the consumers in accordance with such rules as that Government
+may make in this behalf.
+(2) The Central Government shall maintain or, if it thinks fits, specify the authority which shall
+maintain, proper and separate account and other relevant records in relation to the Fund in such
+form as may be prescribed in consultation with the Comptroller and Auditor-General of India."
+It is evident that Rule 11, before amendment, provided a time limit to apply for refund. Rule 11(4) as
+amended, Section 11B clauses (4) and (5) before amendment and Section 11B clause (3) after
+amendment, specifically oust the jurisdiction of the ordinary courts. Detailed provisions are also
+provided to ventilate the grievances and making such provisions exclusive. Other ancillary or
+incidental provisions are specified in Sections 11D and 12A to D -- Section 11D provides that every
+person, who collects excise duty from the buyer, should deposit the same with the Central
+Government. It will be adjusted against the duty of excise payable by the person concerned on
+finalisation of the assessment. Section 11D requires clarification. Excise duty is, ordinarily paid or
+payable at the time of clearance of the goods. The sale of the goods may be later. So, if excise duty
+due is already paid by the manufacturer, and later collected by him when the goods are sold, such
+collection, need not be paid to the government. Only if the duty has not been paid already or if any
+excess is collected over and above the duty already paid, then only an occasion arises for payment of
+the duty collected or excess collected
+-- and this is the purport of Section 11D. The said section (Section 11D) should be understood in the
+above practical and business sense. Section 12A provides that the price of the goods sold should
+indicate the amount of duty, which will form part of the price. Section 12B states that the person,
+who has paid the duty of excise on any goods under the Act, shall be deemed to have passed on the
+incidence of such duty to the buyer of such goods. It is a rebuttable presumption. Section 12C
+creates the "Consumer Welfare Fund". The amount of duty referred to in Sections 11B(2), 11C(2) and
+11D(2) shall be credited in the said Fund. Section 12D provides that the Fund shall be utilised for the
+welfare of the consumers.
+26. The question that falls to be considered is as to how far or to what extent the jurisdiction of the
+ordinary courts is barred, in view of the alternate remedies provided by the Act by way of appeals,
+revisions, claims for refund and the period of limitation provided therefor, etc. and specifically
+excluding the jurisdiction of the civil courts for claiming refund? In discussing this aspect, one has
+to bear in mind the content of Article 265 also. It will apply where the statute is unconstitutional or
+invalid and also where the collection is unauthorised/illegal, i.e.., without "authority of law".
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 23Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+27. It is settled law that exclusion of the jurisdiction of the civil courts is not to be readily inferred,
+but that such exclusion must either be explicitly expressed or clearly implied. There are a few
+decisions of Judicial Committee of the Privy Council and innumerable decisions of this Court which
+have dealt with the matter in detail. I propose to deal, only with the landmark decisions on the
+subject. In Secretary of State v. Mask & Co. (AIR 1940 P.C. 105 at page 110), the Judicial Committee
+laid down the law thus:
+"...........It is settled law that the exclusion of the jurisdiction of the Civil Courts is not
+to be readily inferred, but that such exclusion must either be explicitly expressed or
+clearly implied. It is also well settled that even if jurisdiction is so excluded, the Civil
+Courts have jurisdiction to examine into cases where the provisions of the Act have
+not been complied with, or the statutory tribunal has not acted in conformity with the
+fundamental principles of judicial procedure."
+(Emphasis supplied) The scope of the above observation has been explained by & Constitution
+Bench of this Court, in Firm of Illuri Subbayya Chetty and Sons v. State o Andhra Pradesh (AIR 1964
+SC. 322). The minimal facts in this case will be relevant to understand the scope of the decision. The
+case arose under the Madras General Sales Tax Act, 1939. Section 18A of the Act provided that no
+suit or other proceeding shall except expressly provided in the Act, be instituted in any court to set
+aside or modify any assessment made under the Act. The Act also contained provisions by way of
+appeals, revisions and further revision to the High Court. The levy under the Act was only on
+"purchase" of `ground-nuts', but the sales Tax authorities brought to tax the "sales" turnover and
+collected tax. The assessee contended that levy of tax on the sales turnover as distinguished from the
+purchase turnover is illegal, and filed a suit for recovery of the amount so collected. It should be
+noticed that the assessee himself voluntarily made a return and paid the tax. In such circumstances,
+the question arose, whether the suit so filed is maintainable in view of the adequate alternate
+remedies provided by the Act and the ouster of jurisdiction of the courts expressly contained in
+Section 18A of the Act? On the facts of the case, it was held that the suit was barred. In considering
+the question of exclusion of jurisdiction of the civil courts to entertain civil actions by virtue of
+specific provisions contained in the special statute, reference was made to the decision of the judicial
+Committee in Secretary of State v. Mask & Co. (supra). After referring to the observations of the
+judicial Committee quoted hereinabove, this Court in Firm of Illuri Subbayya Chetty and sons v.
+State of Andhra Pradesh (AIR 1964 SC 322 at pages 325 and 326) explained the said observation
+thus:
+"...............It is necessary to add that these observation, though made in somewhat
+wide terms, do not justify the assumption that if a decision has been made by a taxing
+authority under the provisions of the relevant taxing statute, its validity can be
+challenged by a suit on the ground that it is incorrect on the merits and as such, it can
+be claimed that the provisions of the said statute have not been complied with. Non-
+compliance with the provisions of the statute to which reference is made by the Privy
+Council must, we think, be non-compliance with such fundamental provisions of the
+statute as would make the entire proceedings before the appropriate authority illegal
+and without jurisdiction. Similarly, if an appropriate authority has acted in violation
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 24Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+of the fundamental principles of judicial procedure, that may also tend to make the
+proceedings illegal and void and this infirmity may affect the validity of the order
+passed by the authority in question. It is cases of this character where the defect or
+the infirmity in the order goes to the root of the order and makes it in law invalid and
+void that these observations may perhaps by invoked in support of the plea that the
+civil can exercise its jurisdiction notwithstanding a provision to the contrary
+contained in the relevant statute. In what cases such a plea would succeed it is
+unnecessary for us to decide in the present appeal because we have no doubt that the
+contention of the appellant that on the merits, the decision of the assessing authority
+was wrong, cannot be the subject- matter of a suit because S.18-A clearly bars such a
+claim in the civil courts.
+(Emphasis supplied) In this case, the relevant Act contained detailed and specific provisions by way
+of appeal, revision etc. to ventilate the grievances of the assessees. In addition thereto, there was
+specific provision ousting the jurisdiction of the courts. Even so, the court did not hold that the
+principles laid down in Mask & Co. case are inapplicable. The principles in Mask & Co. case were
+affirmed and explained.
+28. The decision of the Privy Council in Mask & Co. case (supra), and other decisions of the Privy
+Council and of this Court, were surveyed in detail by a Constitution Bench of this court in Dulabhai
+etc. v. State of Madhya Pradesh & Anr. (AIR 1969 SC 78). In that case, the assessees filed a suit for
+refund of the tax on the ground that it was illegally collected from them being against the
+constitutional prohibition contained in Article 301 of the Constitution of India and not saved in
+Article 304 (a) the Constitution. Section 17 of the relevant Act was pleaded in defence as a bar to the
+maintainability of the suit. Section 17 provided that no assessment made and no order passed under
+the Act or the Rules by any of the statutory authorities, shall be called in question in any case. The
+court held that notwithstanding, the alternate remedies by way of appeal, revision, rectification and
+reference to the High Court, the tax therein was levied without a complete charging section and this
+affected the jurisdiction of the tax authorities, and so, the suit was maintainable, and decreed the
+suit. After referring to the relevant decisions and in particular, Secretary of State v. Mask & Co. (AIR
+1940 P.C. 105), Firm of Illuri Subbayya Chetty and sons v. State of Andhra Pradesh (AIR 1964 SC.
+322), this Court held in paragraph 28 of the judgment, thus:
+"The Constitution Bench, however went on to examine the rulings of the Judicial
+Committee in Mask and Co.'s and Raleigh Investment Co.'s cases, 67 Ind App 222 =
+(AIR 1940 PC 105) and 74 Ind App 50 = (AIR 1947 PC 78). Dealing with the former
+case, this Court pointed out that non-compliance with the provisions of the statute
+meant non-compliance with such fundamental provisions of the statute as would
+make the entire proceedings before the appropriate authority illegal and without
+jurisdiction.....
+Emphasis supplied) Referring to the facts of Firm of Illuri Subbayya Chetty and Sons v. State of
+Andhra Pradesh (AIR 1964 SC.
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 25Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+322), it was further observed:-
+"The case of Firm of Illuri Subayya, 1961-1 SCR 752 = (AIR 1964 SC 322) may be said
+to be decided on special facts with additional reference to the addition of Section
+18-A excluding the jurisdiction of civil court and the special remedies provided in
+Section 12-A to 12-D by which the matter could be taken to the highest civil court in
+the State.
+(Emphasis supplied) This Court also considered the facts and the actual decision of the Special
+Bench of 7-Judges in Kamala Mills Ltd. vs. State of Bombay (AIR 1965 SC 1942) in detail, with
+reference to Section 20 of the Bombay Sales Tax Act, 1946, and observed thus:
+"The Special Bench refrained from either accepting the dictum of Mask Co.'s case, 67
+Ind App 222 = (AIR 1940 PC 105) or rejecting it, to the effect that even if jurisdiction
+is it, to the effect that even if jurisdiction is excluded by a provision making the
+decision of the authorities final, the civil courts have jurisdiction to examine into
+cases where the provisions of the particular Act are not complied with.
+It is evident from the above, that the Principle laid down in Mask & Co. case, though explained, was
+not questioned, or departed from, either in Illuri Subbayya Chetty's case or Kamala Mills case. In a
+subsequent decision
+- Ram Swarup v. Shikar Chand (AIR 1996 SC 893), a Constitution Bench of this Court again
+considered the scope of the decisions in Mask & Co.'s case (supra) and Kamala Mills' case (supra).
+Ram Swarup's case arose under the U.P. (Temporary) Control of Rent and Eviction Act. Section 3(4)
+of the Act provided that the order passed by the designated authority shall be final and Section 16
+thereof further provided that the order passed by the State Government or the District Magistrate,
+shall not be called in question in any court. In other words, the jurisdiction of civil courts was
+excluded in relation to the matters covered by orders included within the provisions of Sections 3(4)
+and 16 of the said Act. The Constitution Bench approached the matter thus:-
+"One of the points which is often treated as relevant in dealing with the question
+about the exclusion of civil Courts' jurisdiction, is whether the special statute which,
+it is urged, excludes such jurisdiction, has used clear and unambiguous words
+indicating that intention. Another test which is applied is: does the said statute
+provide for an adequate and satisfactory alternative remedy to a party that may be
+aggrieved by the relevant order under its material provisions? Applying these two
+tests, it does appear that the words used in S.3(4) and S. 16 are clear. Section 16 in
+terms provides that the order made under this Act to which the said section applies
+shall not be called in question in any Court. This is an express provision excluding the
+civil courts' jurisdiction. Section 3(4) does not expressly exclude the jurisdiction of
+the civil Courts, but, in the context, the inference that the civil Courts jurisdiction is
+intended to be excluded, appears to be inescapable. Therefore, we are satisfied that
+Mr. Goyal is right in contending that the jurisdiction of the civil Courts is excluded in
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 26Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+relation to matters covered by the orders included within the provisions of S.3(4) and
+S. 16.
+(Emphasis supplied) Even so, this Court proceeded to state in paragraph 13 at page 896, to the
+following effect:-
+"This conclusion, however, does not necessarily mean that the plea against the
+validity of the order passed by the District Magistrate, or the Commissioner, or the
+State Government, can never by raised in a civil Court. In our opinion, the bar
+created by the relevant provisions of the Act excluding the jurisdiction of the civil
+Courts cannot operate in cases where the plea raised before the civil Court goes to the
+root of the matter and would, if upheld, lead to the conclusion that the impugned
+order is a nullity.
+(Emphasis supplied) This Court referred to the decisions of the judicial committee, in Secretary of
+State v. Jatindra Nath Choudhry (AIR 1924 PC 175) and the decision in Mask & Co, and also quoted
+the observations in the latter case which have been quoted hereinbefore (para 27 - supra) and
+concluded thus:-
+"In M/s. Kamla Mills Ltd. v. The State of Bombay, C.A. No. 481 of 1963, dated
+23-4-1965: (AIR 1965 SC 1942), while dealing with a similar point, this Court has
+considered the effect of the two decisions f the Privy council, one in the case of Mask
+and Co., 67 Ind app 222. (AIR 1940 PC 105) (supra), and the other in raleigh
+Investment Co.
+Ltd. v. Governor-General in Council, 74 Ind App 50 at pp.62-63: (AIR 1947 PC 78 at
+pp. 80-81). The conclusion reached by this Court in M/s. Kamla Mill's case, C.A. No.
+481 of 1963 dated 23-4-1965: (AIR 1965 SC 1942), (supra) also supports the view
+which we are taking in the present appeal.
+(Emphasis supplied) It is evident that in Ram Swarup's case, this Court expressed the view that the
+decision in Kamla Mills' case is in accord with Mask & Co.'s case, and the bar of jurisdiction of civil
+courts cannot operate in cases where the plea raised before the civil court goes to the root of the
+matter and would, if upheld, lead to the conclusion that the impugned order is nullity -- in other
+works, where the order or proceeding is attached as one passed without jurisdiction. Again, the
+principle laid down in Mask & Co.'s case was only reiterated and observations were made that the
+decision in Kamala Mills' case was in accord with the decision in Mask & Co.'s case. It is important
+to notice that Gajendragadkar, C.J., spoke for the Bench in all the three decisions: Illuri Subayya
+Chetty (AIR 1964 SC 322), Kamala Mill (AIR 1965 SC 942) and Ram Swarup (AIR 1966 SC
+893).
+In considering Mask & Co. (AIR 1940 PC 105), and Kamala Mills (AIR 1965 SC 1942) the
+Constitution Bench in Ram Swarup's case (AIR 1966 SC 893) held that if the proceeding assailed is
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 27Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+totally invalid and a nullity or without jurisdiction, the jurisdiction of the civil courts is not barred.
+Again, the principle laid down in Mask & Co. (supra) was only affirmed.
+On an analysis of the various decisions, this Court laid down the law in paragraph 32 at page 89,
+thus (Dulabhai's case):
+"Neither of the two cases of Firm of Illuri Subayya, 1964-1 SCR 752 = (AIR 1964 SC
+322) or Kamla Mills, 1966 1 SCR 64 = (AIR 1965 SC 1942) can be said to run counter
+to the series of cases earlier noticed. The result of this inquiry into the diverse views
+expressed in this Court may be stated as follows: (1) Where the statute gives a finality
+to the orders of the special tribunals the civil court's jurisdiction must be held to be
+excluded if there is adequate remedy to do what the civil courts would normally do in
+a suit. Such provision, however, does not exclude those cases where the provisions of
+the particular Act have not been complied with or the statutory tribunal has not acted
+in conformity with the fundamental principles of judicial procedure. (2) Where there
+is an express bar of the jurisdiction of the court, an examination of the scheme of the
+particular Act to Find the adequacy or the sufficiency of the remedies provided may
+be relevant but is not decisive to sustain the jurisdiction of the civil court. Where
+there is no express exclusion the examination of the remedies and the scheme of the
+particular Act to find out the intendment becomes necessary and the result of the
+inquiry may be decisive. In the latter case it is necessary to see if the statute creates a
+special right or a liability and provides for the determination of the right or liability
+and further lays down that all questions about the said right and liability shall be
+determined by the tribunals so constituted, and whether remedies normally
+associated with actions in civil courts are prescribed by the said statute or not.
+(3) Challenge to the provisions of the particular Act as ultra vires cannot be brought
+before Tribunals constituted under that Act. Even the High Court cannot go into that
+question on a revision or reference from the decision of the Tribunals. (4) When a
+provision is already declared unconstitutional or the constitutionality of any
+provision is to be challenged, a suit is open. A writ of certiorari may include a
+direction for refund if the claim is clearly within the time prescribed by the
+Limitation Act but it is not a compulsory remedy to replace a suit. (5) Where the
+particular Act contains no machinery for refund of tax collected in excess of
+constitutional limits or illegally collected a suit lies.
+(6) Questions of the correctness of the assessment apart from its constitutionality are
+for the decision of the authorities and a civil suit does not lie if the orders of the
+authorities are declared to be final or there is an express prohibition in the particular
+Act. In either case the scheme of the particular Act must be examined because it is a
+relevant enquiry.
+(7) An exclusion f the jurisdiction of the civil court is not readily to be inferred unless
+the conditions above set down apply.
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 28Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+(Emphasis supplied) Dulabhai's case (supra) has been consistently followed by this Court later --
+see: Sree Raja Kandregula Srinivasa Jagannadharao Panthulu Bahadur Guru v. The State of Andhra
+Pradesh and others (AIR 1971 SC 71) and other cases. (29) Applying the law laid down in the
+decisions aforesaid, it is not possible to conclude that any and every claim for refund of
+illegal/unauthorised levy of tax, can be made only in accordance with the provisions of the Act (Rule
+11, Section 11B etc. as the case may be), and an action by way of suit or writ petition under Article
+226 will not be maintainable under any circumstances. An action by way of suit or a petition under
+Article 226 of the Constitution is maintainable to assail the levy or order which is illegal, void or
+unauthorised or without jurisdiction and/or claim refund, in cases covered by propositions No.(1),
+(3), (4) and (5) in Dulabhai's case, as explained hereinabove, a one passed outside the Act and ultra
+vires. Such action will be governed by the general law and the procedure and period of limitation
+provided by the specific statute will have no application. [Collector of Central Excise, Chandigarh v.
+M/s. Doaba Co-operative Sugar Mills Ltd.. Jalandhar (1988 Supp. SCC 683); Escorts Ltd. v. Union
+of India & Ors. (1994 Supp. (3) SCC 86)]. Rule 11 before and after amendment, or S. 11B, cannot
+affect S.72 of the Contract Act or the provisions of Limitation Act in such situations. My answer to
+the claims for refund broadly falling under the three groups or categories enumerated in paragraph
+5 of this judgment is as follows:
+Category (I) where the levy is unconstitutional - outside the provisions of the Act or not
+contemplated by the Act:-
+In such cases, the jurisdiction of the civil courts is not barred. The aggrieved party can invoke
+Section 72 of the Contract Act, file a suit of a petition under Article 226 of the Constitution, and pray
+for appropriate relief inclusive of refund within the period of limitation provided by the appropriate
+law. [Dulabhai's case (supra) - para 32 - Clauses (3) and (4)] Category (II) where the levy is based on
+misconstruction or wrong or erroneous interpretation of the relevant provisions of the Act, Rules or
+Notifications; or by failure to follow the vital or fundamental provisions of the Act or by acting in
+violation of the Fundamental Principles of judicial procedure:-
+Under this category, every error of fact or law committed by the statutory authority or Tribunal,
+irrespective of its gravity, or nature of infirmity, will not be covered. It is confined to exceptional
+cases, "where the provisions of a particular Act have not been complied with or the statutory
+tribunal has not acted in conformity with fundamental principles of judicial procedure" as stated in
+Mask & Co.'s case (supra) and in Dulabhai's case (supra). The scope of the above dicta, should be
+understood in the background of/in accord with the observations of the earlier constitution Bench of
+this Court in Firm of Illuri Subbayya Chetty and Sons v. State of Andhra Pradesh (AIR 1964 SC. 322
+at page 326), to the following effect;
+"....Non-compliance with the provisions of the statute, to which reference is made by the Privy
+Council must, we think, be non-
+compliance with such fundamental provisions of the statute as would make the entire proceedings
+before the appropriate authority illegal and without jurisdiction.
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 29Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+Similarly, if an appropriate authority has acted in violation of the fundamental principles of judicial
+procedure, that may also tend to make the proceedings illegal and void and make the proceedings
+illegal and void and this infirmity may affect the validity of the order passed by the authority in
+question. It is cases of this character where the defect or the infirmity in the order goes to the root of
+the order and makes it in law invalid and void...
+[Dulabhai's case (supra) -- para 32 Clause (1)] (Emphasis supplied) Here also, the appropriate
+action should be laid within the period of limitation provided by the appropriate law and also can
+invoke Section 72 of the contract Act, as the case may be.
+Category (III) - Mistake of law -- the levy or imposition was unconstitutional or illegal or not eligible
+in law (i.e. without jurisdiction) and, so found in a proceeding initiated not by the particular
+assessee, but in a proceeding initiated by some other assessee, either by the High Court or the
+Supreme Court, and as soon as the assessee came to know of the judgment, (within the period of
+limitation) he initiated action for refund of the tax paid by him, due to mistake of law:-
+In this category, assessees who initiated proceedings and impugned the assessments/claimed
+refund, for any reason, either by way of suit or petition under Article 226 of the Constitution, and
+the action was dismissed on merits, they cannot maintain an action over again. He who fights and
+runs away, cannot have another day. If the levy or imposition was held to be unconstitutional or
+illegal or not exigible in law, in a similar case filed by some other person, the assessee who had
+already lost the battle in a proceeding initiated by him or has otherwise abandoned the claim
+cannot, take advantage of the subsequent declaration rendered in another case where the levy is
+held to be unconstitutional, illegal or not exigible in law. The claim will be unsustainable and barred
+by res judicata. [M/s. Tilokchand Motichand and Ors. v. H.B. Munshi, commissioner of Sales Tax,
+Bombay and another (AIR 1970 SC 898)]. (This will be confined to the period for which action was
+laid and lost).
+Subject to the above, if a levy or imposition of tax is held to be unconstitutional or illegal or not
+exigible in law i.e. without jurisdiction, it is open to the assessee to take advantage of the declaration
+of the law so make, and pray for appropriate relief inclusive of refund on the ground that tax was
+paid due to mistake of law, provided he initiates action within the period of limitation prescribed
+under the Limitation Act. Such assessee should prove the necessary ingredients to enable him to
+claim the benefit under Section 72 of the Contract Act read with Section 17 of the Limitation Act.
+[Dulabhai's case (supra) - para 32 - clauses (4) and (5)].
+30. It should be borne in mind, that in all the three categories of cases, the assessee should prove the
+fundamental factor that he has not "passed on" the tax to the consumer or third party and that he
+suffered a loss or injury. This aspect should not be lost sight of, in whatever manner, the proceeding
+is initiated -- suit, Article 226, etc.
+31. As observed earlier, proposition No.(1) of clause No. (1), enunciated in Dulabhai's case (supra)
+should be understood in the background of or in accord with the observations of the earlier
+Constitution Bench in Illuri Subbayya Chetty's case - [AIR 1964 SC 322 (at pp. 325-326)] as quoted
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 30Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+in para 27 (supra) -- (see para 29 of this judgment).
+Opinions may differ as to when it can be said that in the "public law" domain, the entire proceeding
+before the appropriate authority is illegal and without jurisdiction or the defect or infirmity in the
+order goes to the root of the matter and makes it in law invalid or void (Referred to in Illuri
+Subbayya Chetty's case and approved in Dulabhai case). The matter may have to be considered in
+the light of the provisions of the particular statute in question and the fact situation obtaining , in
+each case. It is difficult to visualise all situations hypothetically and provide an answer. Be that as it
+may, the question that frequently arises for consideration, is, in what situation/cases the
+non-compliance or error or mistake, committed by the statutory authority or Tribunal, makes the
+decision rendered ultra-vires or a nullity or one without jurisdiction? If the decision is without
+jurisdiction, notwithstanding the provisions for obtaining reliefs contained in the Act and the
+"ouster clauses", the jurisdiction of the ordinary court is not excluded. So, the matter assumes
+significance. Since the landmark decision in Anisminic Ltd. vs. Foreign compensation commission
+[1969 (2) AC 147 = 1969 (1) All ER 208 (H.L.)], the legal world seems to have accepted that any
+"jurisdictional error" as understood in the liberal or modern approach, laid down therein, makes a
+decision ultra vires or a nullity or without jurisdiction and the "ouster clauses", are construed
+restrictively, and such provisions whatever their stringent language be, have been held, not to
+prevent challenge on the ground that the decision is ultra vires and being a complete nullity, it is not
+a decision within the meaning of the Act. The concept of jurisdiction has acquired "new
+dimensions". The original or pure theory of jurisdiction means, "the authority to decide", and it is
+determinable at the commencement, and not at the conclusion of the inquiry. The said approach has
+been given a go bye in Anisminic case, as we shall see from the discussion hereinafter [see De Smith,
+Woolf and Jowel] - Judicial Review of administrative Action (1995 edn.) p. 238; Halsburry's Laws of
+England (4th edn.) p.114 - para 67 - foot note (9)]. As Sir William Wade observes in his book,
+Administrative Law (7th edn.), 1994, at p. 299, "The tribunal must not only have jurisdiction at the
+outset, but must retain it unimpaired until it has discharged its task". The decision in Anisminic case
+has been cited with approval in a number of cases by this Court: Citation of few such cases; Union of
+India vs. Tarachand Gupta & Bros. [AIR 1971 SC 1558 (at 1565)], A.R. Antulay v. R.S. Nayak and
+another [1988 (2) SCC 602 (650)], M/s. R.B. Shreeram Durga Prasad and Fatehchand Nursing Das
+v. Settlement Commission (IT & WT) and another [1989 (1) SCC 628 (634)], N. Parthasarathy etc.
+etc. v. Controller of Capital Issues & anr. etc. etc. [1991 (3) SCC 153 (at 195), Associated Engineering
+Co. vs. Government of Andhra Pradesh and anr. [AIR 1992 SC 232], Shiv Kumar Chadha v.
+Municipal Corporation of Delhi and others [1993 (3) SCC 161 (173)]. Delivering the judgment of a
+two-member Bench in Shri M.L. Sethi v. Shri R.P. Kapur (AIR 1972 SC 2379) Methew, J. in
+paragraphs 10 and 11 of the judgment explained the legal position after Anisminic case to the
+following effect:
+"The word "jurisdiction" is verbal cast of many colours. Jurisdiction originally seems
+to have had the meaning which Lord Baid ascribed to it in Anisminic Ltd. v. Foreign
+Compensation Commission (1969) 2 AC 147, namely, the entitlement "to enter upon
+the enquiry in question". If there was an entitlement to enter upon an inquiry into the
+question, then any subsequent error could only be regarded as an error within the
+jurisdiction. The best known formulation of this theory is that made by Lord Denman
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 31Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+in R. v. Bolton (1841) 1 QB 66. He said that the question of jurisdiction is
+determinable of the enquiry. In Anisminic Ltd., (1969) 2 AC 147 Lord Reid said:
+But there are many cases where, although the tribunal had jurisdiction to enter on
+the enquiry, it has hone or failed to do something in the course of the enquiry which
+is of such a nature that its decision is a nullity. It may have given its decision in bad
+faith. It may have made a decision which it had no power to make. It may have failed
+in the course of the enquiry to comply with the requirements of natural justice. It
+may in perfect good faith have misconstrued the provisions giving it power to act so
+that it failed to deal with the question remitted to it and decided some question which
+was not remitted to it. It may have refused to take into account something which it
+was required to take into account. Or it may have based its decision on some matter
+which, under the provisions setting it up, it had no right to take into account. i do not
+intend this list to be exhaustive."
+In the same case, Lord Pearce said:
+Lack of jurisdiction may arise in various ways. There may be an absence of those
+formalities or things which are conditions precedent to the tribunal having any
+jurisdiction to embark on an enquiry. Or the tribunal may at the end make an order
+that it has no jurisdiction to make. Or in the intervening stage while engaged on a
+proper enquiry, the tribunal may depart from the rules of natural justice; or it may
+ask itself the wrong questions; or it may take into account matters which it was not
+directed to take into account. Thereby it would step outside its jurisdiction. It would
+turn its inquiry into something not directed by Parliament and fail to make the
+inquiry which the Parliament did direct. Any of these things would cause its
+purported decision to be a nullity.
+11. The dicta of the majority of the House of Lords, in the above case would show the
+extent to which `lack' and `excess' of jurisdiction have been assimilated or, in other
+words, the extent to which we have moved away form the traditional concept of
+"jurisdiction". The effect of the dicta in that case is to reduce the difference between
+jurisdictional error and error of law within jurisdiction almost to vanishing point. The
+practical effect of the decision is that any error of law can be reckoned as
+jurisdictional. That comes perilously close to saying that there is jurisdiction if the
+decision is right in law but none if it is wrong. Almost any misconstruction of a
+statute can be represented as "basing their decision on a matter with which they have
+no right to deal", "imposing an unwarranted condition" or addressing themselves to a
+wrong question". The Majority opinion in the case leaves a Court or Tribunal with
+virtually no margin of legal error. Whether there is excess of jurisdiction or merely
+error within jurisdiction can be determined only by construing the empowering
+statute, which will give little guidance. It is really a question of how much latitude the
+Court is prepared to allow................"
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 32Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+In a subsequent constitution Bench decision, Hari Prasad Mulshankar Trivedi v. V.B. Raju anothers
+(AIR 1973 SC 2602), delivering the judgment of the Bench, Mathew, J., in para 27 at page 2608 of
+the judgment, stated thus:
+"..........Though the dividing line between lack of jurisdiction or power and erroneous
+exercise of it has become thin with the decision of the House of Lords in the
+Anisminic Case, (1967) 3 W.L.R.
+382, we do not think that the distinction between the two has been completely wiped
+out. We are aware of the difficulty in formulating an exhaustive rule to tell when
+there is lack of power and when there is an erroneous exercise of it. The difficulty has
+arisen because the word "jurisdiction" is an expression which is used in variety of
+senses and takes its colour from its context, (see Per Diplock, J. at p. 394 in the
+Anisminic Case). Whereas the `pure' theory of jurisdiction would reduce
+jurisdictional control to a vanishing point, the adoption of a narrower meaning might
+result in a more useful legal concept even though the formal structure of law may lose
+something of its logical symmetry. "At bottom the problem of defining the concept of
+jurisdiction for purpose of judicial review has been one of public policy rather than
+one of logic". (S.A.De Smith, "Judicial Review of Administrative Action".
+2nd Edn., p. 98.) (1988 edition) (emphasis supplied) The observation of the learned author, (S.A. De
+Smith) was continued in its third edition (1973) at page 98 and in its fourth edition (1980) at page
+112 of the book. The observation aforesaid was based on the then prevailing academic opinion only
+as is seen from the foot notes. it should be stated that the said observation is omitted from the latest
+edition of the book De Smith, Woolf and Jowel] - Judicial Review of administrative Action - 5th
+edition (1995) as is evident from page 229; probably due to later developments in the law and the
+academic opinion that has emerged due to the change in the perspective.
+32. After 1980, the decision in Anisminic case came up for further consideration before the House of
+Lords, Privy council and other courts. The three leading decisions of the House of Lords wherein
+anisminic principle, was followed and explained, are the following:- In re: Racal Communications
+Ltd. [1981 AC 374], O'Reilly & ors. vs. Mackman & ors. [1983 (2) AC 237], Regina vs. Hull University
+Visitor [1993 AC 682]. It should be noted that In re Racal's case, the Anisminic Principle was held to
+be inapplicable in the case of (superior) court where the decision of the court is made final and
+conclusive by the statute. (The superior court referred to in this decision is the High Court) [1981 AC
+374 (383, 384, 386, 391)]. In the meanwhile, the House of Lords in Council for Civil Service Unions
+& ors. vs. Minister For the Civil Service [1985 (1) AC 374] enunciated three broad grounds for
+judicial review, as "legality", "procedural Propriety" and "rationality" and this decision had its
+impact in the development of the law in post-Anisminic period. In the light of the above four
+important decisions of the House of Lords, other decisions of the court of appeal, Privy council, etc.
+and the later academic opinion in the matter the entire case law on the subject has been reviewed in
+leading text books. In the latest edition of De Smith on "Judicial Review of Administrative Action" -
+edited by Lord Woolf and Jowel], Q.C. [(Professor of Public Law) (Fifth edition) - (1995)], in
+Chapter 5, titled as "Jurisdiction, Vires, Law and Fact" (pp. 223-294), there is exhaustive analysis
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 33Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+about the concept, "Jurisdiction", and its ramifications. The authors have discussed the pure theory
+of jurisdiction, the innovative decision in "Anisminic" case [1969 (2) AC 147], the development of
+the law in the post Anisminic period, the scope of the "finality" clauses (exclusion of jurisdiction of
+courts) in the Statutes, and have laid down a few propositions at pages 250-256 which could be
+advanced on the subject. The authors have concluded the discussion thus at page 256:
+"After Anisminic virtually every error of law is a jurisdictional error, and the only
+place left for non-jurisdictional error is where the components of the decision made
+by the inferior body included matters of fact and policy as well as law, or where the
+error was evidential (concerning for example the burden of proof or admission of
+evidence). Perhaps the most precise indication of jurisdictional error is that advanced
+by Lord Diplock in Racal Communications, when he suggested that a tribunal is
+entitled to make an error when the matter "involves, as many do inter- related
+questions of law, fact and degree". Thus it was for the county court judge in Pearlman
+to decide whether the installation of central heating in a dwelling amounted to a
+"structural alteration extension or addition". This was a typical question of mixed
+law, fact and degree which only a scholiast would think it appropriate to dissect into
+two separate questions, one for decision by the superior court, viz. the meaning of
+these words, a question which must entail considerations of degree, and the other for
+decision by a county court, viz. the application of words to the particular installation,
+a question which also entails considerations of degree." It is, however, doubtful
+whether any test of jurisdictional error will prove satisfactory. The distinction
+between jurisdictional and non-jurisdictional error is ultimately based upon
+foundations of sand. Much of the superstructure has already crumbled. What
+remains is likely quickly to fall away as the courts rightly insist that all administrative
+action should be, simply, lawful, whether or not jurisdictionally lawful." (Emphasis
+supplied)
+33. The jurisdictional control exercised by superior courts over subordinate courts, tribunals or
+other statutory bodies and the scope and content of such power has been pithly stated in Halsbury
+Laws of England - 4th edition (Reissue), 1989, volume 1(1), p. 113 to the following effect :-
+"The inferior court or tribunal lacks jurisdiction if it has no power to enter upon an
+inquiry into a matter at all; and it exceeds jurisdiction if it nevertheless enters upon
+such an inquiry or, having jurisdiction in the first place, it proceeds to arrogate an
+authority withheld from it by perpetrating a major error of substance, form or
+procedure, or by making an order or taking action outside its limited area of
+competence. Not every error committed by an inferior court or tribunal or other
+body, however, goes to jurisdiction. Jurisdiction to decide a matter imports a limited
+power to decide that matter incorrectly."
+"A tribunal lacks jurisdiction if (I) it is improperly constituted, or (2) the proceedings
+have been improperly instituted, or (3) authority to decide has been delegated to it
+unlawfully, or (4) it is without competence to deal with a matter by reason of the
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 34Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+parties, the area in which the issue arose, the nature of the subject matter, the value
+of that subject matter, or the non- existence of any other prerequisite of a valid
+adjudication. Excess of jurisdiction is not materially distinguishable from lack of
+jurisdiction and the expressions may be used interchangeably." "Where the
+jurisdiction of a tribunal is dependent on the existence of a particular state of affairs,
+that state of affairs may be described as preliminary to, or collateral to the merits of,
+the issue, or as jurisdictional." (p.
+114) "There is a presumption in construing statutes which confer jurisdiction or
+discretionary powers on a body, that if that body makes an error of law while
+purporting to act within that jurisdiction or in exercising those powers, its decision or
+action will exceed the jurisdiction conferred and will be quashed. The error must be
+one on which the decision or action depends. An error of law going to jurisdiction
+may be committed by a body which fails to follow the proper procedure required by
+law, which takes legally irrelevant considerations into account, or which fails to take
+relevant considerations into account, or which asks itself and answers the wrong
+question. (pp. 119-120) The presumption that error of law goes to jurisdiction may be
+rebutted on the construction of a particular statute, so that the relevant body will not
+exceed its jurisdiction by going wrong in law. Previously, the courts were more likely
+to find that errors of law were within jurisdiction; but with the modern approach
+errors of law will be held to fall within a body's jurisdiction only in exceptional cases.
+The courts will generally assume that their expertise in determining the principles of
+law applicable in any case has not been excluded by Parliament." (p. 120) "Errors of
+law include misinterpretation of a statute or any other legal document or a rule of
+common law; asking on self and answering the wrong question, taking irrelevant
+considerations into account or failing to take relevant considerations into account
+when purporting to apply the law to the acts; admitting inadmissible evidence or
+rejecting admissible and relevant evidence;
+exercising a discretion on the basis of incorrect legal principles; giving reasons which
+disclose faulty legal reasoning or which are inadequate to fulfil an express duty to
+give reasons, and misdirecting oneself as to the burden of proof." (pp. 121-122)
+(Emphasis supplied)
+34. H.W.R. Wade and C.F. Forsyth in their book - Administrative Law, Seventh Edition, (1994) -
+discuss the subject regarding the jurisdiction of superior courts over subordinate courts and
+tribunals under the head "jurisdiction over Fact and Law" in Chapter 9, pages 284 to
+320. The decisions before Anisminic and those in the post Anisminic period have been discussed in
+detail. At pages 319-320, the authors give the Summary of Rules thus:-
+"Jurisdiction over fact and law: Summary At the end of a chapter which is top-heavy
+with obsolescent material it may be useful to summarise the position as shortly as
+possible. the overall picture is of an expanding system struggling to free itself from
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 35Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+the trammels of classical doctrines laid down in the past. It is not safe to say that the
+classical doctrines are wholly obsolete and that the broad and simple principles of
+review, which clearly now commend themselves to the judiciary, will entirely
+supplant them. A summary can therefore only state the long- established rules
+together with the simpler and broader rules which have now superseded them, much
+for the benefit of the law. Together they are as follows:
+Errors of fact Old rule The court would quash only if the erroneous fact was
+jurisdictional New rule The court will quash if an erroneous and decisive fact was
+(a) jurisdictional
+(b) found on the basis of no evidence; or
+(c) wrong, misunderstood or ignored.
+Errors of law Old rule The court would quash only if the error was
+(a) jurisdictional; or
+(b) on the face of the record.
+New rule The court will quash for
+any decisive error, because all
+errors of law are now
+jurisdictional."
+(emphasis supplied)
+35. The scope of the exclusionary clauses contained in the statutes has been
+considered in great detail with reference to the decisions of the superior courts in
+England and also the decisions of the Supreme Court of India by Justice G.P.
+Singh (former Chief Justice, M.P. High Court) in "Principles of Statutory Interpretation", 6th
+edition, (1996) at page
+475. The law is stated thus:-
+"A review of the relevant authorities on the point leads to the following conclusions :
+"(1) An Exclusionary Clause using the formula`an order of the tribunal under this Act shall not be
+called in question in any Court' is ineffective to prevent the calling in question of an order of the
+tribunal if the order is really not an order under the Act but a nullity.
+(2) Cases of nullity may arise when there is lack of jurisdiction at the stage of commencement of
+enquiry e.g., when (a) authority is assumed under an ultra vires statute; (b) the tribunal is not
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 36Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+properly constituted, or is disqualified to act; (c) the subject-matter or the parties are such inquire;
+and (d) there is want of essential preliminaries prescribed by the law for commencement of the
+inquiry.
+(3) Cases of nullity may also arise during the course or at the conclusion of the inquiry. These cases
+are also cases of want of jurisdiction if the word `jurisdiction' is understood in a wide sense. Some
+examples of these cases are: (a) when the tribunal has wrongly determined a jurisdictional question
+of fact or law; (b) when it has failed to follow the fundamental principles of judicial procedure, e.g.,
+has passed the order without giving an opportunity of hearing to the party affected; (c) when it has
+violated the fundamental provisions of the Act, e.g., when it fails to take into account matters which
+it is required to take into account or when it takes into account extraneous and irrelevant matters;
+(d) when it has acted in bad faith;
+and (e) when it grants a relief or makes an order which it has no authority to grant or make; "as also
+(f) when by misapplication of the law it has asked itself the wrong question."
+With great respect to the learned author, I would adopt the above statement of law, as my own.
+I would conclude this aspect by holding that the jurisdiction of civil courts is not barred in entirety
+regarding the attack against the levy and/or claim for refund; in those cases, coming within the
+three categories mentioned in paras 5 and 29 of this judgment, the jurisdiction of the ordinary
+courts will not be ousted, in the circumstances and subject to the conditions stated therein and in
+para 30 (supra).
+36. Two decisions of this Court rendered after Section 11B of the Act was amended in 1991, deserve
+mention. They are -- Union of India and others v. Jain Spinners Limited and another [1992 (4) SCC
+389], Union of India and others v. ITC Ltd. [1993 Supp. (4) SCC 326]. In Jain Spinners case, the
+application for refund itself was filed before the concerned statutory authority (Assistant Collector,
+Central Excise). While the said application was pending, Section 11B of the Act came into force.
+There was an earlier interim order passed by the High Court directing the deposit of the duty levied
+with a liberty to the Revenue to withdraw it, subject to the condition that the amount will be
+refunded if the assessee succeeded ultimately. The Assistant Collector applying the amendments
+effected in 1991, declined to order refund, holding that the assessee had passed on the incidence of
+duty to others. it was upheld by this Court notwithstanding the interim orders and other
+proceedings of the High Court. Basically, the application for refund was filed before the concerned
+statutory authority, who negatived the claim by giving effect to the provisions of the Amendment
+Act. There was no attack in the above case, that the levy or collection as one unauthorised or
+unconstitutional or without jurisdiction or illegal. In Union of India v. ITC Ltd., the Jain spinners
+case (supra) was followed. The main aspect that arose for consideration in the latter case was,
+whether the assessee had passed on the incidence of duty to the consumers or other persons. In
+spite of the repeated orders of this Court, the assessee failed to establish that the burden of excess
+excise duty was borne by it and was not passed on to any other person. The assessee had filed five
+applications for refund. Three of them were allowed by the statutory authorities in the appeals. Only
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 37Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+two refund applications were rejected which were assailed in the High Court. The High Court
+allowed the said applications, directing the Revenue to refund the amounts due as per the two
+refund applications. In Appeal, this Court stressed the fact that the assessee was not able to
+substantiate that the burden of excess excise duty was borne by it and was not passed on to any
+other person. incidentally, this Court also referred to the amended provisions of the Act (11B, 12B
+etc.) and held that the amended provisions would apply when the matter regarding refund was still
+pending for adjudication in this Court. In this case also the levy or collection was not assailed as
+unconstitutional or illegal or without jurisdiction and, in consequence refund was called for. The
+above two cases did not deal with the maintainability of action in the ordinary courts where the levy
+or collection is assailed on the ground that it is unconstitutional, illegal or without jurisdiction.
+37. The changes brought about by the Central Excise and Customs Laws (Amendment) Act, 1991
+(w.e.f. 20.9.1991) regarding refund and the scope of Section 11B read with Section 12B was the
+subject of great controversy before us. The Amendment Act 1991, is also attacked as
+unconstitutional, illegal, invalid and unreasonable and as a "device" to deny refund legitimately due.
+The relevant statutory provisions have been extracted earlier in this judgment. Briefly stated the
+position is this. Clause (3) of Section 11B provides that notwithstanding any judgment, decree or
+order of the appellate tribunal or any court etc. no refund shall be made except as provided in
+sub-section (2). In other words, the procedure to obtain refund is made exclusive as per Section
+11B(3) of the Act. The application, therefore, shall be made under Section 11B(1) and dealt with by
+the concerned authority under Section 11(2) of the Act. These provisions mandate amongst other
+things that the person claiming refund should substantiate that the incidence of duty has not been
+passed on by him to any other person. The application should also be filed within the time
+prescribed in the said sub-section. Section 11B(2) and Section 11B(3) go together. Under Section
+11B(2), in certain specified cases, the duty paid will be refunded to the applicant. One such case is,
+the duty of excise paid by the manufacturer, if he had not passed on the incidence of such duty to
+any other person and substantiates the same. In cases not falling within the proviso to Section
+11B(2) of the Act the duty collected will be credited to the Consumer Welfare Fund and the said
+Fund will be utilised as per Section 12D of the Act.
+38. As stated, Section 11B(2) and Section 11B(3) go together. The applications for refund made
+before the commencement of the Amendment Act, 1991, shall be deemed to have been made under
+Section 11B(1) of the Act as amended and it shall be dealt with in accordance with Section 11B(2) of
+the Act. The Section contemplates disposal of the applications pending on the date of the
+Amendment Act as also fresh applications filed after the Amendment Act, 1991, as per the amended
+provisions. Counsel for the assessees urged that the provisions relating to refund and, in particular,
+Section 11B(2) and (3) as amended in 1991 cannot apply to :-
+1. Refund' made or due as per orders passed by Courts, in a suit or in a petition under Article 226 of
+the Constitution of India, which have become final.
+2. refunds ordered by the statutory authority concerned which have become final.
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 38Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+It is obvious that in such cases no application can or will be deemed to be pending on the date of the
+commencement of the Amendment Act. No application praying for refund is to be filed in such
+cases, either. No further probe, regarding the requisites for obtaining refund specified in the
+Amendment Act, 1991, is called for in such cases. The above aspects are fairly clear. Section 11B(2)
+and (3) cannot be made applicable to refunds already ordered by the court or the refund ordered by
+the statutory authorities, which have become final. It follows from a plain reading of Section 11B,
+Clauses (1), (2) and (3) of the Act. The provisions contemplate the pendency of the application on
+the date of the coming into force of the Amendment Act or the filing of an application which is
+contemplated under law, to obtain a refund, after the Amendment Act comes into force. I am of the
+opinion, that if the said provisions are held applicable, even to matter concluded by the judgments
+or final orders of courts, it amounts to stating that the decision of the court shall not be binding and
+will result in reversing or nullifying the decision made in exercise of the judicial power. The
+legislature does not possess such power. The court's decision must always bind parties unless the
+condition on which it is passed are so fundamentally altered that the decision could not have been
+given in the altered circumstances. It is not so herein. [Shri Prithvi Cotton Mills Ltd. & Anr. vs.
+Broach Borough Municipality & ors. (1970 (1) SCR 388) and Madan Mohan Pathak vs. Union of
+India & ors. etc. (1978 (3) SCR 334)]. See also Comorin Match Industries (P) Ltd. v. State of Tamil
+Nadu [JT 1996(5) SC 167]. Alternatively, it may be stated that duty paid in cases, which finally ended
+in orders or decrees or judgments of courts, mush be deemed to have been paid under protest and
+the procedure and limitation etc. stated in Section 11B(2) read with Section 11B(3) will not apply to
+such cases. It need hardly be stated, that Section 11B(1), the proviso thereto, Section 11B(2) and
+Section 11B(3) read together will apply only to (1) refund applications made before the Amendment
+of the Act and still pending on the date of commencement of Amendment Act, 1991 and (2)
+applications contemplated under law to obtain refund and filed after the commencement of the
+Amendment Act, 1991. (Cases dealt with in paras 5 and 29 of this judgment will not be covered by
+the above, to the extent stated therein).
+39. Excise duty is an indirect levy. It is intended or presumed to be passed on. This is so under the
+ordinary law. Section 12B of the Act only provides a statutory rebuttable presumption in that regard.
+If it turns out that the levy is not exigible, it is refundable to the person who had borne the liability.
+Ordinarily, in the case of indirect taxes, such persons will be innumerable and cannot be easily
+identified or located. If the duty, which is not exigible, is refunded to the person who had not borne
+the liability, it will result in an unjust benefit to him. So the Act has provided in Section 11B(2), that
+in such cases where the duty is refundable, it will be credited to the Consumer Welfare Fund
+(Section 12C). However, the proviso to Section 11B(2) provides that the duty of excise will be
+refunded in few specified cases, subject to certain conditions -- one of them is the manufacturer -- in
+cases, where he has not passed on the incidence to any other person [Clause (d)]. Those provisions
+will apply only for refunds to be made under the Act. In the totality of the factual situation, t cannot
+be said that the provisions ushered in by Amendment Act, 1991 -- and the scheme formulated in
+Sections 11B and 12A to D -- are, a "device" or invalid or arbitrary or unreasonable (except to the
+extent stated in para 38 supra) or in any way constitutionally infirm. (Of course, the cases dealt with
+in paras 5 and 29 are excluded to the extent stated therein). Brother Jeevan Reddy, J. has dealt with
+this matter rather elaborately and thee is no need to elaborate the matter any further. In the matter
+of taxation laws, the court permits a great latitude to the discretion of the legislature. The State is
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 39Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+allowed to pick and choose districts, objects, persons, methods and even rates for taxation, if it does
+so reasonably. The courts view the laws relating to economic activities with greater latitude than
+other matters. [See Collector of Customs. Madras v. Nathella Sampathu Chetty and another (1962
+(3) SCR 786); Khyerbari Tea Company and anr. v. State of Assam & Ors. (AIR 1964 SC
+925); R.K. Garg v. Union of India & Ors. (AIR 1981 SC 2138); Gaurishanker & ors. v. Union of India
+& ors. (1994 (6) SCC
+349): Union of India & anr. etc. etc. vs. A. Sanyasi Rao & ors. etc. etc. (AIR 1996 SC 1219), etc.]
+40. Before closing I should specifically deal with two important aspects. In this judgment I have
+dealt with cases where duty is paid on items which are consumed as such. Due to paucity of details,
+the case of captive consumption has not been dealt with. It is made clear that whatever is stated in
+this judgment will not apply in the cases of goods which are captively consumed.
+Chapter II-A of the Act was inserted by way of amendment in 1991. The establishment, working,
+administration and utilisation to the Consumer Welfare Fund is in its state of infancy. The scheme
+or set-up envisaged by Sections 12C and 12D and its working will require an in depth evaluation by
+the appropriate authorities in order to vouchsafe that the scheme is not rendered a mere ritual or
+illusory, but is meaningful and effective. For the present, I do not want to deal with that aspect in
+detail.
+41. For the sake of convenience. I shall summarise my conclusions as here-under :- (in case of doubt,
+the body of the judgment should be looked into).
+A) If the excise duty paid by the assessee was ultimately passed on to the buyers or any other person,
+and that the assessee has suffered no loss or injury, the action for restitution based on Section 72 of
+the Contract Act, is unsustainable. (This is the legal position even under general law, without
+reference to Section 11B of Central Excises & Salt Act as amended by Act 40/1991). B) The decision
+in Kanhaiya Lal's case, and the cases following the same, cannot be understood as laying down the
+law that even in cases the liability has been "passed on", the assessee can maintain an action for
+restitution.
+If the decision in Kanhaiya Lal's case (supra) and the cases following the said decision, enables such
+a person to claim refund (restitution), with great respect to the learned Judges, who rendered the
+above decisions, I express my dissent thereto. In this context, the observations in para 29 - clause III
+shall be borne in mind.
+C) Article 265 should be read along with the Preamble and Article 39(b) and (c) of the Constitution,
+and so construed in cases where the assessee has passed on the liability to the consumer or third
+party, he is not entitled to restitution or refund. The fact that the levy is invalid need not
+automatically result in a direction for refund of all collections made in pursuance thereto.
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 40Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+D) The presumption is that the taxpayer has passed on the liability to the consumer (or third party).
+It is open to him to rebut the presumption. The matter is exclusively within the knowledge of the
+taxpayer, whether the price of the goods included the `duty' element also and/or also as to whether
+he has passed on the liability since he is in possession of all relevant details. Revenue will not be in a
+position to have an in depth analysis in the innumerable cases to ascertain and find out whether the
+taxpayer has passed on the liability. The matter being within the exclusive knowledge of the
+taxpayer, the burden of proving that the liability has not been passed on should lie on him. E) It is
+not possible to conclude that any and every claim for refund of illegal/unauthorised levy of tax, can
+be made only in accordance with the provisions of the Act (Rule 11, Section 11B etc., as the case may
+be), and an action by way of suit or writ petition under Article 226 will not be maintainable under
+any circumstances. An action by way of suit or a petition under Article 226 of the Constitution is
+maintainable to assail the levy or order which is illegal, void or unauthorised or without jurisdiction
+and/or claim refund, in cases covered by propositions No.(1), (3), (4) and (5) in Dulabhai's case, as
+one passed outside the Act, and ultra vires. Such action will be governed by the general law and the
+procedure and period of limitation provided by he specific statute will have no application.
+F) The attack against the illegal or unauthorised levy as also the relief of refund may fall ordinarily
+within the three categories specified in paragraph 29 of the judgment. An action by way of suit or
+writ petition under Article 226 of the Constitution of India will lie in the cases, and subject to the
+conditions stated in paragraphs 29 and 30 of the judgment.
+G) The jurisdiction of civil courts is not barred in entirety regarding the attack against the levy
+and/or claim for refund; in those cases, coming within the there categories mentioned in paras 5
+and 29 of this judgment, the jurisdiction of the ordinary courts will not be ousted, in the
+circumstances and subject to the conditions stated therein and in para 30 (supra). H) Section 11B(2)
+and (3) cannot be made applicable to refunds already ordered by the court or the refund ordered by
+the statutory authorities, which have become final. It follows from a plain reading of Section 11B,
+Clauses (1), (2) and (3) of the Act. The provisions contemplate the pendency of the application on
+the date of the coming into force of the Amendment Act or the filing of an application which is
+contemplated under law, to obtain a refund, after the Amendment Act comes into force. If the said
+provisions are held applicable, even to matters concluded by the judgments or final orders of courts,
+it amounts to stating that the decision of the court shall not be binding and will result in reversing or
+nullifying the decision made in exercise of the judicial power. The legislature does not possess such
+power. Alternatively, it may be stated that duty paid in cases, which finally ended in orders or
+decrees or judgments of courts, must be deemed to have been paid under protest and the procedure
+and limitation etc. stated in Section 11B(2) read with Section 11B(3) will not apply to such cases. I) It
+read hardly be stated, that Section 11B(1), the proviso thereto, Section 11B(2) and Section 11B(3)
+read together will apply, only to (1) refund applications made under the statute and filed before the
+Amendment of the Act and still pending on the date of commencement of Amendment Act, 1991 and
+(2) applications contemplated under law to obtain refund and filed after the commencement of the
+Amendment Act, 1991. (Cases dealt with in paras 5 and 29 of this judgment will not be covered by
+the above to the extent stated therein).
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 41Mafatlal Industries Ltd., ... vs Union Of India Etc. Etc on 19 December, 1996
+J) The proviso to Section 11B(2), provides, that the duty of excise will be refunded in few specified
+cases, subject to certain conditions -- one of them is the manufacturer - in cases, where he has not
+passed on the incidence to any other person [Clause (d)]. Those provisions will apply only for
+refunds to be made under the Act. In the totality of the factual situation, it cannot be said, that the
+provisions ushered in by Amendment Act, 1991 -- and the scheme formulated in Section 11B and 12A
+to D -- (in the light of the clarifications made in the body of the judgment, and more particularly in
+paras 25 and 40 above) are, a "device" or invalid or arbitrary or unreasonable (except to the extent
+stated in para 38 supra) or in any way constitutionally infirm. (Of course, the cases dealt with in
+paras 5 and 29 are excluded to the extent stated therein).
+42. The principles laid down in this judgment should be applied to the fact situation obtaining in
+individual cases and should be disposed of accordingly.
+The matters may be placed before My Lord the Chief justice for appropriate orders in this behalf.
+HANSARIA, J.
+The conclusions arrived at by learned brother paripoornan, J. and the reasons given in support
+thereof, have my respectful concurrence. I have nothing useful to add. The time at my disposal does
+not really permit me to do so, as the draft of this judgment reached my hands on the night of 15th
+instant; indeed, the first draft judgment of the case got me in the evening of 13th of this month.
+Indian Kanoon - http://indiankanoon.org/doc/1198027/ 42

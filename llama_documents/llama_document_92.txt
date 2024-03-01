@@ -1,0 +1,996 @@
+Metadata: id=>92
+name=>Assistant Commissioner vs M S B G R Energy Systems Ltd on 21 December 2023
+date=>21 December 2023
+court=>HIGH COURT OF JUDICATURE
+link=>http://indiankanoon.org/doc/74366714/
+-----
+Content: Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on
+21 December, 2023
+Author: Sameer Jain
+Bench: Sameer Jain
+[2023:RJ-JP:23645]
+HIGH COURT OF JUDICATURE FOR RAJASTHAN
+BENCH AT JAIPUR
+S.B. Sales Tax Revision / Reference No. 217/2020
+M/s B.g.r. Energy Systems Limited, Having Its Registered Office
+At Nellore (A.p.) Having Its Branch Office At Village Undal, Tehsil
+Jhalarpatan, Distt. Jhalawar, Rajasthan Through Its Authorized
+Signatory, S. Prabhakar, S/o Sundaram Aged Abourt 48 Years,
+R/o 443, Anna Salai, Teynampet, Chennai - 600018.
+----Petitioner
+Versus
+Assistant Commissioner, Anti Tax Evasion, Kota, Commercial
+Taxes Department, Dcm Rd, Chhatrapura, Dhanmandi, Kota,
+Rajasthan 324007
+----Respondent
+Connected with S.B. Sales Tax Revision / Reference No. 218/2020 M/s B.g.r. Energy Systems
+Limited, Having Its Registered Office At Nellore (A.p.) Having Its Branch Office At Village Undal,
+Tehsil Jhalarpatan, Distt. Jhalawar, Rajasthan Through Its Authorized Signatory, S. Prabhakar, S/o
+Sundaram Aged Abourt 48 Years, R/o 443, Anna Salai, Teynampet, Chennai - 600018.
+----Petitioner Versus Assistant Commissioner, Anti Tax Evasion, Kota, Commercial Taxes
+Department, Dcm Rd, Chhatrapura, Dhanmandi, Kota, Rajasthan 324007
+----Respondent S.B. Sales Tax Revision / Reference No. 219/2020 M/s B.g..r. Energy Systems
+Limited, Having Its Registered Office At Nellore (A.p.) Having Its Branch Office At Village Undal,
+Tehsil Jhalarpatan, Distt. Jhalawar, Rajasthan Through Its Authorized Signatory, S. Prabhakar, S/o
+Sundaram Aged Abourt 48 Years, R/o 443, Anna Salai, Teynampet, Chennai - 600018.
+----Petitioner Versus Assistant Commissioner, Anti Tax Evasion, Kota, Commercial
+[2023:RJ-JP:23645] (2 of 45) [STR-217/2020] Taxes Department, Dcm Rd, Chhatrapura,
+Dhanmandi, Kota, Rajasthan 324007
+----Respondent S.B. Sales Tax Revision / Reference No. 155/2020 Assistant Commissioner,
+Anti-Evasion, Kota
+----Petitioner Versus M/s B.g.r. Energy Systems Ltd., Nellore (A.p.)
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 1Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+----Respondent S.B. Sales Tax Revision / Reference No. 156/2020 Assistant Commissioner,
+Anti-Evasion, Kota
+----Petitioner Versus M/s B.g.r. Energy Systems Ltd., Nellore (A.p.)
+----Respondent S.B. Sales Tax Revision / Reference No. 157/2020 Assistant Commissioner,
+Anti-Evasion, Kota
+----Petitioner Versus M/s B.g.r. Energy Systems Ltd., Nellore (A.p.)
+----Respondent For Petitioner(s) : Mr. Sanjay Jhanwar, Sr. Advocate assisted by Mr. Rahul
+Lakhwani Mr. Wilson Joy For Respondent(s) : Mr. M. S. Singhvi, AG assisted by Mr. Sheetanshu
+Sharma Mr. Darsh Pareek Mr. Pranav Bhansali Mr. Anupam Sharma, AO HON'BLE MR. JUSTICE
+SAMEER JAIN [2023:RJ-JP:23645] (3 of 45) [STR-217/2020] Order Reportable Reserved on:
+03/05/2023 Pronoucned on: 21/12/2023
+1. The present cross Sales Tax Revisions / References (for short "STRs"), under Section 84 of the
+Rajasthan Value Added Tax Act, 2003 (for short "RVAT Act"), are filed being aggrieved by the order
+dated 19.03.2020 passed by the Larger Bench of the Rajasthan Tax Board, Ajmer (for short "RTB")
+in Appeal No. 1454- 1456/2014/Kota, and were admitted on following questions of law:
+In STR Nos. 217-219/2020, preferred by the assessee: -
+"(i) Whether the learned Tax Board has legally erred in setting aside order passed by
+the DS(Appeals) and thereby holding that the contracts between BGR, Chennai and
+RRVUNL as a composite and indivisible contract which tantamounts to a works
+contract?
+(ii) Whether the learned Tax Board has legally erred in holding that sale of Onshore
+Goods and Offshore Goods made by BGR-Chennai, BGR-Gurarat and BGR-
+Maharashtra to RRVUNL as intra-state sale by BGR- Rajasthan to RRVUNL and accordingly to be
+taxed under RVAT Act instead of CST?
+(iii) Whether in facts and circumstances of the case, the Respondent Department having assessed
+the transaction under Entry tax as goods brought by RRVUNL into the state, is estopped from
+contending that the sale of the said goods was made by BGR, Rajasthan to RRVUNL in the state of
+Rajasthan?
+(iv) Whether in the facts and circumstances of the case, the learned Tax Board has grossly erred in
+holding the State of Rajasthan can levy RVAT on a sale transaction when the assessment in relation
+to [2023:RJ-JP:23645] (4 of 45) [STR-217/2020] the said sale transaction has already been
+completed under CST Act in the state of Tamil Nadu, Maharashtra and Gujarat?"
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 2Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+In STR Nos. 155-157/2020, preferred by the revenue: -
+"1. Whether in the facts and circumstances of the case the larger bench of the
+Rajasthan Tax Board was justified in giving directions beyond the scope of the
+questions framed and referred to them?
+2. Whether in the facts and circumstances of the case the larger bench of the
+Rajasthan Tax Board was justified in giving direction with regard to goods of special
+importance under Section 14 of the CST Act when no such claim was made by the
+assessee before the Assessing Officer as well as appellate authority?
+3. Whether in the facts and circumstances of the case the larger bench of the
+Rajasthan Tax Board was justified in law in remanding the matter back with regard to
+goods of special importance under Section 14 of CST Act which were never
+transferred to the assessee in the form as mentioned under Section 14 and in such
+circumstances the benefit is not available?
+4. Whether in the facts and circumstances of the case the larger bench of the
+Rajasthan Tax Board was justified in law in confirming deletion of penalty despite of
+the fact that the assessee has created documents to convert the local sale into
+interstate transaction with the intention to evade/avoid tax?"
+FACTS/BACKGROUND
+2. The brief facts, leading to filing of the present STRs are as follows:
+2.1. On 13.08.2007, Rajasthan Vidyut Utpadan Nigam Limited (for short "RVUNL")
+issued a notice inviting tender (for [2023:RJ-JP:23645] (5 of 45) [STR-217/2020]
+short "NIT") for bid for setting up of two units of 600 MW each at Kalisindh Thermal
+Power Project (for short "Project") on Engineering, Procurement and Commissioning
+(for short "EPC") basis. The assessee ("BGRESL, Chennai") tendered a single bid
+against a single NIT to win this contract.
+2.2. In pursuance thereof, and as desired by RVUNL, the assessee had to execute the
+following three separate contracts with RVUNL:
+(a) Contract No. 3832 for procurement and supply of material required from out of
+India (for short "Offshore Goods")
+(b) Contract No. 3833 for procurement and supply of material required from within
+India (for short "Onshore Goods")
+(c) Contract No. 3834 for providing services and doing civil work.
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 3Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+2.3. The cause and controversy in the matter arose on 19.01.2012, when a survey was conducted at
+the business premises of the assessee at Village Undal, Tehsil-Jhalrapatan, Distt. Jhalawar by the
+ACTO, Ward-II, Anti Evasion, Kota. The Surveying Authority, in furtherance of the survey, prepared
+a detailed inspection report dated 27.06.2012 to opine that breaking a composite and indivisible
+work contract into three contract is nothing but a colourable device to avoid the tax due under the
+RVAT Act. It was further opined that the sale made under the first and second contract are
+intra-state sales, i.e. sale within the State of Rajasthan and not inter-state sales under Section 3 read
+with Section 6 of Central Sales Tax Act, 1956 (for short "CST Act"). [2023:RJ-JP:23645] (6 of 45)
+[STR-217/2020] 2.4. On the basis of survey and inspection report, the assessment order(s) were
+passed on 14.06.2013 wherein tax, interest, and penalty were levied on the assessee under the RVAT
+Act on 'deemed sale of goods' in execution of works contract. 2.5. The Appellate Authority, vide
+order dated 11.02.2014, quashed the assessment and demand orders and held that the sale made by
+the assessee is inter-state sale covered under Section 3 read with Section 6 of CST Act, and hence
+not exigible to state taxation.
+2.6. The RTB, vide impugned order dated 19.03.2020, held that the contract between the parties
+was a composite and indivisible one and the disputed sale involved were intra-state sale and
+therefore affirmed the power of state government to levy VAT on the same.
+2.7. The specific issues framed by the RTB were answered as under:
+"Question 1) (cid:128) Whether in the facts and circumstances of the case the contract
+between BGRESL and RUVN is a composite and indivisible one tantamounting to a
+Works Contract?
+(cid:128) Or there exist three separate contracts- One for supply of offshore goods, Second
+for supply of onshore goods and the Third for rendering of services and doing Civil
+Work?
+(cid:128) What difference does it make on tax liability of the respondent or applicability of
+provisions of the Local Act or the CST Act, if we treat the contract a single Works
+Contract or three separate contracts as above?
+(cid:128) Is making of three separate contracts attributable to the respondent? Did the
+respondent manage three separate contracts with RUVN only to avoid or evade tax?
+Could the respondent be [2023:RJ-JP:23645] (7 of 45) [STR-217/2020] held
+responsible for penalty under Section 61 of RVAT Act for this mode contracting?
+Answer to Question 1) (cid:128) The subject contracts between BGRESL and RVUN form an
+indivisible contract which tantamount to a Works Contract.
+(cid:128) There do not exist three separate contracts involving supply of goods and rendering
+of services.
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 4Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+(cid:128) All the Constitutional and Statutory restrictions are applicable on 'deemed sale' of
+the goods involved in a Works Contract.
+(cid:128) Making of three separate contracts could not be attributed to the respondent and it
+could not be held liable for penalty under Section 61 of RVAT Act for reasons
+mentioned in this order.
+Question 2) (cid:128) Whether in the facts and circumstances of the case, use of the plants
+and equipment imported by BGRESL from out of India in erection and installation of
+power plant for RVUN is a 'sale' or 'a deemed to be sale' as defined under Article
+366(29A) (b) of the Constitution?
+(cid:128) Whether this 'sale' or 'deemed to be sale' is an inter-State sale effected by the
+respondent from Gujarat/Maharashtra or an intra- state sale of Rajasthan?
+Answer to Question 2) (cid:128) Use of plants and equipment in erection and installation of
+power plants for RVUN by BGRESL under a contract constitute a 'deemed to be sale'
+defined under Article 366(29A)(b) of the Constitution and Section 2(35)(ii) of RVAT
+Act, 2003.
+(cid:128) Sale of offshore goods claimed by the respondent from Gujarat and Maharashtra is
+an intra-state sale of Rajasthan.
+Question 3) (cid:128) Whether in the facts and circumstances of the case, the purchase of
+equipment and materials by the respondent from various vendors located in different
+States and resale of the same to [2023:RJ-JP:23645] (8 of 45) [STR-217/2020]
+RVUN is a sale as described under Clause (b) of Section 3 of CST Act?
+(cid:128) In case the sale between BGRESL, Chennai and RVUN is a sale under clause (b) of
+Section 3, is it also a sale by BGRESL, Chennai exempted under Section 6(2) of CST
+Act?
+(cid:128) In case the sale does not fulfill requirements of Section 3(b) or Section 6(2) or both,
+is it taxable under the provisions of RVAT Act?
+Answer to Question 3) (cid:128) Purchase of onshore goods and subsequent sale of the same
+to RVUN does not constitute a sale as described under clause (b) of Section 3 CST
+Act.
+(cid:128) The sale not qualifying under Section 3(b) automatically disqualified under Section
+6(2) of CST Act. The subject sales are taxable under RVAT Act on being denuded the
+inter-State sale or export sale."
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 5Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+2.8. However, considering that the goods were 'goods of special importance' as per Section 14 of CST
+Act, while setting aside the penalty, the RTB remanded the matter back to the assessing authority
+with the following directions:
+"14. All the references made by the Learned Division Bench has been specifically
+answered by us as above. In view of this the D.B. will have nothing to decide or
+redecide in the matter afresh except to remand the case to the Assessing Officer for
+consideration of applicability of lower rate of tax on the sale of goods of special
+importance and reduced rate on other goods in light of Notification No.
+F.12(63)FD/TAX/2005-27 dated 28.4.2006. For the sake of early justice, instead of
+remitting the case to learned D.B., we set aside orders of the lower authorities and
+remand the cases back to the Assessing Officer to decide them afresh in the light of
+observation made in the judgment as under-
+(i) All the purchases of goods of special importance be (as defined under Section 14 of
+CST Act) ascertained from [2023:RJ-JP:23645] (9 of 45) [STR-217/2020] purchase
+invoices. Corresponding sales of these goods under all the three contracts be assessed
+to tax at the rate prescribed and applicable under Section 15 of CST Act in the
+relevant period.
+(ii) The respondent should be given full opportunity to prove that claim of reduced
+rate of tax under F.12(63)FD/TAX/2005-
+27 dated 28.4.2006 like submission of any forms, certificates etc. with respect to all the sales made
+under the three contracts, and
+(iii) The respondent will not be liable to pay any penalty u/s 61 of RVAT Act, 2003. But any
+unassessed tax found paid short or belated shall carry interest as per law.
+(iv) The AO is directed to finalise the reassessment within three months' time from receipt of
+judgment."
+3. The assessee has challenged the merits and validity of the entire RTB order and the revenue is
+aggrieved by the setting aside of penalty and direction of remand for recalculation of tax on
+concessional rate on goods of special impotance. It is in this context that these STRs, which arises
+out of the common RTB order, were heard and are now being decided by way of this common order.
+SUBMISSIONS OF ASSESSEE
+4. Learned Senior Counsel, Mr. Sanjay Jhanwar, questioning the correctness of the impugned order
+of the RTB in its entirety, submitted as follows:
+4.1. The first contention of the assessee is that the State/revenue has no jurisdiction
+to tax the subject sales under the RVAT Act as the same are inter-state sales covered
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 6Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+under Section 3 of CST Act. In support of this contention, learned senior counsel
+made the following submissions:
+[2023:RJ-JP:23645] (10 of 45) [STR-217/2020]
+(a) The bid/tended issued by RVUNL itself prescribed that three separate contracts
+would be awarded to the successful bidder, i.e., one for supply of off-shore goods; one
+for supply of on-shore goods; and one for civil works. The RRVUNL had prescribed
+the complete procedure to be followed by the petitioner while executing the contracts
+for supply of off-shore and on-shore goods. Even the vendors from whom the goods
+were to be procured in both these contracts were identified by the RRVUNL.
+(b) That the above mentioned two supply contracts (both On-shore and off-shore)
+occasioned movement of goods from one state to another and were duly assessed to
+tax under the provisions of CST in the hands of petitioner's branches at Maharashtra,
+Gujarat, and Chennai. Further, the supply contracts were issued by RVUNL inter alia
+providing for cost of CST.
+(c) That the title of the goods was transferred outside the state of Rajasthan, which is
+evident from Clause 31.3 of BID/NIT.
+(d) That even for the sake of argument, it is assumed that the subject sales were made
+by the Rajasthan branch of the assessee, even in that case, by virtue of movement of
+goods from one state to another, the subject sales would be inter-state sale not liable
+to tax under the RVAT Act.
+(e) Reliance is placed on Apex Court judgments of Hyderabad Engineering Vs. State
+of AP: (2011) 4 SCC 705, English Electric Vs. Dy. CTO: (1976) 4 SCC 460 and CDVAT
+Vs. ABB Ltd.: AIR 2016 SC 1901 to submit that the only condition to be satisfied for
+the purpose of establishing inter-state sale under Section 3 of CST is movement of
+goods from one state [2023:RJ-JP:23645] (11 of 45) [STR-217/2020] to another and
+any condition or qualification vis-à-vis the place of delivery, situs of sale, point of
+passing of property, time and place of raising invoice, intervention of agent, etc. are
+immaterial in case of inter-state sale. Reliance is also placed on Oil India Ltd.
+Vs. Supdt. Of Taxes: (1975) 1 SCC 733, 20 th Century Finance Vs. State of Maha.: AIR 2000 SC
+2436, Thyseenkrupp Elevator Vs. ACCT: (2019) 60 GSTR 355 (Karn.), Asea Brown Boveri Vs. State
+of Kar.: 2014 (79) KarLJ 241, State of Kar. Vs. ECE Industries: (2006) 144 STC 605 (Karn.) and
+Sahney Steel and Press Works Vs. CTO: AIR 1985 SC 1754.
+(f) That the Rajasthan branch of the assessee merely acted as a bailee and therefore handing over of
+goods by the Rajasthan branch to RVUNL can in no circumstance be considered a sale. Even
+otherwise, since the RTB has held the import of off- shore goods as 'seamless import', the same
+would be covered under Section 5(2) of CST Act and the petitioner would not be liable to pay any
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 7Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+tax.
+(g) That the off-shore goods were custom made for the RVUNL, which were only fit for use in the
+project. Further, the same were dispatched after inspection and issuance of Material Dispatch
+Clearance Certificate (for short "MDCC") by RVUNL which further establishes that the movement of
+the goods occasioned from outside of Rajasthan into the State of Rajasthan and the title thereto was
+also transferred to RVUNL during this transfer. 4.2. The second contention of the assessee is that
+even in case of works contract, the State/revenue does not have the [2023:RJ-JP:23645] (12 of 45)
+[STR-217/2020] power to tax a sale in terms of Article 366(29-A)(b) of the Constitution of India, if
+such a sale is an inter-state sale. In support of this contention, learned senior counsel for the
+assessee made the following submissions:
+(a) That Article 366(29-A)(b) of the Constitution of India does not provide for tax on
+the whole of works contract. In works contract, assessee is liable to pay service tax on
+service element and sales tax on goods deemed to be transferred. However, what is
+ultimately being taxed by the State is the 'sale or purchase of goods' simpliciter. Prior
+to insertion of Article 366(29-A)(b) into the Constitution of India by way of 46 th
+Constitutional Amendment, state government did not have power to tax the 'sale of
+goods' elements involved in a works contract. Article 366(29-A)
+(b) of the Constitution of India merely empowers the state government to separate
+the sale of goods element involved in a works contract and to levy tax on the same.
+Article 366(29-A)(b) of the Constitution of India does not provide for levy of tax on
+whole of works contract.
+(c) A works contract is no exception to inter-state sales. It has been held in Builders'
+Association of India vs. Union of India: (1989) 2 SCC 645 that Article 366(29-A)(b) of
+the Constitution of India only empowers the state to tax sale of goods involved in
+works contract but all the Constitutional restrictions under Article 286 and Entry
+92A of Union List would apply on the same. Therefore, revenue has no power to tax
+sale of goods involved in execution of works contract as the same have been supplied
+during inter-state sales. Reliance is placed on Hon'ble [2023:RJ-JP:23645] (13 of 45)
+[STR-217/2020] Supreme Court judgments of Gannon Dunkerley and Co. Vs. State of
+Rajasthan: (1993) 1 SCC 364, Indure Ltd. vs. CTO (2010) 9 SCC 461, judgments of
+Kerala High Court in State of Kerela vs. M/s Metso Mineral India Pvt Ltd. (O.T. Rev.
+No. 143/2017; decided on 19.07.2020) and Swaraj Equipments (P) Ltd. vs. State of
+Kerela (S.T. Rev. No. 49/2013 and O.T. Rev Nos. 62/2013, 73/2013; decided on
+13.07.2018), judgments of High Court of Telangana and Andhra Pradesh in
+Engineers India Ltd. vs. State of A.P. & Ors.: 2019 (2) ALT 168, and L&T Ltd. vs.
+Commissioner of Commercial Taxes:
+(2003) 132 STC 272 (AP) and judgment of Gauhati High Court in Projects and
+Services Centre v. State of Tripura: 1990 SCC OnLine Gau 191.
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 8Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+(d) That RVUNL may have deducted works contract TDS on amount of all the three
+contracts combined, however, in the assessment order VAT has been levied only on
+the value of the goods. It was only as a matter of procedure that RVUNL deducted
+works contract TDS in accordance with provisions of Section 20 of RVAT Act read
+with Rule 40 of RVAT Rules on the payment made to the assessee in respect of the
+supply contracts. However, the assessee never admitted liability of said TDS in its
+returns. On the other hand, since no tax on account of works contract was liable to be
+paid, the assessee later on claimed refund on the entire works contract TDS amount
+with respect to supply of off-shore and on-shore goods. The deduction of TDS cannot
+change the nature of inter-state sales made by the assessee.
+[2023:RJ-JP:23645] (14 of 45) [STR-217/2020]
+(e) That RVUNL itself had issued three separate contracts and the contract for supply of goods were
+issued considering the liability under the CST Act and RVUNL itself issued C-Forms and Form
+VAT-47, which evidences that the supply of goods was inter- state. Without prejudice to his
+arguments on merits, it is submitted that had RVUNL prescribed in the bid or otherwise directed
+the assessee to pay tax considering the three separate contract as one single works contract
+supplying goods within the state of Rajasthan and chargeable to RVAT, the assessee would have
+opted to pay RVAT at a concessional rate under the works contract exemption scheme during the
+relevant period. On the other hand, the assessee merely followed the manner and procedure
+prescribed by RVUNL for execution of the three contracts and has paid far greater amount of tax
+against CST sales in respect of supply of off-shore and on-shore goods.
+(f) That RTB gravely erred in not considering that power to tax sale of goods during execution of
+works contract is available with the State of Rajasthan under Article 246 read with Entry 54 of List
+II just like any other transaction of sale or purchase taking place inside a state. In other words, the
+existence of a works contract does not change the fact that what is ultimately being taxed is sale and
+purchase of goods, which is subject to provisions of Article 286, Entry 92A of List-I of Constitution
+of India and the CST Act.
+(g) That this Court had struck down the provision in the erstwhile Rajasthan Sales Tax Act, 1994
+which attempted to bring tax on inter-state sale of goods involved in the execution of works
+[2023:RJ-JP:23645] (15 of 45) [STR-217/2020] contract in the case of Triveni Engineering and
+Industries Ltd. v. State: (2001) 3 RLW 1752.
+4.3. The third contention of the assessee is that because the subject sales have been assessed to tax
+under the CST Act, the same cannot be taxed again under the RVAT Act. In support of this
+contention, learned senior counsel for the assessee made the following submissions:
+(a) That it is undisputed in the present case that the subject sales under both the
+supply contract have been assessed to tax under the CST Act in the hands of the
+assessee in respective states of Tamil Nadi, Maharashtra and Gujarat. The said fact
+has also been recorded in the impugned RTB order. However, disregarding the same
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 9Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+without any cogent reason, the subject sales have been subjected to tax again under
+the RVAT Act, which is constitutionally impermissible. Reliance is placed on Hon'ble
+Supreme Court judgment of Ashok Leyland Ltd. vs. State of Tamil Nadu and Ors.:
+AIR 2004 SC 2836.
+(b) That revenue is taking contradictory stand in the matter as the revenue had itself
+issued Form-C under Section 8 of CST to RVUNL and has also accepted Form
+VAT-47 in terms of Rule 53 of RVAT Rules from RVUNL in respect to subject sales. It
+is contended that issuance of these forms is prima facie evidence of the fact that the
+revenue has held RVUNL to be owner of the goods which have been brought from
+outside the state of Rajasthan.
+4.4. The fourth contention of the assessee is that since the subject sales have already been assessed
+to tax under the [2023:RJ-JP:23645] (16 of 45) [STR-217/2020] Rajasthan Tax on Entry of Goods
+Into Local Area Act, 1999 (for short "Entry Tax Act") in the hands of RVUNL, the same cannot be
+taxed again under RVAT Act at the hands of assessee. It is further contended that the fact that the
+revenue collected entry tax from RVUNL goes to show that the revenue had accepted RVUNL as the
+owner of the goods and also the fact that the goods have been sold to RVUNL in the course of
+inter-state trade. Further, Notification No. F.12(63)FD/Tax/2005-160 dated 31.03.2006, issued by
+Revenue itself, provided exemption from entry tax if tax under the RVAT Act has been paid. Thus,
+entry tax and VAT are mutually exclusive and since entry tax on subject sales has already been paid
+by RVUNL, it is a revenue neutral situation, hence, RVAT cannot be demanded from the petitioner.
+4.5. The fifth contention of the assessee is that the assessee had duly rebutted and clarified the
+alleged discrepancies or irregularities pointed out by the assessing officer based on which the
+impugned assessment order was passed. Learned Senior Counsel for the assessee submits that the
+sole ground of the assessing authority in rejecting the inter-state sales was that there were several
+discrepancies in the document transferring title of goods and that the invoices were raised late after
+the goods had already reached the Power Project site. However, the rebuttal and clarification of the
+assessee was found satisfactory by the Appellate Authority and the same has not been controverted
+by the RTB either. The Assessing Authority imposed penalty on the basis of only one transaction
+alleged to be an intra-state sale from Bhiwadi, Rajasthan. The allegation is erroneous because as per
+[2023:RJ-JP:23645] (17 of 45) [STR-217/2020] the contract issued by RVUNL the said supply was
+to be made from a vendor situated out of Rajasthan and was accordingly procured by the Petitioner
+from Himachal Pradesh, and the Assessing Authority has erroneously relied upon one inspection
+report which does not pertain to said supply, which is evident from the documents on record itself.
+Even otherwise, all the document, nature of business and explanation is on record, suggesting that
+there is no illegality or fabrication or anti-dating of documents. At the best, revenue may plead that
+the documents were not to the satisfaction. However, that does not alter the 'substantive' character
+of sales as the principle of 'Substantive Form' is well settled.
+4.6. The sixth contention of assessee is that it is unfair for the State to first mandate the charging of
+CST on the supply of offshore and onshore goods and charging of RVAT only on local supplies while
+floating the tender and executing the contracts and thereafter take a somersault through their
+another organ by charging RVAT even on offshore and onshore goods despite observance of the
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 10Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+complete procedure prescribed in the contract by the assessee.
+4.7. The seventh contention of the assessee is that RTB was correct in not imposing any penalty of
+the petitioner in the present case as the issue involved is of pure question of interpretation of
+provisions; as also since RVUNL, a State Government entity, is involved in the transactions. It
+would be wrong to allege that there was any malafide on the part of the assessee as there is no
+suppression by the assessee. Reliance is placed on The [2023:RJ-JP:23645] (18 of 45)
+[STR-217/2020] Commissioner, Customs and Central Excise, Hyderabad IV vs. National Remote
+Sensing Agency: 2021 [50] G.S.T.L. 465 and Alpha Associates vs. Deputy Commissioner of Income
+Tax: MANU/MH/1369/1999.
+SUBMISSIONS OF REVENUE
+5. Learned Advocate General, Mr. M.S. Singhvi, appearing for the Revenue, made the following
+submissions:
+5.1. That all three contracts are single, composite, indivisible works contract taxable
+under RVAT Act. The division of the contract into three was merely done for the
+convenience of making payments. Learned AG has extensively highlighted various
+clauses of the contract to submit that the same are composite and indivisible works
+contract. Further, the RTB, which is the last fact-
+finding authority, has also confirmed the contract to be a composite and indivisible one after
+detailed examination of the contract in question in light of settled position of law and in view of
+several Apex Court judgments. The findings of the RTB form para 7.11 to para 7.14, being infallible,
+calls for no interference. 5.2. That as per terms and contract relating to works contract, complete
+unit was required to be transferred to RVUNL. It is submitted that clauses of 'Final Handing Over',
+'Project Schedule', 'Liquidated Damages', 'Warranty', 'Insurance' and 'Completion of Contract'
+clearly reveal that under present works contract, the complete unit would be transferred to the
+RVUNL by assessee and there is no individual handing over/supply of goods by assessee to RVUNL.
+Further, as per the Sale of Goods Act, 1930 (for short "SOG Act"), the goods are said to be
+transferred only [2023:RJ-JP:23645] (19 of 45) [STR-217/2020] when they are put to a deliverable
+state by the contractor as per terms and conditions of contract and at that point the incidence of sale
+took place for the purpose of works contract. Learned AG has also highlighted the finding of RTB at
+para 9.10 and para 9.11 to submit that issuance of MDCC by RVUNL only confirmed the
+specification of the goods to be used in the execution of the works contract. Mere issuance of MDCC,
+by no conceivable means, can be said to be transfer of title or ownership, as the assessee was still
+required to deliver the goods and put them in a deliverable state.
+5.3. That the terms and conditions of contract are relevant for determination of the intention of the
+parties. In the case in hand, RVUNL issued the single NIT for erection of the thermal power plant.
+The sale in the present case is not of individual goods but is of the thermal power plant constructed
+and installed by the assessee. It is submitted that in order to attract CST Act, the condition
+precedent is that it should be sale in the course of inter- state trade or commerce. The goods which
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 11Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+were used in the installation of plant shall fall within the expression 'deemed to be sale of those
+goods by the person executing works contract'. It is further submitted that installation of thermal
+power plant and sale thereof in the state of Rajasthan cannot be termed as sale in the course of
+inter-state trade or commerce. The erection of the plant can only be termed as an intra-state
+transaction and hence property in goods used in such erection, whether as goods or in some other
+form, would constitute an intra-state sale within the meaning of Article 366(29-A) of the
+Constitution of India and [2023:RJ-JP:23645] (20 of 45) [STR-217/2020] accordingly will be
+subject to RVAT Act. It is further submitted that in the present case, the goods claimed by the
+assessee to be part of inter-state sale were not sold to the RVUNL as goods but utilized in erection of
+thermal power plant. Hence, such transactions cannot fall within the definition of inter-state sales.
+It is also contended that Article 286 of Constitution of India does not apply in the present case
+because prior to completion and transfer of plant to RVUNL, any part incorporated in plant could
+not become saleable commodity under the contract. The said fact makes the judgment of CDVAT vs.
+ABB Ltd. (supra), relied upon by the assessee, distinguishable and inapplicable. Further, in support
+of his contentions, learned AG has placed strong reliance on Gannon Dunkerley and Co. & Ors. vs.
+State of Rajasthan and Ors.: (1993) 1 SCC 364, Hindustan Shipyard Ltd. vs. State of Andhra
+Pradesh: (2000) 6 SCC 579, BSNL vs Union of India: (2006) 3 SCC 1, Larsen and Toubro Limited &
+Ors. vs. State of Karnataka & Ors.: (2014) 1 SCC 708, Kone Elevator India Pvt. Ltd. vs. State of Tamil
+Nadu & Ors.:
+(2014) 7 SCC 1, State of U.P. & Ors. vs. P.N.C. Construction Co. Ltd. & Ors.: (2007) 7
+SCC 320, and K. Raheja Development Corporation vs. State of Karnataka: (2005) 5
+SCC 162.
+5.4. That none of the judgments relied upon by the assessee deal with a single, composite, indivisible
+EPC works contract wherein there is a transfer of complete plant and therefore none of those
+judgments are applicable in the instant case.
+[2023:RJ-JP:23645] (21 of 45) [STR-217/2020] 5.5. On the issue of setting aside of penalty by the
+RTB, learned AG submitted that the assessee has wrongly exhibited the subject sales as inter-state
+sales and clandestinely evaded the applicable taxes and by fabricating parallel and antedated
+invoices. Learned AG has also taken this Court through the assessment order wherein several
+discrepancies are pointed out, which have also been affirmed in para 8.11 of the RTB order. Learned
+AG has highlighted about 137 invoices totaling about Rs. 785 crores, in which serious discrepancies
+were found. Therefore, it is contended that the penalty was wrongly set aside by the RTB. Reliance is
+placed on State of Gujarat and Ors. vs. Saw Pipes Ltd. (Neutral Citation: 2023/INSC/376): AIR
+2023 SC 2113 and R.S. Joshi and Ors. vs. Ajit Mills Limited and Ors.:
+(1977) 4 SCC 98.
+5.6. That the directions issued by the RTB of remanding the matter back for afresh consideration
+was beyond the scope of the pleadings and was never argued and therefore the said direction is
+erroneous. Reliance in this regard is placed on Trojan and Co. Ltd. vs. N.N. Nagappa Chettiar: AIR
+1953 SC 235 and Bharat Amratlal Kothari vs. Dosukhan Samadkhan Sindhi & Ors.:
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 12Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+AIR 2010 SC 475.
+5.7. Reliance is also placed on Xerox Modicorp Limited vs. State of Karnataka: (2005)
+7 SCC 380, CCT Kerala vs. K.T.C. Automobiles: (2016) 4 SCC 82, and Arihant Udhyog
+vs. State of Rajasthan and Ors.: (2017) 8 SCC 220.
+ANALYSIS [2023:RJ-JP:23645] (22 of 45) [STR-217/2020]
+6. Heard the arguments advanced by learned counsels appearing for the respective sides, thoroughly
+scanned record of present STRs, and carefully considered the judgments cited by the learned
+counsels.
+7. The contention of the Revenue is that the contract was split into three parts merely for the
+convenience of payment and as such, it was a single, composite and indivisible works contract
+taxable under the RVAT Act. On the other hand, the contention of the assessee is that even if it was a
+composite and indivisible works contract, it would not alter the taxability of the goods involved in
+execution of the works contract because the subject sales were inter-state sale not eligible to state
+taxation. Before proceedings to the merits of the case, it is necessary to recapitulate the background
+of the case.
+The case brief, for the sake of brevity, is reproduced in a tabular format as below:
+Appeal filed RTB Order dated 19.03.2020 in Appeal No. 1454/2014/Kota, against
+1455/2014/Kota and 1456/2014/Kota STR No. Year Particulars Amount Total Tax
+98,66,25,583 Interest 43,41,15,527 219 2009-10 1,42,07,40,840 Tax 95,41,31,448
+Interest 23,16,13,733 217 2010-11 1,18,57,45,181 Tax 43,33,65,939 Demand in
+Interest 1,80,76,756 218 2011-12 45,14,42,695 the matter Total: 305,79,38,716
+Amount 219 2009-10 22,22,42,238 217 33,81,48,386 already 2010-11 deposited 218
+36,10,58,915 [2023:RJ-JP:23645] (23 of 45) [STR-217/2020] 2011-12 Total:
+92,14,49,539 (approx. 30% of demand in the matter) Lower Assessment Appellate
+Order Authority order 219 2009-10 28.09.2012 11.02.2014 order 217 2010-11
+28.10.2013 03.03.2014 218 2011-12 28.10.2013 12.03.2014 The decision of the lower
+authorities are summarized as under:
+Assessment 1. The assessee has broken a composite and indivisible Order works
+contract into three contracts to avoid payment of RVAT.
+2. The sale of goods claimed by the assessee to be from Maharashtra, Gujarat, and
+Tamil Nadu (i.e. inter-state sale) are intra-state sale and exemption claimed from
+payment of VAT under Section 3(a) and 3(b) read with Section 6(2) of CST Act on
+such sales is incorrect.
+3. Penalty was imposed
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 13Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+1. Sale of off-shore goods by assessee from Gujarat and Maharashtra is covered under
+Section 3(a) of CST Act.
+2. Sale of on-shore goods by assessee from Chennai is First Appellate covered under
+Section 3(b) of CST Act and exempted Order under Section 6(b) of CST Act and not
+taxable.
+3. Penalty was set aside.
+1. Sale of off-shore and on-shore goods is intra-state sale as per Section 4(2) of CST Act on which
+RVAT is leviable.
+2. No penalty was imposed.
+3. Matter remanded back to assessing officer with RTB Order direction pertaining to benefit of
+notification dated 28.04.2006 for FY 2009-10 and rate of tax on goods of special importance.
+8. The relevant provisions of law, which are required to be considered for adjudication of this case,
+are reproduced as under:
+"Article 286 of Constitution of India - Restrictions as to imposition of tax on the sale
+or purchase of goods [2023:RJ-JP:23645] (24 of 45) [STR-217/2020] (1) No law of a
+State shall impose, or authorise the imposition of, a tax on the supply of goods or of
+services or both, where such supply takes place
+(a) outside the State; or
+(b) in the course of the import of the goods or services or both into, or export of the
+goods or services or both out of, the territory of India.
+(2) Parliament may by law formulate principles for determining when a supply of
+goods or of services or both in any of the ways mentioned in clause (1).
+Article 366(29A) of Constitution of India:
+(29A) 'tax on the sale or purchase of goods' includes-
+(a) a tax on the transfer, otherwise than in pursuance of a contract, of property in any
+goods for cash, deferred payment or other valuable consideration;
+(b) a tax on the transfer of property in goods (whether as goods or in some other
+form) involved in the execution of a works contract;
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 14Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+(c) a tax on the delivery of goods on hire-purchase or any system of payment by
+instalments;
+(d) a tax on the transfer of the right to use any goods for any purpose (whether or not
+for a specified period) for cash, deferred payment or other valuable consideration;
+(e) a tax on the supply of goods by any unincorporated association or body of persons
+to a member thereof for cash, deferred payment or other valuable consideration;
+(f) a tax on the supply, by way of or as part of any service or in any other manner
+whatsoever, of goods, being food or any other article for human consumption or any
+drink (whether or not intoxicating), where such supply or service, is for cash,
+deferred payment or other valuable consideration, and such transfer, delivery or
+supply of any goods shall be deemed to be a sale of those goods by the person making
+the transfer, delivery or supply and a purchase of those goods by the person to whom
+such transfer, delivery or supply is made;
+Entry 92A of List I-Union List of Seventh Schedule of Constitution of India:
+[2023:RJ-JP:23645] (25 of 45) [STR-217/2020] 92A. Taxes on the sale or purchase
+of goods other than newspapers, where such sale or purchase takes place in the
+course of inter-State trade or commerce.
+Entry 54 of List II-State List of Seventh Schedule of Constitution of India:
+54. Taxes on the sale of petroleum crude, high speed diesel, motor spirit (commonly
+known as petrol), natural gas, aviation turbine fuel and alcoholic liquor for human
+consumption, but not including sale in the course of inter-State trade or commerce or
+sale in the course of international trade or commerce of such goods.
+Section 2(35)(i) of RVAT Act:
+(35) "sale" with all its grammatical variations and cognate expressions means every
+transfer of property in goods by one person to another for cash, deferred payment or
+other valuable consideration and includes-
+(i) a transfer, otherwise than in pursuance of a contract, of property in goods for cash,
+deferred payment or other valuable consideration Section 2(44) of RVAT Act:
+(44) "works contract" means a contract for carrying out any work which includes
+assembling, construction, building, altering, manufacturing, processing, fabricating,
+erection, installation, fitting out, improvement, repair or commissioning of any
+movable or immovable property;
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 15Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+Section 2(g)(i)(ii) of CST Act:
+(g) "sale", with its grammatical variations and cognate expressions, means any
+transfer of property in goods by one person to another for cash or deferred payment
+or for any other valuable consideration, and includes,
+(i) a transfer, otherwise than in pursuance of a contract, of property in any goods for
+cash, deferred payment or other valuable consideration;
+[2023:RJ-JP:23645] (26 of 45) [STR-217/2020]
+(ii) a transfer of property in goods (whether as goods or in some other form) involved in the
+execution of a works contract;
+Section 2(ja) of CST Act:
+(ja) "works contract" means a contract for carrying out any work which includes
+assembling, construction, building, altering, manufacturing, processing, fabricating,
+erection, installation, fitting out, improvement, repair or commissioning of any
+movable or immovable property;
+Section 3 of CST Act:
+Section 3- When is a sale or purchase of goods said to take place in the course of
+inter-State trade or commerce. A sale or purchase of goods shall be deemed to take
+place in the course of inter-State trade or commerce if the sale or purchase-
+(a) occasions the movement of goods from one State to another; or
+(b) is effected by a transfer of documents of title to the goods during their movement
+from one State to another.
+Explanation 1 -- Where goods are delivered to a carrier or other bailee for transmission, the
+movement of the goods shall, for the purposes of clause (b), be deemed to commence at the time of
+such delivery and terminate at the time when delivery is taken from such carrier or bailee.
+Explanation 2 -- Where the movement of goods commences and terminates in the same State it shall
+not be deemed to be a movement of goods from one State to another by reason merely of the fact
+that in the course of such movement the goods pass through the territory of any other State. Section
+4 of CST Act:
+Section 4 - When is a sale or purchase of goods said to take place outside a State.-
+(1) Subject to the provisions contained in section 3, when a sale or purchase of goods
+is determined in accordance with sub-section (2) to take place inside a State, such
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 16Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+sale or [2023:RJ-JP:23645] (27 of 45) [STR-217/2020] purchase shall be deemed to
+have taken place outside all other States.
+(2) A sale or purchase of goods shall be deemed to take place inside a State, if the
+goods are within the State--
+(a) in the case of specific or ascertained goods, at the time the contract of sale is
+made; and
+(b) in the case of unascertained or future goods, at the time of their appropriation to
+the contract of sale by the seller or by the buyer, whether assent of the other party is
+prior or subsequent to such appropriation.
+Explanation -- Where there is a single contract of sale or purchase of goods situated at more places
+than one, the provisions of this sub-section shall apply as if there were separate contracts in respect
+of the goods at each of such places."
+9. As per the provisions of law quoted above, the State has power to levy sales tax/VAT on 'deemed
+sale of goods' used in execution of works contract. In works contract, the assessee is liable to pay
+service tax on service element and sales tax on goods transferred. The bone of contention is whether
+the sale of goods involved in the present case were inter-state sales or intra-state sales. To ascertain
+that, we must first determine the nature of the transaction. As per settled position of law, the terms
+and conditions of the contract are relevant for determining the intention of parties. In this regard,
+we may note the relevant extracts of some judgments on the issue.
+9.1. In the case of Gannon Dunkerley (supra), the Apex Court observed as under:
+"40. ...We do not propose to go into this controversy because the question whether a
+deemed sale resulting from transfer of property in goods involved in the execution of
+a particular works contract amounts to a sale in the course of inter-State
+[2023:RJ-JP:23645] (28 of 45) [STR-217/2020] trade or commerce under Section 3
+of the Central Sales Tax Act or an outside sale under Section 4 of the Central Sales
+Tax Act or a sale in the course of import under Section 5 of the Central Sales Tax Act
+has to be decided in the light of the particular terms of the work contract and it
+cannot be decided in the abstract. As at present advised, we are not in a position to
+say that in no case, can there be a sale in the course of inter-State trade or commerce
+or an outside sale or a sale in the course of import in respect of a deemed sale
+resulting from transfer of property in goods involved in the execution of a works
+contract falling within the ambit of sub- clause (b) of clause (29-A) of Article 366 of
+the Constitution."
+9.2. In the case of Hindustan Shipyard (supra), the Apex Court observed as under:
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 17Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+"6. ...No straitjacket formula can be made available nor can such quick-witted tests
+devised as would be infallible. It is all a question of determining the intention of the
+parties by culling out the same on an overall reading of the several terms and
+conditions of a contract. In State of Gujarat (CST) v. Variety Body Builders: (1976) 3
+SCC 500 this Court observed that there is no standard formula by which one can
+distinguish a contract of sale from a contract for work and labour. There may be
+many common features in both the contracts, some neutral in a particular contract,
+and yet certain clinching terms in a given case may fortify a conclusion one way or
+the other. It will depend upon the facts and circumstances of each case. The question
+is not always easy and has for all times vexed jurists all over.
+27. The recitals of the contract may also be read in the light of the few provisions of
+Chapter III of the Sale of Goods Act. In a contract for the sale of specific or
+ascertained goods the property in them is transferred to the buyer at such time as the
+parties to the contract intend it to be transferred. Sections 20 to 24 contain rules for
+ascertaining the intention of the parties in this regard. When something remains to
+be done on the date of the contract to bring the specific goods in a
+[2023:RJ-JP:23645] (29 of 45) [STR-217/2020] deliverable state the property does
+not pass until such thing is done and brought to the notice of the buyer."
+9.3. In the case of BSNL vs. UOI (supra), the Apex Court observed as under:
+"The court would have to arrive at the conclusion as to what the parties had intended
+when they entered into a particular transaction of sale, as being the subject-matter of
+sale or purchase. In arriving at a conclusion the court would have to approach the
+matter from the point of view of a reasonable person of average intelligence."
+10. Therefore, to ascertain the nature of the contract, this Court is required to scrutinize the terms
+and conditions mentioned therein. The contract is on record and the relevant terms of the contract
+are also reproduced in the RTB Order dated 19.03.2020 from paras 7.4 to 7.10. However, for the
+sake of convenience, and to avoid repetition, some of the relevant clauses of the contract are
+reproduced as under:
+"CROSS FALL BREACH (Contractor. Instructions To Bidder (ITB)- Clause 22
+General Conditions of Contract (GCC)- Clause 31.1
+1. All the three contracts will contain a cross fall breach clause specifying that breach
+of one contract will constitute breach of the other.
+2. Article 3.7 of all three contracts It is expressly agreed to by the EPC contractor that
+notwithstanding the fact that the contract is termed as engineering procurement and
+construction (EPC) contract or indicates the break-up of the contract consideration,
+or awarded three contracts for convenience of operation. It is infact one composite
+Contract on single source responsibility basis and the contractor is bound to perform
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 18Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+the total contract in its entirely and non-performance of any part of portion of
+[2023:RJ-JP:23645] (30 of 45) [STR-217/2020] the contract shall be deemed to be a
+breach of the entire contract.
+CONTRACT PRICE The total Contract price for the entire scope of this contract as
+detailed in letter of intent is Rs. 4900.06 crores. This shall be firm till completion of
+the contract.
+TAX DEDUCTED AT SOURCE As regards the Indian Income Tax, surcharge on
+Income Tax, any cess thereof and any other similar tax etc, the RVUN shall not bear
+any liability whatsoever, irrespective of the mode of contracting. The contractor shall
+be liable and responsible for payment of all such taxes, if attracted under the
+provisions of law. The Works Contract Tax and Income Tax will be deducted at
+source on composite value (combined value of all the three contract as described
+above) of turnkey EPC Contract. If the State or Central Govt. brings any other tax
+deduction at source into effect, during the validity of the Contract then the same shall
+be deducted at source as per the prevailing rules.
+SCOPE OF WORK clause no. 5 of contract no. 3832, clause 11 of contract no. 3833
+and clause 11 of contract 3834 having following conditions which are exactly similar
+to each other and are as follows-
+CONTRACT PERFORMANCE GURANTEE The clause No. 12 of contract no. 3832,
+clause 11 of contract no. 3833 and clause 11 of contract 3834 have following
+conditions which are exactly similar to each other and are as follows-
+LIQUIDATED DAMAGES
+1) FOR DELAY IN COMPLETION:
+That the liquidated damages are on the total contract price. If there is any shortfall
+due to any reason related to any of the contracts, liquidated damages will be as per
+total contract [2023:RJ-JP:23645] (31 of 45) [STR-217/2020] price of all three
+contracts. This clause again proves that contracts are not independent contracts to
+sale, but a single, composite and indivisible works contract. B. Terms and conditions
+relating to works contract where complete units will be transferred.
+1. " FINAL HANDING OVER" shall mean the Owner's written acceptance of the
+works performed under the contract, after successful completion of Performance
+Tests. (GCC Clause - 3.32)
+2. PROJECT SCHEDULE clause under the three contracts which provides that the
+project has to be commissioned within 39 months for Until1 and 42 months for Unit
+2. (Clause 11 in Contract No. 3832 and Clause 10 in Contract No. 3853.)
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 19Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+3. LIQUIDATED DAMAGES provides that if the contractor fails to successfully hand
+over the unit/s within stipulated period indicated in this document then he is liable
+for Liquidated Damages. (Clause 12 in Contract No. 3832 and Clause 11 in Contract
+No. 3832) WARRANTY-
+Clause 28 in Contract no. 3832 and Clause 24 in Contract no. 3832.
+As stipulated in clause no. 37, section-II of Vol.I of Specification, The Contractor shall warrant the
+equipment to be new and in accordance with the contract documents and free from defects in
+design, material and workmanship for a period of twelve (12) calendar months commencing
+immediately upon Final Taking Over of Unit#1 and Unit#2 respectively....
+INSURANCE-Clause 20. of GCC The risks that are to be covered under the insurance shall include,
+but not be limited to, the loss or damage in transit, storage, erection and commissioning, theft,
+pilferage, riot, civil commotion, weather conditions, accidents of all kinds, fire, war, risk etc.
+COMPLETION OF CONTRACT - CLAUSE 32 OF GCC 32.2 The conditions for "Final Completion"
+are as follows:-
+[2023:RJ-JP:23645] (32 of 45) [STR-217/2020]
+a) Taking-over of the Unit/plant as per SCC shall have occurred;
+b) A performance certificate to be issued after the completion of performance
+Guarantee Tests, shall have been issued.
+c) The Contractor shall have provided all outstanding final drawings and
+documentation as per Contract."
+Further, the project import certificated letter dated 06.07.2009 issued by the Chief Engineer (TD) of
+RVUNL and endorsed by the Secretary - Energy Department, Government of Rajasthan is also
+reproduced as under:
+"No. RVUN/CE(TD)/SE(TD-1)/TDM-IV/F. /D. 2236 Jaipur, dated 6/7/2009 To The
+Commissioner of Customs Customs House Mundra PORT Sub: Project Authority
+Certificate for Equipment required for setting up of 2*600 MW Kalisindh Thermal
+Power Project on EPC basis at Jhalawar.
+Ref: P.O.No. RVUNL / ACE(TD) / XEN(TDM-V) / TNKS-1 / D.3832 Dt.13.10.2008
+(OFFSHORE) Dear Sir,.
+This is to inform you that we are setting up a 2*600 MW Kalisindh Thermal Power
+Project at Jhalawar District, Rajasthan.
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 20Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+W e h a v e p l a c e d t h e p u r c h a s e o r d e r N o .
+RVUNL/ACE(TD)/XEN(TDM-V)/TNKS-1/D.3832 Dt. 13.10.2008 (OFFSHORe) on
+M/s BGR Energy Systems Limited, 443, Anna Salai, Teynampet, Cheenai-600018 for
+implementation of 2*600 MW Kalisindh Thermal Power Project on Engineering,
+Procurement and Construction (EPC) basis. M/s BGR Energy Systems Limited have
+proposed to import equipments, materials, spare parts, special tools & tackles and
+essentials mandatory spares etc. for the above project as per Annexure-A enclosed.
+The total CIF value of the consignments to be imported is USD 40,50,00,000.
+[2023:RJ-JP:23645] (33 of 45) [STR-217/2020] It is hereby certified that the goods
+as per enclosed Annexure-A (Appendix A0 to A9) are essentially required for the
+supply and erection of the equipment to this project and qualify for grant of duty
+concession under Project Import Chaper 98.01 of Customs Tariff read with SI.No.
+399(IV) of Customs Notification No. 21/2002 dt. 01.03.2002 as amended from time
+to time. We confirm that the benefit of concession in customs duty are passed on to
+Rajasthan Rajya Vidyut Utpadam Nigam Limited by M/s BGR Energy Systems
+Limited. The recommendation of the Secretary (Engergy), Government of Rajasthan,
+Jaipur is endorsed in the Import List. Encl. As above Yours faithfully (R.K. Luhadia)
+Chief Engineer(TD) The State Government recommends the grant of customs duty
+conessions under project import in terms of chapter 98.01 of Customs Tariff read
+with SI. No. 399 of (iv) of the General Exemption No. 122 vide customs notifications
+No. CN. 21/2002 dt.01.03.2002, as amended from time to time for importing
+equipment for the total CIF value of USD 40,50,00,000 as per Annexure-A,
+Annexure-A1 and corresponding Appendices duly certified by us.
+Secretary - Energy Government of Rajasthan"
+11. From a careful analysis of the terms and conditions of the contract(s) in light of the
+aforementioned Apex Court judgments, the following points emerge:
+(a) A unified bid was invited through a single NIT by RVUNL on EPC basis for
+erection of the thermal power project, which included both supply of goods as well as
+services.
+[2023:RJ-JP:23645] (34 of 45) [STR-217/2020]
+(b) Bidders had to quote their proposal in lump-sum for the entire scope of work.
+(c) The bid was awarded to the assessee at approximately Rs. 4900.06 crores for the entirety of the
+project.
+(d) All three contracts contained a cross fall breach clause specifying that breach of one contract
+would constitute breach of others, giving a right to the RVUNL to terminate the other contracts also
+at the cost and risk of the contractor/assessee. This is quite enough to counter the contention of the
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 21Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+assessee that the three contracts were independent and separate.
+(e) Award of three contracts could not and did not dilute the responsibility of the assessee to
+successfully complete the erection of the thermal power project as per the specification on single
+source responsibility basis.
+(f) There was a provision in the contract itself about tax deduction at source (for short "TDS") and
+accordingly TDS on Works Contract Tax was also deducted on composite value of the turnkey EPC
+Contract.
+(g) The letter dated 06.07.2009 also indicates that the goods were to be imported on CIF value for
+use in erection of the power project.
+(h) The separation of the contract into three parts was merely done for the convenience of payment
+and notwithstanding the said break-up of contract, it was a composite and indivisible works contract
+on a turnkey basis.
+12. The relevant portion of the RTB order on this particular issue is reproduced as under:
+[2023:RJ-JP:23645] (35 of 45) [STR-217/2020] "7.11 As evident from the
+stipulations in Contract Documents a unified Bid was invited through a single NIT by
+RVUN for Engineering, Procurement and Construction of coal based Kalisindh
+Thermal Power Project (ITB-1). Scope of work included complete activities, services
+and supply of goods (ITB-5, GCC-13.2). Bidders had to quote in their proposals
+lumpsum price for the entire scope of work (ITB-18, GCC- 16.1). Provisions for TDS
+of Works Contract Tax were there.
+(ITB-18, GCC-16.2.7). All the supplies were acceptable ex- works and FOR site only (ITB-18,
+GCC-13.2). Three contracts containing cross fall breach clause were to be executed with the
+successful bidder (ITB-22, GCC-31.1). The contract performance Guarantee, Equipment
+Performance Guarantee, Liquidated Damages etc. were to be calculated on the gross value of the
+three contracts. (ITB-24, 25; GCC-22.1). "Plants and Equipment" were to mean permanent plant,
+equipment, machinery and things of all kinds to be provided and incorporated under the contract
+(GCC-3.44). "Works" were to mean and include furnishing of equipment, labour and services,
+transport, handling, unloading and storage at site, Civil construction, erections, commissioning etc.
+(GCC-3.57).
+"Final take over" was to occur when all supplies and services were achieved.
+(GCC-3.64). The bidder contractors were expected to be qualified and experienced in
+the EPC of electric generating facilities (GCC-6-). Equipments not specifically
+mentioned but required for satisfactory completion of the Project on turnkey basis
+were also to be supplied (GCC-13.2,
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 22Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+13.3). The contractor was responsible for taking insurance for all risks to equipment and material
+upto final taking over (GCC-20). The contractor was obligated to undertake replacement of damaged
+equipment free of cost. (GCC-20, 21, 21.2). Proportionate price of the contact was to be paid to the
+contractor in case of termination of the contract prior to its completion (GCC-26.4). It was clearly
+understood by the parties that the total consideration for the contract price was broken into various
+components for the convenience of progressive payment only (CC-31.6). Progressive payments were
+to be made on the basis of work executed at site and [2023:RJ-JP:23645] (36 of 45)
+[STR-217/2020] equipments brought on to the site by the contractor (GCC- 45.4.2) 7.12 Before
+clinching the issue we would like to have a view of what Hon'ble Supreme Court has said while
+deciding the nature of a Turnkey Project or a Composite Contract -
+11. By way of Letter of Award dated 16.08.1988, N.T.P.C awarded two contracts to the Company for
+performing the work of erection of aforesaid plant on Turnkey Basis. Even though, two contracts
+were entered into between the parties but in nutshell it was only one contract for the simple reason
+that N.T.P.C kept a right with it with regard to cross fall breach clause meaning thereby that default
+in one contract would tantamount to default in another and whole contract was liable to be
+cancelled." Indure Ltd. Vs. CTO (2010) 9 SCC 461 (SC)
+64. ........ It may be noted here that in all the cases that have been brought before us, there is a
+composite contract for the purchase and installation of the lift. The price quoted is a composite one
+for both...... But it is not in dispute that the preparatory work has to be done taking into
+consideration as to how the lift is going to be attached to the building. The nature of the contracts
+clearly exposit that they are contracts for supply and installation of the lift where labour and service
+element is involved..... But, a pregnant one, once there is a composite contract for supply and
+installation, it has to be treated as a works contract, for it is not a sale of goods/chattel simpliciter. It
+is not chattel sold as chattel or, for that matter, a chattel being attached to another chattel...."Kone
+Elevator India Pvt. Ltd. Vs. State of Tamil Nadu (2014) 71 VST 1 (SC) 7.13 Out of the three subject
+contracts, contract no. 3834 is seemingly admitted to be a Works Contract by the parties.
+Construction of the foundations, bases etc. for the ensuing Power Plant with other related Civil
+construction was within the scope of this contract. The parties already agreed to deduct Works
+Contract Tax @2-25% of the payment made [2023:RJ-JP:23645] (37 of 45) [STR-217/2020] against
+execution of this contract. This contract in isolation of the other two contracts is a works contract in
+itself and the respondent has admitted and discharged the tax liability voluntarily on the goods
+involved in execution of this contract. It is surprising on the part of the respondent that the initial
+work (Construction of foundations civil work etc.) and the final work (erection and installation of
+the materials supplied under contract no. 3832 & 3233) are in the perview of contract no. 3834 but
+the work in between i.e. (procurement of plants and equipments) is not.
+7.14 That the contracts were awarded to the respondent on EPC contract basis / Single Source
+Responsibility basis / Turnkey basis (GCC-13.2 &opening of C-3832, 3833 & 3834). Looking to the
+intention of the parties and stipulations in the contracts the contracts for supply and service had to
+be awarded to the same party. Apart from the single NIT and unified BID, the ITB the GCC and the
+SCC etc. were uniformly applicable to all the Contracts. The respondent company was awarded the
+contract for it's expertise in erection and installation of Power Plants and not for its supplying,
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 23Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+transporting, loading, unloading skills of the goods. Evidently the intention of the parties was only
+to execute work with material supplied by the respondent. Contractual clauses referred in the
+forgoing paras are enough to demonstrate that the form of the contracts is indicative of three
+separate contracts but in substance they are one indivisible works contract for supply of material
+and erection and installation of equipments. They are so intertwined and interdependent that we are
+unable to accept them as separate and independent contracts and unhesitatingly hold them an
+indivisible Works Contract."
+13. In the considered opinion of this Court, the RTB, after careful consideration of the entire record,
+had rightly concluded the contract to be a composite and indivisible EPC works contract on turnkey
+basis. The observation by the RTB reproduced above, [2023:RJ-JP:23645] (38 of 45)
+[STR-217/2020] are in content and form, flawless and thus this Court has no hesitation in affirming
+the view taken by RTB in this regard.
+14. Now what remains to be seen is whether the subject sale of the goods were inter-state sales or
+intra-state sales. The assessee contends that the off-shore sales were inter-state sales covered under
+Section 3(a) of CST Act as the identified goods were supplied by the Gujarat and Maharashtra
+branch of the assessee directly to RVUNL and the Rajasthan branch of the assessee merely acted as
+a bailee. Similarly, the assessee contends that the sale of on-shore goods were also inter-state sales
+covered under Section 3(b) read with Section 6(2) of CST Act. On the contrary, the Revenue
+contends that the subject sales were 'deemed sale' under the works contract and liable to be taxed
+under RVAT Act. To resolve this controversy, this Court must determine the nature of sale and when
+the sale was effected. For this, recourse may be taken to SOG Act, the relevant provisions of which
+are reproduced as under:
+"Section 2 - Definitions (3) goods are said to be in a "deliverable state" when they are
+in such state that the buyer would under the contract be bound to take delivery of
+them;
+(6) "future goods" means goods to be manufactured or produced or acquired by the
+seller after the making of the contract of sale;
+(14) "specific goods" means goods identified and agreed upon at the time a contract
+of sale is made;
+Section 4. Sale and agreement to sell (1) A contract of sale of goods is a contract
+whereby the seller transfers or agrees to transfer the property in goods
+[2023:RJ-JP:23645] (39 of 45) [STR-217/2020] to the buyer for a price. There may
+be a contract of sale between one part-owner and another.
+(2) A contract of sale may be absolute or conditional. (3) Where under a contract of
+sale the property in the goods is transferred from the seller to the buyer, the contract
+is called a sale, but where the transfer of the property in the goods is to take place at a
+future time or subject to some condition thereafter to be fulfilled, the contract is
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 24Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+called an agreement to sell. (4) An agreement to, sell becomes a sale when the time
+elapses or the conditions are fulfilled subject to which the property in the goods is to
+be transferred.
+Section 19- Property passes when intended to pass (1) Where there is a contract for
+the sale of specific or ascertained goods the property in them is transferred to the
+buyer at such time as the parties to the contract intend it to he transferred.
+(2) For the purpose of ascertaining the intention of the parties regard shall be had to
+the terms of the contract, the conduct of the parties and the circumstances of the
+case. (3) Unless a different intention appears, the rules contained in sections 20 to 24
+are rules for ascertaining the intention of the parties as to the time at which the
+property in the goods is to pass to the buyer.
+Section 20. Specific goods in a deliverable state Where there is an unconditional contract for the sale
+of specific goods in a deliverable state, the property in the goods passes to the buyer when the
+contract is made, and it is immaterial whether the time of payment of the price or the time of
+delivery of the goods, or both, is postponed. Section 21-Specific goods to be put into a deliverable
+state Where there is a contract for the sale of specific goods and the seller is bound to do something
+to the goods for the purpose of putting them into a deliverable state, the property does not pass until
+such thing is done and the buyer has notice thereof.
+[2023:RJ-JP:23645] (40 of 45) [STR-217/2020] Section 22- Specific goods in a deliverable state,
+when the seller has to do anything thereto in order to ascertain price Where there is a contract for
+the sale of specific goods in a deliverable state, but the seller is bound to weigh, measure, test or do
+some other act or thing with reference to the goods for the purpose of ascertaining the price, the
+property does not pass until such act or thing is done and the buyer has notice thereof Section 26-
+Risk prima facie passes with property Unless otherwise agreed, the goods remain at the seller's risk
+until the property therein is transferred to the buyer, but when the property therein is transferred to
+the buyer, the goods are at the buyer's risk whether delivery has been made or not: Provided that,
+where delivery has been delayed through the fault of either buyer or seller, the goods are at the risk
+of the party in fault as regards any loss which might not have occurred but for such fault:
+Provided also that nothing in this section shall affect the duties or liabilities of either
+seller or buyer as a bailee of the goods of the other party."
+15. As already discussed above, the contract was a composite and indivisible EPC works contract. In
+the simplest of terms, RVUNL was to receive the final thermal power project which was to be
+erected by the assessee for which the assessee was to receive a fixed consideration. It is not a case
+where there was sale of individual goods to the RVUNL. Though the goods were specially designed
+to be used in the power project, the point of transfer of such goods is what is relevant for
+determining whether the title to the goods transferred to RVUNL during movement of goods from
+one state to another. The assessee contends that the title to the goods transferred to the assessee
+outside the State of [2023:RJ-JP:23645] (41 of 45) [STR-217/2020] Rajasthan, upon issuance of
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 25Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+MDCC or other like documents. However, the issuance of MDCC is not determinative of transfer of
+title. MDCC merely identifies the specification of the goods to be used in the execution of works
+contract. The liability to transport these goods and the risk involved therein was with the assessee.
+Further, the assessee was required to transfer the power project in operational state. In the case in
+hand, the pre-dispatch inspection and issuance of MDCC, in view of terms of contract, did not serve
+the purpose of transfer of goods. This unequivocally establishes that there was no transfer of title of
+goods after their inspection and/or issuance of MDCC or any like document.
+16. The intent of the parties is quite clear. The clauses of 'Final Handing Over', 'Project Schedule',
+'Liquidated Damages', 'Warranty', 'Insurance', 'Completion of Contract', the project import
+certificate letter dated 06.07.2009, etc. clearly reveal that under the present works contract, the
+complete unit/power project would be transferred by assessee to RVUNL. Further, as per SOG Act,
+the goods are said to be transferred only when they are put into deliverable state by the contractor as
+per the terms and conditions of contract. The transfer in the case was of entire thermal power
+project. The title to the goods involved in the execution of works contract also, accordingly, only
+transferred to RVUNL upon completion of contract and upon final handing over of the project as the
+goods had been subjected to some process to be accommodated in the power project. The same is
+also evident by the project import certification letter dated 06.07.2009. In the present case, the
+goods claimed to be sold by the assessee to be [2023:RJ-JP:23645] (42 of 45) [STR-217/2020] part
+of inter-state sales were not sold to the RVUNL as goods, but utilized in erection of the thermal
+power project. Since the erection of thermal power project in the state of Rajasthan can only be
+termed as an intra-state transaction, the property in goods used in such erection, whether as goods
+or as some other form, would constitute an intra-state sale and accordingly be subject to RVAT.
+Therefore, this Court is in agreement with the finding rendered by the RTB in para 11.3, which is
+reproduced as under:
+"11.3. It is obvious from the provisions of S.4(2) of CST Act that a sale shall be
+deemed to take place inside a State, if the goods are within the State at the time the
+contract of sale is made (in case of specific or ascertained goods) or at the time of
+their appropriation to the contract of sale (in case of future or unascertained goods).
+As has been already discussed in detail the goods involved in the case have been
+future goods. Their unconditional appropriation to the contract of sale took place
+only in Rajasthan. Thus, we hold the transaction of offshore and onshore goods
+claimed under Section 3(a) and Section 3(b) (of CST Act) respectively as sales within
+Rajasthan taxable under the RVAT Act, 2003."
+17. The assessee has relied on several judgments, however none of those judgment deals with EPC
+works contract where there is a transfer of entire project. The judgment of CDVAT vs. ABB Ltd.
+(supra), being on different facts, has rightly been distinguished by the RTB with sufficient reasons
+and it is not deemed necessary to reproduce those reasons here again. Further, the judgment of
+Indure Ltd. vs. CTO (supra), on which heavy reliance was placed by the assessee, pertains to Section
+5(2) of CST Act, whereas the assessee is claiming applicability of CST on [2023:RJ-JP:23645] (43 of
+45) [STR-217/2020] the basis of Section 3 read with Section 6(2) of CST Act. Even otherwise, the
+nature of transactions is different and the revenue in that case was not allowed to belatedly raise the
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 26Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+plea that imported goods were subjected to manufacturing process as part of execution of works
+contract, whereas in the present case this has been one of the primary arguments of the Revenue.
+18. So far as the contention of the assessee that CST along with Entry Tax has already been paid on
+subject sales is concerned, it is trite that when a statute requires something to be done in certain
+way, it has to, necessarily, be done in that way. Reliance is placed on Selvi J.Jayalalithaa & Ors vs
+State Of Karnataka & Ors: (2014) 2 SCC 401. Since the nature of transaction attracts applicability of
+RVAT Act, the assessee cannot be absolved of his liability to pay the same merely because the parties
+had agreed to pay different tax. There is no estoppel against law. Merely because the assessee might
+have wrongly paid tax under a different statute would not absolve the assessee from liability to pay
+tax where it is actually due. The issuance of C-Form under CST Act or Form VAT-47 under RVAT
+Rules have no bearing on nature of transaction. There was a clause in the contract which specified
+that TDS on works contract would be deducted under the RVAT Act and the same was done at the
+end of assessee. Further, as rightly observed by the Karnataka High Court in Cotmac Pvt. Ltd. vs.
+CTO: (1967) 20 STC 20 (Kar.), it is not possible to adjust the tax refundable under one Act against
+tax due under another Act.
+[2023:RJ-JP:23645] (44 of 45) [STR-217/2020]
+19. In view of the above, no interference is called for in the STR Nos. 217-219/2020, preferred by the
+assessee.
+20. In the STR Nos. 155-157/2020, preferred by the Revenue, challenge is made to the impugned
+direction of remand along with setting aside of penalty. So far as penalty is concerned, this Court is
+of the considered opinion that the lis in question was purely a question of interpretation of statutes.
+Furthermore, there are disturbed finding by the authorities below and one of the parties to the
+transaction was an extended arm of the State. In these circumstances, this Court is of the view that
+the RTB had rightly set aside the penalty and this Court is not inclined to interfere with the same.
+21. However, so far as the directions of remand are concerned, considering that the same was
+beyond the scope of pleading; that no issue in this regard were framed before the RTB or before the
+lower adjudicating authorities; that the same was not even a relief claimed by the assessee, and that
+no arguments were made to this effect, this Court is inclined to set aside the direction of remand,
+considering the Apex Court judgments of Akella Lalitha vs. Konda Hanumantha Rao and Ors.: AIR
+2022 SC 3544, Trojan & Co. (supra), and Bharat Amratlal Kothari (supra).
+RESULT
+22. In view of the foregoing analysis, the questions of law framed in STR Nos. 217-219/2020
+(preferred by the assessee), are answered in favour of the Revenue and against the assessee.
+[2023:RJ-JP:23645] (45 of 45) [STR-217/2020]
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 27Assistant Commissioner vs M/S B.G.R. Energy Systems Ltd on 21 December, 2023
+23. The question of law nos. 1-3 in STR Nos. 155-157/2020 (preferred by revenue) are answered in
+favour of Revenue and against the assessee and conversely question of law no. 4 in STR Nos.
+155-157/2020 qua penalty is answered in favour of assessee and against the Revenue.
+24. Resultantly, the order of RTB is modified to the extent of setting aside of remand directions. The
+rest of the order of RTB is maintained.
+25. Accordingly, all these STRs, along with pending application(s), if any, stands disposed of in
+above terms.
+(SAMEER JAIN),J Raghu/Pooja /72-77 Powered by TCPDF (www.tcpdf.org)
+Indian Kanoon - http://indiankanoon.org/doc/74366714/ 28

@@ -1,0 +1,1566 @@
+Metadata: id=>174
+name=>Food Corporation Of India vs Commissioner Of Sales Tax And Anr on 21 May 1987
+date=>21 May 1987
+court=>High Court
+link=>http://indiankanoon.org/doc/74948/
+-----
+Content: Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+Food Corporation Of India vs Commissioner Of Sales Tax And
+Anr. on 21 May, 1987
+Equivalent citations: [1988]69STC374(ALL)
+Author: Brijesh Kumar
+Bench: S.S. Ahmad, Brijesh Kumar
+JUDGMENT
+Brijesh Kumar, J.
+1. In this bunch of writ petitions, the petitioner, namely, the Food Corporation of India, who claims
+to perform governmental function for the purposes of constituting national pool of foodgrains,
+objects to the levy of purchase tax by the State of U.P. under the U.P. Sales Tax Act, 1948. The
+different writ petitions relate to different assessment years. However, since according to learned
+counsel for the petitioner, points raised and argued are common, covering all the petitions, we
+propose to dispose of all the petitions by this judgment.
+2. The Food Corporation of India is a "dealer" as defined under Section 2(c) of the U.P. Sales Tax
+Act, 1948, which reads as follows :
+(c) 'dealer' means any person who carries on in Uttar Pradesh (whether regularly or
+otherwise) the business of buying, selling, supplying or distributing goods directly or
+indirectly, for cash or deferred payment or for commission, remuneration or other
+valuable consideration and includes-
+(i) a local authority, body corporate, company, any co-operative society or other
+society, club, firm, Hindu undivided family or other association of persons which
+carries on such business;
+(iii) ...
+(iv) a Government which, whether in the course of business or otherwise buys, sells,
+supplies or distributes goods, directly or otherwise for cash or for deferred payment
+or for commission, remuneration or other valuable consideration;
+(v) ...
+(vi) ...
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 1Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+3. The word "business" has been defined in Clause (aa) of Section 2 as follows:
+2. (aa) 'business', in relation to business of buying or selling goods, includes :-
+(i) any trade, commerce or manufacture, or any adventure or concern in the nature of
+trade, commerce or manufacture, whether or not such trade, commerce,
+manufacture, adventure or concern is carried on with a motive to make profit and
+whether or not any profit accrues from such trade, commerce, manufacture,
+adventure or concern; and
+(ii) ...
+but does not include any activity in the nature of mere service or profession which does not involve
+the purchase or sale of goods.
+4. The charging provision is Section 3 of the U. P. Sales Tax Act, 1948 which provides as follows :
+3. (1) Subject to the provisions of this Act, every dealer shall, for each assessment
+year, pay a tax at the rates provided by or under Section 3-A, or Section 3-D on his
+turnover of sales or purchases or both, as the case may be, which shall be determined
+in such manner as may be prescribed.
+(2) ...
+(3) ...
+(4) ...
+(5) ...
+5. The Food Corporation of India is a "corporation" incorporated under the Food Corporations Act,
+1964 (Central Act No. 37 of 1964). As one of its functions it maintains a national pool of foodgrains.
+The different States have to make their contributions to this pool. The States issued different orders
+under the Essential Commodities Act, known by different names as Levy Orders, Procurement
+Orders or Requisition Orders, for purchasing part of the produce or stocks of the foodgrains in
+question from farmers or millers. The procurement is made through different agencies. On
+obtaining the required quantity of the foodgrains, it is purchased by the Food Corporation of India
+from the State Governments for the purposes of maintaining the national pool of foodgrains. The
+Sales Tax Department of U. P. seeks to levy purchase tax upon the Food Corporation of India on the
+point it makes purchases from the State of U. P. The Food Corporation of India denies its liability to
+pay the said tax.
+6. Although the purchase made by the Food Corporation of India from the State is a second sale or
+purchase but under explanation II to Section 3-D(1) of the U. P. Sales Tax Act, it is deemed to be the
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 2Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+first purchase. The explanation II was added with retrospective effect by U. P. Act No. 23 of 1976. It
+is specifically in respect of purchase of foodgrains in pursuance of orders made under Section 3 of
+the Essential Commodities Act. The explanation II reads as follows :
+Explanation II.-For the purposes of this sub-section, in relation to purchases of
+foodgrains in pursuance of an}^ order made under Section 3 of the Essential
+Commodities Act, 1955, including any purchase in excess of the levy share, the
+purchase first made by a dealer from the State Government or its purchasing agent
+shall be the first purchase of such foodgrains and the tax shall accordingly be levied
+at that point on such dealer.
+7. An additional tax was also payable at the rate of five per cent over the turnover by the dealer
+whose yearly turnover exceeded rupees ten crores as provided under Section 3-F of the U. P. Sales
+Tax Act, which now stands omitted by U. P. Act No. 4 of 1982 with effect from 7th September, 1981.
+Section 3-F as it existed is as follows :
+3-F. Every dealer liable to pay tax under this Act, the aggregate of whose total
+turnover of purchases of goods notified under Sub-section (1) of Section 3-D, the
+turnover of sales liable to tax under Sub-section (2) of Section 3-D and of the total
+turnover of sales of all other goods, in any assessment year exceeds rupees two lakhs
+shall, in addition to the said tax, pay for that assessment year an additional tax at the
+rate of one per cent, of his turnover liable to tax :
+Provided that in the case of foodgrains, the rate of additional tax payable by any
+dealer, the aggregate of whose turnover or turnover of purchases or both, as the case
+may be, liable to tax, exceeds rupees ten crores in an assessment year shall be five per
+cent.
+...
+8. Since the turnover of the petitioner had been more than ten crores, it was also required to pay
+additional tax for the period Section 3-F remained in operation.
+9. The petitioner has challenged the validity of explanation II to Section 3-D(1) of the U.P. Sales Tax
+Act as well as that of Section 3-F of the Act on the ground that the said provisions are
+discriminatory, arbitrary and unreasonable.
+10. Shri V.K.S. Chaudhari, learned counsel for the petitioner, has submitted that the tax under the
+U. P. Sales Tax Act is not liable to be levied upon the petitioner as the Food Corporation of India, for
+the purposes of maintaining the national pool of foodgrains, discharges the governmental function.
+It has also been contended that the transactions as involved, do not amount to sale. Rather,
+transactions are in the nature of compulsory acquisition of property, hence not liable to be taxed
+under the U. P. Sales Tax Act. Another limb of the first contention is that the Food Corporation of
+India is only a service corporation. As such there cannot be any liability for payment of purchase tax
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 3Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+for the services rendered by the Food Corporation of India.
+11. In support of the first part of his argument that the Food Corporation of India discharges
+governmental function, the learned counsel for the petitioner has taken us through the different
+provisions of the Food Corporations Act, 1964. Section 5 provides that the original capital of
+corporation shall be such sum not exceeding one hundred crores of rupees as the Central
+Government may fix. Sub-section (3) of Section 5 provides that such capital may be provided by the
+Central Government from time to time after due appropriation made by Parliament by law for the
+purpose and subject to such terms and conditions as may be determined by that Government.
+Section 6 of the Food Corporations Act provides for management of the corporation by the board of
+directors. Constitution of the board of directors is provided under Section 7 which provides for
+representatives of different Ministries of the Central Government dealing with food, finance and
+co-operation. Sub-section (3) of Section 9 has also been placed before us to show that a director of
+the corporation can submit his resignation from the office of director by giving notice in writing to
+the Central Government. Section 12A provides that where the Central Government has ceased to
+perform any functions which under Section 13 are functions of the corporation, the Central
+Government may transfer to the corporation any of the officers or employees serving in the office of
+the Central Government dealing with food or engaged in the performance of those functions. The
+primary duty of the corporation as provided under Sub-section (1) of Section 13 is to undertake the
+purchase, storage, movement, transport, distribution and sale of foodgrains and other food-stuffs. It
+can also undertake activities for promoting production of foodgrains and setting up of rice mills,
+etc., with the previous approval of the Central Government. Under Section 26 of the Food
+Corporations Act, the Food Corporation of India is required to submit programme of its activities
+each year and the financial estimates to the Central Government for approval. Our attention has also
+been drawn to Section 33 which provides that net annual profits earned by the Food Corporation of
+India shall be paid to the Central Government. Under Section 34, the Food Corporation of India is
+required to maintain its annual statement of accounts including the profit and loss account and the
+balance-sheet in the prescribed form and the accounts are to be audited by auditors appointed from
+the list of auditors approved by the Central Government on the advice of the Comptroller and
+Auditor-General of India. Under Section 35, an annual report is required to be submitted by the
+corporation to the Central Government about the working and its affairs, which is to be laid before
+both Houses of Parliament for necessary comments on the report. Section 40 protects the
+corporation and members of its board of directors and other officers from any legal proceedings for
+any act done in good faith in pursuance of the provisions of the Act. Our attention has also been
+drawn to Section 42 of the Act which specifically provides for payment of income-tax by the
+corporation as a company.
+12. On the basis of the provisions indicated above, it has been submitted that the functions, which
+are now being carried on by the Food Corporation of India are such which had been carried on by
+the Central Government. It has been submitted that it is a primary duty of the State to provide food
+to the needy citizens of the country and to have proper distribution of the foodgrains for
+consumption of the citizens at a price which is within the reach of a common man. With a view to
+achieve this end, the Food Corporation of India maintains a national pool of foodgrains. The method
+to raise the national pool is that after a decision is taken in the meeting, in which the officers of the
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 4Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+Food Corporation of India and different Ministries of the Government of India and others
+participate, the States are required to contribute to the national pool. The States in their turn issue
+Levy or Procurement Orders under the Essential Commodities Act for procurement of specified
+foodgrains which is made over by the States to the Food Corporation of India to raise and maintain
+the national pool. The Food Corporotion of India, on the directions issued by the Government of
+India from time to time, sends the required quantity of foodgrains to the deficit States or at times to
+other countries, if so directed. It has further been submitted that the Food Corporation of India acts
+as a custodian of the national pool on behalf of the Government of India. The corporation in all
+details is controlled by the Central Government, may be in the matter of its management or
+otherwise. The profits earned by the corporation are to be credited to the Central Government. The
+activities of the corporation described above were being carried on by the Central Government prior
+to coming into existence of corporation and the staff of the Central Government connected with such
+activities was also transferred to the Food Corporation of India under the provisions of Section 12(3)
+of the Food Corporations Act.
+13. In support of the fact that the procurement was being made for the national pool, reliance was
+placed on annexures 3 and 5 to the writ petition (No. 2077 of 1986). In annexure 3 which is a letter
+written by the Secretary to the State Government, Department of Institutional Finance to the
+Additional Secretary of the Government of India, Department of Food, it has been mentioned that
+the purchase of foodgrains by the Food Corporation of India was on behalf of the Central
+Government. Annexure 5 is again a letter by the Joint Secretary to the State Government
+mentioning therein that the State Government' and its agencies had been purchasing the foodgrains
+for the national pool. These documents have been referred to establish the fact that the foodgrains
+purchased by the Food Corporation of India from the State Governments are only contributions of
+the State Government towards the national pool. Para 5 of the counter-affidavit has also been
+referred to, where it has been stated by the opposite parties that it is admitted that the Food
+Corporation of India purchases foodgrains for the national pool. Since, earlier such activity of
+procurement of foodgrains had been carried on by the Food Department of the Government of
+India, it is a governmental activity now carried on by the petitioner, thus it was not liable to tax. It
+has, however, been submitted that in respect of transactions other than those related to levy
+foodgrains, it pays sales tax as those transactions do not take place in pursuance of any
+governmental function.
+14. The learned counsel for the petitioner has referred to Article 285 of the Constitution which
+provides for exemption of property of the Union from State taxation. A reference to Article 286 of
+the Constitution has also been made. The learned counsel for the petitioner has then referred to
+Article 289 of the Constitution which reads as follows :
+289. Exemption of property and income of a State from Union taxation.- (1) The
+property and income of a State shall be exempt from Union taxation.
+(2) Nothing in Clause (1) shall prevent the Union from imposing, or authorising the imposition of,
+any tax to such extent, if any, as Parliament may by law provide in respect of a trade or business of
+any kind carried on by, or on behalf of, the Government of a State, or any operations connected
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 5Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+therewith, or any property used or occupied for the purposes of such trade or business, or any
+income accruing or arising in connection therewith.
+(3) Nothing in Clause (2) shall apply to any trade or business, or to any class of trade or business,
+which Parliament may by law declare to be incidental to the ordinary functions of Government.
+15. Stress has been placed upon Clause (3) on the basis of which it has been submitted that it is clear
+that there is distinction between the functions of the Government and its activities of trade or
+business. If the trade or business is declared by the Parliament to be incidental to the ordinary
+functions of the State Government, that would exempt the property and income of the State from
+Union taxation. According to the learned counsel for the petitioner, the distinction between the
+trade or commercial activities of the State and the activities of trade and commerce incidental in
+discharge of the governmental function is quite clear from the provision quoted above. Therefore, if
+some transactions take place in discharge of governmental functions, that cannot be called trade or
+business activity of the State liable to be taxed.
+16. Shri V. Upadhyay, learned counsel for the opposite parties, has submitted that the Food
+Corporation of India is neither a department of the Government nor does it perform any
+governmental function. Its activities are purely business and commercial activities. The question of
+earning profits is wholly immaterial. It has been submitted that the Food Corporation of India is
+only a company and it has to be so assessed under the Income-tax Act as provided under Section 42
+of the Act.
+17. The learned counsel for the opposite parties has taken us through the Statement of Objects and
+Reasons for enacting the Food Corporations Act, 1964. The Statement of Objects and Reasons reads
+as follows :
+Statement of Objects and Reasons (1) It is considered desirable, in the interests of
+increased agricultural production as well as in the interests of the common consumer,
+to set up a State agency for the purpose of undertaking trading in food-grains in a
+commercial manner but within the framework of an overall Government policy. Only
+by such a measure it will be possible to effectively implement any policy of ensuring
+that the primary producer obtains the minimum price that may be announced from
+time to time and to protect the consumer from the vagaries of speculative trade.
+(2) The setting up of the Food Corporation of India, as provided for in this Bill, will,
+therefore, be one of the essential and important steps in the implementation of
+Government's food policy. The corporation will be the first organised attempt to take
+up State trading in food-stuffs on an appreciable scale. The agency will also be used
+to build up gradually buffer stocks.
+(3) The corporation will engage itself primarily in the purchase, storage, movement,
+distribution and sale of foodgrains. Provision has also been made in the Bill enabling
+the corporation to deal in other food-stuffs if considered necessary by the
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 6Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+Government. The corporation may also discharge certain incidental functions as
+provided for in the Bill in consultation with the Central Government.
+(4) The corporation will be encouraged to function generally as an autonomous
+organisation working on commercial lines. It is expected to secure for itself a
+strategic and commanding position in the foodgrains trade of the country. Bearing in
+mind the several large spheres in which the corporation will ultimately have to
+operate, this Bill is being introduced to enable it to function as a statutory
+corporation wholly owned by the Government.
+(5) It is necessary that the corporation should work with the active and continued
+co-operation of State Governments and their machinery. The Bill, therefore, provides
+for the setting up of Boards of Management or State Food Corporations, as the case
+may be, to secure such co-operation and participation in a practical and effective way.
+18. From the above, it has been submitted that the corporation is an autonomous body and has to
+undertake trading in foodgrains in commercial manner in the interest of producer as well as
+consumer. Then a reference has been made to Section 6 of the Food Corporations Act, 1964, which
+provides that the board of directors, in discharging its functions, shall act on business principles
+having regard to the interests of the producer and consumer. A reference has also been made to
+Section 13 which relates to the functions of the corporation. In view of the above, it has been
+submitted that it is incorrect to say that the corporation is a service corporation. It has also been
+submitted that according to Section 33 of the Act, the net profits earned by the corporation are to be
+credited to the Central Government. Therefore, it is incorrect to say that the activities are run on no
+profit no loss basis. In any case, it has been submitted that the profit making is not necessary for
+carrying on any trade or business so as to be liable to tax under the provisions of the U. P. Sales Tax
+Act, In this connection, a reference has also been made to Clause (aa) of Section 2 of the U. P. Sales
+Tax Act which defines "business" as any trade, commerce or manufacture, whether or not with a
+motive to make profit and whether or not any profit accrues oh such trade, commerce or adventure.
+To repel the argument advanced on behalf of the petitioner that the Food Corporation of India is a
+department of the Government of India, the learned counsel for the opposite parties has placed
+reliance upon a case reported in AIR 1981 SC 1694 {State of Punjab v. Raja Ram), considering
+various provisions of the Food Corporations Act, the Honourable Supreme Court came to the
+conclusion that the Food Corporation is not a Government department. It has been held to have a
+status of a company and an autonomous body. However, looking to the fact that the original share of
+capital was provided by the Central Government and the control which is exercised by the Central
+Government, it could be said to be an agency or instrumentality of the Central Government.
+19. Next case relied upon by the opposite parties is [1976] 38 STC 329 (SC) (Joint Director of Food,
+Visakhapatnam v. State of Andhra Pradesh). In this case, the Central Government in discharge of its
+high governmental functions, namely, distribution of foodgrains and fertilisers and commodities
+essential to the life of community at large, had been procuring such items and had been selling the
+same to the States or their nominees so as to ensure equitable supplies at fair price. For this
+purpose, the Central Government appointed a Joint Director of Food through whom foodgrains and
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 7Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+fertilisers were sold to Andhra Pradesh State and to other States. According to the Sales Tax
+Department, the transactions were liable to sales tax under the State Act as well as under the Central
+Sales Tax Act. A similar argument was raised on behalf of the Central Government that it was only
+implementing its governmental obligations for distribution of essential commodities which cannot
+be said to be a trading activity or carrying on business. This argument was not accepted by the
+Honourable Supreme Court. The following passage from the judgment may be reproduced which
+meets the argument raised in this case :
+A subsidiary contention calculated to insulate the Central Government from liability
+was set up by the learned Additional Solicitor-General to the effect that an
+undertaking to distribute essential commodities by the State in implementation of its
+governmental obligations cannot be described as 'trading' activity or carrying on of
+'business' without doing violence to the concepts of governmental functions and
+business operations. Indubitably the State has the power to carry on trade or
+business as is manifest from Article 19(6)(ii) and other provisions. Indubitably, the
+State distributes essential commodities in a fair and equitable way for the survival of
+the community under its protection. It does not follow that we cannot harmonise the
+two functions. It is well on the agenda of State activity that it carries on trade or
+business in essential commodities because it has the power to do so and because it is
+obligated to ensure even distribution of vital goods for the needy sections of the
+people. We see no difficulty in inferring that the systematic activity of buying
+foodgrains and fertilisers and selling them by the State, although in fulfilment of a
+beneficent national policy is nevertheless trade or business. Necessarily, Government
+becomes a 'dealer' by definition and carries on 'business' within the meaning of the
+Central Act and the State Act (omitting for a moment the distinction in the two
+definitions based upon the motive to make gain or profit). The conclusion, therefore,
+is inevitable that the appellant, representing the Central Government, is rightly held
+to be the assessee.
+20. It may be mentioned here that under the U. P. Sales Tax Act also, the "dealer" includes a
+Government as well which in the course of business or otherwise, buys, sells or distributes goods
+directly or otherwise for cash or for deferred payment or for commission, remuneration or for other
+valuable considerations. We, therefore, find that the case in hand is in no manner different from one
+considered in the case of Joint Director of Food [1976] 38 STC 329 (SC).
+21. Another case relied upon on behalf of the opposite parties is [1976] 37 STC 423 (SC) (District
+Controller of Stores, Northern Railway, Jodhpur v. Assistant Commercial Taxation Officer). In this
+case, sales tax was sought to be imposed upon the Northern Railway on the sale of material and
+scraps. It was held that such transactions were exigible to tax. This case has been referred to show
+that even the railway which is a department of the Government, and which cannot be said to be not
+carrying on governmental function was found exigible to sales tax.
+22. In respect of the case cited on behalf of the petitioner, namely, 1981 Supreme Court, page 670
+wherein it has been held that the Food Corporation of India is an instrumentality of the State,
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 8Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+learned counsel for the opposite parties has submitted that it will make no difference so far levy of
+tax is concerned. Firstly, it has been submitted that the Food Corporation of India may be
+considered as an authority under Article 12 of the Constitution of India for the purpose of Part III
+and, secondly, it has been submitted that when an activity carried on by the Government is liable to
+be taxed and the Government can be a dealer as denned under the Sales Tax Act, it would not be
+gainsaying that an instrumentality of the State cannot be taxed.
+23. In view of the facts and cases mentioned above, we are of the view that there is no substance in
+the submission made on behalf of the petitioner. Since the petitioner entered into the transactions of
+sale and purchase, may be in pursuance of raising the national pool which is meant for equitable
+distribution of essential commodities to the needy section of the society and to meet the
+requirements of needy people of this country, as were the facts in the case of Joint Director of Food
+v. State of Andhra Pradesh [1976] 38 STC 329 (SC), it cannot be said that the transactions entered
+into by the petitioner are not liable to sales tax. The activities so carried on by the Food Corporation
+of India are clearly covered under the term "business" as defined under the U. P. Sales Tax Act and
+the petitioner would clearly be covered under the term "dealer" as denned under the Sales Tax Act.
+It is wholly immaterial whether the ,activity is being carried on with a profit making motive or as to
+whether actually any profit do accrue or not. It cannot be said that the petitioner discharges
+governmental function.
+24. We may now consider the' other limb of the argument that, in any case, the Food Corporation of
+India, in respect of national pool, can only be said to be a service corporation, which renders service
+to the people of the country on "no profit no loss" basis. The loss suffered by the Food Corporation
+of India is subsidised by the Central Government. The capital is also provided by the Central
+Government.
+25. The learned counsel for the petitioner has placed reliance upon a case reported in [1982] 51 STC
+289 (Guj) (Mehsana District Shanker-4 Seeds Produce and Sale Co-operative Society Ltd. v. State of
+Gujarat). This is a Division Bench decision rendered by the Gujarat High Court. The Planning
+Commission of the Government of India recommended for forming agricultural co-operative
+societies of cotton growers for betterment of quality of cotton by distribution and multiplication of
+cotton seeds. In pursuance of the above scheme and object, the petitioner-society was registered.
+The society supplied seeds to its members and collected some charges in the nature of transport and
+other miscellaneous charges. The society also carried on other activities for the betterment of quality
+of cotton. The society was sought to be taxed under the Sales Tax Act but it was held that the object
+of the society was to give its extensive service to the members and it was merely rendering service by
+implementing the Government scheme. It was further observed that the essential purpose of the
+activity of such society was not commercial in nature but was to render exclusive service to its
+members. An activity in order to be a business must be a commercial activity of buying and selling
+with or without motive of profit. It has further been observed that if commercial element is lacking,
+it would be beyond the sweep of the term "business" and will not be liable to sales tax.
+26. The facts of the case reported in [1982] 51 STC 289 (Guj) (Mehsana District Shanker-4 Seeds
+Produce and Sale Co-operative Society Ltd. v. State of Gujarat) are different. The co-operative
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 9Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+society supplied seed, etc., to its own members; so it could be said that the society was rendering
+service to its members. But in the case in hand, the position is different. Such activity carried on by
+the Central Government was held to be "trade" or "business" activity in the case of Joint Director of
+Food, Visakhapatnam [1976] 38 STC 329 (SC). Earning of profit or no profit is held to be
+immaterial. Under Section 2(aa)(ii) of the U. P. Sales Tax Act only such a service activity does not
+amount to business which does not involve purchase or sale of goods. Petitioner does enter into sale
+and purchase of foodgrains. It cannot claim to be an organisation rendering mere service.
+27. We may now come to the next point urged on behalf of the petitioner that procurement of
+foodgrains under the Levy Orders amounts to compulsory acquisition of property. Therefore, it is
+not exigible to tax, not being a transaction of sale or purchase of goods. It has been submitted that
+the whole transaction beginning from the decision making to procurement of foodgrains as a
+contribution from different States in definite quantities till the supply of such foodgrains to the
+deficit States or to other countries, as the case may be, by the Food Corporation of India, is one
+transaction which passes through different stages. The foodgrain is acquired from the millers or the
+farmers as the case may be for the purposes of national pool with the object of feeding the millions.
+It is for that purpose that the State Governments issue Procurement, Levy or Requisition Orders
+under the provisions of the Essential Commodities Act. The State Government acquires the
+foodgrains through different agencies, e.g., the U. P. Co-operative Federation, Essential
+Commodities Corporation, U. P. State Agro Corporation as well as through the Food Corporation of
+India in certain areas. After so acquiring the foodgrains it is made over to the petitioner by the State
+Government 'for the purposes of national pool. The contention is that such a transaction made in
+respect of foodgrains acquired under the Levy or Procurement Orders with one specific purpose as
+mentioned above does not amount to sale or purchase.
+28. In support of his contention that the transactions in question are in the nature of compulsory
+acquisition of property, the learned counsel for the petitioner has made a reference to entry 54 of
+List II of the Seventh Schedule to the Constitution which provides for taxes on the sale or purchase
+of goods other than newspapers subject to the provisions of entry 92A of List I. He has also referred
+to entry 42 of List III of the Seventh Schedule which provides for acquisition and requisition of
+property. It has thus been submitted that the sale and purchase of goods and acquisition of property
+denote two different concepts and acquisition of property cannot be taxed as tax on sale or purchase
+of property. It has been submitted that the main ingredients of acquisition of property are that
+acquisition is done by the State for a public purpose for some compensation, consequence of which
+is that the rights and title in the property vest in the State irrespective of the fact whether the holder
+of the property from whom it is acquired himself had that right or title or not. The act of acquisition
+extinguishes the right and title of third person as well who may not directly be involved in the
+transaction. In this connection, the learned counsel has referred to Section 6 of the U. P. Zamindari
+Abolition and Land Reforms Act, 1950 and similar provision under the U. P. Urban Area Zamindari
+Abolition Act, Section 16 of the Land Acquisition Act and Section 14 of the U.P. Imposition of Ceiling
+on Land Holdings Act to show that the property vests in the State free from all encumbrances;
+meaning thereby that the right or title even of third person extinguishes and vests in the State. It has
+been submitted that in so far as the Levy Orders are concerned, all the abovementioned ingredients
+are satisfied. The millers may be holding the foodgrain belonging to the farmers or others who may
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 10Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+have given it for custom milling but still the millers will have to part with certain percentage of the
+stock irrespective of the fact that they do not have right or title over such foodgrains. He has also
+referred to different Levy Orders to indicate that nothing is left to be decided between the two
+parties and the levy foodgrain has to be given at a particular place, time and in definite quantities by
+the millers or farmers, as the case may be, as provided under the Levy Order. The price is also fixed
+under the Orders. Refusal to comply with the Order may make a person liable for prosecution, the
+authorities have even power to make search and seizure for the purposes of implementation of the
+Order. Therefore, no volition or area of consensual arrangement remains open between the parties.
+The whole thing is predetermined under the Levy Orders issued by the State Government. Thus the
+transaction amounts to acquisition of property.
+29. In support of this contention, reliance has been placed on a case reported in AIR 1970 SC 2000
+(Chittar Mat Narain Das v. Commissioner of Sales Tax). The case related to procurement of wheat
+under the U. P. Wheat Procurement (Levy) Order, 1959. Under Clause 3 of the said Levy Order, it
+was provided that every licensed dealer had to sell to the State, at the control price, 50 per cent of
+wheat held by him in the stock at the time of commencement of the Order and 50 per cent of the
+wheat procured or purchased by him everyday. Clause 4 provided for power of the authorities to
+search or make seizure and to examine account books, etc. The relevant observations made by the
+Honourable Supreme Court are as follows :
+The Order, it is true, makes no provision in respect of the place and manner of supply
+of wheat and payment of the controlled price. It contains a bald injunction to supply
+wheat of the specified quantity day after day, and enacts that in default of compliance
+the dealer is liable to be punished : it does not envisage any consensual arrangement.
+It does not require the State Government to enter into even an informal contract. A
+sale predicates a contract of sale of goods between persons competent to contract for
+a price paid or promised : a transaction in which an obligation to supply goods is
+imposed, and which does not involve an obligation to enter into a contract, cannot be
+called a 'sale', even if the person supplying goods is declared entitled to the value of
+goods, which is determined or determinable in the manner prescribed. Assuming that
+between the licensed dealer and the Controller, there may be some arrangements
+about the place and manner of delivery of* wheat, and the payment of 'controlled
+price', the operation of Clause 3 does not on that account become contractual.
+30. The Honourable Supreme Court in the above-noted case also did not approve the view taken by
+the Full Bench of this Court reported in AIR 1970 All 518 (Ram Bilas Ram Gopal's case). The Full
+Bench was considering the Levy Order under which the dealer was obliged to sell to the State certain
+specified quantity of wheat on a fixed price, from the date of the commencement of the Order until
+such time as the State Government otherwise directed. The delivery of the goods was to be made by
+the dealer to the Regional Food Controller or any person authorised by him. There was no option
+but to sell the wheat so far dealer was concerned and the State was to purchase the same. The Full
+Bench took the view that all other details of the transactions were left open to negotiation; for
+example, negotiations in respect of the time and the mode of payment of the price, the time and
+mode of delivery of wheat and other conditions of the contract. It was also observed that it was open
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 11Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+to the State Government to say that from a particular date, it would not purchase the wheat. Thus
+the Full Bench took the view that the element of volition was there and the parties concerned had to
+come to an agreement in particular area which was left open. Thus whatever compulsive or coercive
+force is used to bring about a transaction, ,it must be traced to legislation. This transaction was held
+to be sale exigible to sales tax.
+31. The Supreme Court in Chittar Mai's case AIR 1970 SC 2000 placed reliance upon AIR 1963 SC
+1207 (New India Sugar Mills' case), where supplies were made by the factory owners under the
+allotments made by the Sugar Controller of India to different States; it was observed that the
+despatches of sugar pursuant to the directions of the Controller were not made in pursuance of the
+contract for sale. There was no offer by the suppliers, nor any acceptance by the State of Madras.
+The suppliers had no volition in the matter. The transaction was held not to be sale so as to be
+exigible to tax under the Sales Tax Act. This was the view taken by the majority with Mr. Justice
+Hidayatullah, as he then was, delivering a dissenting judgment. The Honourable Supreme Court
+thus found in the case of Chittar Mai AIR 1970 SC 2000 that the Order ignored the volition of the
+dealer and there was no contract between the dealer and the State; hence the transaction did not
+amount to sale and, therefore, not exigible to sales tax.
+32. The learned counsel for the petitioner referred to the definition of "sale" given under the Sale of
+Goods Act. It has been submitted that there has to be an agreement to sell before a sale takes place.
+There should be an offer and acceptance and unless the parties agree exercising their volition in the
+matter, there cannot be any sale. He has referred to AIR 1958 SC 660 (State of Madras v. Gannon
+Dunkerley and Company). In that case, the question related to the goods used by a contractor during
+the course of execution of a contract for construction of a building. The material used by the
+contractor, would amount to sale or could be included in the turnover of the company, was the
+question under consideration of the Honourable Supreme Court. It was held not to be a sale and it
+was observed that sale of goods has essential ingredient of existence of an agreement to sell for a
+price and property passing therein pursuant to the agreement. The definition of "sale" given under
+the Sale of Goods Act and Benjamin on "Sale", 8th Edition, page 3 show that for constituting a sale,
+four elements must be there, viz., parties must be competent to contract; there must be mutual
+assent; property is transferred from seller to buyer and price in money is paid or promised. The
+learned counsel for the petitioner has also referred to [1955] AC 696 (Kirkness's case). On the basis
+of the above decisions too, the learned counsel for the petitioner submitted that there being no
+agreement to sell preceding the transaction itself, the transaction was nothing but compulsory
+acquisition and not a sale. He has also placed reliance on a case decided by the Punjab High Court
+ILR 1976 (2) Punj 687 (Food Corporation of India v. State of Punjab). A Division Bench of the
+Punjab High Court took the view that procurement of foodgrains by the States and their officers and
+despatch of the same to the deficit States did not amount to "sale". This case followed the decision of
+Chittar Mai Narain Das AIR 1970 SC 2000. The learned counsel then referred to AIR 1978 SC 449
+(Vishnu Agencies' case) and submitted that it does not overrule the view taken in Chittar Mai's case
+AIR 1970 SC 2000. In this connection, he has also referred to another Division Bench case of the
+Punjab and Haryana High Court in Civil Writ Petition No. 1573 of 1983 (Food Corporation of India
+v. State of Haryana [1987] 66 STC 7) decided on November 26, 1986. In this case, the question for
+consideration before the court was as to whether after the decision of Vishnu Agencies' case AIR
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 12Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+1978 SC 449 by the Supreme Court, the earlier decision of the Punjab High Court reported in [1976]
+38 STC 144 (Food Corporation of India v. State of Punjab) and the decision in Chittar Mai's case AIR
+1970 SC 2000 anymore hold good. The Division Bench came to the conclusion that the Chittar Mai's
+case AIR 1970 SC 2000 is not overruled to the extent it held that the levy transaction amounted to
+compulsory acquisition of property and not a sale.
+33. Shri V. Upadhyay, learned counsel appearing on behalf of the opposite parties, while refuting the
+submission made on behalf of the petitioner, submitted that the transactions under the Levy Orders
+amounted to "sale" and there was no compulsory acquisition of property. It has also been submitted
+that an area of consensual arrangement still remains there between the parties and the element of
+volition is not completely excluded under the Levy Orders. Thus the transaction amounted to sale. It
+has also been submitted that the decision in Chittar Mai's case AIR 1970 SC 2000 stands practically
+overruled and is no more a good law in view of the latter decision, namely, Vishnu Agencies' case
+AIR 1978 SC 449. Another submission made is that after the Forty-sixth Amendment of the
+Constitution by adding Clause (29A) to Article 366 and similar amendment in the U. P. Sales Tax
+Act by Act No. 25 of 1985, the transactions in question are exigible to sales tax.
+34. To fortify their submission, reliance has been placed by the opposite parties upon AIR 1978 SC
+449 (Vishnu Agencies' case). We propose to come to this case later and before that we may refer to
+other two cases which are : AIR 1972 SC 87 (Solar Jung Sugar Mills Ltd. v. State of Mysore). In this
+case, the Sugarcane Control Order was under consideration under which certain fixed quantity of
+sugarcane was required to be supplied by the sugarcane growers to the sugar mills on controlled
+price. Further, the direction was that no sugarcane should be exported from the reserved area except
+in accordance with the terms issued by the Central Government. One of the contentions raised was
+that everything was fixed and decided under the Order and there was no volition left to the parties.
+Therefore, the transactions taking place under the Sugarcane Control Order were out of the pale of
+the definition of the word "sale" which necessarily implies consensus between the vendor and the
+purchaser before the transaction takes place. The argument was repelled and after considering
+certain decisions, their Lordships of the Honourable Supreme Court observed that the statutory
+orders regulating supply and distribution of goods by and between the parties under the Control
+Orders do not absolutely impinge on the freedom to enter into contract. It was further observed that
+legislative measures or statutory provisions fixing the price, delivery, supply, restricting areas for
+transactions are all within the realm of planning economic need ensuring production and
+distribution of essential commodities and basic necessities of the community. The Honourable
+Supreme Court further observed in para 38 of the judgment as under :
+The complexity of modern activities and the consequent difficulty of providing for
+every eventuality have shaken fervour for freedom of contract as there was during the
+nineteenth century. The economic environment has changed. The individual freedom
+is to be reconciled with adequate performance by the Government of its functions in a
+highly organised society. Delimiting areas for transactions or parties or denoting
+price for transactions are all within the area of individual freedom of contract with
+limited choice.
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 13Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+35. Their Lordships after considering the Control Order held that despite the fact that the parties
+were certain under the Control Order as to who had to sell and purchase the sugarcane, the price
+was fixed, the area was fixed, still it was found that there were areas in which the parties had
+freedom to agree on certain things. Thus the transactions taking place under the Control Orders
+were held to be "sale".
+36. The next case relied upon is AIR 1976 SC 2478 (Oil and Natural Gas Commission v. State of
+Bihar). The case of Solar Jung Sugar Mills Ltd. AIR 1972 SC 87 was followed in this case and it was
+held that supplies made to the Indian Oil Corporation by the Oil and Natural Gas Commission under
+the directions of the Central Government on a fixed price was "sale". Their Lordships of the
+Supreme Court observed that any sale under the Control Orders is not as a result of the coercion.
+The statute supplies the consensus and the modality of consensus is furnished by the statute. There
+is privity of contract between the parties. The transaction is neither a gift nor an exchange nor a
+hypothecation nor a loan. It is a transfer of property from one person to another for consideration.
+The law presumes the assent when there is transfer of goods from one person to the other. The
+Honourable Supreme Court further went on to observe, "a sale may not require the consensual
+element and that there may, in truth, be a compulsory sale of property with which the owner is
+compelled to part for a price against his will and the effect of the statute in such a case is to say that
+the absence of the transferor's consent does not matter and the sale is to proceed without it. In truth,
+transfer is brought into being which ex facie in all its essential characteristics is a transfer of sale".
+37. On behalf of the petitioner, it was submitted, in respect of the above-noted two cases, namely,
+Solar Jung Sugar Mills Ltd. AIR 1972 SC 87 and Oil and Natural Gas Commission case AIR 1976 SC
+2478, that they stand on different footing inasmuch as there are two parties who enter into
+transactions and who are brought together under the Control Orders. The Orders involved in the
+two cases are not the Levy Orders. According to the learned counsel for the petitioner there is no
+element of acquisition of property but those Orders only regulated the sale. In respect of Oil and
+Natural Gas Commission case AIR 1976 SC 2478, it has been submitted that it is distinguishable also
+because of Section 29 of the Oil and Natural Gas Commission Act. We think, no distinction can be
+made on the ground of Section 29 of the Oil and Natural Gas Commission Act. It only provides that
+the commission shall be deemed to be a company and shall be liable to pay such taxes which are
+levied on the States by the Central Government. It does not provide that the transaction of supply of
+crude oil by the commission to the corporation under the directions issued by the Central
+Government would be construed as a sale.
+38. We may now come to the next case, namely, AIR 1978 SC 449 (Vishnu Agencies case) which has
+been pressed into service on behalf of the opposite parties, which, according to them, practically
+overrules the decision rendered in the case of Chittar Mai Narain Das AIR 1970 SC 2000. The
+Chittar Mai's case AIR 1970 SC 2000 had been decided following the case of New India Sugar Mills'
+case AIR 1963 SC 1207, which in turn had followed the decision in Gannon Dunkerley's case AIR
+1958 SC 560. According to the learned counsel for the opposite parties, Gannon Dunkerley's case
+AIR 1958 SC 560 was decided in a different context having no application to the case in hand and it
+had interpreted the definition of the word "sale" as provided under the Sale of Goods Act and
+Benjamin on Sale. The Supreme Court in Vishnu Agencies case AIR 1978 SC 449 has specifically
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 14Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+overruled the view taken in New India Sugar Mills' case AIR 1963 SC 1207 and has approved the
+minority view as expressed by Justice Hidayatullah, as he then was. We may, therefore, have to
+examine as to how far the decision in Chittar Mai's case AIR 1970 SC 2000 holds good and to what
+extent it has been overruled in Vishnu Agencies' case AIR 1978 SC 449. In Vishnu Agencies' case
+AIR 1978 SC 449, two appeals were connected which had been disposed of together. One was by
+M/s. Vishnu Agencies (Pvt.) Ltd. and the other by Dhanyalakshmi Rice Mills. Vishnu Agencies case
+AIR 1978 SC 449 relates to the West Bengal Cement Control Act (26 of 1948) which regulated
+production, supply and distribution of cement at a fair price. A Cement Control Order was passed
+under the provisions of the Cement Control Act which .provided that no sale or purchase of cement
+could be made except in accordance with the conditions contained in the order issued by the
+Director of Consumer Goods, West Bengal or by officers authorised by him. The cement could be
+purchased only by a permit-holder from the dealer specified therein at a fixed price. The manner of
+payment and time of delivery of goods was also specified under the licence. Vishnu Agencies who
+held the licence of a dealer under the Licensing Order, made supplies from time to time under the
+specific orders issued by the authorities concerned which was sought to be taxed and the tax was
+paid but subsequently the same was challenged in view of the decision of the Honourable Supreme
+Court in New India Sugar Mills case AIR 1963 SC 1207 and on the basis of the same it was
+contended that in view of the provisions of the Cement Control Act and the Cement Control Order,
+no volition or area of bargaining was left to the parties nor there was any element of mutual consent
+or agreement.
+39. The other appeal, namely, Dhanyalakshmi Rice Mills related to the Andhra Pradesh Paddy
+Procurement (Levy) Order under which paddy growers in the State were to sell the paddy to the
+licensed agent appointed by the Government at a fixed price. It was held that the transaction
+amounted to sale and was taxable. The appeal was preferred against the said order of the
+Honourable High Court. In the judgment of the Honourable Supreme Court, there is an observation
+in para 16 mentioning that counsel appearing in the Andhra Pradesh appeals agreed that the
+decision in the Calcutta case would govern those appeals also. While holding that the transactions
+under the Control Orders amount to sale, the Honourable Supreme Court observed in para 33 of the
+judgment as under :
+33. In order, therefore, to determine whether there was any agreement or
+consensuality between the parties, we must have regard to their conduct at or about
+the time when the goods changed hands. In the first place, it is not obligatory on a
+trader to deal in cement nor on any one to acquire it. The primary fact, therefore, is
+that the decision of the trader to deal in an essential commodity is volitional. Such
+volition carries with it the willingness to trade in the commodity strictly on the terms
+of the Control Orders. The consumer too, who is under no legal compulsion to
+acquire or possess cement, decides as a matter of his volition to obtain it on the terms
+of the permit or the order of allotment issued in his favour. That brings the two
+parties together, one of whom is willing to supply the essential commodity and the
+other to receive it. When the allottee presents his permit to the dealer, he signifies his
+willingness to obtain the commodity from the dealer on the terms stated in the
+permit. His conduct reflects his consent. And when, upon the presentation of the
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 15Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+permit, the dealer acts upon it, he impliedly agrees to supply the commodity to the
+allottee on the terms by which he has voluntarily bound himself to trade in the
+commodity. His conduct too reflects his consent. Thus, though both parties are
+bound to comply with the legal requirements governing the transaction, they agree as
+between themselves to enter into the transaction on statutory terms, one agreeing to
+supply the commodity to the other on those terms and the other agreeing to accept it
+from him on the very terms. It is, therefore, not correct to say that the transactions
+between the appellant and the allottees are not consensual. They, with their free
+consent, agreed to enter into the transactions.
+40. It has further been observed in para 34 that though the terms of the transaction were mostly
+predetermined by law, but still there was some area in which there was possibility of bargaining and
+consensual arrangement. In that connection it was observed that it was open to the dealer to charge
+lesser price or the parties could fix the time of delivery of goods. There was also a provision
+conferring a right on the allottee to ask for weighment of goods which, according to the Honourable
+Supreme Court, shows that the allottee could reject the goods if they were short in weight just as
+indeed, he would have the undoubted right to reject them on the ground that they were not of the
+requisite quality. The observation of the Honourable Supreme Court further is that though the areas
+of the agreement were minimal, still the parties to the transactions had the freedom to bargain and
+this circumstance was against the view that the transactions were not consensual. After considering
+several decisions, their Lordships of the Honourable Supreme Court observed in para 39 of the
+judgment about the decision in New India Sugar Mills case AIR 1963 SC 1207 as follows :
+We are of the opinion that the true position in law is as is set out in the dissenting
+judgment of Hidayatullah, J., and that the view expressed by Kapur and Shah, JJ., in
+the majority judgment, with deference, cannot be considered as good law. Bachawat,
+J., in Andhra Sugars [1968] 1 SCR 705 was, with respect, right in cautioning that the
+majority judgment of Kapur and Shah, JJ., in New India Sugar Mills AIR 1963 SC
+1207 'should not be treated as an authority for the proposition that there can be no
+contract of sale under compulsion of a statute' (pages 715-716 of SCR) (at page 606 of
+AIR). Rather than saying that, in view of the growing uncertainty of the true legal
+position on the question, we are constrained to say, namely, that the majority
+judgment in New India Sugar Mills AIR 1963 SC 1207 is not good law. Bachawat, J.,
+preferred to adopt the not unfamiliar manner of confining the majority decision to
+'the special facts of that case'.
+41. About the decision in Gannon Dunkerley's case AIR 1958 SC 560, which was followed in New
+India Sugar Mills case AIR 1963 SC 1207, their Lordships observed in para 40 of the judgment that
+the decision in Gannon Dunkerley's case AIR 1958 SC 560 was in a different context and the enquiry
+was only to a limited extent as to whether the material used by a building contractor ' during the
+course of execution of the contract amounted to sale. It was held that it did not amount to sale in the
+context of the definition of the word "sale" under the Sale of Goods Act and since the ingredients of
+the "sale" were not present as laid down in Benjamin on Sale, therefore, no tax could be levied on
+such material. The reasons given in Gannon Dunkerley's case AIR 1958 SC 560 for holding that the
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 16Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+using of material did not amount to "sale" has been summarised by the Honourable Supreme Court
+in para 40 of the judgment where it has also been indicated that Gannon Dunkerley's case AIR 1958
+SC 560 was not rightly followed in New India Sugar Mills case AIR 1963 SC 1207. The observations
+are as follows :
+Thus, the two reasons given by the court in support of its conclusion were, firstly, that
+in a building contract there was no agreement, express or implied, to sell 'goods' and
+secondly, that property in the building materials does not pass in the materials
+regarded as 'goods' but it passes as part of immovable property. In New India Sugar
+Mills [1963] 14 STC 316 (SC), the commodity with which the court was concerned was
+sugar and was delivered as sugar just as in the instant case, the commodity with
+which we are concerned is cement which was delivered as cement. That meets the
+first reason in Gannon Dunkerley [1958] 9 STC 353 (SC). As regards the second, it is
+quite clear that the tax was demanded after the commodity had changed hands or,
+putting it in the words of the Sale of Goods law, after property in it had passed. With
+great respect, therefore, the majority in New India Sugar Mills [1963] 14 STC 316
+(SC) was in error in saying that 'the ratio decidendi of that decision [Gannon
+Dunkerley [1958] 9 STC 353 (SC)] must govern this case'. The question before us
+which was the very question involved in New India Sugar Mills [1963] 14 STC 316
+(SC), viz., whether a transaction effected in accordance with the obligatory terms of a
+statute can amount to a 'sale' did not arise in Gannon Dunkerley [1958] 9 STC 353
+(SC).
+42. Their Lordships of the Honourable Supreme Court have also in para 41 of the judgment referred
+to the case [1955] AC 696 (Kirkness v. John Hudson and Company Ltd.) which was followed in
+Gannon Dunkerley's case AIR 1958 SC 560. The court observed thus :
+In fact, if we may say so with great respect, the observation in Gannon Dunkerley
+[1958] 9 STC 353 (SC) that the decision in Kirkness [1955] AC 696 concluded the
+question before the court seems to us somewhat wide of the mark. Since Kirkness
+[1955] AC 696 involved an altogether different point, we would have avoided
+referring to it but the reliance upon it in Gannon Dunkerley [1958] 9 STC 353 (SC)
+may lead to a misunderstanding regarding its true ratio which needs to be clarified.
+43. Their Lordships of the Honourable Supreme Court have thereafter observed that a more relevant
+decision on the point would be [1962] Ch 376 (Ridge Nominees Ltd. v. Inland Revenue
+Commissioners). In that case, under certain circumstances, the transfer of shares had to be executed
+under the statutory provisions even against the consent of one of the parties. The question was
+whether a transfer of shares under such circumstances was required to be stamped as a transfer on
+sale. The question, therefore, was whether the transaction amounted to sale even though element of
+mutual consent was totally absent. It was observed by Lord Evershed, M.R., that what the
+Companies Act had done, by the machinery it had created, was that in truth it brought into being a
+transaction which had apparently all characteristics of transfer on sale. While concurring with the
+decision Donovan, L.J., observed that the dissent of the shareholder was overridden by an assent
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 17Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+which the statute imposed upon him though it may be fictional. Danckwerts, L.J., also concurring
+with the judgment observed that a sale may not always require the consensual element and that
+there may be a compulsory sale of property in which the owner is compelled to part with his
+property against his will.
+44. While dealing with the earlier decision in Chittar Mai's case AIR 1970 SC 2000, the Honourable
+Supreme Court has observed in para 44 of the judgment as follows :
+This decision is clearly distinguishable since the provisions of the Wheat
+Procurement Order were construed by the court as being in the nature of compulsory
+acquisition of property, obliging the dealer to supply wheat from day to day. Cases of
+compulsory acquisition of property by the State stand on a different footing since
+there is no question in such cases of offer and acceptance nor of consent, either
+express or implied.
+45. Further their Lordships of the Supreme Court in para 45 of the judgment clarified the position as
+follows :
+We would, however, like to clarify that though compulsory acquisition of property
+would exclude the element of mutual assent which is vital to a sale, the learned
+Judges were, with respect, not right in holding in Chittar Mai AIR 1970 SC 2000 that
+even if in respect of the place of delivery and the place of payment of price, there
+could be a consensual arrangement, the transaction will not amount to a sale (page
+677 of SCR) (at page 2004 of AIR). The true position in law is as stated above,
+namely, that so, long as mutual assent, express or implied, is not totally excluded the
+transaction will amount to a sale. The ultimate decision in Chittar Mai [1970] 26 STC
+344 (SC) can be justified only on the view that Clause 3 of. the Wheat Procurement
+Order envisages compulsory acquisition of wheat by the State Government from the
+licensed dealer. Viewed from this angle, we cannot endorse the court's criticism of the
+Full Bench decision of the Allahabad High Court in Commissioner, Sales Tax, U.P. v.
+Ram Bilas Ram Gopal AIR 1970 All. 518 which held while construing Clause 3 that so
+long as there was freedom to bargain in some areas the transaction could amount to a
+sale though effected under compulsion of a statute. Looking at the scheme of the U.P.
+Wheat Procurement Order, particularly Clause 3 thereof, this court in Chittar Mai
+[1970] 26 STC 344 seems to have concluded that the transaction was, in truth and
+substance, in the nature of compulsory acquisition, with no real freedom to bargain
+in any area. Shah, J., expressed the court's interpretation of Clause 3 in no uncertain
+terms by saying that 'it did not envisage any consensual arrangement'.
+46. From the above observations, what emerges out is that, no doubt, cases of compulsory
+acquisition of property stand on different footings but in those transactions where there is some
+area of consensual arrangement and some field for volition is left untouched by the legislation, the
+transactions will take the colour of sale. The criticism of the Full Bench decision of this Court (AIR
+1970 All. 518: Commissioner of Sales Tax, U.P. v. Ram Bilas Ram Gopal) in the case of Chittar Mal
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 18Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+AIR 1970 SC 2000 has not been approved by the Honourable Supreme Court in Vishnu Agencies'
+case AIR 1978 SC 449. In other words, the view taken in the Full Bench decision of this Court was
+approved where it was held that the sale made by a dealer to the Regional Food Controller under the
+U. P. Wheat Procurement (Levy) Order, 1959 amounted to sale and exigible to sales tax. It was held
+that a sale under the compulsion of a statute is still a sale. Whatever coercive force is used to bring
+about the transaction must be traced to legislation. It cannot be attributed to the State Government
+as a party to the transaction. The terms of the contract, it has been observed, are supplied by the
+statute.
+47. In our opinion, it is clear that the decision in Chittar Mai's case AIR 1970 SC 2000 does not hold
+good in view of Vishnu Agencies' case AIR 1978 SC 449, in respect of transactions where there still
+remains some area of consensual arrangement. In this regard with due respect we are unable to
+agree with the decision of the Punjab High Court in Writ Petition No. 1573 of 1983 (Food
+Corporation of India v. State of Haryana [1987] 66 STC 7). From the different decisions and
+observations made therein it clearly comes out that there may be compulsory sales even against the
+wishes and consent of one of the parties, still the transaction may amount to sale. In such cases the
+dissent is overridden by an assent supplied by the statute. The statute brings the two parties
+together, restricting their area of consensual agreement howsoever minimal it may be, none the less
+property passes on to the purchaser for a price which is the essential feature of "sale"; therefore,
+such transaction amounts to "sale". So we may have to find out if there is any volition left with the
+parties or not in the case in hand.
+48. To show that area of volition between the parties still existed despite restrictions placed under
+the Levy Orders, learned counsel for the opposite parties has first submitted that there is no
+provision regarding mode of payment of price of the foodgrains which were purchased under the
+Levy Orders. Therefore, it was open to the parties to settle their own terms and conditions regarding
+manner and mode of payment. Next it has been pointed out that it was open to the Food
+Corporation of India to reject the foodgrains offered by the State Government if it thought that the
+foodgrains did not conform to the standard of quality as required by it. In this connection, an
+averment has been made in para 13 of the counter-affidavit filed on behalf of the opposite parties by
+Sri R. B. Agarwal stating therein that the petitioner had rejected 142 metric tonnes of wheat which
+was offered by the State Government. This, according to the opposite parties shows that the
+petitioner reserved the right to accept or reject the offer of the State Government in the
+circumstances mentioned above. A reply to the said averment has been made in para 12(e) of the
+rejoinder affidavit on behalf of the petitioner through Sri S. R. Singh wherein it has been stated that
+the Food Corporation of India rejects and does not accept the foodgrains which are not in
+accordance with the specifications fixed by the Government of India. So far rejection of 142 metric
+tonnes of wheat is concerned, it has been said that the quantity was just a drop in the ocean.
+However, it appears that on the second thought the petitioner tried to explain this matter in its
+supplementary affidavit dated 20th May, 1986 sworn by Sri S. R. Singh. In this supplementary
+affidavit it has been stated that the opposite parties did not aver in the counter-affidavit that 142
+metric tonnes of wheat pertained to levy transaction, and in respect of non-lifting of 47 metric
+tonnes of rice it has been stated that it was advance levy which was taken by the State Government;
+therefore, it was not lifted. However, it has been accepted in para 4 that the Food Corporation of
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 19Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+India is bound to accept the levy foodgrains provided they are of the prescribed specifications. So a
+total sum of situation which emerges out is that some area of consensual arrangement still remains;
+that is to say, if the Food Corporation of India is not satisfied about the quality of the foodgrain, it
+has a right to reject the same. In the case of Vishnu Agencies [1978] 42 STC 31; AIR 1978 SC 449,
+their Lordships of the Supreme Court had discussed various conditions as contained in the Control
+Order, while considering the question of area of consensual arrangement and volition between the
+parties to the transactions. One of the clauses taken into account was related to weighment of goods.
+The observations in that connection are as follows :
+Paragraph 8A which confers on the allottee the right to ask for weighment of goods
+also shows that he may reject the goods on the ground that they are short in weight
+just as indeed, he would have the undoubted right to reject them on the ground that
+they are not of the requisite quality. The circumstance that in these areas, though
+minimal, the parties to the transactions have the freedom to bargain militates against
+the view that the transactions are not consensual.
+49. In para 46 of the judgment in Vishnu Agencies' case AIR 1978 SC 449, their Lordships of the
+Supreme Court while considering the case of Solar Jung Sugar Mills Ltd. AIR 1972 SC 87, took note
+of the fact that the Control Orders had left to the parties the option in regard to taking higher
+quantity than stipulated in the Orders, a higher price than the minimum fixed as also the form and
+manner of payment. It was further observed that a factory could reject goods after inspection which
+indicated not only freedom in the formation but also in the performance of the contract.
+50. The above observation of the Honourable Supreme Court leaves no room for doubt that area of
+consensual arrangement did exist between the parties. In the Full Bench case, Commissioner of
+Sales Tax v. Ram Bilas Ram Gopal AIR 1970 All. 518 which has implied approval of the Supreme
+Court in Vishnu Agencies' case AIR 1978 SC 449, one of the circumstances taken into account was
+that one of the parties to the transaction, namely, the State Government, had option to say or decide
+when it will stop purchasing wheat from the dealer. So it was a matter left open to one of the parties.
+Same is the position in the present case. The question of mode of payment of price was also taken
+into account in the abovementioned Full Bench decision in Ram Bilas Ram Gopal AIR 1970 All. 518.
+Therefore, it cannot be said that the area of consensual arrangement is absolutely excluded in the
+levy transactions.
+51. It has next been vehemently urged that the millers are required to part with a certain percentage
+of their stocks irrespective of the fact that whether the foodgrains belong to the millers or not. The
+stock of miller may include such stock of foodgrains which may have been handed over by the
+farmers or other persons for hulling. This, according to the learned counsel for the petitioner, is one
+of the strong ingredients to establish that the transaction amounts to acquisition of property,
+otherwise ordinarily a person can sell only the property in which he has his right and title. The
+argument at the first sight appears to be fascinating but we find that it is devoid of any merit. As a
+matter of fact, the Levy Orders prescribe a mode of taking delivery of foodgrains through the millers
+even though goods may not belong to them. It is only title of the owner of the food-grains which
+passes on to the State Government and the price in turn is actually paid to the owner of the property
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 20Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+through the millers. The millers are only the medium in the transaction through whom the required
+quantity of foodgrains passes on to the State Government. The provisions of the Zamindari
+Abolition and Land Reforms Act and the Imposition of Ceiling on Land Holdings Act, etc., which
+have been referred to provide for automatic vesting of rights in the State Government from a
+particular date. Nothing further is required to be done for passing on the title and the effect of the
+statutory provision automatically takes effect divesting a person of his right and title and vesting of
+the same in the State. But that is not so under the Levy Orders of the foodgrains. As observed earlier,
+we find that the millers are only a medium for passing on the foodgrains of the farmers or other
+persons to the Slate. May be that it has been provided for the sake of convenience in taking delivery
+of foodgrains. We are, therefore, of the view that only this feature of the Levy Orders, viz., taking of
+stock of foodgrains from millers, does not convert the sale transaction into acquisition of property.
+52. On behalf of the opposite parties Sri V. Upadhyay has next submitted that in the case of Gannon
+Dunkerley AIR 1958 SC 560 and other subsequent cases which have followed the said case, the
+interpretation of the word "sale" was done on the basis of the definition of the word "sale" under the
+Sales Tax Act and the Sale of Goods Act but there has been constitutional amendment as well as
+amendments in the U. P. Sales Tax Act as a result of which transactions under the Levy Orders are
+covered under the term "sale" without there being any room for doubt. It has further been submitted
+that the amendment was necessitated because of interpretation of "sale" as given in different cases
+by the Honourable Supreme Court.
+53. By means of the Constitution '(Forty-sixth Amendment) Act, 1982, Clause (29A) has been
+inserted after Clause (29) of Article 366 of the Constitution. The newly added Clause (29A) is as
+follows :
+(29A) 'tax on the sale or purchase of goods' includes-
+(a) a tax on the transfer, otherwise than in pursuance of a contract, of property in any
+goods for cash, deferred payment or other valuable consideration;
+(b) a tax on the transfer of property in goods (whether as goods or in some other
+form) involved in the execution of a works contract;
+(c) a tax on the delivery of goods on hire-purchase or any system of payment by
+instalments;
+(d) a tax on the transfer of the right to use any goods for any purpose (whether or not
+for a specified period) for cash, deferred payment or other valuable consideration;
+(e) a tax on the supply of goods by any unincorporated association or body of persons
+to a member thereof for cash, deferred payment or other valuable consideration;
+(f) a tax on the supply, by way of or as part of any service or in any other manner
+whatsoever, of goods, being food or any other article for human consumption or any
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 21Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+drink (whether or not intoxicating), where such supply or service, is for cash,
+deferred payment or other valuable consideration, and such transfer, delivery or
+supply of any goods shall be deemed to be a sale of those goods by the person making
+the transfer, delivery or supply and a purchase of those goods by the person to whom
+such transfer, delivery or supply is made.
+54. Learned counsel for the opposite parties has placed before us the Statement of Objects and
+Reasons for passing the Forty-sixth Amendment Act, which reads as follows :
+"Statement of Objects and Reasons Sales tax laws enacted in pursuance of the
+Government of India Act, 1935, as also the laws relating to sales tax passed after the
+coming into force of the Constitution proceeded on the footing that the expression
+'sale of goods', having regard to the rule as to broad interpretation of entries in the
+legislative lists, would be given a wider connotation. However, in Gannon
+Dunkerley's case AIR 1958 SC 560, the Supreme Court held that the expression 'sale
+of goods' as used in the entries in the Seventh Schedule to the Constitution has the
+same meaning as in the Sale of Goods Act, 1930. This decision related to works
+contracts.
+2. By a series of subsequent decisions, the Supreme Court has, on the basis of the
+decision in Gannon Dunkerley's case [1958] 9 STC 353 (SC), held various other
+transactions which resemble, in substance, transactions by way of sales, to be not
+liable to sales tax. As a result of these decisions, a transaction, in order to be subject
+to the levy of sales tax under entry 92A of the Union List or entry 54 of the State List,
+should have the following ingredients, namely, parties competent to contract, mutual
+assent and transfer of property in goods from one of the parties to the contract to the
+other party thereto for a price.
+3. This position has resulted in scope for avoidance of tax in various ways. An
+example of this is the practice of inter-State consignment transfers, i.e., transfer of
+goods from head office or a principal in one State to a branch or agent in another
+State or vice versa or transfer of goods on consignment account, to avoid the payment
+of sales tax on inter-State sales under the Central Sales Tax Act. While in the case of a
+works contract, if the contract treats the sale of materials separately from the cost of
+the labour, the sale of materials would be taxable, but in the case of an indivisible
+works contract, it is not possible to levy sales tax on the transfer of property in the
+goods involved in the execution of such contract as it has been held that there is no
+sale of the materials as such and the property in them does not pass as movables.
+Though practically the purchaser in a hire-purchase agreement gets the goods on the
+date of the hire-purchase, it has been held that there is sale only when the purchaser
+exercises the option to purchase at a much later date and therefore only the
+depreciated value of the goods involved in such transaction at the time the option to
+purchase is exercised becomes assessable to sales tax. Similarly, while sale by a
+registered club or other association of persons (the club or association of persons
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 22Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+having corporate status) to its members is taxable, sales by an unincorporated club or
+association of persons to its members is not taxable as such club or association, in
+law, has no separate existence from that of the members. In the Associated Hotels of
+India case AIR 1972 SC 1131, the Supreme Court held that there is no sale involved in
+the supply of food or drink by a hotelier to a person lodged in the hotel.
+4. In the New India Sugar Mills case AIR 1963 SC 1207, the Supreme Court took the
+view that in the transfer of controlled commodities in pursuance of a direction under
+a Control Order, the element of volition by the seller, or mutual assent, is absent and,
+therefore, there is no sale as defined in the Sale of Goods Act, 1930. However, in Oil
+and Natural Gas Commission v. State of Bihar AIR 1976 SC 2478, the Supreme Court
+had occasion to consider its earlier decisions with regard to the liability of transfers of
+controlled commodities to be charged to sales tax. The Supreme Court held that
+where there are any statutory compulsions, the statute itself should be treated as
+supplying the consensus and furnishing the modality of the consensus. In Vishnu
+Agencies v. Commercial Tai Officer AIR 1978 SC 449, six of the seven Judges
+concurred in overruling the decision in New India Sugar Mills case [1963] 14 STC 316
+(SC) while the seventh Judge held the case to be distinguishable. It is, therefore,
+considered desirable to put the matter beyond any doubt.
+5. The various problems connected with the power of the States to levy a tax on the
+sale of goods and with the Central Sales Tax Act, 1956, were referred to the Law
+Commission of India. The Commission considered these matters in their Sixty-first
+Report and, recommended inter alia certain amendments in the Constitution if as a
+matter of administrative policy it is decided to levy tax on transactions of the nature
+mentioned in the preceding paragraphs.
+6. Device by way of lease of films has also been resulting in avoidance of sales tax.
+The main right in regard to a film relates to its exploitation and after exploitation for
+a certain period of time, in most cases, the film ceases to have any value. It is,
+therefore, seen that instead of resorting to the outright sale of a film, only a lease or
+transfer of the right to exploitation is made.
+7. There were reports from State Governments to whom revenues from sales tax have
+been assigned, as to the large scale avoidance of Central sales tax leviable on
+inter-State sales of goods through the device of consignment of goods from one State
+to another and as to the leakage of local sales tax in works contracts, hire-purchase
+transactions, lease of films, etc. Though Parliament could levy a tax on these
+transactions, as tax on sales has all along been treated as an item of revenue to be
+assigned to the States, in regard to these transactions which resemble sales also, it is
+considered that the same policy should be adopted.
+8. Besides the abovementioned matters, a new problem has arisen as a result of the
+decision of the Supreme Court in Northern India Caterers (India) Ltd. v. Lt. Governor
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 23Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+of Delhi AIR 1978 SC 1591. States have been proceeding on the basis that the
+Associated Hotels of India case [1972] 29 STC 474 (SC) was applicable only to supply
+of food or drink by a hotelier to a person lodged in the hotel and that tax was leviable
+on the sale of food-stuffs by a restaurant. But overruling the decision of the Delhi
+High Court, the Supreme Court has held in the above case that service of meals
+whether in a hotel or restaurant does not constitute a sale of food for the purpose of
+levy of sales tax but must be regarded as the rendering of a service in the satisfaction
+of a human need or ministering to the bodily want of human beings. It would not
+make any difference whether the visitor to the restaurant is charged for the meal as a
+whole or according to each dish separately.
+9. It is, therefore, proposed to suitably amend the Constitution to include in Article
+366 a definition of 'tax on the sale or purchase of goods' by inserting a new Clause
+(29A). The definition would specifically include within the scope of that expression
+tax on-
+(i) transfer for consideration of controlled commodities;
+(ii) the transfer of property in goods involved in the execution of a works contract;
+(iii) delivery of goods on hire-purchase or any system of payment by instalments;
+(iv) transfer of the right to use any goods for any purpose for cash, deferred payment
+or other valuable consideration;
+(v) the supply of goods by an unincorporated association or body of persons to a
+member thereof for cash, deferred payment or other valuable consideration;
+(vi) the supply, by way of or as part of any service, of food or any drink for cash,
+deferred payment or other valuable consideration. (see Clause 4).
+10. A new entry is sought to be inserted in the Union List in the Seventh Schedule as entry 92B, to
+enable the levy of tax on the consignment of goods where such consignment takes place in the
+course of inter-State trade or commerce, (see Clause 5).
+11. Clause (1) of Article 269 is proposed to be amended so that the tax levied on the consignment of
+goods in the course of inter-State trade or commerce shall be assigned to the States. Clause (3) of
+that article is proposed to be amended to enable Parliament to formulate by law principles for
+determining when a consignment of goods takes place in the course of inter-State trade or
+commerce, (see Clause 2).
+12. Clause (3) of Article 286 is proposed to be amended to enable Parliament to specify, by law,
+restrictions and conditions in regard to the system of levy, rates and other incidents of the tax on the
+transfer of goods involved in the execution of a works contract, on the delivery of goods on
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 24Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+hire-purchase or any system of payment by instalments and on the right to use any goods, (see
+Clause 3).
+13. The proposed amendments would held in the augmentation of the State revenues to a
+considerable extent. Clause 6 of the Bill seeks to validate laws levying tax on the supply of food or
+drink for consideration and also the collection or recoveries made by way of tax under any such law.
+However, no sales tax will be payable on food or drink supplied by a hotelier to a person lodged in
+the hotel during the period from the date of the judgment in the Associated. Hotels of India case
+[1972] 29 STC 474 (SC) and the commencement of the present Amendment Act if the conditions
+mentioned in Sub-clause (2) of Clause 6 of the Bill are satisfied. In the case of food or drink supplied
+by restaurants this relief will be available only in respect of the period after the date of judgment in
+the Northern India Caterers (India) Limited case [1978] 42 STC 386 (SC) and the commencement of
+the present Amendment Act.
+14. The Bill seeks to achieve the above objects.
+55. Clause 6 of the Amendment Act has also been referred to, which is a validation and exemption
+clause. Clause 6 reads as follows :
+6. Validation and exemption.-(1) For the purposes of every provision of the
+Constitution in which the expression 'tax on the sale or purchase of goods' occurs,
+and for the purposes of any law passed or made, or purporting to have been passed or
+made, before the commencement of this Act, in pursuance of any such provision,-
+(a) the said expression shall be deemed to include, and shall be deemed always to
+have included, a tax (hereafter in this section referred to as the aforesaid tax) on the
+supply, by way of or as part of any service or in any other manner whatsoever, of
+goods, being food or any other article for human consumption or any drink (whether
+or not intoxicating) for cash, deferred payment or other valuable consideration; and
+(b) every transaction by way of supply of the nature referred to in Clause (a) made
+before such commencement shall be deemed to be, and shall be deemed always to
+have been, a transaction by way of sale, with respect to which the person making such
+supply is the seller and the person to whom such supply is made, is the purchaser,
+and notwithstanding any judgment, decree or order of any court, tribunal or
+authority, no law which was passed or made before such commencement and. which
+imposed or authorised the imposition of, or purported to impose or authorise the
+imposition of, the aforesaid tax shall be deemed to be invalid or ever to have been
+invalid on the ground merely that the legislature or other authority passing or making
+such law did not have competence to pass or make such law, and accordingly :-
+(i) all the aforesaid taxes levied or collected or purporting to have been levied or
+collected under any such law before the commencement of this Act shall be deemed
+always to have been validly levied or collected in accordance with law;
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 25Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+(ii) no suit or other proceeding' shall be maintained or continued in any court or
+before any tribunal or authority for the refund of, and no enforcement shall be made
+by any court, tribunal or authority of any decree or order directing the refund of, any
+such aforesaid tax which has been collected;
+(iii) recoveries shall be made in accordance with the provisions of such law of all
+amounts which would have been collected thereunder as such aforesaid tax if this
+section had been in force at all material times.
+(2) Notwithstanding anything contained in Sub-section (1), any supply of the nature
+referred to therein shall be exempt from the aforesaid tax-
+(a) where such supply has been made, by any restaurant or eating house (by whatever
+name called), at any time on or after the 7th day of September, 1978, and before the
+commencement of this Act and the aforesaid tax has not been collected on such
+supply on the ground that no such tax could have been levied or collected at that
+time; or
+(b) where such supply, not being any such supply by any restaurant or eating house
+(by whatever name called), has been made at any time on or after the 4th day of
+January, 1972, and before the commencement of this Act and the aforesaid tax has
+not been collected on such supply on the ground that no such tax could have been
+levied or collected at that time :
+Provided that the burden of proving that the aforesaid tax was not collected on any
+supply of the nature referred to in Clause (a) or, as the case may be, Clause (b), shall
+be on the person claiming the exemption under this sub-section.
+(3) For the removal of doubts, it is hereby declared that,-
+(a) nothing in Sub-section (1) shall be construed as preventing any person-
+(i) from questioning in accordance with the provisions of any law referred to in that
+sub-section, the assessment, reassessment, levy or collection of the aforesaid tax, or
+(ii) from claiming refund of the aforesaid tax paid by him in excess of the amount due
+from him under any such law; and
+(b) no act or omission on the part of any person, before the commencement of this
+Act, shall be punishable as an offence which would not have been so punishable if
+this Act had not come into force.
+56. The U.P. Sales Tax Act was also similarly amended by Act No. 25 of 1985. By means of this
+amendment,, Clause (h) of Section 2 of the U. P. Sales Tax Act has been substituted as follows :
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 26Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+(h) 'sale', with its grammatical variations and cognate expressions, means any
+transfer of property, in goods (otherwise than by way of a mortgage, hypothecation,
+charge or pledge) for cash or deferred payment or other valuable consideration, and
+includes-
+(i) a transfer, otherwise than in pursuance of a contract, of property in any goods for
+cash, deferred payment or other valuable consideration;
+(ii) a transfer of property in goods (whether as goods or in some other form) involved
+in the execution of a works contract;
+(iii) the delivery of goods on hire-purchase or any system of payment by instalments;
+(iv) a transfer of the right to use any goods for any purpose (whether or not for a
+specified period) for cash, deferred payment or other valuable consideration;
+(v) the supply of goods by any unincorporated association or body of persons to a
+member thereof for cash, deferred payment or other valuable consideration; and
+(vi) the supply, by way of or as part of any service or in any other manner whatsoever,
+of goods, being food or any other article for human consumption or any drink
+(whether or not intoxicating) where such supply or service is for cash, deferred
+payment or other valuable consideration;.
+57. The amendment was effected with effect from 13th September, 1985. There is also a validation
+clause which is Clause 17. It reads as follows:
+17. Validation.-(1) Notwithstanding any judgment, decree or order of any court or
+other authority, anything done or any action taken before the commencement of this
+section, which conforms to the provisions of the principal Act, as amended by this
+Act, shall be deemed to be and always to have been valid and lawful as if the
+provisions of this Act were in force at all material times.
+(2) Where, before the commencement of this section, any court or authority has, in any proceeding,
+made any assessment, levy or collection of any tax, or passed any order imposing any penalty or
+making any other demand under the principal Act, or passed any order modifying, setting aside or
+quashing (wholly or in part) such assessment, levy, collection, penalty or demand and such
+assessment or other order becomes, in consequence of the provisions of this Act, inconsistent with
+the provisions of the principal Act as amended by this Act, then, subject to the provisions of
+Sub-section (3), any party to the proceeding or the Commissioner of Sales Tax may, within six
+months from the date of such commencement, make an application to such court or authority for a
+review of the assessment or order, and thereupon such court or authority may review the proceeding
+and make such order, varying or revising the order previously made, as may be necessary to give
+effect to the provisions of this Act.
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 27Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+(3) The assessing, appellate or revising authority, as the case may be, may, within a period of one
+year from the commencement of this section or within the period specified in Section 22 of the
+principal Act, whichever expires later, make any rectification in any order passed by it where such
+rectification becomes necessary in consequence of the amendment of the principal Act by this Act :
+Provided that no rectification, which has the effect of enhancing the assessment,
+penalty or other dues, shall be made unless the authority concerned has given notice
+to the dealer or the person concerned of his intention to do so and has allowed him a
+reasonable opportunity of being heard.
+58. On the basis of amendments in the Constitution and the U. P. Sales Tax Act referred to above, it
+has been submitted on behalf of the opposite parties that the transactions which take place under
+the Levy Orders are fully covered as sales under Sub-clause (a) of Clause (29A) of Article 366 of the
+Constitution and under Clause (h) of Section 2 of the U. P. Sales Tax Act. Transfer of property in
+goods otherwise than in pursuance of a contract is included in the definition of the word "sale".
+Therefore, by the above inclusion the definition of "sale" as given under the Sale of Goods Act, to the
+extent it does not include such transactions, does not hold good for the purposes of the U. P. Sales
+Tax Act. It has further been submitted that the earlier cases relate to the definition of the word "sale"
+as it then stood. It may not be necessary to refer to those cases for the purposes of the meaning of
+the word "sale" after amendment. If a transaction or transfer of property in goods is covered under
+Clause (h) of Section 2 of the U. P. Sales Tax Act, then such transaction would be exigible to tax. We
+find that in the earlier decisions the main emphasis for not holding a transaction a "sale" was on the
+ground that there was no contract preceding the sale, which is a necessary ingredient of "sale"
+according to the definition of "sale" under the Sale of Goods Act and "Benjamin on Sale" as relied
+upon by the Honourable Supreme Court in the case of Gannon Dunkerley AIR 1958 SC 560.
+However, we have already noted that in some of the decisions, referred to earlier, it has been held
+that the consent to a transaction can be provided under the statute or dissent of a party to
+transaction of sale may be overridden by the statutory provisions. The contention of the opposite
+parties is that such a doubt which was lingering in respect of certain transactions has been removed
+by a clear provision about the meaning of the word "sale" by means of a constitutional provision as
+well as by subsequently amended provision under the U. P. Sales Tax Act.
+59. It has been submitted on .behalf of the opposite parties that the vires of the amended
+constitutional provision and the amended provision of the U. P. Sales Tax Act has not been
+challenged. That is to say, the competence of the legislature to define the word "sale" as it has been
+done is not in dispute nor the substantive amended provision is under challenge; therefore, a
+transfer of property in goods otherwise than in pursuance of a contract would mean "sale" as
+included in the definition. This position would lead to the conclusion that the petitioner does not
+and cannot object to the transactions under the Levy Orders amounting to sale for the reason of lack
+of agreement between the parties. It has been submitted that the transfer of property in goods does
+take place in the transactions under the Levy Orders for price. Whatever controversy existed earlier
+about such transactions, it has come to an end.
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 28Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+60. Learned counsel for the petitioner has submitted, no doubt that the validity of the amended
+provision has not been challenged but still the transactions under the Levy Orders would not be
+covered under the amended definition of the word "sale". He has again emphasised that the
+transaction under the Levy Order amounts to acquisition of property and not sale. It has been
+submitted that the compulsory acquisition and the sale are undisputedly two different concepts and
+connote different kinds of transactions. It has also been pointed out that these two different terms
+have been differently used in the Constitution under entry 54 of List II of the Seventh Schedule and
+entry 42 of List III of the Seventh Schedule. We have already made a reference to those entries in the
+earlier part of this judgment. Then reliance has been placed upon the observation made by the
+Honourable Supreme Court in Vishnu Agencies' case AIR 1978 SC 449 wherein it has been observed
+that the cases of compulsory acquisition stand on different footing. On this basis, it has been
+submitted that if transactions under the Levy Orders amount to acquisition of property, then such
+transactions would not be governed by the amended definition of the word "sale". In this
+connection, he has referred to the use of the word "transfer" occurring in Sub-clause (a) of Clause
+(29A) of Article 366 of the Constitution. It has been submitted that acquisition of property does not
+involve transfer. We are afraid, the argument is fallacious. The title in the property does pass on to
+the State in the cases of compulsory acquisition and such passing on of the title is nothing but
+transfer of rights and title of the holder of property. We have already held earlier that transactions
+under the Levy Orders do not amount to compulsory acquisition.
+61. It has then been submitted that latter part of Clause (29A) of Article 366 refers to transfer,
+delivery or supply of goods, meaning thereby that there has to be a transferor. Under the said
+provision a person making the transfer is deemed to have made the "sale" and purchase of those
+goods is made by one to whom the transfer, delivery or supply is made. It has been submitted that in
+levy transactions the millers have to transfer the foodgrains to the procuring agency though such
+foodgrains may not belong to them. Ordinarily a transferor cannot convey a title better than what he
+possesses. This is only in the cases of compulsory acquisition that the property vests in the State
+irrespective of right, title or encumbrances of the transferor or other parties. We have already dealt
+with this submission of the petitioner and we cannot lose sight of the fact that the amended
+provisions relate to inclusive definition and deemed "sale" of goods. In such matters, some element
+of fiction is necessarily there. That is to say, a certain thing or position is presumed for some specific
+purpose though actually it may not be there. Therefore, to test whether a transaction falls within the
+inclusive definition is not to be judged on the basis of general principle or ingredients of the term
+involved but on the basis of definition as provided in the statute.
+62. It was then submitted that the word "transfer" used under the new definition of the word "sale"
+should partake its colour and character of the nature of sale. It has been submitted that a general
+term takes colour from specific term used. In this connection, he has cited a case reported in AIR
+1973 SC 1293 (S.P. Watel v. State of U.P.) and has also referred to the Legislation and Interpretation
+by Jagdish Swaroop, page 117, 1974 Edition. Reliance has also been placed on AIR 1957 SC 18 (Ram
+Narain v. State of Uttar Pradesh). There is no dispute with the proposition that a word has to be
+given meaning keeping in view the context in which it is used and the company of other words which
+it keeps. But in our view, the question of searching such meaning arises when there is vagueness in
+the meaning of the word to be interpreted or there is some doubt about the same and it may not be
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 29Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+possible to have the plain meaning on the bare reading of the provision. We find no such ambiguity
+in this case. The inclusive definition has been provided for the word "sale" and there seems to be no
+difficulty in holding that where property in goods is transferred even though without in pursuance of
+a contract, for a price or consideration that would be "sale".
+63. It has then been submitted that while making the amendment, the legislature did not have in its
+mind the levy transactions. In different paragraphs of the Statement of Objects and Reasons for
+inserting Clause (29A) to Article 366 of the Constitution, different cases decided by the Supreme
+Court and different situations sought to be met were mentioned, e.g., about supply of food-stuffs,
+transactions of hire-purchase and material used in building contract, etc., but there was no mention
+of Chittar Mai's case AIR 1970 SC 2000 or about levy transactions. Thus there was no intention to
+cover levy transactions by means of the said amendment. We are afraid, it may not be necessary for
+us to go into the question of intention of the legislature as it would be necessary only in those cases
+where there is any doubt or ambiguity about the meaning of Sub-clause (a) of Clause (29A) of Article
+366 or Clause (h) to Section 2 of the U. P. Sales Tax Act. In any case, we note that mention of Vishnu
+Agencies' case AIR 1978 SC 449 and New India Sugar Mills' case AIR 1963 SC 1207 is certainly
+there. In Vishnu Agencies' case AIR 1978 SC 449, all the cases, namely, the cases of Chittar Mal AIR
+1970 SC 2000, Gannon Dunkerley AIR 1958 SC 560 and New India Sugar Mills AIR 1963 SC 1207,
+etc., had been considered. Therefore, the omission to specifically mention the case of Chittar Mal
+AIR 1970 SC 2000 is immaterial. We are, therefore, not of the view that the definition as it stands,
+does not cover the levy transactions. So long as the amended provisions remain unchallenged and
+stand as they are, it would be difficult to hold that the transactions under the Levy Orders would not
+be covered under the said amended definition of "sale" which includes a transaction of transfer of
+property in goods otherwise than in pursuance of a contract for cash payment or consideration, etc.
+We find that this amendment was not taken into consideration by the Division Bench of the Punjab
+High Court in Writ Petition No. 1573 of 1983 (Food Corporation of India, Karnal v. State of Haryana
+[1987] 66 STC 7).
+64. Learned counsel for the opposite parties, Sri V.B. Upadhyay, has referred to a decision of this
+Court 1985 ATJ 585 (Pandit Restaurant v. State of U.P.). In this case, it appears that M/s. Pandit
+Restaurant had challenged the assessment on the ground that there was no sale when food or drink
+is supplied to a guest staying in a hotel as held in AIR 1978 SC 1591 [Northern India Caterers (India)
+Ltd. v. Lt. Governor of Delhi]. However, such a supply made to the guest was included as "sale" by
+an amendment in Article 366 of the Constitution and U. P. Act No. 25 of 1985. In this case it was
+also considered whether such amendment could retrospectively be made or not. The Division Bench
+of this Court upheld the validity of amending Act No. 25 of 1985 as well as upheld the retrospectivity
+of the amended provision. A reference was also made to an unreported decision of this Court by
+Honourable Mr. Justice N. D. Ojha, as he then was, in Sales Tax Revision No. 171 of 1983 and Sales
+Tax Revision No. 184 of 1983 (Commissioner, Sales Tax, U.P. v. Rajpur Brothers), decided on 25th
+April, 1984. It appears that certain restaurant owners had challenged the levy of sales tax on items
+supplied to the customers, e.g., sweets, tea, poori, etc., on the strength of decision in Northern India
+Caterers' case AIR 1978 SC 1591. It appears that when these revisions were decided, the Forty-sixth
+Amendment of the Constitution had taken place as a result of which Clause (29A) to Article 366 of
+the Constitution was added but a similar amendment under the U. P. Sales Tax Act had not yet
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 30Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+taken place. This Court had taken the view that although the definition of "sale" as then stood under
+the Sales Tax Act was not the same, yet it was covered by the definition of the word "sale" as
+amended under Clause (29A) of Article 366 of the Constitution of India and the items were found to
+be exigible to sales tax.
+65. On the question of amendment we may refer to para 49 onwards in the judgment of the Vishnu
+Agencies' case AIR 1978 SC 449 where necessity to amend and change the laws, in keeping with
+times, has been commented upon. In this connection, para 51 may be usefully reproduced as under:
+Anson is perhaps over-optimistic in saying that there has been a fundamental change
+in social outlook and in the legislative policy towards contract. Anyway, with the high
+ideals of the preamble and the directive principles of our Constitution there has to be
+such a fundamental change in judicial outlook. Instances given in Cheshire and
+Anson have their parallels in India too, wherein freedom of contract has largely
+become an illusion. The policy of our Parliament in regard to contracts, including
+those involved in sale of goods, has still to reflect recognition of the necessity for a
+change, which could be done by a suitable modification of the definition of 'sale' of
+goods.
+66. It is evident that it was expressed quite early by the Honourable Supreme Court that there was
+necessity to amend the definition of the word "sale" which has ultimately been done by the
+forty-sixth amendment. Developing concepts shall definitely take their place which is irresistible due
+to changing circumstances, needs and requirements of the society. Something which may have
+withstood test of time two centuries ago, may not necessarily hold good today due to vast
+socio-economic changes as well as change in outlook and obligations of the State. With the change of
+definition of the word "sale" in the Constitution and by the U. P. Amendment Act, the whole position
+stands changed and transactions covered under the Levy Orders squarely fall within the inclusive
+definition of the word "sale".
+67. On behalf of the petitioners, explanation II to Sub-section (1) of Section 3-D of the U. P. Sales
+Tax Act has also been challenged. Before reproducing explanation II to Section 3-D(1), it would be
+appropriate to refer to Section 3 which is the taxing provision and Section 3-D(1). Section 3 reads as
+follows :
+Section 3. Liability to tax under the Act.-(1) Subject to the provisions of this Act,
+every dealer shall, for each assessment year, pay a tax at the rates provided by or
+under Section 3-A, or Section 3-D on his turnover of sales or purchases or both, as
+the case may be, which shall be determined in such manner as may be prescribed.
+(2) No dealer shall, except as otherwise provided in Section 18, be liable to tax under
+Sub-section (1) if, during the assessment year, the aggregate of his turnover of-
+(a) purchases of goods notified under Section 3-D;
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 31Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+(b) purchases liable to tax under any other provision of this Act;
+(c) sale of goods notified under Section 3-D where such goods have not been
+purchased within the State;
+(d) sales of all goods (except those notified under Section 3-D), whether such sale is
+made by the dealer directly or through his branch, depot or agent inside the State, in
+the course of inter-State trade or commerce or outside the State, is less than fifty
+thousand rupees in the case of manufacturers and one lakh rupees, in the case of
+other dealers, or such larger amount as the State Government may, by notification, in
+the Gazette, specify in that behalf either in respect of all dealers in any goods or in
+respect of a particular class of such dealers.
+(3) ...
+(4) ...
+68. Section 3-D of the U. P. Sales Tax Act provides as follows :
+Section 3-D. Levy of purchase or sales tax on certain goods.-(I) Except as provided in
+Sub-section (2), there shall be levied and paid, for each assessment year or part
+thereof, a tax on the turnover, to be determined in the prescribed manner,-
+(a) of first purchases of opium, at such rate not exceeding twenty-six per cent,
+(b) of first purchases of such other goods at such rate not exceeding-
+(i) the maximum rate for the time being specified in Section 15 of the Central Sales
+Tax Act, 1956 (Act 74 of 1956), in respect of goods declared by Section 14 of that Act
+to be of special importance in inter-State trade or commerce, and
+(ii) fifteen per cent in respect of other goods, and with effect from such date, as the
+State Government may, by notification in the Gazette, specify in relation to purchases
+made within Uttar Pradesh by a dealer (whether on his own account or on account of
+any one else), or through a dealer acting as a purchasing agent :
+Provided that such tax on the turnover of first purchase of mentha herb, shall be
+levied and paid at the rate of seven per cent, or at such rate not exceeding fifteen per
+cent as the State Government may, by notification, declare."
+"Explanation II.-(1) For the purposes of this sub-section, in relation to purchases of
+foodgrains in pursuance of any order made under Section 3 of the Essential
+Commodities Act, 1955, including any purchase in excess of the levy share, the
+purchase first made by a dealer from the State Government or its purchasing agent
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 32Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+shall be the first purchase of such food-grains and the tax shall accordingly be levied
+at that point on such dealer.
+(2) Where in respect of any goods notified under Sub-section (1), the purchaser
+whether on his own account or on account of any one else, is a person other than a
+registered dealer, there shall be levied and paid, for each assessment year or part
+thereof, a tax on the turnover, to be determined in the prescribed manner, of sale of
+such goods by the dealer who sells the goods or through whom the goods are sold to
+such purchaser; and the rate of tax shall be the same as notified under Sub-section
+(1).
+(3) ...
+(4) ...
+(5) ...
+(6) ...
+(7) ...
+(8) ...
+69. It may be mentioned here that explanation II was added by U.P. Act No. 23 of 1976 with
+retrospective effect. Under Clause (b) of Sub-section (1) of Section 3-D of the Sales Tax Act, the
+liability of tax is fastened upon the first purchaser. However, in the case of purchase of foodgrains in
+pursuance of any order under Section 3 of the Essential Commodities Act, 1955, a purchase made by
+a dealer from the State Government is to be considered as first purchase of such foodgrains
+including the quantity which may be purchased in excess of levy share.
+70. The result of the above explanation II is that although the foodgrains are actually first purchased
+by the procuring agencies or the State under the Levy Orders issued under Section 3 of the Essential
+Commodities Act from the growers, farmers, millers or stockists and so on but for the purposes of
+Section 3-D when such .foodgrain is purchased by a dealer from the State Government, that
+purchase is taken to be the first purchase. There is no dispute about the fact that after the levy
+foodgrains are procured by the State through its agencies, the same are then purchased by the Food
+Corporation of India which is also registered as a dealer under the U. P. Sales Tax Act. The liability is
+thus fastened upon the petitioner by virtue of explanation II to Section 3-D(1) of the U. P. Sales Tax
+Act quoted above.
+71. The validity of explanation II has been challenged on the ground that it is discriminatory and
+unreasonable. It has been submitted that why a commodity, namely, the foodgrains, procured under
+the Levy Orders in particular has been selected for explanation II. It has then been submitted that
+the foodgrains procured beyond the levy share, in any case, have been unreasonably included in the
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 33Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+provision as that is like any other sale by the Government to another person. It has been submitted
+that the explanation II has been added only with a purpose to tax the Food Corporation of India,
+inasmuch as there is no other agency which might be purchasing from the State the foodgrains
+procured in pursuance of Section 3 of the Essential Commodities Act. It has also been submitted
+that the foodgrains procured by other agencies when sold to the Food Corporation of India, the Food
+Corporation of India cannot be taxed as first purchaser. Liability of tax of other agencies cannot be
+passed on to the Food Corporation of India.
+72. So far procuring agencies are concerned, there is no doubt about the fact that the State procures
+foodgrains under the Levy Orders through different agencies, namely, Provincial Co-operative
+Federation, Essential Commodities Corporation, Agro Industrial Corporation and in certain areas
+through the Food Corporation of India. These are the agencies employed for the purposes of
+procuring the levy foodgrains. Such foodgrains which are procured under the Orders issued under
+the Essential Commodities Act, cannot be said to be belonging to the procuring agencies. Such
+foodgrains necessarily belong to the State. The petitioner could not show or establish that there is
+any other dealer who might be making purchases of such levy foodgrains from the State
+Government but has been exempted from the purchase tax. Therefore, we do not find any force in
+the submission made on behalf of the petitioner that there is any discrimination.
+73. We also cannot hold that explanation II was added only with a view to single out the petitioner
+for taxation. In para 13 of the counter-affidavit, filed on behalf of the opposite parties, it has been
+averred that in the year 1981-82, the Food Commissioner of U. P. had sold levy rice to the Essential
+Commodities Corporation, U. P. and for that the said corporation was assessed to purchase tax
+under Section 3-D(1), explanation II of the Sales Tax Act. This is an example which clearly shows
+that the Food Corporation of India is not the only dealer who alone could purchase from the State
+Government, other dealers may also purchase from the State Government. The assertion of singling
+out of the petitioner is thus not made out. Therefore, the question of discrimination does not arise.
+74. The other ground of attack is, as to why a particular commodity, viz., the foodgrain, procured
+under the Levy Orders under the Essential Commodities Act, has been chosen for the purposes of
+first purchase under explanation II and why not other commodities have been chosen, e.g., non-levy
+foodgrains and foodgrains procured under the price support scheme, etc. The argument is that the
+levy foodgrain is meant for those people who are economically not very well-off and it is distributed
+through the Food Corporation of India who is being burdened with tax as first purchaser. The
+burden of tax should not fall upon such persons. On the other hand, the non-levy foodgrains as well
+as the foodgrains purchased under the price support scheme have not been included in explanation
+II. According to the petitioner, the only idea in adding explanation II was to tax the petitioner who
+would alone be covered under the provision. It may not be possible for us to hold so. There is
+nothing to indicate that the addition of explanation II was aimed against the petitioner. We have
+already seen as an example that the U. P. Essential Commodities Corporation was also assessed to
+purchase tax when the State Government had sold such foodgrains to it. A reference has also been
+made to annexure-6 accompanying the rejoinder affidavit dated 12th May, 1986 sworn by Sri S. R.
+Singh which shows that the State Government sells or may in certain circumstances sell levy
+foodgrains to dealers other than the Food Corporation of India. From the said annexure-6 it
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 34Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+transpires that the Food Corporation of India had not been able to lift the levy rice due to difficulties
+in storing it. Therefore, the State Government had decided to sell it to the other agencies and
+preference was given to the U. P. Co-operative Federation, U. P. State Food and Essential
+Commodities Corporation and Consumer Co-operative Federation. The price of different qualities of
+rice was also indicated. It was also indicated that the prices fixed included the amount of sales tax.
+Annexure-6 belies the contention of the petitioner that there is no other agency except the Food
+Corporation of India which purchases or may alone purchase levy foodgrains from the State. We
+find that according to annexure-6 the amount of tax was also sought to be realised from the
+purchasers by including the same in the prices fixed.
+75. So far the other argument is concerned, viz., by taxing first purchaser under explanation II the
+consumers of levy foodgrains will be affected, we think the argument is fallacious. Explanation II
+only provides for point of taxation. It does not create fresh liability. It only indicates who and at
+what point is to be taxed. If the purchase of levy foodgrains is taxed at any earlier point, then too,
+the burden will ultimately pass on to the consumers alone. We, therefore, find no force in this
+contention too. Non-levy foodgrain or other commodities do not get any exemption from taxation
+because of explanation II.
+76. Learned counsel for the opposite parties has also placed reliance upon the case reported in
+[1963] 1 SCR 404 (East India Tobacco Company v. State of Andhra Pradesh). It has been observed
+by the Honourable Supreme Court that the State has wide discretion in selecting a person or objects
+it would tax and the taxing statute will not be open to attack on the mere ground that it taxes some
+person or objects and not others, but when within the range of its selection, the law operates
+unequally then certainly Article 14 of the Constitution may be said to be violated. Nothing has been
+shown to indicate that any discrimination has been made between one purchaser and the other in
+regard to purchases of levy foodgrains made from the State Government. Reliance has also been
+placed upon a case reported in (1973) 1 SCC 216 (Hira Lal Rattan Lal v. Sales Tax Officer). In that
+case the then newly added explanation II to Section 3-D(1) of the U. P. Sales Tax Act by the
+amendment and validation clause were under challenge. By adding explanation II, processed or split
+pulses were again made liable for tax as different item from unsplit and unprocessed foodgrains.
+They were made liable to tax in respect of first purchase of split or processed foodgrains even though
+tax may have been imposed in respect of their first purchases in their unsplit or unprocessed form.
+The amendment was retrospective. The validation clause validated earlier notifications and
+transactions, etc., notwithstanding any judgment, decree or order of any court and so the challenge
+was made on different grounds. The Honourable Supreme Court while turning down the plea of the
+assessees to hold the provision invalid, observed thus in para 19 :
+19. It must be noticed that generally speaking the primary purpose of the levy of all
+taxes is to raise funds for public good. Which person should be taxed, what
+transactions should be taxed or what goods should be taxed, depends upon social,
+economic and the administrative considerations. In a democratic set up it is for the
+legislature to decide what economic or social policy it should pursue or what
+administrative considerations it should bear in mind. The classification between the
+processed or split pulses and unprocessed or unsplit pulses is a reasonable
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 35Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+classification. It is based on the use to which those goods can be put. Hence, in our
+opinion, the impugned classification is not violative of Article 14.
+77. It is a matter of policy for the State to take a decision as to which commodity is to be taxed, at
+what point it is to be taxed and who is to be taxed. We, therefore, find no force in the submission
+made on behalf of the petitioner to hold that addition of explanation II to Section 3-D(1) is
+discriminatory or unconstitutional.
+78. The validity of Section 3-F has also been challenged. It may be pointed out that Section 3-F was
+also added by means of the same amending Act, namely, Act No. 23 of 1976, by which explanation II
+to Section 3-D(1) was added. Section 3-F was given retrospective effect with effect from 1st April,
+1975. Section 3-F provides for additional tax and reads as follows :
+Provided that in the case of foodgrains, the rate of additional tax payable by any
+dealer, the aggregate of whose turnover or turnover of purchases or both, as the case
+may be, liable to tax, exceeds rupees ten crores in an assessment year, shall be five
+per cent.
+79. The validity of this provision has been challenged on the ground that the amendment was aimed
+against the Food Corporation of India alone. According to the learned counsel for the petitioner,
+there were no other dealers dealing in foodgrains except the Food Corporation of India, whose
+turnover exceeds rupees ten crores. It has further been submitted that the State Government
+considers the Food Corporation of India as milching cow and it was for that purpose that two
+provisions were added by Act No. 23 of 1976, namely, explanation II to Section 3-D(1) and Section
+3-F of the Sales Tax Act. It has been submitted that a reading of these provisions together would
+leave no room for doubt that the amendments have been made only with a view to single out the
+petitioner. While dealing with this point in the context with explanation II to Section 3-D(1) we have
+already found that the above contention raised on behalf of the petitioner is not sustainable, rather
+the indications are otherwise, namely, it could not be said that the petitioner was singled out for the
+purposes of tax as first purchaser of levy foodgrains.
+80. It has been submitted that certain goods can be declared as goods of special importance under
+Section 14 of the Central Sales Tax Act. The result of declaration of goods of special importance
+under Section 14 of the Central Sales Tax Act is that the tax on such declared goods could not exceed
+four per cent of the turnover and it could only be a single point taxation. According to the learned
+counsel for the petitioner, it had come to the knowledge of the State of U. P. in January, 1976 itself
+that the cereals were going to be declared as goods of special importance. Therefore, hastily the
+State of U. P. amended the U. P. Sales Tax Act by means of U. P. Act No. 23 of 1976 with effect from
+20th May, 1976 by adding explanation II to Section 3-D(1) and Section 3-F. So far Section 3-F is
+concerned, it was given retrospective effect with effect from 1st April, 1975. Cereals were declared as
+goods of special importance with effect from 7th September, 1976, that is to say a few months after
+U. P. Act No. 23 of 1976 came into force. According to the learned counsel for the petitioner, all this
+was done knowingly as the State of U. P. very well knew that it would not be possible to levy high
+rate of additional tax after the goods in question were declared to be goods of special importance. It
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 36Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+may be pointed out that Section 3-F was deleted subsequently in 1981. So the relevant period so far
+additional tax under Section 3-F is concerned is from 1st April, 1975 to 7th September, 1976, i.e.,
+until the items in question were declared as goods of special importance. It has been submitted that
+the talks had taken place between the State of U. P. and the Food Corporation of India and an
+understanding was arrived at that the provisions under challenge would be deleted with
+retrospective effect but that has not been done. Whatever may be the position, that would not take
+us any further in deciding the question whether the amendments by adding the said provisions were
+valid or not. The contention raised on behalf of the petitioner is that the addition to Section 3-F of
+the Sales Tax Act was not fair and no such legislation should have been passed when it was within
+the knowledge of U. P. Government that the goods in question were going to be declared as goods of
+special importance. According to the learned counsel, the intention of the State was to tax the
+maximum amount from the Food Corporation of India. In reply to the said submission, the learned
+counsel for the opposite parties has submitted that no such plea of mala fide is permissible so far it
+relates to the field of legislation. He has on this point placed reliance upon a case reported in AIR
+1985 SC 551 (K. Nagaraj v. State of Andhra Pradesh). We are, therefore, of the view that no motive
+could be imputed in adding Section 3-F by amending Act No. 23 of 1976.
+81. So far the question of retrospective amendment is concerned, learned counsel for the opposite
+parties has placed reliance upon the following cases:
+AIR 1954 SC 158 (Union of India v. Madan Gopal Kabra), AIR 1961 SC 1534 (J.K. Jute
+Mills Co. ltd. v. State of Uttar Pradesh), AIR 1964 SC 1581 (Epari C. Krishna Moorthy
+v. State of Orissa), AIR 1973 SC 1034 (Hira Lal Rattan Lal v. Sales Tax Officer,
+Kanpur).
+82. On the basis of the above decisions it has been submitted that the legislature is quite competent
+to impose tax with retrospective effect. Nothing has been shown to us on the basis of which it could
+be said that the newly added provisions, namely, explanation II to Section 3-D(1) and Section 3-F,
+could not be given retrospective effect. Reliance has also been placed upon AIR 1976 SC 489
+(District Controller of Stores v. Assistant Commercial Taxation Officer). In that case, the definition
+of the word "business" was changed with retrospective effect. The change was upheld by the
+Honourable Supreme Court. In view of the decisions of the Supreme Court cited above, we find no
+merit in the submission of the petitioner.
+83. The next contention raised on behalf of the petitioner is that imposition of additional tax at the
+rate of 5 per cent under Section 3-F is bad as it is confiscatory in nature and arbitrary as there is no
+slab system but it is a flat rate tax which cannot be upheld. In connection with the submission that
+the additional tax imposed under Section 3-F of the Sales Tax Act is confiscatory, reliance has been
+placed on behalf of the petitioner upon a case reported in AIR 1983 SC 1019 (Hoechst
+Pharmaceuticals Ltd. v. State of Bihar). In that case it was provided under the impugned provision
+that those who had gross turnover of Rs. 5 lacs or more in a year, shall be liable to pay a surcharge at
+the rate of 10 per cent of the tax payable by them. The provision in question was challenged on
+several grounds. However, the grounds raised were negatived by the Honourable Supreme Court
+and the imposition of surcharge was upheld. It was held that it was within the legislative
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 37Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+competence of the State to classify the dealers and to impose surcharge upon those who were placed
+in one category taking into consideration their economic superiority. On the other pleas raised, it
+was held that the imposition of surcharge would not be bad on the ground that it could not be
+collected from the consumers, nor it was held to be a tax on income. It was held to be a matter of
+policy of the State. It was held that such a classification on the basis of gross turnover was
+reasonable. However, on behalf of the petitioner reliance has been placed on the observations made
+by the Honourable Supreme Court in para 93 of the judgment where it has been observed that
+surcharge was imposed upon those dealers who were economically superior to others. That is to say
+it was imposed on those who had a capacity to bear the burden of additional tax. On the basis of the
+above observation, it was submitted that one of the relevant considerations would be the capacity of
+the dealer to bear the burden of additional tax. However, in the case of the petitioner it has been
+submitted that the Food Corporation of India has already incurred loss in relation to levy
+transactions which have been subsidised by the Central Government from time to time. It has been
+submitted that higher turnover in the case of the petitioner does not indicate the economic
+superiority of the petitioner nor its capacity to bear the burden of additional tax. The result of the
+imposition of additional tax would be that even the capital of the petitioner would be eaten up in
+payment of additional tax. That is to say, the imposition of additional tax is confiscatory in nature.
+In this connection, reliance has also been placed upon a case reported in AIR 1985 SC 12 (K.M.
+Mohamed Abdul Khader Firm v. State of Tamil Nadu). We are afraid it will not be possible for us to
+accept the contention raised on behalf of the petitioner, firstly because no foundation on facts has
+been laid in the petitions or in the affidavits filed subsequently. There is an averment in the
+rejoinder affidavit dated 12th May, 1986 filed by Sri S. R. Singh on behalf of the petitioner, in para
+3(b), wherein it has been stated that in any such welfare activity there is bound to be marginal profit
+in some transactions and loss in others. The Union Government, therefore, gives a subsidy to the
+Food Corporation of India every year, which was Rs. 1,352.68 crores in 1984-85. In our view, a mere
+averment on facts as given above is not sufficient to come to the conclusion that imposition of
+additional tax would result in confiscation of the property of the petitioner. Again we feel that if
+there is some loss in running a business, it would not mean that taxes are not to be imposed on such
+concerns. While considering the question whether a tax is confiscatory in nature, all the activities of
+a business organisation as a whole have to be taken into account. The confiscatory nature of tax
+cannot be judged transactionwise. Admittedly the petitioner also deals in foodgrains other than
+covered under the Levy Orders, e.g., pulses, etc. The additional tax was leviable upon foodgrain
+dealers in general. There may be some loss in one kind of transaction but profit in other kind of
+transactions which may make up the loss and still leave some profit in the hands of the dealer or in a
+particular year, there may be a set-back but the position may not be the same in subsequent years.
+Thus on the basis of mere assertion made in para 3(b) of the rejoinder affidavit as quoted above, it
+cannot be inferred that the imposition of additional tax was confiscatory in nature.
+84. The next ground of attack is that providing a flat rate of additional tax without there being any
+slab is unreasonable. The effect of imposition of additional tax, as it is, would be that whole amount
+of turnover shall be liable to additional tax. According to the learned counsel for the petitioner if
+slab is not placed at different levels of turnover, it would be hit by Article 14 of the Constitution
+being unreasonable and a taxation discriminatory in nature. For the proposition that the taxing
+statute in certain cases can be attacked on the ground of violation of Article 14 of the Constitution,
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 38Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+reliance has been placed upon a case reported in AIR 1961 SC 552 (Kunnathat Thathunni Moofiil
+Nair v. State of Kerala). In that case, it was held that the taxation was confiscatory in nature. It was
+also held that inequality had resulted because of lack of classification for the purposes of taxation.
+But we find that in the present case for the purposes of levy of surcharge, a classification has been
+made and only those whose turnover is more than rupees ten crores in one assessment year, are
+made liable for surcharge at the rate of 5 per cent. It cannot be said that there is absolute lack of
+classification, nor it can be suggested that some more slabs should have been provided for the
+purposes of taxation. It is entirely within the competence and jurisdiction of the State to have its
+policy in regard to imposition of tax. Unless it is shown that the provision is such that it would result
+in inequality, it cannot be struck down merely on the ground that tax can be imposed in a better
+manner or in some more equitable manner. In this connection, it would be useful to refer to the
+observations made by the Honourable Supreme Court in the above-noted case of Kunnathat
+Thathunni Moopil Nair AIR 1961 SC 552 :
+A taxing statute is not wholly immune from attack on the ground that it infringes the
+equality clause in Article 14, though the courts are not concerned with the policy
+underlying a taxing statute or whether a particular tax could not have been imposed
+in a different way or in a way that' the court might think more just and equitable. If
+the legislature has classified persons or properties into different categories which are
+subjected different rates of taxation with reference to income or property, such a
+classification would not be open to the attack of inequality on the ground that the
+total burden resulting from such a classification is unequal. Similarly, different kinds
+of property may be subjected to different rates of taxation, but so long as there is a
+rational basis for the classification, Article 14 will not be in the way of such
+classification resulting in unequal burdens on different classes of properties. But if
+the same class of property similarly situated is subjected to an incidence of taxation,
+which results in inequality, the law may be struck down as creating an inequality
+amongst holders of the same kind of property.
+85. In the present case, it may be noted that all those who have a a turnover of more than rupees ten
+crores in an assessment year are to be taxed alike. No discrimination within the class is to be found.
+We are, therefore, unable to accept the submission made on behalf of the petitioner that the
+provisions of Section 3-F of the U. P. Sales Tax Act as existed during the relevant period are hit by
+Article 14 of the Constitution. At the same time we also do not accept the submission made on behalf
+of the opposite parties that the slab system is something foreign to sales tax as would be evident
+from the judgment of the Honourable Supreme Court in the case of Mohamed Abdul Khader Firm
+AIR 1985 SC 12. The concept of slab system, therefore, is not foreign to sales tax. However, we have
+found that no discriminatory treatment is being meted out to the dealers belonging to one particular
+category.
+86. In a general way it has been submitted on behalf of the petitioner that it was against the public
+interest to tax the petitioner, firstly by adding explanation II to Section 3-D(1) of the Sales Tax Act,
+the petitioner has been made liable to pay tax as first purchaser although first purchasers from the
+millers and farmers are the different agencies purchasing the foodgrains under the Levy Orders
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 39Food Corporation Of India vs Commissioner Of Sales Tax And Anr. on 21 May, 1987
+which 'should have been taxed but even the liability of such procuring agencies or the State while
+making the first purchase has been passed on to the petitioner as the provision is in respect of sale
+and purchase of foodgrains procured under the Levy Orders. Such foodgrains are meant for
+distribution through fair price shops that helps in feeding millions of poor people. Such a
+commodity should not have been chosen for tax. We are afraid, it would not be possible for this
+Court to hold imposition of tax upon such a commodity, namely, the foodgrains, invalid on the
+ground urged on behalf of the petitioner as it is a matter of policy which is decided by the State. The
+State is free to choose a commodity for tax as well as the manner and rates of tax over such
+commodity.
+87. In view of the discussion held above, we find no merit in the petitions and the same are
+dismissed with costs. The order of interim relief is discharged.
+Indian Kanoon - http://indiankanoon.org/doc/74948/ 40

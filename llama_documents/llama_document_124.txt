@@ -1,0 +1,474 @@
+Metadata: id=>124
+name=>Unitech Wireless Tamilnadu vs Bharat Sanchar Nigam Ltd Ors on 21 August 2014
+date=>24 April 2012
+court=>Supreme Court of India
+link=>http://indiankanoon.org/doc/185387381/
+-----
+Content: Unitech Wireless ( Tamilnadu) ... vs Bharat Sanchar Nigam Ltd. & Ors on 21 August, 2014
+Telecom Disputes Settlement Tribunal
+Unitech Wireless ( Tamilnadu) ... vs Bharat Sanchar Nigam Ltd. & Ors on 21 August, 2014
+TELECOM DISPUTES SETTLEMENT & APPELLATE TRIBUNAL
+NEW DELHI
+Dated 21st August, 2014
+Petition No.436 of 2013
+(With M.A. No. 334 of 2013)
+Unitech Wireless (T.N.) Pvt. Ltd. ...Petitioner
+Vs.
+Bharat Sanchar Nigam Ltd. & Ors. ...Respondents
+Petition No.437 of 2013
+(With M.A. No. 335 of 2013)
+Unitech Wireless (T.N.) Pvt. Ltd. ...Petitioner
+Vs.
+Bharat Sanchar Nigam Ltd. & Ors. ...Respondents
+BEFORE:
+HON'BLE MR. JUSTICE AFTAB ALAM, CHAIRPERSON
+HON'BLE MR. KULDIP SINGH, MEMBER
+For Petitioner : Mr. Meet Malhotra, Sr. Advocate
+Mr. Ravi S.S. Chauhan, Advocate
+Ms. Padmaja Kaul, Advocate
+Ms. Shagun Jain, Advocate
+Mr. Prateek Dahiya, Advocate
+Ms. Pallak Singh, Advocate
+Mr.Anant Ramadhyani, Advocate
+For Respondent No. 1 Ms. Maneesha Dhir, Advocate
+Mr. K.P.S. Kohi, Advocate
+Mr. Prashant Jain, Advocate
+Ms. Neha Singh, Advocate
+For Respondent No. 2 : Ms.Anamika Tomar, Advocate
+Mr. P.K. Chaudhary, Advocate
+For Respondent No. 3 : Mr.Rajiv Kapur,Advocate
+2
+ORDER
+By Aftab Alam, Chairperson - In terms of the Inter-connect agreement entered into between Bharat
+Sanchar Nigam Limited (BSNL) and the different private mobile phone operators, if an operator
+asks for removal and cessation of a port1 installed, at its instance at any Point of Inter-connect (POI)
+at BSNL's exchange, it is required to pay one year's port charges as the cost of removal of the
+Indian Kanoon - http://indiankanoon.org/doc/185387381/ 1Unitech Wireless ( Tamilnadu) ... vs Bharat Sanchar Nigam Ltd. & Ors on 21 August, 2014
+capacity. The question that arises for consideration before us is whether the cost of removal, as
+stipulated in the agreement, would still be payable even if the cessation and removal of the port be
+occasioned due to reasons over which the operator has no control.
+The facts of the case are quite simple and brief. The petitioner, M/s Unitech Wireless Private
+Limited is a mobile phone operator. At the material time it was in inter-connect agreements with
+BSNL in several circles where it was operating on the basis of the Unified Access Services Licences
+granted by the Central Government. As provided under chapter 3 of the agreement it had a numbers
+of ports installed by BSNL in the latter's exchanges to allow for inter-connectivity between the two
+net-works in each of the circles where it was operating. It was In the Telecommunication
+Interconnection (Port Charges) Regulation 2001 (Regulation 6 of 2001) framed by the Telecom
+Regulatory Authority of India 'Port' is defined as under:
+"In this Regulation, a "port" means a place of termination on a Switch/distribution
+frame to provide a point access or interconnection for ingress and egress of traffic
+between the two Interconnecting networks. The bandwidth of the Port shall be 2.048
+Megabits per second."
+duly making payments for all the ports in the different circles as specified by clause 6.3.2, in terms
+of Regulations framed by the Telecom Regulatory authority of India (TRAI) from time to time. It
+had also furnished to BSNL, in every circle the requisite bank guarantees as required under clause
+7.4 in chapter 6 of the agreement.
+All the UAS licences held by Unitech came to be quashed by the Supreme Court by judgment and
+order dated 12 February 2011 passed in Centre for Public Interest Litigation Vs. Union of India2. By
+that judgment the Supreme Court found and held that a large number of UAS licences to different
+operators (122 in all, including all the licences held by Unitech) were granted by the central
+government in an illegal way. It, accordingly, quashed all those licences and directed the
+government to grant fresh licences and allocate the spectrum, released as a result of quashing of the
+licences, through auction after taking into consideration the recommendations of the Telecom
+Regulatory Authority of India (TRAI) as was done for allocation of spectrum in 3G band. The
+operative order is contained in paragraph 81 of the judgment which, in so far as relevant for the
+present, is reproduced below:
+"81. In the result, the writ petitions are allowed in the following terms:
+(i) The licences granted to the private respondents on or after 10.1.2008 pursuant to
+two press releases issued (2012) 3 SCC 1 on10.1.2008 and subsequent allocation of
+spectrum to the licensees are declared illegal and are quashed.
+(ii) The above direction shall become operative after four months.
+(iii) Keeping in view the decision taken by the Central Government in 2011, TRAI
+shall make fresh recommendations for grant of licence and allocation of spectrum in
+Indian Kanoon - http://indiankanoon.org/doc/185387381/ 2Unitech Wireless ( Tamilnadu) ... vs Bharat Sanchar Nigam Ltd. & Ors on 21 August, 2014
+2G band in 22 Service Areas by auction, as was done for allocation of spectrum in 3G
+band.
+(iv) The Central Government shall consider the recommendations of TRAI and take
+appropriate decision within next one month and fresh licences be granted by auction.
+(v) xxxxxxxx
+(vi) xxxxxxxx
+(vii) xxxxxxxx
+(emphasis added)
+There was some delay in holding the auction and a number of interlocutory
+applications (IAs) came to be filed before the court by the Union of India and some
+private operators seeking some clarification or further directions on different issues.
+On 24 April 2012, disposing of IA no.5 in Writ Petition 423/2010 filed by the Union
+of India the Supreme Court passed the following order:
+"This is an application by the Union of India for clarification of judgment dated
+2.2.2012 and for grant of permission to conduct the auction as per the time schedule
+set out in Annexure P1 enclosed with the application.
+We have heard the learned Attorney General and carefully perused the averments
+contained in the application.
+In our view, it will be just and proper to partially accept the prayer made in the
+application and extend the time fixed by the Court up to the end of August, 2012.
+Accordingly, the application is disposed of in the following terms:
+1. The time specified in judgment dated 2.2.2012 in Writ Petition No.423 of 2010 and
+Writ Petition No. 10 of 2011 for conducting the auction for grant of fresh licenses and
+allocation of spectrum is extended up to 31.08.2012. This would necessarily mean
+that the applicant shall have to finalise the auction on or before 31.08.2012.
+2. The existing licenses shall be entitled to continue to operate till 07.09.2012."
+(emphasis added) On 27 August 2012 while disposing of IA no. 8/2012 filed on behalf
+of the Union of India for extension of time to complete the auction process, the
+Supreme Court further extended the time allowed to the licence-holders whose
+licences were quashed to continue to operate by directing that "the existing licensees
+shall be entitled to continue to operate till 18 January 2013". Thereafter the matter
+Indian Kanoon - http://indiankanoon.org/doc/185387381/ 3Unitech Wireless ( Tamilnadu) ... vs Bharat Sanchar Nigam Ltd. & Ors on 21 August, 2014
+was taken up on a few dates3 and finally by the order passed on 15 February 2013 the
+Supreme Court brought to end the operations by the licence-holders whose licences
+were quashed. The operative part of the order dated 15 February 2013 is as under:
+We have considered the respective submissions. In our view, once the licences
+granted to the private respondents on or after 10.1.2008 and subsequent allocation of
+spectrum were quashed by this Court, the Government is duty bound to auction the
+entire spectrum, which became available as a result of such quashing and it cannot
+avoid compliance of the Court's order in the guise of acting on the recommendations
+made by TRAI.
+18 January 2013, 4 February 2013.
+In view of the above, we issue the following directions:
+(i) The entire spectrum released as a result of quashing of the licences on 2.2.2012
+should be auctioned without further delay.
+(ii) Since, the issue relating to allotment of spectrum in 900 MHz. band was not
+subject matter of consideration in Writ Petition Nos.423/2010 and 10/2011, we deem
+it proper to make it clear that judgment dated 2.2.2012 will have no bearing on the
+litigation, if any, filed in the matter of allotment/re-allotment of spectrum in 900
+MHz. band and the competent judicial/quasi-judicial Forum shall be free to
+adjudicate upon the pending matters or which may be filed hereinafter in relation to
+the allotment of spectrum in 900 MHz.band and connected issues.
+(iii) Such of the licensees, who continued operation after 2.2.2012, whether or not
+they gave bid in the auction conducted on 12.11.2012 and 14.11.2012, shall pay the
+reserve price fixed by the Government for the purpose of conducting auction in
+November, 2012.
+(iv) The licensees, who did not give bid in the auction conducted on 12.11.2012 and
+14.11.2012 or who remained unsuccessful shall forthwith discontinue their operations
+in the concerned circles/areas and the successful applicants should be allowed to
+operate in those circles/areas.
+(v) The issue relating to liability of the licensees, who discontinued their operations
+between 2.2.2012 and this date shall be decided separately.
+In terms of the order passed by the Supreme Court, Unitech ceased all its operations in all the
+circles.
+In the meanwhile, however, as directed by the Supreme Court, on 12 & 14 November 2012 the
+central government held auction for allocation of spectrum and granted licences to the successful
+Indian Kanoon - http://indiankanoon.org/doc/185387381/ 4Unitech Wireless ( Tamilnadu) ... vs Bharat Sanchar Nigam Ltd. & Ors on 21 August, 2014
+bidders. In the auction one M/s Telewings Communications Private Limited was successful in
+getting spectrum followed by the grant of UAS licences in six (6) circles, namely (i) Andhra Pradesh,
+(ii) Bihar,
+(iii) Gujarat, (iv) Maharashtra, (v) Uttar Pradesh (east) and (vi) Uttar Pradesh (west). Unitech
+entered into a Business Transfer Agreement with Telewings and transferred its business in those six
+(6) circles to Telewings. Having thus stepped into the shoes of Unitech, Telewings was successful in
+getting assigned to it all the ports installed in the exchanges of BSNL in those circles at the instance
+of Unitech and consequently the parties (Unitech and BSNL) are not in dispute in the aforesaid six
+circles. Their dispute relates to the remaining circles where Unitech had to shut down operations on
+the direction of the Supreme Court.
+In the two petitions filed by Unitech there is express challenge to the demand notices issued by
+BSNL and the steps taken by it to encash the bank guarantees furnished by Unitech for realization of
+the demands in six (6) circles, namely (i) Kerala, (ii) Rajasthan, (iii) Madhya Pradesh, (iv) Kolkata,
+(v) Punjab and (vi) Himachal Pradesh. Apart from the above, in the pleadings there are references to
+five (5) more circles, namely (i) West Bengal, (ii) Haryana, (iii) Jammu Kashmir, (iv) North East and
+(v) Karnataka. As there is no reference to any other circle, a faint objection is raised in the reply filed
+by BSNL that Unitech is not entitled to any relief beyond the eleven (11) circles as mentioned above.
+We wish to make it clear that we intend to decide the legal question whether in the facts and
+circumstances of the case as applied to the terms of the inter-connect agreement between the
+parties, BSNL is entitled to charge one year's port charges as the cost of removal of the capacity. In
+case the question is answered in the affirmative, BSNL would be surely free to raise and realise, in
+accordance with law, similar demands in circles where it has so far not made the demands. But
+conversely, if the question is answered in the negative, it would be highly anomalous for BSNL to
+raise demands against Unitech and try to realize the demand amounts in a few circles simply on the
+ground that those did not form part of the pleadings.
+There are a few letters on record that were exchanged between BSNL and Unitech and to which we
+may now advert. Our attention was drawn first to the letter dated 7 August 2012 from the Asst.
+General Manager (Coord-1), BSNL to Unitech. The letter is on the subject of "Cancellation of 2G
+licences by Hon'ble Supreme Court of India- Termination of Interconnect Agreement And Closure of
+POIs". It refers to the order of the Supreme Court passed on 24 April 2012 (by which the time
+allowed to the operatives under the quashed licences was extended till 7 September 2012) and states
+that under clauses 8.2.1 (a) and (b) of the inter- connect agreement, the agreement could be
+terminated on 7 September 2012 without any further notice. It further says that no request was
+received from Unitech for surrendering its POIs and goes on to say that (even) in the absence of any
+such request from Unitech its POIs could be disconnected "as per Hon'ble Court order and
+Interconnect agreement". What reply was given by Unitech to this letter is not known to us.
+The second letter that was brought to our notice is dated 17 August 2012. It is from Unitech and
+pertains to Odisha circle only. The letter states that in view of cancellation of its licences by the
+Supreme Court the corporate management of the company had decided to gradually scale down its
+operations in Odisha circle by 31 August 2012 and asks BSNL to immediately take back the space
+Indian Kanoon - http://indiankanoon.org/doc/185387381/ 5Unitech Wireless ( Tamilnadu) ... vs Bharat Sanchar Nigam Ltd. & Ors on 21 August, 2014
+and ports in the E1 and L-II Tax locations as indicated in the letter. The letter then gives the list of
+123 ports (out of a total of 127) at different places that Unitech wished to surrender.
+The third and the final letter is once again from Unitech. It is dated 18 January 2013 and was
+written apparently in response to the impugned demand raised by BSNLL in six (6) circles. The
+letter refers to an earlier request for surrender of E1 ports, the orders of the Supreme Court dated 2
+February 2012 and 14 January 2013 and clauses 8.2.1 (a) and (b) of the agreement and goes on to
+say as under:
+"In view of the above said order and in accordance of the terms and conditions of the
+Interconnect Agreement M/s Unitech Wireless (Tamilnadu) Private Limited will
+discontinue its Pols in Kerala service areas. It may also be noted that the interconnect
+agreements envisages that the interconnection between BSNL and M/s Unitech
+Wireless (Tamilnadu) Private Limited will remain valid only during the currency of
+the respective Licences.
+We would like to bring following additional information to your knowledge:
+1. We have already paid the advance rental for Ports charges till 31st Mar 2013 and
+this date is well beyond the said date.
+2. We have already made an excess payment made from our side and we have all the
+legal right to claim the refund.
+3. We have already paid the advance rental for Infrastructure till 31st Mar 2013 and
+this date is well beyond the said date."
+The letter finally disputes the Unitech's liability to pay the demands of cost of surrender raised by
+BSNL or any claims arising from the termination of the inter- connect agreement. The same letter
+was given by Unitech to the BSNL authorities in eleven (11) circles as mentioned above.
+We have referred to the three letters only because those are part of the record but those letters are
+clearly of not much help in deciding the case. From the letters it simply appears that, though
+accepting that the bilateral inter-connect agreement had come to end as the result of the licences of
+Unitech being quashed by the Supreme Court, BSNL maintained that it was nevertheless entitled to
+charge one year's port charges as the cost of removal of the capacity. Unitech on the other hand took
+the position that in terms of the agreement it was not liable to pay any charges for the surrender of
+the capacity. Further, we are clear that this case has to be decided on the basis of the construction of
+the relevant clauses of the Inter- connect agreement between the two sides, regardless of the later
+conduct of the parties as it is well settled that unless there is any ambiguity, the clear terms of the
+contract cannot be read to mean differently in light of the later conduct of the parties. A term of the
+contract must be held to mean what the contracting parties intended it to mean at the time of
+execution of contract and that meaning will not vary simply because one or both parties later acted
+differently4. The conduct of the parties may be an aid to construction only in case the terms of the
+Indian Kanoon - http://indiankanoon.org/doc/185387381/ 6Unitech Wireless ( Tamilnadu) ... vs Bharat Sanchar Nigam Ltd. & Ors on 21 August, 2014
+contract are ambiguous and capable of being understood in more ways than one.
+Before proceeding further, however, we may note two other facts. One is that Unitech had paid, in
+advance, the annual rental for all its ports with BSNL in all the circles where it was operating till
+March 31, 2013, that is, a fortnight beyond the date when it ceased its operations in terms of the
+Supreme Court order dated 15 march 2013. The second is that in raising the impugned demands
+BSNL has discounted the period up-to march 31 2013 (till when the rent was already paid) and has
+taken into account only the period from 1 April 2013 till the expiry of one year from the date of
+request for surrendering the ports.
+Now we turn to the relevant clauses of the inter-connect agreement. Chapter 3 of the agreement
+deals with Inter-connect Capacity and clause 3.5 lays down the terms relating to "Removal and
+Cessation of Interconnect Capacity". Sub-clauses 3.5.1, 3.5.2 and 3.5.4 are relevant for the present
+and are reproduced below: See Bank of India Vs. K. Mohandas: (2009) 5 SCC 313 paragraph 28.
+"3.5 REMOVAL AND CESSATION OF INTERCONNECTCAPACITY 3.5.1 Either
+party may place a written order on the other for the removal and cessation of
+interconnect capacity with full justification.
+3.5.2 If UASL required the removal of, in part or in full, interconnect capacity already
+provided under this agreement then an order (in short "removal order") shall be
+placed on the BSNL to that effect. BSNL will in turn verify the requirement and
+remove the capacity within 30 days (or mutually agreed time frame) from the date of
+receipt of the removal order.
+If BSNL after receiving the request disagrees with the proposed removal, then the
+capacity will not be removed until joint agreement is reached in accordance with the
+dispute resolution procedure as laid down in Chapter 9.
+3.5.3 A removal certificate will be issued by BSNL to the UASL for the removed
+capacity within one month of the completion of the removal work.
+3.5.4 The cost of removal of such capacity thus agreed upon, as payable by the CMTS
+PROVIDER to BSNL shall be the one- year's port charges as prescribed in Clause
+6.3.2 in respect of such capacity. In the case of links provided on Rent & Guarantee
+basis, the prevalent terms and conditions of BSNL for Rent & Guarantee cases, will
+apply."
+(emphasis added) Chapter 6 of the agreement deals with the Inter-connection
+charges and clause 6.3.2 specifies the port charges.
+The other important set of provisions is the one dealing with the term and termination of the
+agreement which is contained in chapter 8 of the agreement. Clauses 8.1, 8.2.1, 8.2.2 and 8.2.3
+which are especially important for the present and reproduced below:
+Indian Kanoon - http://indiankanoon.org/doc/185387381/ 7Unitech Wireless ( Tamilnadu) ... vs Bharat Sanchar Nigam Ltd. & Ors on 21 August, 2014
+"8.1 TERM: This Agreement unless terminated earlier, shall be in force for a period of 10 years from
+the date of signing of the Agreement. The same shall be renewable for a further period of 10 years in
+writing by consent of parties, on terms, which may be mutually agreed. 8.2 TERMINATION:
+8.2.1 This Agreement shall continue for the period indicated in Clause 8.1 above unless any of the
+following events occur:
+(a) Either Party ceases to hold a licence under Section 4 of the Indian Telegraph Act.
+(b) An order is entered by a court of competent jurisdiction mandating the
+winding-up or dissolution of a Party, or appointing a receiver or liquidator for such
+Party or having a comparable effect;
+(c) If in the interest of national security or otherwise, it is ordered by a Competent Authority such as
+Licensor/TRAI, that the agreement may be terminated,
+(d) If there is a breach of any of the technical and financial obligations as covered in clauses 2.1.3,
+2.1.5.1, 2.1.8, 2.1.9.1, 2.1.9.2, 2.5 and 6.4.6 in which case this Agreement shall immediately be
+terminated, without any further notice.
+8.2.2 This Agreement also may be terminated by either Party giving 30 days' notice to the other in
+the event that either Party:
+(a) breaches any provision of this Agreement; provided, however, that the breaching Party has been
+notified in writing of its failure by the non- breaching Party and the breaching Party has not
+remedied its failure within twenty (20) Working Days; and the approval of Licensor or TRAI as the
+case may be, has been obtained for such termination. In the event, the approval is accorded with
+conditions, regard being had to the general interest of the customers, the same will be fully complied
+with before the final act of disconnection of interconnection arrangements becomes effective.
+Provided, however, in the event no intervention is made by the Regulator/Licensor during the notice
+period, the approval shall be deemed to have been accorded.
+(b) ceases to carry on business,
+(c) Either Party is unable to discharge its obligation under this agreement. However, in case of Force
+Majeure procedure as indicated below shall be followed:
+FORCE MAJEURE Neither party shall be liable for any breach of this Agreement (other than a
+breach for non payment) caused by an act of God, insurrection or civil disorder, war or military
+operations, national emergency, fire, flood, lightning, explosion, subsidence, industrial dispute of
+any kind. The Party affected by such force majeure shall promptly notify the other Party of the
+conditions and the details thereof. If as a result of force majeure, the performance by affected Party
+of its obligation under this agreement is only partially affected, such Party shall nevertheless remain
+liable for the performance of those obligations not affected by such force majeure. If the force
+Indian Kanoon - http://indiankanoon.org/doc/185387381/ 8Unitech Wireless ( Tamilnadu) ... vs Bharat Sanchar Nigam Ltd. & Ors on 21 August, 2014
+majeure lasts for more than the continuous period of 90 calendar days from the date of the
+notification, and continues to prevent the affected Party from performing its obligations in a whole
+or in material part, the either party shall be entitled to, terminate this agreement by giving not less
+than 30 calendar days written notice to the other Party.
+8.2.3 Termination of this Agreement shall be without prejudice to a Party's rights, liabilities or
+obligations that may have accrued prior to such termination."
+(emphasis added) Clause 3.5.4 of the inter-connect agreement, as may be seen above, plainly
+stipulates payment of port charges for one year as the cost for removal of the capacity. The
+stipulation is unqualified. In other words, the payment of cost is regardless of the reason for the
+request for cessation and removal of capacity. On a plain reading of the clause, the cost would be
+payable irrespective of whether the inter-connect agreement remains subsisting or it comes to end.
+Ms. Maneesha Dhir, counsel for BSNL, accordingly argued that the reason for cessation and removal
+of capacity might have been the termination of the inter-connect agreement, which, in turn, was due
+to the quashing of the UAS licences of Unitech by the Supreme Court but that would not relieve
+Unitech from the liability to pay the cost of removal. And the liability thus accrued would be
+enforceable by virtue of clause 8.2.3 of the agreement.
+The contention appears unexceptionable if the scrutiny is confined to clauses 3.5.4 and 8.2.3. But it
+is basic that the terms of an agreement cannot be seen in isolation. The agreement must be read as a
+whole and the true meaning and scope of each of the terms must be construed in juxtaposition with
+the other terms in the agreement. Keeping this in mind we now turn to the termination clause in the
+agreement. Clause 8.2 expressly deals with termination of the agreement. Clause 8.2.1 provides for
+automatic termination of the agreement in case of certain external events or certain specified
+breaches of its terms. One of the external events [under sub-clause 8.2.1 (a)] is that either party to
+the bipartite agreement ceases to hold a licence under section 4 of the Indian Telegraph Act. As
+opposed to clause 8.2.2 that requires a thirty days' notice, the termination under clause 8.2.1 is
+self-effectuating and warrants no notice. Under sub-clause 8.2.1 (a) the termination of the
+agreement takes place simply as a consequence of one of the parties ceasing to hold the licence and
+in that event it is no longer possible for the two sides to keep the agreement alive even in case they
+so wish.
+A contract may be discharged in a variety of ways. It can be discharged by performance, it can be
+discharged by breach, it can be discharged in terms of the contract itself, and it can be discharged by
+frustration. Frustration of contract is the term commonly used to describe the situation where the
+performance of the contract is rendered impossible or impractical due to some supervening
+circumstances. The statutory provision to deal with such cases, in the absence of any dissolution
+clause in the agreement itself, is contained in section 56 of the Indian Contract Act. Having been
+accorded statutory recognition, the law relating to frustration of contract in India is quite different
+from the law in England and one of the earliest authoritative exposition of the difference in the law
+is to be found in the Supreme Court decision in Satyabrata Ghose Vs. Mugneeram Bangur & Co5. In
+that decision Mukhrejee J, speaking for the court, examined all the different principles evolved by
+the English courts for rationalizing the discharge of the contract as a result of its performance
+Indian Kanoon - http://indiankanoon.org/doc/185387381/ 9Unitech Wireless ( Tamilnadu) ... vs Bharat Sanchar Nigam Ltd. & Ors on 21 August, 2014
+becoming impossible due to some supervening circumstances. After discussing some English
+decisions the judgment referred with approval to a decision of the Nagpur High Court and an earlier
+decision of the Supreme Court itself:
+The question was considered and discussed by a Division Bench of the Nagpur High
+Court in Kesari Chand v. Governor-General-in-Council [ILR 1949 Nag 718] and it was
+held that the doctrine of frustration comes into play when a contract becomes
+impossible of performance, after it is made, on account of circumstances beyond the
+control of the parties. The doctrine 1954 SCR 310 is a special case of impossibility and
+as such comes under Section 56 of the Indian Contract Act. We are in entire
+agreement with this view which is fortified by a recent pronouncement of this Court
+in Ganga Saran v. Ram Charan [1952 SCR 36 at 52] , where Fazl Ali, J., in speaking
+about frustration observed in his judgment as follows:
+"It seems necessary for us to emphasise that so far as the courts in this country are
+concerned, they must look primarily to the law as embodied in Sections 32 and 56 of
+the Indian Contract Act, 1872."
+We hold, therefore, that the doctrine of frustration is really an aspect or part of the
+law of discharge of contract by reason of supervening impossibility or illegality of the
+act agreed to be done and hence comes within the purview of Section 56 of the Indian
+Contract Act. It would be incorrect to say that Section 56 of the Contract Act applies
+only to cases of physical impossibility and that where this section is not applicable,
+recourse can be had to the principles of English law on the subject of frustration. It
+must be held also, that to the extent that the Indian Contract Act deals with a
+particular subject, it is exhaustive upon the same and it is not permissible to import
+the principles of English law dehors these statutory provisions.
+The judgment further said:
+....... In deciding cases in India the only doctrine that we have to go by is that of
+supervening impossibility or illegality as laid down in Section 56 of the Contract Act,
+taking the word "impossible" in its practical and not literal sense. It must be borne in
+mind, however, that Section 56 lays down a rule of positive law and does not leave the
+matter to be determined according to the intention of the parties.
+...... According to the Indian Contract Act, a promise may be express or implied [Vide
+Section 9]. In cases, therefore, where the court gathers as a matter of construction
+that the contract itself contained impliedly or expressly a term, according to which it
+would stand discharged on the happening of certain circumstances, the dissolution of
+the contract would take place under the terms of the contract itself and such cases
+would be outside the purview of Section 56 altogether. Although in English law these
+cases are treated as cases of frustration, in India they would be dealt with under
+Section 32 of the Indian Contract Act which deals with contingent contracts or
+Indian Kanoon - http://indiankanoon.org/doc/185387381/ 10Unitech Wireless ( Tamilnadu) ... vs Bharat Sanchar Nigam Ltd. & Ors on 21 August, 2014
+similar other provisions contained in the Act.
+The classic exposition of the law in Satyabrata Ghose was later reiterated by the Supreme Court in
+The Naihati Jute Mills Vs. Khyaliram Jagannath6.
+More recently, a learned Single judge of the Delhi High Court in a case (Continental Enterprises Ltd.
+Vs. State Trading Corporation of India7), dealing with the overlapping force majeure clause in the
+agreement referred to the several Supreme Court decisions, including the ones in Satyabrata Ghose
+and The Naihati Jute Mills and made the following observations:
+20. As far as the concept of force majeure is concerned, I find that Supreme Court in
+Dhanrajamal Gobindram v. Shamji Kalidas and Co. reported in AIR 1961 SC 1285 has
+held that the intent of such a clause is to save the performing party from the
+consequences of anything over which he has no control.
+21. The Apex Court in Satyabrata Ghose v. Mugneeram Bangur & Co. and Anr.
+reported in AIR 1954 SC 44, para 9, has further held that the word "impossible" in
+Section 56 of Contract Act has not been used in the sense of physical or literal
+impossibility. The Supreme Court held that performance of an act may not be literally
+impossible but it may be impracticable and useless from the point of view of the
+object and purpose which the parties had in view; and if an untoward event or change
+of circumstances totally upsets the very foundation upon which the parties rested
+their bargain, it can very well be said that the party finds it impossible to do the act
+which he promised to do.
+22. The Supreme Court in Smt. Sushila Devi and Anr. v. Hari Singh and Ors. reported
+in AIR 1971 SC 1756 has held as under:
+11. ...Section 56 of the Indian Contract Act. The view that Section 56 applies only to
+cases of physical impossibility and that where this section is not applicable recourse
+can be had to the principles of English law on the subject of frustration is not correct.
+Section 56 of the Indian Contract Act lays down a rule of AIR 1968 SC 522, paragraph
+7.
+MANU/DE/3425/2009 positive law and does not leave the matter to be determined
+according to the intention of the parties. The impossibility contemplated by Section
+56 of the Contract Act is not confined to something which is not humanly possible. If
+the performance of a contract becomes impracticable or useless having regard to the
+object and purpose the parties had in view then it must be held that the performance
+of the contract has become impossible. But the supervening events should take away
+the basis of the contract and it should be of such a character that it strikes at the root
+of the contract.
+Indian Kanoon - http://indiankanoon.org/doc/185387381/ 11Unitech Wireless ( Tamilnadu) ... vs Bharat Sanchar Nigam Ltd. & Ors on 21 August, 2014
+12....That object became impossible because of the supervening events. Further the
+terms of the agreement between the parties relating to taking possession of the
+properties also became impossible of performance. Therefore we agree with the trial
+court as well as the appellate court that the contract had become impossible of
+performance."
+The upshot is that the law does not expect anyone to do something that has become impossible or
+completely impractical from the point of view of the original intent of the contracting parties as a
+result of some supervening circumstance. Such an eventuality leads to the frustration of the contract
+as provided under section 56 of the Contract Act. But in the present case there is no need for any
+recourse to section 56 of the Contract case because the inter-connect agreement itself provides for
+the dissolution of the contact in such an event.
+Let us briefly recapitulate the basic facts of the case. Unitech lost its licences as those were quashed
+by the Supreme Court. The loss of the licences denuded Unitech of the competence to be in any
+agreement with BSNL. In other words the Supreme Court decision knocked off the very basis of the
+agreement and it triggered of the termination of the licence as stipulated in clause 8.2.1 of the
+agreement. As result of the termination of the licence it became legally impossible for Unitech to
+continue to maintain and operate the ports it had got installed at BSNL's exchanges. It needs also to
+be kept in mind that over this entire chain of events Unitech had completely no control.
+In light of the discussions made above we fail to see any application of clause 3.5.4 of the
+inter-connect agreement and find it difficult to sustain the impugned demand by BSNL for payment
+of cost of removal of the ports.
+We are also unable to appreciate the reliance placed by Ms. Dhir on clause 8.2.3 of the agreement.
+That clause deals with liabilities or obligations that might have accrued prior to termination of the
+agreement. In the present case no liability has accrued prior to the termination of the licence but the
+cessation of capacity and removal of ports are the result of the termination of licence.
+In support of her submissions Ms. Dhir placed reliance on the decisions of the Supreme Court in (i)
+Ganga Retreat & Towers Ltd. Vs. State of Rajasthan8 (paragraph 28) and (ii) Dhanrajamal
+Gobindram Vs. Shamji Kalidas & Co.9 (paragraph 17). The passage relied upon by Ms. Dhir in the
+first decision is on section 19 of the Contract Act and we are unable to see its application to the facts
+of this case. The second decision deals with the vagueness of the force majeure clause and it is in fact
+against the case of BSNL.
+(2003) 12 SCC 91 (1961) 3 SCR 1285 In light of the discussion made above we are of the considered
+view that in the facts and circumstances of the case it is not open to BSNL to demand port charges
+for one year as the cost for cessation of capacity and removal of the ports.
+We order accordingly.
+Indian Kanoon - http://indiankanoon.org/doc/185387381/ 12Unitech Wireless ( Tamilnadu) ... vs Bharat Sanchar Nigam Ltd. & Ors on 21 August, 2014
+But before closing the record of the case it is important to say that the decision in this case is
+primarily based on the finding that the reason that caused the termination of the inter-connect
+agreement, namely the quashing of Unitech's licences by the Supreme Court was a circumstance
+over which the licence-holder had no control. But a party to the inter-connect agreement may lose
+its licence under section 4 of the Indian Telegraph Act for several reasons. Some of the reasons may
+be directly attributable to the licence-holder, for instance non- payment of the annual licence fee or
+committing beach of the terms of the licence and thereby forcing the licensor (the central
+government) to cancel the licence. Such a case would be a case of self induced frustration and in
+such cases the plea of frustration would not be sustainable. In Ganga Saran Vs. Ram Charan Ram
+Gopal10 Justice Fazal Ali speaking for the Supreme Court observed: "Clearly, the doctrine of
+frustration cannot avail a defendant when the non-performance of the contract is attributable to his
+own default". Again in Bhoothalinga Agencies Vs. [1952 SCR 36] VTC Poriaswami Nadar11 the
+Supreme Court recognized the concept of self induced frustration, and held that: "the doctrine of
+frustration cannot apply where the event which is alleged to have frustrated the contract arises from
+the act or election of a party". The loss of licence for any reason attributable to the licence- holder
+would equally terminate the inter-connect agreement as provided under clause 8.2.1 but that would
+impact the provisions of the inter-connect agreement between the licence-holder and BSNL quite
+differently and in such a case the present decision shall have no application.
+In the result the petitions are allowed subject to the observations made above.
+.....................
+(Aftab Alam) Chairperson .......................
+(Kuldip Singh) Member [1952 SCR 65]
+Indian Kanoon - http://indiankanoon.org/doc/185387381/ 13

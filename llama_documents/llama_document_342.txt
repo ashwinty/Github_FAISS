@@ -1,0 +1,587 @@
+Metadata: id=>342
+name=>Bhushan Steel Ltd vs Singapore International on 4 June 2010
+date=>4 June 2010
+court=>HIGH COURT OF DELHI
+link=>http://indiankanoon.org/doc/133193/
+-----
+Content: Bhushan Steel Ltd. vs Singapore International ... on 4 June, 2010
+Delhi High Court
+Bhushan Steel Ltd. vs Singapore International ... on 4 June, 2010
+Author: Manmohan Singh
+* HIGH COURT OF DELHI : NEW DELHI
++ IA No. 11355/2009 & CS (OS) No. 1392/2009
+Bhushan Steel Ltd. ... Plaintiff
+Through: Mr. A.S. Chandhiok, Sr. Adv. with
+Ms. Ranjana Roy Gawai, Mr. Rajiv
+Jain and Ms. Vasudha Sen, Advs.
+Versus
+Singapore International Arbitration
+Centre & Anr. ... Defendants
+Through: Mr. Sandeep Sethi, Sr. Adv. with
+Mr. D. Bhatacharya, Mr. Anil Kumar
+Mishra and Mr. Aditya Jain, Advs.
+Decided on : June 04, 2010
+Coram:
+HON'BLE MR. JUSTICE MANMOHAN SINGH
+1. Whether the Reporters of local papers may
+be allowed to see the judgment? No
+2. To be referred to Reporter or not? Yes
+3. Whether the judgment should be reported
+in the Digest? Yes
+MANMOHAN SINGH, J.
+1. IA No. 11355/2009 has been filed by defendant no. 2 under Order VII Rule 11(d) of the Code of
+Civil Procedure, 1908 („CPC(cid:129) for brevity) for rejection of the plaint. This order shall dispose of the
+afore- stated application.
+2. The present suit has been filed seeking the following reliefs:
+a) declare that the purported arbitration agreement incorporated in the eight (8)
+Sales Contract executed between the plaintiff and the defendant no. 2 for supply of
+coated steel coils is vague and indeterminate and hence void and incapable of being
+enforced;
+b) defendant no. 1 has no jurisdiction under the Sales Contracts and arbitration
+proceedings cannot be commenced or consummated under the aegis of defendant no.
+Indian Kanoon - http://indiankanoon.org/doc/133193/ 1Bhushan Steel Ltd. vs Singapore International ... on 4 June, 2010
+1;
+c) declare that the Sales Contract would be interpreted in terms of and governed by
+Indian Contract Act, 1872 and that the proper or substantive law in the instant case
+would be Indian Law;
+d) grant permanent injunction in favour of the plaintiff and against the defendants
+and defendant no. 1 restraining them from initiating the arbitration proceedings,
+pursuant to the purported arbitration notice under the aegis of defendant no. 1;
+e) declare that there is no arbitrable dispute between the plaintiff and defendant no.
+2.
+3. The brief facts leading up to the filing of the present case are that the plaintiff is a Public Limited
+company duly constituted under the Companies Act, 1956 with national as well as international
+repute and goodwill in its business of manufacturing steel, iron and allied products. Defendant no. 2
+is a corporation existing under the laws of Denmark with its registered office at Denmark. As per the
+plaint, the parties entered into fourteen Sales Contracts in 2007 according to which defendant no. 2
+was to purchase goods from the plaintiff under the terms of the contracts. The quantity and quality
+of the goods was mentioned in the contracts but the actual specifications were to be determined at
+the time of placing of order. As per eight of the fourteen contracts, 776 coated steel coils were
+shipped by the plaintiff to the defendant no. 2 and were duly received by it without any objection
+between July and November 2007.
+4. Invoices for the goods delivered were sent to the defendant no. 2 and the plaintiff for the first time
+received communication vide letter dated 16.01.2008 from the said defendant to the effect that the
+quality of the goods was not as per specification. Despite the complaint being time barred, the
+plaintiff sent its surveyor to inspect the said defective products and found that none of the so-called
+„defective(cid:129) products were in fact faulty. Further, of the 776 coils which were shipped to the
+defendant no. 2, only 32 were found.
+5. Despite these complaints, defendant no. 2 proceeded to remit advance payment vis-à-vis the
+goods which were subject matter of the remaining six contracts between the parties and the plaintiff
+prepared the goods but in the meantime, defendant no. 2 informed the plaintiff that the goods
+should not be dispatched till further directions. No such direction/ communication has been made
+to the plaintiff till date, who is at a loss of USD 777297.23 as the products were manufactured on
+client-based specifications and cannot be sold in the open market.
+6. By notice dated 11.06.2008 defendant no. 2 informed the plaintiff that due to the faulty goods
+supplied by it to the defendant, the plaintiff would be liable to pay to defendant no. 2 a sum of Rs.
+4,278,689.88 along with interest @ 12%. The contracts were not cancelled and the plaintiff was
+called upon to deliver the remaining goods under the said contracts. The plaintiff replied vide letter
+dated 18.06.2008 stating that defendant no. 2 owed it USD 777297.23 for the goods lying with it and
+that arbitration proceedings could not be initiated due to the vague terms in which the arbitration
+Indian Kanoon - http://indiankanoon.org/doc/133193/ 2Bhushan Steel Ltd. vs Singapore International ... on 4 June, 2010
+clause was worded. Thereafter defendant no. 2 issued another notice dated 05.01.2009 initiating
+winding up proceedings against the plaintiff and requesting it to return the advance money paid by
+defendant no. 2 for the remaining six contracts and also to make a payment for USD 4556.25 with
+respect to one of the contracts.
+7. Defendant no. 2 filed winding up proceedings in this Court which are pending adjudication.
+Thereafter defendant no. 2 issued a notice of arbitration to the plaintiff invoking the purported
+arbitration agreement between the parties in respect of the eight sales contracts under which the
+plaintiff allegedly supplied defective goods.
+8. In the present case, the Arbitration Clause reads as under:
+"In the event of any question of dispute arising under the contract, the same shall be
+referred to the award of arbitrators to be nominated one each by the sellers and
+buyers within 30 days notice from either side or in the case of arbitrators not
+agreeing then to the award of an umpire to be appointed by the arbitrators in writing
+prior to proceeding with the arbitration. The decision of the arbitrators or the umpire
+as the case may be shall be final and binding on both parties. The arbitration will take
+place in Singapore as per the international law."
+As per the plaintiff, the said arbitration agreement between the parties is vague and unenforceable
+and therefore, no arbitration proceedings can occur between the parties. Hence the present suit.
+9. In the application under consideration, defendant no. 2 has contended that the plaint ought to be
+rejected based on the following arguments :
+(i) The suit is barred by Section 5 of the Arbitration and Conciliation Act, 1996 („the
+Act(cid:129) for short). Defendant no. 2 has contended that the plaintiff has sought to
+challenge the arbitration clause in the sales contract and not the entire contract and a
+declaration to the effect that the arbitration clause in an agreement is null and void
+cannot be challenged by way of a civil suit as the Civil Court(cid:129)s jurisdiction is very
+limited as laid out in Section 5 of the Act. While arguing that the limited scope for
+action under Section 5 of the Act does not allow this Court to interfere in the present
+matter, learned counsel for the defendants referred to the judgment titled Roshan Lal
+Gupta Vs. Parasram Holdings Pvt. Ltd. & Anr.
+reported as 157 (2009) DLT 712 which can be read as under :
+"5. .....It is not as if the civil Court per se does not have jurisdiction to entertain a suit
+emanating from a transaction subject matter of arbitration agreement. A civil Court
+cannot dismiss a suit instituted before it, even though found to be subject matter of
+an arbitration agreement, at the threshold. It is always open to the defendant to the
+suit to waive, give up and abandon the plea of arbitration and if that were to happen
+then the suit will continue before the civil Court. .....
+Indian Kanoon - http://indiankanoon.org/doc/133193/ 3Bhushan Steel Ltd. vs Singapore International ... on 4 June, 2010
+20. .....A peremptory Section 5 prohibiting the jurisdiction of Courts save as expressly
+provided under the Act has also been introduced. If in spite of the said changes, this
+Court is to hold that a suit is maintainable where the contract containing the
+arbitration clause is challenged on ground of forgery and the Court in such suit is
+empowered to injunct arbitration proceedings (as otherwise no purpose would be
+served by such suit), in my view, it would tantamount to negating the effect of the
+change in the statute. It may also be noticed that arbitration is normally provided for
+in commercial agreements and whereunder after the disputes have arisen, one of the
+parties is always interested in delaying the disposal of the claims of the other. In fact,
+the parties while providing for arbitration in commercial contracts do so for the
+reasons of expediency. If notwithstanding the aforesaid material changes between the
+old and the new Act, it is to be held that a suit as a present one is maintainable, it
+would give a tool in the hands of the party wanting to delay the disposal of the claims
+of the other; in each case suits would be instituted and stay of arbitration proceedings
+would be sought.
+25. I, however, have found the question to be no longer res integra. A Bench of
+three-Judge of the Apex Court in Kvaerner Cementation India Ltd. v. Bajranglal
+Agarwal & Anr., IV (2001) SLT 535=2001 (6) Supreme 265, (and which is
+unfortunately not reported in the law journals having large circulation and frequently
+used in the Courts) has held as under:
+"1. These special leave applications are directed against an order of a learned Single
+Judge of Bombay High Court refusing to interfere with an order of the Civil Court
+vacating an interim order of injunction granted by it earlier. The suit in question had
+been filed for a declaration that there does not exist any arbitration clause and as
+such the arbitral proceedings are without jurisdiction. The learned Single Judge of
+Bombay High Court came to hold that in view of Section 5 of the Arbitration and
+Conciliation Act, 1996 read with Section 16 thereof since the Arbitral Tribunal has the
+power and jurisdiction to make rule on its own jurisdiction, the Civil Court would not
+pass any injunction against an arbitral proceeding.
+2. Mr. Dave, the learned Senior Counsel appearing for the petitioner contends that
+the jurisdiction of the civil Court need not be inferentially held to be ousted unless
+any statute on the face of it excludes the same and judged from that angle when a
+party assails the existence of an arbitration agreement, which would confer
+jurisdiction on an Arbitral Tribunal, the Court committed error in not granting an
+order of injunction. There cannot be any dispute that in the absence of any
+arbitration clause in the agreement, no dispute could be referred for arbitration to an
+Arbitral Tribunal. But, bearing in mind the very object with which the Arbitration
+and Conciliation Act, 1996 has been enacted and the provisions thereof contained in
+Section 16 conferring the power on the Arbitral Tribunal to rule on its own
+jurisdiction including ruling on any objection with respect to existence or validity of
+the arbitration agreement, we have no doubt in our mind that the Civil Court cannot
+Indian Kanoon - http://indiankanoon.org/doc/133193/ 4Bhushan Steel Ltd. vs Singapore International ... on 4 June, 2010
+have jurisdiction to go into that question. A bare reading of Section 16 makes it
+explicitly clear that the Arbitral Tribunal has the power to rule on its own jurisdiction
+even when any objection with respect to existence or validity of the arbitration
+agreement is raised and a conjoint reading of Sub-sections (2), (4) and (6) of Section
+16 would make it clear that such a decision would be amenable to be assailed within
+the ambit of Section 34 of the Act. In this view of the matter, we see no infirmity with
+the impugned order so as to be interfered with by this Court. The petitioner who is a
+party to the arbitral proceedings may raise the question of jurisdiction of the
+Arbitrator as well as the objection on the ground of non-existence of any arbitration
+agreement in the so-called dispute in question and such an objection being raised,
+the Arbitrator would do well in disposing of the same as a preliminary issue so that it
+may not be necessary to go into the entire gamut of arbitration proceedings."
+Thus the question of maintainability of suit need not detain me any further.
+26. The question Nos. 1, 2 and 4 of law are thus answered to the effect that a suit for
+declaration that an agreement containing an arbitration clause is forged, fabricated
+and unenforceable and thus null and void and for injunction restraining arbitration
+does not lie and is barred by Section 5 of Arbitration Act and Sections 34 and 41(h) of
+the Specific Relief Act read with Section 16 of the Arbitration Act."
+(ii) The present suit is alleged to be a counter blast to the winding up proceedings filed by defendant
+no. 2 and an attempt to forestall the arbitration proceedings.
+(iii) The plaintiff has acknowledged the documents containing the arbitration clause and has
+accepted the transaction that occurred between the parties. In such circumstances, the plaintiff can
+bring its contentions and grievances to the attention of the Arbitration Tribunal under the
+Arbitration Act and the civil action initiated by the plaintiff by way of the present suit is neither
+justified nor maintainable.
+(iv) The suit is barred by estoppels, acquiescence and waiver as the plaintiff never objected to the
+arbitration clause at the time of entering into the contract and cannot do so now, after deriving
+monetary benefit out of the said contracts.
+(v) The suit is also averred to be undervalued and not filed with the requisite court fee.
+10. In reply to the above contentions of the defendant no. 2, the learned counsel for the plaintiff has
+referred to the cases of Sukanya Holdings (P) Ltd. Vs. Jayesh H. Pandya, (2003) 5 SCC 531
+(paragraphs 10 and 12), Garden Financial Ltd. Vs. Prakash Inds. Ltd., AIR 2002 Bom 8 (paragraph
+9), P.K. Bajaj Vs. Reminiscent India Television Ltd., 2006 (2) Arb.LR 361 (Del) while arguing that
+the application under Order VII Rule 11 on the basis that Section 5 of the Act bars the present suit is
+not maintainable as a judicial authority can intervene under Sections 8, 45 or 54 of the Act. Since
+the present suit is with regard to an „international arbitration(cid:129), it cannot be held as barred until and
+unless an application under Section 45 of the Act is filed as Section 5 pertains to only Part I of the
+Indian Kanoon - http://indiankanoon.org/doc/133193/ 5Bhushan Steel Ltd. vs Singapore International ... on 4 June, 2010
+Act and the subject matter of the present suit would fall within Part II, being international in
+character. However, the defendants have evaded filing an application under Section 45 of the Act as
+then this Court would have to give its finding on the validity of the arbitration agreement which
+would strike a blow to the defendants as the said agreement is unenforceable.
+11. It was further argued that Section 5 does not bar this Court(cid:129)s jurisdiction in the present case and
+provisions in various statutes were referred to emphasize the difference between an express bar of
+jurisdiction by statute and Section 5 of the Act. Citing Section 9 of the CPC it was submitted that the
+Court ought to try this suit as its jurisdiction is not expressly barred. The following judgments were
+referred to in this regard, and their relevant extracts can be read as under:
+(I) Dhulabhai Vs. State of M.P.,(1968) 3 SCR 662 "9. ..... At the very start we may
+observe that the jurisdiction of the civil courts is all embracing except to the extent it
+is excluded by an express provision of law or by clear intendment arising from such
+law. This is the purport of Section 9 of the Code of Civil Procedure."
+(II) ITI Ltd. v. Siemens Public Communications Network Ltd., (2002) 5 SCC 510 "10.
+We do not agree with this submission of the learned counsel. It is true in the present
+Act application of the Code is not specifically provided for but what is to be noted is:
+is there an express prohibition against the application of the Code to a proceeding
+arising out of the Act before a civil court? We find no such specific exclusion of the
+Code in the present Act. When there is no express exclusion, we cannot by inference
+hold that the Code is not applicable.
+11. It has been held by this Court in more than one case that the jurisdiction of the
+civil court to which a right to decide a lis between the parties has been conferred can
+only be taken by a statute in specific terms and such exclusion of right cannot be
+easily inferred because there is always a strong presumption that the civil courts have
+the jurisdiction to decide all questions of civil nature, therefore, if at all there has to
+be an inference the same should be in favour of the jurisdiction of the court rather
+than the exclusion of such jurisdiction and there being no such exclusion of the Code
+in specific terms except to the extent stated in Section 37(2), we cannot draw an
+inference that merely because the Act has not provided CPC to be applicable, by
+inference it should be held that the Code is inapplicable."
+12. It has been the argument of the learned counsel for the plaintiff that the present application
+under Order VII Rule 11 has been wrongly filed by the defendants and in fact, an application under
+Section 45 of the Act ought to have been filed.
+13. Learned counsel for the plaintiff has contended that an arbitration clause is independent of the
+underlying contract and the plaintiff(cid:129)s acceptance of the contract cannot be misconstrued as its
+acceptance/ acquiescence of the vague arbitration clause in view of the separate identity of both.
+Indian Kanoon - http://indiankanoon.org/doc/133193/ 6Bhushan Steel Ltd. vs Singapore International ... on 4 June, 2010
+14. Learned counsel for the plaintiff has argued that its attempt is not to delay the arbitration
+proceedings contrary to the contention of the defendants and it is in fact contending that since the
+purported arbitration clause on the basis of which arbitration proceedings have been initiated is
+vague and unenforceable, the said proceedings have been wrongfully initiated.
+15. Per contra, learned counsel for the defendants has argued that the decisions referred by him
+make it amply clear that Section 5 of the Arbitration Act bars the jurisdiction of a Civil Court in all
+matters that are covered under Part I of the Act. Further, in view of Bhatia International Vs. Bulk
+Trading S.A., 2002 (4) SCC 105 it is settled law that the provisions of Chapter I of the Arbitration
+Act will be applicable even to international commercial arbitrations held outside India unless the
+parties have expressly or impliedly excluded the same.
+16. Further, Section 45 of the Act provides that the judicial authority concerned has to refer the
+parties to arbitration if it is satisfied that the arbitration agreement is valid and enforceable but
+Section 5 of the Act bars the intervention of any judicial authority in matters governed under the
+Act.
+17. After hearing both the counsel in detail and having perused the various judgments referred by
+them as well as the documents filed, it is my opinion that the determinative questions for deciding
+this application are (a) whether the suit is barred under Order VII Rule 11
+(d) of the CPC; (b) whether Section 5 of the Arbitration and Conciliation Act, 1996 bars the
+jurisdiction of this Court to take cognisance of the present suit and if not, can this Court allow the
+present proceedings to continue or are the same barred by virtue of any other law „for the time being
+in force(cid:129) as contemplated in Order VII Rule 11 (d).
+18. The question is whether a real cause of action has been set out in the plaint or whether the same
+is illusory and has been averred with the view to avoid falling within the provisions of Order VII
+Rule 11 CPC. Clever drafting creating illusions of cause of action are not permitted in law and a clear
+right to sue should be shown in the plaint [See T. Arivandandam Vs. T.V. Satyapal, (1977) 4 SCC
+467].
+19. The first contention of the plaintiff that the present application under Order VII Rule 11 is not
+maintainable. I do not agree with the submission of the plaintiff in view of settled law that power
+can be exercised by the Courts under Order VII Rule 11 of the CPC at any stage of the suit -- before
+registering the plaint or after issuing summons to the defendant at any time before the conclusion of
+the trial [See Saleem Bhai Vs. State of Maharashtra, (2003) 1 SCC 557].
+20. The second submission vis-à-vis inference in favour of this Court(cid:129)s jurisdiction at all times as
+pointed out by reliance upon Dhulabhai (supra) and the averment that the bar under Section 5 of
+the Arbitration Act is not „express(cid:129) as in other statutes and thus cannot oust this Court(cid:129)s
+jurisdiction can be met by a bare perusal of the provision of Section 5. Section 5 provides that
+notwithstanding anything contained in any other law for the time being in force, in matters
+governed by Part I, no judicial authority shall intervene except where so provided in the said Part.
+Indian Kanoon - http://indiankanoon.org/doc/133193/ 7Bhushan Steel Ltd. vs Singapore International ... on 4 June, 2010
+To give effect to the Dhulabhai case (supra), Section 5 must be strictly construed. The provision
+begins with a non-obstante clause and bars interference by any „judicial authority(cid:129) insofar as
+matters governed by Part I of the Act are concerned. The term „judicial authority(cid:129) has not been
+defined anywhere in the Act, however, in Morgan Securities & Credit (P) Ltd. Vs. Modi Rubber Ltd.,
+(2006) 12 SCC 642 the Supreme Court held in paragraph 52 that "in its ordinary parlance "judicial
+authority" would comprehend a court defined under the Act but also courts which would either be a
+civil court or other authorities which perform judicial functions or quasi-judicial functions."
+Therefore, the plaintiff(cid:129)s argument on this count is unconvincing and meritless.
+21. The next contention of the plaintiff that performance of contract by it cannot amount to estoppel,
+waiver or acquiescence on its part as its objections are only with regard to the arbitration clause and
+not the entire contract and as per Section 16 of the Arbitration Act the arbitration agreement/clause
+is to be treated as independent of the contract is prima facie untenable for the following reasons.
+22. Section 16 provides in crystal clear terms that an arbitration clause that forms part of a contract
+shall be treated as an agreement independent of the other terms of the contract for the purpose of
+the arbitral tribunal ruling on its own jurisdiction including ruling on any objection with respect to
+the existence and/ or validity of the arbitration agreement. However, having signed and acted upon
+a contract, a party cannot later rescind from certain terms contained therein by quoting a statutory
+provision out of context. The various cases referred in this regard by the learned counsel for the
+plaintiff also accentuate the position laid down by Section 16 as mentioned above by me and
+therefore, do not aid the plaintiff(cid:129)s argument.
+23. Let me now proceed to examine whether Section 5 of the Act applies to the facts and
+circumstances of the present case. As referred, the bone of contention in this case revolves around
+Section 5 of the Arbitration and Conciliation Act and its applicability or otherwise on the impending
+arbitration proceedings.
+24. Section 5 of the Arbitration and Conciliation Act, 1996 reads as under:
+5. Extent of judicial intervention.--Notwithstanding anything contained in any other
+law for the time being in force, in matters governed by this Part, no judicial authority
+shall intervene except where so provided in this Part.
+25. It is thus clear that a Court can intervene only in the event that its intervention is provided for
+under the Act. One of the main objects of the Act is to minimise the supervisory role of the courts in
+the arbitral process. Section 5, as evident, is brought of the new Act to encourage the resolution of
+disputes expeditiously and in a cost effective manner. Therefore, the extent of judicial intervention
+is limited by the non-obstante provision of Section 5 of the Act. As per the settled law, the Court
+should not be obliged to bypass the provisions of the Act in exercise of its power and jurisdiction.
+26. Reference may be made in this regard to the case of National Agricultural Coop. Marketing
+Federation India Ltd. v. Gains Trading Ltd.,(2007) 5 SCC 692 wherein it has been held as under :
+Indian Kanoon - http://indiankanoon.org/doc/133193/ 8Bhushan Steel Ltd. vs Singapore International ... on 4 June, 2010
+"7. Part I of the Act deals with arbitration. Part II deals with enforcement of certain
+foreign awards. Sub-section (2) of Section 2 provides that Part I of the Act dealing
+with arbitration shall apply where the place of arbitration is in India. Section 11
+dealing with appointment of arbitrators is contained in Part I. As the venue of
+arbitration is outside India, it is contended by the respondent that entire Part I
+including Section 11 will not apply and therefore neither the Chief Justice of India nor
+his designate will have the jurisdiction to appoint the arbitrator. Such a contention is
+already considered and negatived by this Court in Bhatia International v. Bulk
+Trading S.A. This Court has held: (SCC pp. 119 & 123, paras 21 & 32) "Sub-section (2)
+of Section 2 provides that Part I would apply where the place of arbitration is in
+India. To be immediately noted, that it is not providing that Part I shall not apply
+where the place of arbitration is not in India. It is also not providing that Part I will
+„only(cid:129) apply where the place of arbitration is in India (emphasis in original). Thus
+the legislature has not provided that Part I is not to apply to arbitrations which take
+place outside India. The use of the language is significant and important. The
+legislature is emphasising that the provisions of Part I would apply to arbitrations
+which take place in India, but not providing that the provisions of Part I will not
+apply to arbitrations which take place out of India. The wording of sub-section (2) of
+Section 2 suggests that the intention of the legislature was to make provisions of Part
+I compulsorily applicable to an arbitration, including an international commercial
+arbitration, which takes place in India. Parties cannot, by agreement, override or
+exclude the non-derogable provisions of Part I in such arbitrations. By omitting to
+provide that Part I will not apply to international commercial arbitrations which take
+place outside India the effect would be that Part I would also apply to international
+commercial arbitrations held out of India. But by not specifically providing that the
+provisions of Part I apply to international commercial arbitrations held out of India,
+the intention of the legislature appears to be to ally (sic allow) parties to provide by
+agreement that Part I or any provision therein will not apply. ... Where such
+arbitration is held in India the provisions of Part I would compulsorily apply and
+parties are free to deviate only to the extent permitted by the derogable provisions of
+Part I. In cases of international commercial arbitrations held out of India provisions
+of Part I would apply unless the parties by agreement, express or implied, exclude all
+or any of its provisions. In that case the laws or rules chosen by the parties would
+prevail. Any provision, in Part I, which is contrary to or excluded by that law or rules
+will not apply."
+27. Various decisions have held the same view and followed the Bhatia International case (supra)
+such as Max India Limited Vs. General Binding Corporation, Spentex Industries Ltd. Vs. Dunvant
+S.A. & Anr., 2009 (113) DRJ 397 (DB) and DGS Realtors Pvt. Ltd. Vs. Realogy Corporation, OMP
+No. 508/2009 decided on 03.09.2009 by this Court.
+28. Ultimately, the controversy has been laid to rest by the decision in Venture Global Engineering
+Vs. Satyam Computer Service Ltd., (2008) 4 SCC 190 paragraphs 25, 26 and 31 whereof are
+reproduced below :
+Indian Kanoon - http://indiankanoon.org/doc/133193/ 9Bhushan Steel Ltd. vs Singapore International ... on 4 June, 2010
+"25. In order to find out an answer to the first and prime issue and whether the
+decision in Bhatia International is an answer to the same, let us go into the details
+regarding the suit filed by the appellant as well as the relevant provisions of the Act.
+The appellant VGE filed OS No. 80 of 2006 on the file of the Ist Additional District
+Court, Secunderabad, for a declaration that the award dated 3-4-2006 is invalid,
+unenforceable and to set aside the same. Section 5 of the Act makes it clear that in
+matters governed by Part I, no judicial authority shall intervene except where so
+provided. Section 5 which falls in Part I, specifies that no judicial authority shall
+intervene except where so provided. The Scheme of the Act is such that the general
+provisions of Part I, including Section 5, will apply to all Chapters or Parts of the Act.
+26. Section 2(5) which falls in Part I, specifies that "this Part shall apply to all
+arbitrations and to all proceedings relating thereto". It is useful to refer to Section 45
+which is in Part II of the Act which starts with non obstante clause, namely,
+"Notwithstanding anything contained in Part I or in the Code of Civil Procedure...."
+Section 52 in Chapter I of Part II of the Act provides that "Chapter II of this Part shall
+not apply in relation to foreign awards to which this Chapter applies". As rightly
+pointed out, the said section does not exclude the applicability of Part I of the Act to
+such awards.
+31. On close scrutiny of the materials and the dictum laid down in the three-Judge
+Bench decision in Bhatia International we agree with the contention of Mr K.K.
+Venugopal and hold that paras 32 and 35 of Bhatia International make it clear that
+the provisions of Part I of the Act would apply to all arbitrations including
+international commercial arbitrations and to all proceedings relating thereto. We
+further hold that where such arbitration is held in India, the provisions of Part I
+would compulsorily apply and parties are free to deviate to the extent permitted by
+the provisions of Part I. It is also clear that even in the case of international
+commercial arbitrations held out of India provisions of Part I would apply unless the
+parties by agreement, express or implied, exclude all or any of its provisions. We are
+also of the view that such an interpretation does not lead to any conflict between any
+of the provisions of the Act and there is no lacuna as such. The matter, therefore, is
+concluded by the three-Judge Bench decision in Bhatia International."
+29. From the above it is clearly indicated that Part I is also to apply to international commercial
+arbitrations which take place outside India.
+30. A Division Bench of this Court has dealt with the point involved in the present case in the case of
+Spentex Industries Ltd. Vs. Dunvant S.A. & Anr., 2009 (113) DRJ 397 (DB) which is squarely
+applicable given the four corners of this matter.
+31. In the case of DGS Realtors Pvt. Ltd. (supra) a Learned Single Judge of this Court examined all
+the leading cases cited by the parties as well as certain additional cases referred by the counsel in
+that case and distinguished several of the cases so referred. A close reading of the said judgment
+Indian Kanoon - http://indiankanoon.org/doc/133193/ 10Bhushan Steel Ltd. vs Singapore International ... on 4 June, 2010
+reveals that the interpretation of „express or implied exclusion(cid:129) of Part I of the Arbitration Act as
+given in Max India (supra) has been more finely defined by reference to the constituents of the so
+called „exclusion(cid:129). From a scrutiny of the judgment it appears that for Part I of the Arbitration Act
+to be applicable to the purported arbitration/ dispute, the parties ought to have failed to do one or
+all of the following :
+(a) There must be no agreement as to what would be the governing law of the
+contract, governing law being presumed to be the law of arbitration also;
+(b) There must be no agreement as to the place of arbitration;
+and/or,
+(c) It must be shown that if no interim action is taken, a party will be left remediless.
+32. The contention of the plaintiff is that the arbitration clause is vague and therefore void and
+unenforceable due to several reasons which have been mentioned in the plaint as well as put
+forward during the course of hearing and the suit cannot be held as barred until and unless an
+application under Section 45 of the Act is filed as the subject matter of the present suit would fall
+within Part II of the Act. The observations in paragraphs 66 and 111 of Shin-Etsu Chemicals Vs.
+Aksh Optifibre, (2005) 7 SCC 234 have been relied upon in this regard. The vagueness in the clause
+has been attributed to the use of the words and the condition of "international law" being the
+governing law.
+33. It does not lie in the mouth of the plaintiff to say that the agreement between the parties or any
+part thereof including the arbitration clause ought not be relied upon etc. as the said agreement in
+its entirety has been attached with the invoices sent to the defendant no. 2 by the plaintiff itself.
+34. In the present case, the arbitration clause reads as under :
+"In the event of any question of dispute arising under the contract, the same shall be
+referred to the award of arbitrators to be nominated one each by the sellers and
+buyers within 30 days notice from either side or in the case of arbitrators not
+agreeing then to the award of an umpire to be appointed by the arbitrators in writing
+prior to proceeding with the arbitration. The decision of the arbitrators or the umpire
+as the case may be shall be final and binding on both parties. The arbitration will take
+place in Singapore as per the international law."
+35. The scheme of the Act is clear in this regard. It is settled law that once it is held that there is a
+valid arbitration agreement between the parties, the suit would not be maintainable as the genesis of
+the entire dispute raised in the plaint is that there is no agreement. Section 45 can be resorted to if
+there are disputes between the parties as to the validity of the arbitration agreement.
+Indian Kanoon - http://indiankanoon.org/doc/133193/ 11Bhushan Steel Ltd. vs Singapore International ... on 4 June, 2010
+36. Section 45 provides that when a judicial authority is seized of an action in a matter in respect of
+which the parties have an agreement of arbitration, the judicial authority at the request of one party
+to the arbitration shall refer the dispute to arbitration unless it finds that the said agreement is null
+and void, inoperative or incapable of being performed.
+37. Let me refer to the Part II of the Singapore Arbitration laws i.e. the International Arbitration Act,
+Chapter 143A, Section 5 (2) (a) which is squarely applicable to the facts of the present case which
+provides that "an arbitration is international if at least one of the parties to an arbitration
+agreement, at the time of the conclusion of the agreement, has its place of business in any State
+other than Singapore". Further, Section 5 (2) (b) (i) of the same Act provides that an arbitration will
+be international also if "the place of arbitration is determined in, or pursuant to, the arbitration
+agreement". The present arbitration clause under consideration clearly mentions that the place of
+arbitration will be Singapore.
+38. Further, by virtue of Section 3(1) which provides that the Model Law shall have the force of law
+in Singapore, Article 5 of the UNCITRAL Model Law on International Commercial Arbitration shall
+apply which expressly excludes the jurisdiction of this Court as it provides that "in all matters
+governed by this law, no court shall intervene except where so provided by this law." It appears to
+me that the words international law shall mean what they are intended to mean in the UNCITRAL
+Model Law on International Commercial Arbitration as the said Model Law has also been the
+premise and guiding light for the provisions of the Indian Arbitration Act.
+39. Moreover, the Division Bench in appeal in Max India Ltd (supra) in paragraphs 28 and 30 (i)
+held as under:
+"28. There is a fundamental and practical difference between the court proceedings
+on the one hand and the arbitration on the other. Should the parties wish to opt for
+arbitration with regard to a particular contract, in practice the decision must be taken
+where the contract is drafted and a clause must be inserted in the form of a
+contractual provision. No doubt, parties may agree for arbitration even if originally
+not agreed to, even after the dispute has actually arisen. However, generally and
+particularly in international arbitrations, important feature of arbitration is to decide
+before hand for settlement of disputes that may arise, through means of arbitration.
+In contrast, it is well known that courts are available to hear a case even in the
+absence of a particular clause referring to their jurisdiction. Another peculiar feature
+of arbitration, particularly international, is that parties may not only chose the
+arbitral forum which shall decide the dispute, but also the law that would govern the
+contract and also the arbitration proceedings. Whereas the territorial jurisdiction of a
+particular Court is governed by law, namely, Sections 16 to 24 of the Code of Civil
+Procedure, in case of international arbitration the litigating parties may agree to
+confer the jurisdiction on a particular arbitral tribunal as well as particular courts,
+including applicable law.
+Indian Kanoon - http://indiankanoon.org/doc/133193/ 12Bhushan Steel Ltd. vs Singapore International ... on 4 June, 2010
+30. In National Thermal Power Corporation v. Singer Company (supra) also the Apex
+Court held that in international commercial arbitration agreement the parties have
+liberty to make choice, expressly or by necessary implication of the proper or
+substantive law as well as procedure law to be applicable. The Court also held that in
+the absence of express choice, a presumption arises that the laws of a country where
+the arbitration is to be held would be the proper law which presumption, of course, is
+rebuttable having regard to the true intention of the parties. The principles which are
+culled out from the reading of this judgment can be summarized as under:
+(a) to (h) xxxxxxxx
+i) The arbitration proceedings are to be conducted in
+accordance with the law of the country in which the arbitration is held unless the
+parties have specifically chosen the law governing the conduct and procedure of
+arbitration. Normally, the appropriate courts of the seat of arbitration will have
+jurisdiction in respect of procedural matters concerning the conduct of arbitration.
+(j) to (l) xxxxxxxx"
+40. These principles were acknowledged by the Apex Court in the case of Modi Entertainment
+Network and Anr. Vs. WSG Cricket PTE Ltd., (2003) 4 SCC 341 which reads as under:
+"26. A plain reading of this clause shows that the parties have agreed that their
+contract will be governed by and be construed in accordance with English law and
+they have also agreed to submit to the non-exclusive jurisdiction of English courts
+(without reference to English conflict of law rules). We have already observed above
+that recitals in regard to submission to exclusive or non-exclusive jurisdiction of a
+court of choice in an agreement are not determinative. However, as both the parties
+proceeded on the basis that they meant non-exclusive jurisdiction of the English
+courts, on the facts of this case, the court is relieved of the interpretation of the
+jurisdiction clause. Normally, the court will give effect to the intention of the parties
+as expressed in the agreement entered into by them except when strong reasons
+justify disregard of the contractual obligations of the parties. In Donohue case
+although the parties to the agreement stipulated to submit to the exclusive
+jurisdiction of the English courts, the House of Lords found that it would not be in
+the interests of justice to hold the parties to their contract as in that case strong
+reasons were shown by the respondent. It was felt necessary that a single trial of all
+the claims of the parties by one forum would be appropriate and as all the parties to
+the New York proceedings were not parties to the agreement stipulating exclusive
+jurisdiction of the English court and as all the claims before the New York court did
+not arise out of the said contract so they could not have been tried in the English
+court. It was urged that in the circumstances parallel proceedings -- one in England
+and another in New York -- would have to go on which might result in inconsistent
+decisions. Those facts were considered as strong reasons to decline to grant anti-suit
+Indian Kanoon - http://indiankanoon.org/doc/133193/ 13Bhushan Steel Ltd. vs Singapore International ... on 4 June, 2010
+injunction though the parties had agreed to the exclusive jurisdiction of the English
+court."
+41. The question of applicability of law has been extensively discussed by the Apex Court by
+referring various decisions in the case of Shreejee Traco (I) Pvt. Ltd. Vs. Paperline International Inc.
+reported in (2003) 9 SCC 79, paragraph 7 of which reads as under:
+"7. In National Thermal Power Corpn. v. Singer Co. a question arose as to the
+applicability of Indian law when one of the contracting parties was a foreigner.
+Though the case is pre-1996, certain observations made therein are apposite. In case
+of conflict of laws, the Supreme Court of India has opined that for arbitration, the
+selection of the place of arbitration may have little significance where it is chosen, as
+is often the case, without regard to any relevant or significant link with the place. This
+is particularly true when the place of arbitration is not chosen by the parties
+themselves, but by the arbitrators or by the outside body, and that too for reasons
+unconnected with the contract. It would be different if choice of place for submission
+for the arbitration is supported by the rest of the contract and surrounding
+circumstances which may be treated as stronger indication in regard to the intention
+of the parties. Dicey & Morris on The Conflict of Laws (11th Edn., Vol. II) was cited
+with approval wherein the learned authors state inter alia that the law governing
+arbitration proceedings is the law chosen by the parties, or, in the absence of
+agreement, the law of the country in which the arbitration is held. In the absence of
+express choice of the law governing the contract as a whole or the arbitration
+agreement as such having been exercised by the parties, a presumption may arise
+that the law of the country where the arbitration is agreed to be held is the proper law
+of the arbitration agreement. The presumption is rebuttable. The parties have the
+freedom to choose the law governing an international commercial arbitration
+agreement. Where there is no express choice of the law governing the contract as a
+whole, or the arbitration agreement in particular, there is, in the absence of any
+contrary indication, a presumption that the parties have intended that the proper law
+of the contract as well as the law governing the arbitration agreement are the same as
+law of the country in which the arbitration is agreed to be held. There is nothing in
+the contract or correspondence between the parties to rebut the ordinary
+presumption and spell out an intention of the parties that they intended proper law of
+India to govern arbitration in spite of the place of arbitration having been agreed to
+be at New York."
+42. The governing law, in the case at hand, is clearly submitted to be „international law(cid:129) the
+meaning of which has been discussed above at length. The place or venue of the arbitral proceedings
+is also clearly mentioned to be the SIAC which is at Singapore.
+43. It is evident from above that the arbitration clause in the sales contract clearly provides the
+governing law as well as the place of arbitration in case of disputes between the parties. The
+„International Law(cid:129) which is stated to be applicable to the dispute clearly excludes this Court(cid:129)s
+Indian Kanoon - http://indiankanoon.org/doc/133193/ 14Bhushan Steel Ltd. vs Singapore International ... on 4 June, 2010
+jurisdiction in the present matter.
+44. In the case of Citation Infowares Ltd. Vs. Equinex Corporation, (2009) 7 SCC 220 in paragraph
+25 of the judgment, it is stated that the law of arbitration is normally the same as the proper law of
+the contract and it is only in exceptional cases that it is not so, even where the proper law of contract
+is expressly chosen by the parties; it was further held that there is a presumption that the law of the
+country where the arbitration is agreed to be held is the proper law of arbitration.
+45. It has been rightly observed by the Apex Court in the case of Secur Industries Ltd. Vs. Godrej
+and Boyce Mfg. Co. Ltd. reported in AIR 2004 SC 1766 paragraph 11 which is reproduced below:
+"11. The "Part" referred to in this sub-section is Part I of the 1996 Act which deals
+with domestic arbitrations. The proceedings before the Council, therefore, are
+proceedings under the 1996 Act, pursuant to a deemed agreement between the
+parties to the dispute. With the applicability of Part I of the 1996 Act in all its force,
+the extent of judicial intervention in arbitrations is limited by the non obstante
+provisions of Section 5 of the 1996 Act, which stipulate:
+"5. Notwithstanding anything contained in any other law for the time being in force,
+in matters governed by this Part, no judicial authority shall intervene except where so
+provided in this Part."
+The City Civil Court was right in its approach when it said that the court could only
+intervene in respect of matters expressly provided for in the 1996 Act. The validity of
+the proceedings before the arbitral tribunal is an issue which the Council, and not the
+court, could decide under Section 16 of the 1996 Act. Sub-section (1) of Section 16
+opens with the words "the arbitral tribunal may rule on its jurisdiction ...". It has
+been held by this Court that the arbitral tribunal(cid:129)s authority under Section 16 is not
+confined to the width of its jurisdiction but goes to the very root of its jurisdiction.
+[Konkan Rly. Corpn. Ltd. v. Rani Construction (P) Ltd.] Therefore, the Council can go
+into the question whether its authority had been wrongly invoked by the appellant
+and it is open to it to hold that it had no jurisdiction to proceed with the matter."
+46. After having gone through the arbitration clause in the present case, I do not prima facie find
+that the impugned clause is null or void or inoperative or incapable of being performed due to the
+reason that the plaintiff itself has relied upon this clause and has taken advantage of it.
+47. In the present case, it is evident that the parties by agreement have expressly and impliedly
+excluded the provisions of the Arbitration and Conciliation Act, 1996. Thus, the suit is not
+maintainable.
+48. With these observations, I allow the application of the defendant no.2 and reject the plaint. No
+cost.
+Indian Kanoon - http://indiankanoon.org/doc/133193/ 15Bhushan Steel Ltd. vs Singapore International ... on 4 June, 2010
+49. Since the interim order was continued for certain duration of time, therefore, the operation of
+this order shall remain stayed for a period of four weeks.
+MANMOHAN SINGH, J.
+JUNE 04, 2010 sa
+Indian Kanoon - http://indiankanoon.org/doc/133193/ 16

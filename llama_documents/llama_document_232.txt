@@ -1,0 +1,663 @@
+Metadata: id=>232
+name=>Commissioner Of Income Tax Xvii vs Idea Cellular Ltd on 19 February 2010
+date=>19 February 2010
+court=>HIGH COURT OF DELHI
+link=>http://indiankanoon.org/doc/1440065/
+-----
+Content: Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+Delhi High Court
+Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+Author: A.K.Sikri
+REPORTABLE
+* IN THE HIGH COURT OF DELHI AT NEW DELHI
+ITA No.145 of 2009
+with
+ITA No.784 of 2009
+Reserved On: 11th December, 2009.
+% Date of Decision: 19th February, 2010.
+1) ITA No.145 of 2009
+Commissioner of Income Tax-XVII . . . Appellant
+through : Ms. Rashmi Chopra, Advocate.
+VERSUS
+Idea Cellular Ltd. . . .Respondent
+through: Mr. Farookh Irani with Mr. Satyen Sethi
+and Mr. Johnson Bara, Advocates.
+2) ITA No.784 of 2009
+Commissioner of Income Tax-XVII . . . Appellant
+through : Ms. Rashmi Chopra, Advocate.
+VERSUS
+Idea Cellular Ltd. . . .Respondent
+through: Mr. Farookh Irani with Mr. Satyen Sethi
+and Mr. Johnson Bara, Advocates.
+CORAM :-
+THE HON'BLE MR. JUSTICE A.K. SIKRI
+THE HON'BLE MR. JUSTICE SIDDHARTH MRIDUL
+1. Whether Reporters of Local newspapers may be allowed
+to see the Judgment?
+2. To be referred to the Reporter or not?
+3. Whether the Judgment should be reported in the Digest?
+A.K. SIKRI, J.
+1. These appeals were admitted on the following question of law:
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 1Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+"Whether on a true and correct appreciation of the relationship between the assessee
+and its distributors, the learned Income Tax Appellate Tribunal erred in holding that
+the payments paid by the assessee is not commission as envisaged under Section
+194H of the Act?"
+This question has arisen for determination for the Assessment Years 2003-04 and
+2004-05.
+2. A survey under Section 133 of the Income Tax Act (hereinafter referred to as „the Act(cid:129)) was
+conducted at the premises of the respondent-assessee (hereinafter referred to as „the assessee(cid:129)). It
+revealed that the assessee was not deducting tax at source. It was found that the assessee-company
+is engaged in the business of providing cellular telephone network through a card called Subscriber
+Identification Module (SIM). Prepaid or post paid connections are provided to the subscribers
+through distributors called „Prepaid Market Associates (PMAs)(cid:129) appointed by the assessee. The
+assessee offers discount for prepaid calling services to its distributors. The assessing officer noted
+that as per the agreement the distributors were required to store the SIM Card and Recharge
+Coupons in such a way as to clearly indicate at all times that prepaid SIM Card/Recharge Coupons
+were owned by assessee. They were not allowed to remove, obscure or delete in marks placed on
+prepaid SIM Card/recharge coupons. The terms of agreement further provided that without written
+consent of ICL the distributors (PMAs) shall not directly or indirectly:
+(i) market, solicit, sell, offer and accept offers for telephony services that compete
+with ICL's telephony Services.
+(ii) induce or refer any actual or prospective subscriber of ICL's telephony services to
+subscribe to any Competitive Telephony Services.
+(iii) provide any Company or Customer information/data to any competitive entity.
+From this clause the Assessing Officer came to the conclusion that distributors were not free to sell
+similar products offered by the competitors of the company. PMAs further appointed the retailers
+after the written approval of the assessee. The maximum price of SIM Cards/recharge coupons was
+also decided by M/s IDEA CELLULAR LIMITED (ICL). It was also found that under the agreement,
+it is the responsibility of the PMAs to obtain all relevant informations concerning a subscriber and
+to forward the same to ICL. Unless that is done, no activation of SIM card can be done. Further ICL
+has the right to use of service marks, trademarks, trade names, copy rights, logos or any other
+copyright that might be created in future. PMA has to comply with all requirements of ICL in respect
+of invoicing and accounts, maintenance of brand image and provide monthly sales reports return
+and other information relating to business. ICL representative could inspect the things or material
+of the business which were the subject matter of the agreement. Further, Minimum Performance
+Targets for the distributors were also set by the company and reserved the right to terminate the
+agreement unilaterally.
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 2Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+On the basis of these facts and the types of control exercised by ICL on its prepaid distributors, the
+Assessing Officer came to the conclusion that transaction with ICL and prepaid distributors were
+that of Principal and Agent at all times and prepaid distributors were selling a prepaid SIM
+Card/recharge coupon on behalf of the ICL. Consequently, amount of discount offered to prepaid
+distributor was in nature of commission and liable to tax deduction at source under Section 194H of
+the Income-tax Act. He accordingly treated the assessee as defaulter Under Section 201(1) and
+charged interest under Section 201(1 A) on amount of commission so paid by the assessee.
+3. The assessee preferred appeals before the CIT (A), but was unsuccessful, as its appeals were
+dismissed. However, it has succeeded in further appeals preferred before the Income Tax Appellate
+Tribunal (hereinafter referred to as „the Tribunal(cid:129)). The decisions of the CIT(A) as well as AO have
+been reversed and the issue is decided in favour of the assessee company. The Tribunal has opined
+that the relationship between the assessee and its distributors is that of „principal and principal(cid:129)
+and not „principal and agent(cid:129). Therefore, what was paid to the PMAs was not commission or
+brokerage and was not subject to deduction of tax at source under Section 194H of the Act. The
+Tribunal has arrived at the aforesaid findings in the following manner:
+"14. In order to ascertain whether the PMAs were acting as agents of the assessee or
+were outright purchasers of goods supplied by the assessee, it is necessary to discuss
+the distinction between the contract of sale or contract of agency. The essence of
+contract to sale is the transfer of title to the goods for price paid or to be paid. The
+transferee in such case becomes liable to the transferor of goods as a debtor for the
+price to be paid and not an agent for the proceeds of the sale. On the other hand, the
+essence of agency to sell is the delivery of goods to a person, who is to sell them, not
+as his own property but as the property of the principal who continues to be the
+owner of goods and who is therefore liable to account for the proceeds. The true legal
+relationship between the assessee and the PMAs has to be inferred from the nature of
+contract, its terms and conditions and the nature of respective obligations
+undertaken by the parties. Clause 3 of the agreement specifically provides that the
+relationship created by the agreement is that of independent contracting parties and
+is not, and shall not deem to be any relationship inter-alia employer/employee;
+principal and agent. Clause 6(b) provides that full legal equitable title and interest in
+all and any of the prepaid simcard/recharge coupons delivered to PMAs shall remain
+in ICL and shall not pass to PMAs. However, in case the prepaid SIMCards/recharge
+coupons with PMAs become unusable, substandard or are destroyed due to natural
+calamities or occurrences or circumstances beyond the reasonable control of either
+party or due to negligence of PMA in storage, the assessee shall replace the prepaid
+simcards/recharge coupons subject to payment of processing fees for such replaced
+cards. On cursory look on this condition of agreement it appears that ownership on
+prepaid simcard/recharge coupons remains with the assessee. However, as per the
+conditions prescribed the PMA shall pay the processing fees for such replaced cards.
+If the relationship between the assessee and PMA was that of principal and agent,
+there was no need for recovery of processing fee for replacement of cards destroyed
+or become unusable. In case of a contract of agency the agents acts on behalf of the
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 3Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+principle and no question arises for seeking the compensation from the agent in case
+of loss of property due to natural calamity or occurrence or circumstances beyond the
+reasonable control of the agent. The agent is required to protect the interest of his
+principal as a man of ordinary prudence. Another contention of Revenue that Clause
+8 of the agreement debars the PMA to enter into agreement with other parties for
+similar telephony services and therefore he is not to act independently. In our view
+the restrictions prescribed in Clause 8 deals with the competitors of the assessee.
+Such terms and conditions are generally found in commercial agreements. Clause 9
+provides for appointment of retailer by PMA. Further Clause 10 deals with the price
+at which PMA shall acquire the prepaid SIM cards/recharge vouchers. The retailers
+can sell the recharge vouchers to end user at any price not exceeding the maximum
+retail price. The assessee will receive the fixed amount including service charges. In
+case of a agent the price collected by him is remitted to the principal after deduction
+of his commission and expenses relating to sale of the goods. The assessee is not
+making any reimbursement of the expenditure incurred by the PMA and his retailers.
+This also suggests that the agreement between the assessee and PMA is that of seller
+and purchaser. Agreement also provides certain conditions relating to protection of
+intellectual property rights of the assessee. The other conditions stipulated in the
+agreement including termination clause do not throw any light so as to suggest that
+the agreement between the assessee and PMA is that of principal and agent. In the
+case of Gordon Goodroffe & Co. Madras Ltd. v. Shaik MA Mazid and Co. held that
+even an agent can become a purchaser when agent pays the price to principal on his
+own responsibility. In the case before the goods are sold to the PMA who in turn
+transfer goods to retailer to be sold to the end users. The retailers are appointed by
+the PMA though with the approval of the assessee but they are working under the
+instructions of PMAs. Termination of the retailers is co-terminus with the
+termination of the agreement with PMA. In our considered view the legal relationship
+between the assessee and PMA is that of seller and purchaser. We do not find any
+condition in the agreement from which it can be inferred that PMA stands in a
+fiduciary position in relation to the assessee. It is admitted by the revenue that the
+agreement in substance is the agreements entered into between the assessee and the
+PMA is in the nature of contract to sale and not contract of the agency. Therefore, the
+discount allowed by the assessee to PMA will not fall in the definition of commission
+of brokerage."
+4. Section 194H of the Act reads as under:
+"Section 194H:
+COMMISSION, BROKERAGE, ETC.
+(1) Any person, not being an individual or a Hindu undivided family, who is
+responsible for paying, on or after the 1st day of October, 1991 but before the 1st day
+of June, 1992, to a resident, any income by way of commission (not being insurance
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 4Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+commission referred to in section 194D) or brokerage, shall, at the time of credit of
+such income to the account of the payee or at the time of payment of such income in
+cash or by the issue of a cheque or draft or by any other mode, whichever is earlier,
+deduct income-tax thereon at the rate of ten per cent.
+(2) The provisions of sub-section (1) shall not apply - (a) To such persons or class or
+classes of persons as the Central Government may, having regard to the extent of
+inconvenience caused or likely to be caused to them and being satisfied that it will not
+be prejudicial to the interests of the revenue, by notification in the Official Gazette
+1747e , specify in this behalf;
+(b) Where the amount of such income or, as the case may be, the aggregate of the
+amounts of such income credited or paid or likely to be credited or paid during the
+financial year by the person referred to in sub-section (1) to the account of, or to, the
+payee, does not exceed two thousand five hundred rupees.
+Explanation : For the purposes of this section, - (i) "Commission or brokerage"
+includes any payment received or receivable, directly or indirectly, by a person acting
+on behalf of another person for services rendered (not being professional services) or
+for any services in the course of buying or selling of goods or in relation to any
+transaction relating to any asset, valuable article or thing;
+(ii) "Professional services" means services rendered by a person in the course of
+carrying on a legal, medical, engineering or architectural profession or the profession
+of accountancy or technical consultancy or interior decoration or such other
+profession as is notified by the Board for the purposes of section 44AA;
+(iii) Where any income is credited to any account, whether called "Suspense account"
+or by any other name, in the books of account of the person liable to pay such income,
+such crediting shall be deemed to be credit of such income to the account of the payee
+and the provisions of this section shall apply accordingly."
+5. It is clear from the aforesaid provision that taxes to be deducted at source by a person responsible
+for paying any income by way of commission or brokerage. The expression „commission(cid:129) or
+„brokerage(cid:129) has been defined in the explanation, which includes any payment received or receivable
+directly or indirectly by a person acting on behalf of another person for services rendered (not being
+professional services) or for any services in the course of buying and selling of goods or in relation to
+any transaction relating to following or any being securities:
+(i) For services rendered (not being professional);
+(ii) For any services in the course of buying and selling of goods or in relation to any
+transaction relating to any asset, valuable article or thing
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 5Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+6. Counsel for both the parties agreed that element of agency is to be established in all the aforesaid
+circumstances. It was for this reason that the Tribunal had considered as to whether the transaction
+in question between the assessee and the PMAs amounted to contract of sale (thereby constituting
+relationship of „principal and principal(cid:129)) or it amounted to contract of agency (thereby resulting in
+„principal and agent(cid:129)). Both the parties concur that this was the essence of dispute. However,
+difference is in the perception inasmuch as according to the Revenue, the agreement constituted
+contract of agency and, therefore, payment made by the assessee to the PMAs was „commission(cid:129) or
+„brokerage(cid:129) attracting the provisions of Section 194H of the Act.
+7. Learned counsel for the Revenue submitted that from the nature of services provided by the
+assessee to its ultimate consumers through the medium of these distributors called „Prepaid
+Marketing Associates (PMA)(cid:129). It was clear that these distributors were only agent and link between
+the assessee and the ultimate consumers. She highlighted the nature of the transaction by pointing
+out that a subscriber uses the cellular telephone network through a card called Subscriber
+Identification Module (SIM Card). Prepaid or postpaid connections are provided to the subscriber.
+In this case, the prepaid services are termed as Idea Chitchat Prepaid. For rendering its services to
+the subscriber, the company appoints distributors called "PRE PAID MARKET ASSOCIATES
+(PMAs)". ICL also appoints I-CAPs to promote its chitchat prepaid services. The main duty of I-CAP
+is to obtain subscribers of SIM cards and activate them. In short, sometimes I-CAPs are directly
+appointed by the company and not through its PMAs. The assessee company offers discounts on
+prepaid calling services to its distributors. No breakup, however, has been given for the discounts
+offered on prepaid calling services to PMAs and I-CAPs. The break-up is, however, available for
+discounts offered on Starter Packs and Recharge Coupons.
+8. Her submission was that the agreement brought out the following significant aspects showing
+„principal and agent(cid:129) relationship:
+a) Full legal and equitable title and interest in prepaid SIM Card and recharge
+coupons delivered to the distributors at all time remains with the assessee.
+b) The distributors store the SIM Card and recharge coupons in such a way as to
+clearly indicate at all times that the prepaid SIM card/recharge coupons are owned
+by ICL and is not allowed to remove, obscure or delete any mark placed on prepaid
+SIM card/recharge coupons.
+c) The distributor is not free to sell the similar products offered by the competitors
+company without the written consent of the assessee.
+d) PMA is allowed to appoint the retailers only after the written approval from the
+assessee.
+e) The maximum price of SIM Card/recharge coupon is also decided by ICL.
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 6Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+f) It is the responsibility of the PMA to obtain all relevant information concerning a
+subscriber and to forward the same to ICL and unless that is done, no activation of
+SIM card can be done.
+g) The ICL has the right to use of service marks, trademarks, trade names, copyrights,
+logos (collectively the intellectual property) or any other copy right that ICL may
+create in future.
+h) The PMA has to comply with all requirements of ICL in respect of invoicing and
+accounts, maintenance of brand image and provide monthly sales reports return and
+other information relating to business.
+i) The representative of the ICL, under the agreement, has right to inspect the things
+material to the business, which is the subject matter of agreement.
+j) Minimum Performance Targets for the distributors are also set by the company and
+company reserves the right to terminate the agreement unilaterally.
+9. Highlighting the aforesaid features of the agreement between the ICL and the PMAs, the learned
+counsel for the Revenue pleaded that the overall control always remained with the assessee. The
+ownership in the SIM cards were never transferred by the assessee to PMAs and, therefore, the
+transaction in question was not that of sale and purchase between the assessee and the PMAs and
+for this reason, no sales tax was even paid. According to her, it was always treated as „service(cid:129). The
+PMAs were only appointed as distributors and were offered discount on the prepaid calling
+services/SIM cards. The discounts were, therefore, in the nature of „commission(cid:129) or „brokerage(cid:129) to
+the PMAs by the assessee.
+10. She further submitted that since the expression „commission(cid:129) or „brokerage(cid:129) was not given in
+statutory definition under the Act, one had to take into account the expression as judicially defined.
+She referred to these definitions, which are even taken note of by the AO. She also argued that after
+the purchase of SIM card by the ultimate consumers, legal relationship between the said
+consumer/subscriber and the assessee, is created in the entire deal. She also heavily relied upon the
+decisions rendered by the Cochin Bench of the Tribunal in the case of Vodafone Essar Cellular Ltd.
+Vs. Assistant Commissioner of Income Tax [(2009) TIOL-630-ITAT-Cochin, decided on
+30.04.2009] in addition to more judgments of other Benches of the Tribunal.
+11. Mr. Farookh Irani, learned counsel who appeared on behalf of the assessee, countered the
+aforesaid submissions by making a passionate plea that the approach of the Tribunal is perfectly
+justified and it was permissible for the Tribunal not to take myopic view of the matter on the basis of
+trivial aspects of the agreement pointed out by the Revenue, which were not material to determine
+the controversy. His submission was that the following three conditions were to be fulfilled in order
+to attract the provisions of Section 194H of the Act:
+a) Expenses of principal-cum-agent-relationship, which was lacking in this case;
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 7Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+b) Payment or credit by the assessee to its distributors, which attribute was again
+missing; and
+c) The amount, which the Revenue claims to be subject to TDS under Section 194H
+must be shown to the income of the recipient, which ingredient again was missing.
+12. Dilating on the first ingredient, viz., there was no relationship of „principal and agent(cid:129), the
+learned counsel submitted that the transaction in question between the assessee and the PMAs was
+that of outright sale in view of the following characteristics:
+(i) The fact that payment for goods is made by a distributor to the principal upfront,
+prior to the realization by the distributor of the proceedings of the sale made by him
+has been recognized, in the following decisions, as a crucial factor in establishing that
+the transaction is one of a sale by the principal to the distributor:
+1. Vijay Traders Vs. Bajaj Auto Ltd. [(1995) 6 SCC 566.
+2. Commissioner of Central Excise Vs. DCM Textiles [(2006) 195 ELT 129 (SC)].
+3. Moped India Ltd. Vs. Asstt. Collector of Central Excise, Nellore and Ors. [(1986) 23
+ELT 8 (SC)].
+4. Ahmedabad Stamp Vendors Association Vs. Union of India [257 ITR 202)
+(ii) The fact that there is a specification of the price at which goods are transferred
+between the principal and his distributor is indicative of the existence of principal
+and principal relationship. This has been laid down by the Supreme Court in the case
+of Gordon Woodroffe & Co.
+Ltd. Vs. Shaik Majid and Co. [AIR 1967 SC 181].
+(iii) The fact that the distributor has freedom to sell at his own price without
+reference to the principal is indicative of the existence of principal and principal
+relationship. This has been laid down in ex parte White in Re Neville.
+13. He further submitted that the following prerequisite/conditions necessary to establish
+relationship of „principal and agent(cid:129) as per the required provisions of Indian Contract Act were not
+satisfied in the present case. The agent must be obliged to account to his principal for the sale price
+of the goods, which he sells on behalf of his principal (Section 213 of the Indian Contract Act). The
+agent is obliged to pay to his principal the sale price of the goods, which he sells on behalf of his
+principal (Section 218 of the Indian Contract Act).
+14. The learned counsel argued that on the contrary, following factors indicated that the relationship
+between the assessee and its distributors was one of the „principal and principal(cid:129) in view of the
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 8Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+following factors emerging on record:
+(i) The transaction between the respondent and its distributor is one of sale. (Clauses
+10, 19 and 25(d) of the PMA Agreement)
+(ii) The distributor makes payment to the respondent upfront.
+(Clause 6(a) of the PMA Agreement.
+(iii) There is a specification of the price t which goods are transferred by the
+respondent to its distributors. (Clause 10 of the PMA Agreement)
+(iv) The distributor has freedom to sell at his own price. (Clause 10 of the PMA
+Agreement)
+(v) The distributor is not liable to account to the respondent for the price at which he
+effects the sale to the retailer/subscriber. (Clause 10 of the PMA Agreement)
+(vi) The distributor is not liable to pay to the respondent the price at which he effects
+the sale to the retailer/subscriber.
+(Clause 10 of PMA Agreement) Our attention was also drawn to Clause 3 of the PMA Agreement,
+which specifically negates the existence of a „principal and agent(cid:129) relationship. This clause is of
+particular relevance especially considering the decision of the Supreme Court in the case of Indian
+Oil corporation Vs. Consumer Protection Council [(1994) 1 SCC 397].
+15. His further submission was that the aspects highlighted by the learned counsel for the Revenue
+between the assessee and the PMAs were of no consequence inasmuch as it was held by the Supreme
+Court in the case of The Bhopal Sugar Industries Ltd. Vs. Sales Tax Officer, Bhopal [40 STC 42] and
+Gujarat High Court in the case of Ahmedabad Stamp Vendors Association (supra) that the following
+factors would not be relevant to determine as to whether an agency exists:
+- The fact that the distributor is subject to operational by his principal;
+- The fact that the distributor is subject to geographical controls by his principal;
+- The fact that the distributor has to maintain detailed records and accounts; and
+- The fact that the distributor has to submit accounts to the principal.
+16. Two provisions, which would be relevant for determining the issue and to decide the real nature
+of transaction between the parties are Section 4 of the Sale of Goods Act and Section 182 of the
+Indian Contract Act. Section 4 of the Sale of Goods Act defines „sale(cid:129). Therefore this provision
+becomes material provision to determine as to whether transaction between the assessee and the
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 9Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+distributors is that of „sale(cid:129) of SIM card as contended by the assessee. Section 182 of the Indian
+Contract Act, on the other hand, defines an agent, which definition becomes important to consider
+as to whether the relationship between the assessee and PMAs is that of „principal and agent(cid:129). A
+conjoint reading of the two provisions would be necessary to provide the answer. Therefore, we take
+note of these provisions at this stage. Section 4 of the Sale of Goods Act, 1930 reads as under:
+"4.Sale and agreement to sell.- (1) A contract of sale of goods is a contract whereby
+the seller transfers or agrees to transfer the property in goods to the buyer for a price.
+There may be a contract of sale between one part-owner and another.
+(2) A contract of sale may be absolute or conditional.
+(3) Where under a contract of sale the property in the goods is transferred from the
+seller to the buyer, the contract is called a sale, but where the transfer of the property
+in the goods is to take place at a future time or subject to some condition thereafter to
+be fulfilled, the contract is called an agreement to sell.
+(4) An agreement to sell becomes a sale when the time elapses or the conditions are
+fulfilled subject to which the property in the goods is to be transferred."
+Section 182 of the Indian Contract Act reads as under:
+"An agent is a person employed to do any act for another or to represent another in
+dealings with third persons. The person for whom said act is done, or who is so
+represented, is called the principal."
+17. The legal position is explained by the AO in his order reproducing the definition of „commission(cid:129)
+in various law disctionary, about which there cannot be any quarrel, is as under:
+" "Commission" has been judicially defined by Davey L. Jas as follows :-
+"Commission is prima facie the payment made to an agent for agency work, usually
+according to a scale, it may be on ad valorem scale, but not necessarily on ad valorem
+scale. It is the most general word that can be used to describe the remuneration paid
+to an agent for an agency work other than a salary" - Drielsma V. Manifold (1894) 3
+Ch. 100.107 (C.A.)"
+Again, a "commission" is the recompense of reward of an agent, factor, broker or
+bailee, when the same is calculated as a percentage on the amount of his transaction
+or on the profit to the principal - Sunderland V. Day 145 N.E. 2d. 39, 41 12III.2d.50.
+"Commission" generally denotes the compensation which an agent receives on Sales -
+National Paper & Cordage Co. V. Atlantic Carton Corpn. 127 N.E. 2nd 196, 198, 332,
+Mass. 651.
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 10Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+"Commission" is compensation paid to another for services rendered in the handling
+of another(cid:129)s business or property and based proportionately upon the amount or
+value thereof - Rubinstein Vs. Rubinstein 109 N.Y.S. 2d. 725, 734."
+18. Before we part with, we would like to point out that if the cellular operators like the assessee in
+the present case is asked to deduct tax at source in respect of commissions paid to their agents, viz.,
+distributors, it does not affect them. The concerned distributors can always file their income tax
+returns and claim the credit for the payments already made on their behalf by the assessee. On the
+other hand, such a provision serves public purpose inasmuch as, viz., such distributors who would
+be otherwise liable to pay tax, but are evading the tax, would come under the Income Tax Act. We
+may clarify that we have not answered the legal question influenced by this factor and our
+discussion has proceeded on the basis of legal position. This is only a passing remarks, which
+justifies the incorporation of such a provision like putting obligation on the payer to deduct the tax
+at source and the view we have taken subserves this rationale behind such a provision as well.
+19. This Court in Commissioner of Income Tax, New Delhi Vs. Singapore Airlines Ltd.
+[2009-ITOL-183-HC-DEL-IT] analyses the aforesaid definition in the following manner:
+"16. It is clear from the definition that an agency comes into existence where one
+person is vested with the authority or capacity to create a legal relationship between
+person referred to as a principal and an outside third party. Therefore, the basic and
+essential requisites of an agency ordinarily would be that:
+(i) The agent makes the principal answerable to third persons whereby the principal
+can sue third parties directly and renders himself, that is, the principal, liable to be
+sued directly by the third parties. - Varsha Engg. (P.) Ltd. v. Vijay Traders AIR 1983
+Guj. 168 at pages 168-169, para 5.
+(ii) The person who purports to enter into a transaction on behalf of the principal
+would have the power to create, modify or terminate contractual relationship
+between his principal, that is, the person whom he represents, and the third parties. -
+P. Krishna Bhatta v. Mundila Ganapathi Bhatta AIR 1955 Mad. 648 at page 651, para
+36.
+(iii) An agent, though bound by instructions given to him by the principal does not
+work under the direct control and supervision of the principal. The agent thus uses
+his own discretion to act on behalf of the principal subject to the limits to his
+authority prescribed by the principal - Lakshminarayan Ram Gopal & Son Ltd. v.
+Government of Hyderabad : [1954]25ITR449(SC) . This cited with the approval in
+Qamar Shaffi Tyabji v. Commissioner of Excess Profits Tax : [1960]39ITR611(SC) .
+(iv) There is no necessity of a formal contract of agency, it can be implied which could
+arise from the act of parties or situations in which parties are put.
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 11Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+20. At this stage itself, we may point out that in the aforesaid case, this Court held relationship
+between the Airlines and the travel agents as that of „principal and agent(cid:129). After examining in detail
+the operational aspect of the transaction, the significant aspects which were refereed by the Court,
+having semblance with the present case as well:
+a) The legal relationship was created between the passenger (to whom the travel
+agents were selling tickets and the concerned airline) as on the basis of said ticket,
+the passenger was entitled to travel in the concerned airline. Any request made by the
+passenger was to be forwarded by the agent to the traffic carrier/airline to enable the
+carrier to extend such services to the customer.
+b) By entering into such a legal relationship on behalf of the principal (the airline) by
+issuing the traffic documents to a third party, i.e., passenger.
+c) Similarly, by virtue of such a transaction, i.e., issuance of traffic documents by a
+travel agent to passenger, it enables the principal, i.e., airline to issue the same to the
+third party, which is the passenger.
+21. Another argument was raised in the said case, viz., that the assessee airline was not paying
+income by way of commission, as „the supplementary commission(cid:129) was retained by the travel agent
+and thus, Section 194H of the Act was not attracted. This contention was brushed aside in the
+following manner:
+"23. This brings us to the second leg of the transaction as to whether income by way
+of commission has been paid by the assessee-airline to the travel agent. It is not
+disputed that any amount which the travel agent would receive over and above the
+net fare would be assessed in the hands of the travel agent as profit, gain or income.
+As a matter of fact one of the submissions of the learned Counsel for the
+assessee-airline has been that they ought not to be held an assessee-in-default in view
+of the fact that the supplementary commission, that is, sums received over and above
+the net fare by the travel agent and retained by them have been disclosed by travel
+agent as their income on which the travel agents have paid tax. In view of this we find
+no difficulty in holding that supplementary commission is income within the
+meaning of Section 194H of the Act.
+28. In view of the above we hold that the supplementary commission which is the
+amount retained by the travel agent is commission within the meaning of Section
+194H read with Explanation (i) to the said section. The assessee-airlines were thus
+obliged to deduct tax at source at the rate prescribed during the relevant period. The
+assessee-airline having not deducted the tax at source, they are liable to be held,
+within the terms of Section 201 (1) as assessee(s)-in-default and also liable for
+payment of interest in terms of Section 201 (1A) of the Act. In view of the fact that the
+Tribunal having coming to the conclusion that Section 194H of the Act was not
+applicable and hence did not examine any other contention of the assessee-airline, as
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 12Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+also, the quantum and the period for which assessee-airline would be entitled to pay
+interest or to what extent the benefit of the certificate issued to them, if any, under
+Section 197 of the Act would be available. We allow the following appeals and set
+aside the impugned judgments passed by the Tribunal in each of these appeals and
+remand the matter to the Tribunal for examining all other aspects of the matter as
+also the consequences which would flow therefrom."
+22. In view thereof, the argument of the learned counsel that Section 194H is not applicable, as there
+is no "payment or credit" by the assessee to its distributor is to be rejected. Likewise, the argument
+that the amount must be shown to be the income of the respondent also does not hold good.
+23. We, thus, come back to the central question, which is to be addressed viz.
+the nature of relationship. Reverting back to this aspect, in the present case, we are of the opinion
+that the legal relationship is established between the assessee and the ultimate
+consumer/subscriber, who is sold the SIM card by the agents further appointed by the PMAs with
+the consent of the assessee. It is created by :
+a) Activation of the said SIM card by the assessee in the name of the
+consumer/subscriber.
+b) Service provided by the assessee to the subscriber. Further, dealings between the
+subscribers and the assessee in relation to the said SIM card including any complaint,
+etc. for improper service/defect in service.
+c) Entering into the ultimate agreement between the subscriber and the assessee
+(Clause 15 of the Agreement).
+It is to be borne in mind that the nature of service provided by the assessee to the ultimate
+consumers/subscribers, whether it is prepaid or postpaid SIM card - remains the same. In the
+instant case, the SIM cards are prepaid, which are sold by the assessee to the consumers through the
+medium of PMAs. In the case of postpaid, SIM card transaction is entered into directly between the
+assessee and the subscriber and the subscriber is sent bill periodically depending upon the user of
+the SIM card for the period in question. In both the cases, legal relationship is created between the
+subscriber and the assessee that too by entering into specific agreement between these two parties.
+24. In contrast, the legal position when the goods are sold by principal to its distributors creating
+„principal and principal(cid:129) relationship would be entirely different. On the sale of goods, the
+ownership passes between the manufacturer and the distributors. It is the responsibility of the
+distributor thereafter to sell those goods further to the consumers - the ultimate users. The
+principal/manufacturer does not come in picture at all. Of course, he may be liable for some action
+by the consumer because of defective goods, etc., which is the result of other enactments conferring
+certain rights on the consumer or common law rights in his favour as against the manufacturer. We
+may also point out that in its classic judgment in the case of Bharat Sanchar Nigam Ltd. Another Vs.
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 13Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+Union of India and Others [AIR 2006 SC 1383], the Supreme Court held that electromagnetic waves
+or radio of frequencies are not goods and with the sale thereof Sales Tax Act is not attracted, though
+the decision was rendered in the context of liability of sales tax.
+25. No doubt, as per Clause 6(a) of the Agreement, PMA is supposed to make the payment in
+advance. That would not make any difference to the nature of transaction in view of Clause 25(d) of
+the Agreement, which stipulates as under:
+"25(d) Upon the termination or expiration of this Agreement for any reason, PMA
+shall discontinue the marketing/distributing/offering for sale, IDEA CHITCHAT
+PREPAID SERVICES, and shall forthwith return to ICL the entire stock of PREPAID
+SIM CARDS/RECHARGE COUPONS remaining with him and/or his Authorized
+Retailer. ICL shall pay to PMA for such PREPAID SIM CARDS/RECHARGE
+COUPONS received by it from THE DISTRIBUTOR."
+26. Thus, even if advance payment is made by the PMA on receipt of the SIM cards, qua those SIM
+cards, it does not amount to „sale(cid:129) of goods. The purpose is to ensure that the payment is received
+in respect of those SIM cards, which are ultimately sold to the subscriber inasmuch as unsold SIM
+cards are to be returned to the assessee and the assessee is required to make payment against them.
+This is an antithesis of „sale(cid:129). There cannot be any such obligation to receive back the unsold stocks.
+Further, clause 25(f) lays down that on termination of agreement, PMA or its authorized retailer
+appointed by it, is not entitled to any compensation for cost or expenses incurred by it in either
+setting up or promotion of its business, etc. No such clause was required in case of „sale(cid:129).
+(To be taken from AO's Order..............)
+27. We may now refer to the three decisions of various Benches of the Tribunal holding which have
+taken the view contrary to the one held by the Tribunal in impugned decision. In Vodafone Essar
+Cellular Ltd. (supra), Cochin Bench has discussed the issue much elaborately in the following
+manner:
+"33. The assessee-company has made a lot of reliance on the contention regarding the
+freedom of pricing. It is the case of the assessee-company that the distributors are
+free to fix the selling price but the price should not exceed the MRP. The revenue says
+that there is no such freedom in fixing the sale price. As far as the present case is
+concerned, earlier it was BPL and thereafter BPL Hutch and now it is M/s. Vodafone
+Essar Cellular Ltd. In the earlier two occasions, there was no clause on pricing in the
+agreements entered into between the predecessors of the assessee- company and the
+distributors. It is in the latest agreement between the assessee and its distributors
+that the clause on pricing has been inserted that the distributors are free to determine
+the ultimate sale price subject to MRP.
+34. We do not think that this so-called pricing freedom is so crucial in examining the
+exact nature of the business relation between the assessee-company and its
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 14Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+distributors. The pricing factor is also a matter of mutual consent between the
+parties. Even in the case of an agency, there can be a clause by which an agent is
+authorized to sell the goods for a price less than the MRP. Even in a case of
+principal-to-principal, there may be a clause that the distributor cannot sell a product
+for a price less than the MRP unless a consent is given by the manufacturer. The
+matter of pricing in both the cases, i.e., principal-to-principal and principal to agents
+can be a matter of mutual consent between the parties and even a matter of
+negotiation after the execution of the agreement. There are no hard and fast rules of
+any legal proposition as far as these matters are concerned.
+51. It is obvious that a service can only be rendered and cannot be sold. The owner of
+the SIM Cards and recharge coupons is the assessee-company, M/s. Vodafone Essar
+Cellular Ltd. This is because the assessee-company is operating under the right of a
+licence agreement entered into with the Government of India. Nobody else can be
+given the right to operate as Cellular telephone service providers. The ultimate
+service is provided by the assessee- company to everyone and everywhere. The SIM
+card is in the nature of a key to the consumer to have access to the telephone network
+established and operated by the assessee-company on its own behalf. Since the SIM
+Card is only a device to have access to the mobile phone network, there is no question
+of passing of any ownership or titled of the goods from the assessee-company to the
+distributor or from the distributor to the ultimate consumer. The distributors are
+acting only as a link in the chain of service providers. The assessee-company is
+providing the mobile phone service. It is the ultimate owner of the service system.
+The service is meant for public at large. In between providing of that service, it is
+necessary for the company to appoint distributors to make available the pre-paid
+products to the public as well as to look after the documentation and other statutory
+matters regarding the mobile phone connection. So, what is the essence of service
+provided by the distributors? The essence of service rendered by the distributors is
+not the sale of any product or goods. The distributors are providing facilities and
+services to the general public for the availability of devices like SIM Cards to have
+access to the mobile phone network of the assessee-company. Therefore, it is beyond
+doubt that all the distributors are always acting for and on behalf of the
+assessee-company. Only for the reason that the distributors are making advance
+payment for the delivery of SIM Cards and other products and distributors are
+responsible for the stock and account of those cards, it is not possible to hold that the
+distributors are not acting for the assessee-company but the distributors are acting
+on their own behalf. Such a proposition is inconceivable in the facts of the present
+case. It is always possible for the telephone company itself to provide all these
+services directly to the consumers as the Department of Telecom was doing; but such
+a direct service is not feasible now-a-days. Therefore, the assessee has made out a
+business solution to appoint distributors to take care of the operational activities of
+the company for providing service. The distributor is one of the important links in
+that chain of service.
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 15Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+52. Another important feature is that the SIM Cards stocked by the distributors are
+still the property of the service provider, the assessee-company. The permissive right
+to use SIM Cards to get access to the phone network of the assessee-company is given
+only to the ultimate consumer who activates the connection by using the secrete
+number provided in the SIM Card. It is only for the ultimate consumer or the
+assessee-company who has the authority to uncover the secret number and bring the
+card into activation. This unique situation negates the argument of the assessee-
+company that once delivery of the SIM Card is taken, it is the absolute property of the
+distributors. No, this is a mis-conception.
+56. In the case of post-paid scheme, the assessee-company is treating the benefits
+enjoyed by a distributor as commission and deducting tax at source. Where the
+assessee-company itself admits that it is liable to deduct tax at source under section
+194H in respect of post-paid services rendered through its distributors, it is the duty
+of the assessee to prove that the services rendered by the assessee through the
+distributors on pre-paid package is different from the post-paid package so as to
+qualify the former for exemption from operation of section 194H.
+57. It is beyond any dispute that the essence of service rendered to the pre-paid and
+post-paid consumers are one and the same. There is no difference. The only
+difference is technical. The difference exists only in billing system and revenue
+collection, etc. In both the cases assessee-company is providing the service.
+Distributors are helping to reach such services to the ultimate consumers. In both the
+systems, there is documentation. In both the systems, the distributors render similar
+types of services to the assessee- company. Of course accounting the revenue
+collection and related matters are different. The essence of post-paid and pre-paid
+services rendered by the assessee-company is the same and the relationship between
+the assessee and the customers is also the same. Therefore, if post-paid scheme is
+subject to section 194H, it is quite unlikely that pre-paid system would be outside the
+purview of section 194H.
+60. The next question is whether the commission/brokerage allowed by the
+assessee-company at the stage of raising the invoice is equivalent to paying of
+commission/brokerage to the distributors. The assessee has always raised a
+contention, that too in the light of the judicial pronouncements including that of M.S.
+Hammed (supra) that the assessee-company had no occasion to deduct tax at source
+as the assessee-company was not making any payment to the distributors or crediting
+the account of the distributors for any services rendered to it. But that occasion was
+removed by the assessee itself by conscious wordings of the terms of the agreement.
+The assessee-company can collect the net sale proceeds along with TDS element from
+he distributors while distributing the pre-paid products to the distributors. The
+distributors shall file their returns before the concerned authorities and depending
+upon the working results, they can adjust the TDS collected by the assessee-company
+against their tax liability or the refund due. The fact that the distributors may some
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 16Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+time deliver the products for a price less than the MRP is not at all an impediment in
+deducting the tax at source. The distributors may deliver the products at a lesser
+price, but even then for the purpose of section 194H, as in the above example, the
+margin available to the distributor is Rs.20, which is to be treated as commission,
+and the assessee has to consider that amount for the purpose of quantifying the
+element of TDS. The assessee-company has to collect the net price along with the
+above stated TDS element. Therefore, the argument that there was no occasion as in
+the case of M.S. Hameed (supra) has no relevance here. The situation considered by
+the Hon(cid:129)ble High Court was different. In that case one party is State Government.
+Without executing an authority in conformity with the statutory and administrative
+Rules, no-body can become an Agent of the Government. Further, the Court has
+considered the subject transaction as that of purchase and sale of goods. But, in the
+present case, there is no failure of any procedural provisions as apprehended by the
+assessee-company.
+65. We have come to the above conclusion specifically on the following grounds:
+(1) In the judgment of the Hon(cid:129)ble High court of Kerala in the case of BPL Mobile
+Cellular Ltd. (supra) it has been held that in the supply and delivery of SIM Cards and
+other recharge coupons, there is no sale and purchase of goods, but only of providing
+services;
+(2) The Hon(cid:129)ble Kerala High court in the case of Kerala Stamp Vendors
+Association(supra) have treated the subject transactions as transaction of purchase
+and sale of goods;
+(3) The assessee-company as a service provider is always the owner of the above
+products which is meant only as devices to have access to the Mobile phone network
+system maintained and operated by the assessee- company;
+(4) The services provided by the assessee-company through various distributors is
+regulated by law. Carrying on the business of providing service is subject to so many
+statutory compliance requirements, like verification of the identity of the consumer
+and the related documentation, etc. The assessee-company is having all lawful
+obligations to a pre-paid consumer, even though the direct deal is between the
+distributor and the consumer. This is because the Distributor does not have anything
+to provide "as service" to the consumer. These are all features of Agency relationship.
+(5) Other matters explained by the assessee as, there was no payment by the assessee
+in cash or cheque by way of commission to the distributors or not crediting the
+accounts of the distributors for any commission, delivering the products only after
+getting the price in full, are all matters of asssessee(cid:129)s Indoor Management.
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 17Commissioner Of Income Tax-Xvii vs Idea Cellular Ltd. on 19 February, 2010
+(6) Service cannot be sold or purchased and it can ony be provided. The operational
+features explained by the assessee-company are necessary in running a mammoth
+system of providing mobile telephone services over a large geographical area. The
+distributors provide essential services to the assessee-company in running such a
+huge operational system. The distributors are linking agents in the chain of delivery
+of services to consumers. Therefore, the relationship is not of a principal to
+principal."
+28. We are in agreement with the view taken by the said Bench. Identical view is
+taken by Calcutta Bench in the case of Assistant Commissioner of Income Tax Vs.
+Bharti Cellular Ltd. [(2007) 294 ITR (AT) 283 (Kolkata)]. Both these Benches
+specifically rejected the arguments of the assessee based on Ahmedabad Stamp
+Vendors Association (supra), The Bhopal Sugar Industries Ltd. (supra), Kerala Stamp
+Vendors Association(supra) and Bajaj Auto Ltd. (supra) distinguishing those
+judgments and holding that they are not applicable in the given situation. We agree
+with the same.
+29. We thus answer the question, as formulated, in favour of the Revenue and against the assessee.
+As a consequence, these appeals are allowed and judgment of the Tribunal on this aspect is set aside.
+No costs.
+(A.K. SIKRI) JUDGE (SIDDHARTH MRIDUL) JUDGE FEBRUARY 19, 2010.
+pmc
+Indian Kanoon - http://indiankanoon.org/doc/1440065/ 18

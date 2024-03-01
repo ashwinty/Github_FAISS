@@ -1,0 +1,793 @@
+Metadata: id=>115
+name=>Kanakaraj vs B V Sundararaja Iyer And Anr on 1 March 1967
+date=>1 March 1967
+court=>High Court
+link=>http://indiankanoon.org/doc/220788/
+-----
+Content: Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+Equivalent citations: (1969)1MLJ456
+JUDGMENT
+Ramamurti, J.
+1. The main point that arises for decision in the present appeal preferred by the defendant relates to
+limitation, as to the period for which the respondents (the plaintiffs) are entitled to recover the
+income of the properties which were subject to a possessory mortgage. The plaintiffs in the suit are
+the successors-in-interest of the mortgagor, while the sole defendant is the successor-in-interest of
+the mortgagee. The possessory mortgage in question was executed in April, 1924 and by January,
+1938, the defendant became the ultimate assignee of the mortgage. The plaintiffs filed Original
+Petition No. 48 of 1950, on the file of the Sub-Court, Dindigul, under Sections 9-A and 19-A of the
+Madras Agriculturists Debt Relief Act for a declaration of the amount due under the possessory
+mortgage, after invoking the benefit of sealing down, and on 16th January, 1951, the amount payable
+to the mortgagee was determined in the sum of Rs. 917. This amount was deposited into Court in
+Original Petition No. 48 of 1950 and notice was also served upon the defendant. As the petition was
+not opposed the Court passed an order on 21st August, 1951, granting the certificate that the
+mortgage debt had been fully discharged.
+2. The defendant preferred an appeal, Civil Miscellaneous Appeal No. 502 of 1951 to the High Court
+and the same was allowed by Mack, J., by his judgment, dated 2nd May, 1954. The plaintiffs
+preferred Letters Patent Appeal No. 150 of 1954 and the Bench of this Court by its judgment, dated
+28th March, 1958, allowed the appeal and restored the order of the Subordinate Judge. The
+defendant thereafter on 29th July, 1959, surrendered possession of the properties covered by the
+possessory mortgage. The plaintiffs' attempt to recover rents and profits from the properties for the
+date of their deposit of the amount into Court till the mortgagee surrendered possession and the
+plaintiffs re-entered proved futile resulting in the present suit, Original Suit No. 45 of 1960. The
+objection of the defendant that the claim for profits would be governed by Article 109 and, therefore,
+the plaintiffs should be restricted to a period of three years, was negatived by the trial Court, which
+held that the claim for the entire period from 16th January, 1951 to 29th July, 1959, was in time and
+passed a decree against the appellant for a sum of Rs. 12,750 on the basis that the total income for
+which the defendant would be liable would be 882 kalams of paddy at the rate of Rs. 15 per kalam.
+Two points arise for decision : (i) what is the proper article of the Limitation Act applicable to the
+claim made in the suit, and (ii) the quantum of mesne profits and the price of paddy per kalam. Sri
+A.V. Narayanaswami Iyer, learned Counsel for the appellant urged that after the plaintiff deposited
+the amount as determined in the proceedings under the Debt Relief Act and after the Court granted
+a certificate that the mortgage had been discharged after notice to the mortgagee, the latter ought to
+have redelivered the mortgaged properties, the possession of the mortgagee thereafter was wrongful
+and unlawful as being that of a trespasser, that the claim for income from the properties was clearly
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 1Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+a claim for mesne profits within the meaning of Article 109 of the Limitation Act of 1908 and the
+plaintiffs cannot, therefore, recover for a period of more than three years. He urged that the
+relationship of mortgagor and mortgagee ceased and came to an end when the Court granted a
+certificate of discharge in Original Petition No. 48 of 1950 and that thereafter, the only right of the
+plaintiffs was to recover possession of the properties from the mortgagee within the time-limit
+allowed by law along with the mesne profits and that so far as the claim for mesne profits was
+concerned, the plaintiffs should file a suit every three years. He further urged that the fact that
+arising out of the mortgage transactions, the law imposes a duty upon the mortgagee to surrender
+possession of the properties and to render an account for the rents and profits after the discharge of
+the mortgage would not make the possession of the mortgagee anything other than wrongful -or as
+that of trespasser, or alter the character of the claim for income other than one for mesne profits.
+The substance of his arguments is that whatever may be the obligation of the mortgagee consequent
+upon the discharge of the mortgage, whether contractual or statutory, the claim for rents and profits
+would be governed only by Article 109 of the Limitation Act. In the course of his arguments and
+when questions were put to him, learned Counsel for the appellant took up the definite stand that
+after the mortgage was discharged, it was for the mortgagor to elect whether to sue for recovery of
+possession along with the profits or to sue for recovery of possession alone or to sue for profits alone
+subject to any bar under Order 2, Rule 2, Civil Procedure Code, and that if the mortgagor elects to
+wait to recover possession taking advantage of the large period of limitation to file a suit for recovery
+of possession; the mortgagor would be exposed to the risk of a plea of limitation under Article 109 of
+the Limitation Act with respect to the income and that at his peril, the mortgagor is bound to sue for
+recovery of the income every three years. He urged that this result necessarily flows from the
+language of columns 1 and 3 in Article 109 of the Limitation Act which is unqualified and absolute.
+3. Sri Rajah Ayyar, learned Counsellor the respondents, contended that the correct and appropriate
+article applicable to the suit is Article 105 of the Limitation Act which provides for the suit by a
+mortgagor after the mortgage had been satisfied to recover surplus collections received by the
+mortgagee, the time-limit is three years to commence from the date when the mortgagor re-enters
+on the mortgaged property. He contended that under the procedural law regarding litigations
+between mortgagor and mortgagee either in a suit for redemption or in a suit for foreclosure or for
+sale, there ought to be a final and complete settlement of all rights, equities and accounts between
+the mortgagor and the mortgagee right, up to the moment of actual redemption, foreclosure or the
+sale, as the case may be, and that either by way of a claim or a defence or a set off or as a
+counter-claim of the defendant the parties ought to raise all pleas, legal and factual, and seek all the
+reliefs flowing from the relationship as mortgagor and mortgagee and that the law of procedure does
+not permit piecemeal and truncated litigations between them leaving some portion of the dispute
+and the awarding of reliefs thereto for future adjudication in some other proceeding, except under
+exceptional circumstances where the statute itself specifically provides for such piecemeal and
+plurality of litigations. He also drew our attention to a recent decision of the Supreme Court
+reported in Gyarsi Bai v. Dhansukhlal , in which this rule of the insistence of the finality of all
+disputes in one single litigation between the mortgagor and mortgagee was applied and was held,
+that at the time of the passing of the final decree, the Court must take into account the rents and
+profits received by the mortgagee between the date of the preliminary decree and the passing of the
+final decree. Mr. Raja Iyer contended that Article 105 of the Limitation Act embodies this procedural
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 2Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+law governing suits between the mortgagor and the mortgagee and entitles the mortgagor to recover
+the surplus collections received by the mortgagee in a suit filed within three years after the
+mortgagor re-enters on the mortgaged property. He urged that the acceptance of the appellants'
+contention that the mortgagor should file a suit to recover surplus collections every three years while
+yet he had ample time (under the Limitation Act) either to file a suit for redemption or to file a suit
+for possession would be opposed to the basic principles of law of procedure and the mortgage law.
+4. Even at the outset, we may state that both on principle and on authority, the claim is governed by
+Article 105 of the Limitation Act and time would commence to run only from 29th July, 1959, when
+the appellant delivered possession of the property to the respondents. In the Limitation Act of 1859,
+there was no provision for such suits and it was held that Section 1 clause 16 of that Act would apply,
+six years from the time the cause of action arose. In the Act of 1871, a specific provision, Article 105
+was made, columns 1 and 2 being the same as in the present Act, but the starting point of limitation
+in the third column was the date of the receipt of such profits. Under the Act of 1877, column 3 was
+altered making the time to run from the date which the mortgagor re-entered on the mortgaged
+property. The same provision was continued in the Act of 1908 with which we are concerned as well
+as in the present Act of 1963 Article 61 (c). Till 28th July, 1959, i.e., to the day prior to the delivery of
+possession by the mortgagee, the mortgagor had the right to file a suit for redemption and as an
+essential part of the relief of redemption, obtain possession of the properties from the mortgagee
+and also ask for rendition of account for the rents and profits from the mortgaged properties under
+Section 76 (i) of the Transfer of Property Act, the period of accounting commencing from 16th
+January, 1951, when the sum of Rs. 917 was deposited into Court. For that period there is no
+question of any time-limit and it is established law that all accounts and equities between the parties
+could and ought to be worked in the same suit.
+5. We must first refer to the classical statement of law by Stuart, Vice- Chancellor in the leading case
+Hood v. Easton and Ors. 2 Jun. (N.S.) 729. In that case, in a suit for redemption, as a part of that
+relief, the mortgagor made a claim asking for an account of the quantity and value of the coal
+wrought by certain persons with permission of the mortgagee for a period, more than six years
+before the bill was laid and in repelling the plea of limitation, the law was stated by the
+Vice-Chancellor in these terms.
+It is said, however, that length of time has deprived the plaintiff of any right to recover this value as
+against the Eastons, who obtained possession of it by the conversion of the property, for that the act
+complained of was completed in the year 1847 and this bill was not filed until more than six years
+after this act was; committed. To apply the principles of the statute of Limitation to a case of this
+kind seems to me not only not without any authority, but to contravene one of the plainest
+principles on which the Court deals with all matters between mortgagor and mortgagee. The right of
+the mortgagor to get back the property pledged for its value is unquestionable. The account never
+could be taken without charging the mortgagee with all that has been properly received by him as'
+the value of the mortgaged property. Suppose, instead of the value of this property being received by
+the persons dealing with him, it had been received by the mortgagee himself, why, it is an item in
+the mortgage account, and if the mortgagor is entitled to any remedy in respect of this sort of
+dealing at all, it must be by having the value of the property allowed in taking the account of the
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 3Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+mortgage. Therefore, to say that as to one large item you are to hold it is to be struck out, because
+that item might have been brought into credit, ten, twenty or thirty years before, seems tome
+entirely besides that principle on which the statute of limitations proceeds... The simple question is,
+whether or not, such an adverse title can be asserted by the Eastons who wrought the coal, as that it
+can prevail against the mortgagor it seems to me that if there ever was any right, as I apprehend
+there was unquestionably a right, on the part of the mortgagor, during the progress of this
+transaction, to keep it after it was completed--'to retain the value--the value must at all times be an
+item in the mortgaged account--must be subject to all those rights, in regard to the settling of the
+account, as any other part of the transaction between mortgagor and mortgagee. For that reason I
+cannot see on what principle the statute of limitations can be set up here by the defendants the
+Eastons, who, by their dealing with the mortgagee, entered upon the working of this mine, worked
+it, sold the mortgage property, and received the value.
+6. The account taken against mortgagee in possession is an unbroken and continuous account of a
+debtor and creditor. The mortgagee is debited with all sums which he has received or which he is to
+be treated as having received by virtue of the mortgage whether rents and profits and accidental
+payments such as proceeds of sale he is also debited with the value of the damage and loss caused by
+him and every item of account is taken into account against him. Equally he is credited with the
+principal money with interest accruing due from time to time and with costs, charges and expenses,
+including all expenditure upon the mortgaged property which he is entitled to charge against the
+mortgagor. The nature of the account itself is that it is one single integrated account and should be
+taken without any restriction as to time-limit; the notion of a piecemeal accounting at intervals has
+no place in such a relationship. (Vide 27, Halsbury's Laws of England, Third Edition, page 430,
+paragraph 850 and also 24, Halsbury's Laws of England, page 269, paragraph 524).
+7. This rule of mortgage law of insisting upon a complete and final settlement of all accounts
+between the mortgagor and the mortgagee in one single action has been so strictly insisted upon so
+as to attract the principles of res judicata, under Section 11, Civil Procedure Code, and the splitting
+up of the cause of action and reliefs under Order 2, Rule 2, Civil Procedure Code, the principle being,
+the mortgagor and mortgagee ought to claim in the same suit all the reliefs flowing out of the
+mortgage transaction. That being so, the mortgagor cannot be expected to file a suit every three
+years for the rents and profits of the property from the date when the mortgage should be held or
+deemed to have been discharged. It is only to emphasise and give effect to this principle that till
+actual redemption, there ought to be no time-limit or claims and cross-claims. In the Limitation Act
+of 1877 time was specifically made to commence to run from the date when the mortgagor
+re-entered on the mortgaged property, instead of the date of the receipt, under the earlier Act of
+1871. The significance of this amendment (in the Act of 1877) came up for special notice in an early
+Bench decision of the Allahabad High Court in Jaijit Rai v. Gobind Tiwari (1886) I.L.R. 6 All. 303.
+The purchaser of the equity of redemption filed a suit for redemption and recovery of possession of
+the mortgaged properties with an account for surplus profits alleging that the mortgagee had not
+paid any revenue, which the purchaser was compelled to pay, that out of the rents and profits, the
+mortgage debt has been discharged leaving a surplus year after year. One of the contentions raised
+was that the claim for surplus profits for more than three years was barred by limitation. Justice
+Mahmood delivering the judgment rejected this objection as to limitation in these terms at page 311
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 4Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+after referring to the significant change in .the third column between the Act of 1871 and the Act of
+1877.
+The question of limitation applicable to such a claim was a matter of some doubt under the old law
+Act (XIV of 1839) till it was settled by the Full Bench ruling of the Calcutta High Court in Baboo Lal
+Doss v. Jamal Ally (1868) 9 W.R. 187, in which Peacock, C.J. pointed out that the position of a
+mortgagee after the mortgage-debt has been liquidated by the usufruct, was not that of a trustee,
+and this view was subsequently adopted by the Legislature in Section 3 of the Limitation Act of 1871,
+and retained in the corresponding section of the present Limitation Act (XV of 1877). Article 105,
+Schedule II of the Limitation Act of 1871, rendered such claims subject to the limitation of three
+years, calculated from the date of the receipt of the surplus profits; but in the present Act the
+corresponding clause, whilst retaining the period, has introduced an important alteration by
+rendering; the period of limitation computable from the date. " when the mortgagor re-enters on the
+mortgaged property." It is therefore clear that in the present case the plaintiff's claim for surplus
+profits cannot be barred.
+8. We may also refer to the leading decision in Hari v. Lakshman (1881) I.L.R. 5 Bom. 614, in which
+this rule was laid down that litigations between mortgagor and mortgagee should comprise all the
+reliefs and should afford a ground for a final decision and that a suit for an account upon the
+mortgage cannot be maintained by the mortgagor unless he also asks for redemption. This rule was
+applied even in a case in which the mortgagor was entitled to relief under the Dekkhan
+Agriculturists' Relief Act of 1879. Reference may be made to the following observation of Westropp,
+G.J.. at page 620:
+We can well understand why the Legislature should refrain from giving to
+mortgagors the power to harass their mortgagees in possession with suits de anno in
+annum to ascertain what those mortgagees annual received from the lands over and
+above their necessary expenses in relation to those lands, such suits being brought
+without any present intention on the part of the mortgagors to pay to the mortgagees
+the balance due upon the mortgage, and without liability to a decree therein either for
+foreclosure or sale.
+The principle was applied in a later decision in Bhau Balaji v. Hari Nilkanth Ray
+(1883) I.L.R. 7 Bom. 377,. in which it was held that when the mortgagor rightly or
+wrongly obtained a decree for accounts only, a subsequent suit by him for possession
+of property and payment of money declared to be due would be barred under the
+principles of Section 13 and. Section 43, Code of Civil Procedure of 1882,
+corresponding to Section 11 and Order 2, Rule 2 of the Code of 1908. In Ghosh on
+Mortgages, Fifth edition, at page 593, the learned author observes:
+As a rule a mortgagee can be called upon to account only when the mortgagor seeks
+to redeem except where such redemption has become impossible.
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 5Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+(Vide also the statement of law in Mulla's Transfer of Property Act, Fifth edition, page
+533). In a Bench decision of this Court in Parasurama Pattar v. Venkatachellam
+Pattar (1883) I.L.R. 7 Bom. 377, it held that at the time of the redemption, the
+mortgagor is entitled to insist on credit being given for all the payments made by him
+without any time-limit which payment the mortgagee defaulted as per the terms of
+the mortgagee deed. The same principle (following Bhau Balaji v. Hari Nilkanth Ray)
+(1883) I.L.R. 7 Bom. 377, that there is no time limit for the claims and cross claims as
+between mortgagor and mortgagee and all the equities are to be taken into account in
+a suit for redemption was laid down again by a Bench of this Court in
+Thekkamannangath Raman alias Kochu Poduval v. Kakkaseri Pazhiyot Manakkal
+Karnavan (1915) 28 M.L.J. 184. We may also refer to the Bench decision of the
+Allahabad High Court in Banwari v. Sakhraj A.I.R. 1931 All. 585, in which it was held
+that in a suit for redemption the mortgagor is entitled to set off the yearly payment
+which the mortgagee is bound to pay to the mortgagor every year and that this sum
+for the whole of the period even beyond 12 years which the mortgagee has defaulted
+to pay, should be taken into account, there being no bar of limitation. We may refer
+to the decision of Devadoss, J., in Narasimha Rao Pantulu v. Seshayya (1924) 48
+M.L.J. 363, which was affirmed in Letters Patent Appeal in Immani Seshayya v.
+Dronamraju Lakshmi Narasimha Rao Pantulu (1929) 57 M.L.J. 800, by
+Venkatasubba Rao and Reilly, JJ., The point relevant to note in that decision is that
+the usufruptuary mortgage had fixed a period of 55 years with a stipulation that the
+mortgagee should make certain payments annually to the mortgagor and the suit for
+redemption was held to lie even before the expiry of 55 years under the peculiar facts
+of that case. The argument before Devadoss, J., was that when the mortgagee
+committed default, the right of the mortgagor was only to sue year after year for the
+recovery of the amount payable to him and that it was not a matter which would form
+part of the relief of redemption. This argument was rejected and it was held that the
+mortgagor could not be driven to file suits year after year for the recovery of the
+amount payable to him by the mortgagee nor the mortgagor bound to pay beriz on
+the land year after year and bring a suit every year against the mortgagee for the
+recovery of the' amount. In this decision the decision Jaijit Rai v. Gobind Tiwari
+(1884) I.L.R. 6 All. 303, already referred to was followed. We may also refer to the
+Bench decision of the Travancore-Cochin High Court in Kurien Chacko v.
+Ramakrishna A.I.R. 1952 T.C. 552, in which following the Bench decision of this
+Court in Tekkamannengath Raman alias Kochu Poduval v. Kakkaseri Pazhiyot
+Manakkal Karnavan (1915) 28 M.L.J. 184. It was held that no question of limitation
+arises as between mortgagor and mortgagee when an account is taken at the time of
+redemption. The same view was taken by that Court in Raman Pillai v. Sultan A.I.R.
+1956 T.C. 49.
+9. Our attention was drawn to a decision in Raj Mohan v. Sarada Charan A.I.R. 1936 Cal. 200. In
+that case the purchase of an equity of redemption tendered and deposited, under Section 83 of the
+Transfer of Property Act, the amount due to the mortgagee in possession, but the latter refused to
+accept the same. A suit for recovery of possession was filed and possession obtained from the
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 6Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+mortgagee. Later on, a suit was filed for mesne profits from the mortgagee, from the date of the
+service of notice of the deposit under Section 83 till the mortgagor got back possession. The High
+Court held the suit was not maintainable and barred by Order 2, Rule 2, Code of Civil Procedure in
+the view that the claim by the mortgagor for over payment to the mortgagee or surplus or excess
+profit received by the mortgagee should all be included in the suit for recovery of possession or for
+redemption. It was also held that the relationship of mortgagor and mortgagee subsisted even on
+such tender or deposit and that the mortgagee does not become a trespasser from the moment of the
+deposit under Section 83 of the Transfer of Property Act. This decision emphasises that law
+discountenances multiplicity of proceedings between the mortgagor and mortgagee and that any
+litigation between them and reliefs prayed for therein should be such as to enable the Court to afford
+final and complete relief between the parties.
+10. We have no hesitation in holding that the plaintiffs could not have merely filed a suit for
+accounts for the receipt of the surplus profits under Section 76 (i) of the Transfer of Property Act
+either year after year or for any period leaving outstanding the claim for redemption and for
+recovery of possession. It was perfectly competent to the mortgagor to wait and bring a suit for
+redemption for recovery of possession within the time-limit under Article 148 of the Limitation Act
+and in that suit, claim all the reliefs he would be entitled to, including the claim for rendition of
+accounts from the mortgagee in terms of Section 76 (?) of the Transfer of Property Act. The only
+time-limit is that suit for redemption or a suit for possession must not become time-barred.
+11. To sum up, the law does not permit the mortgagor to file separate suits against the mortgagee;
+the law does not comple him to file such suits. On the other hand he ought to and is entitled to
+combine all the reliefs in the suit for possession without any time-limit. (Vide also Mulla's Transfer
+or Property Act, Fifth Edition, page 534, where the learned author has summed up this legal
+position.
+12. The next question arises as to how and on what principle of law this claim for rendition of
+accounts for the surplus profits of the property under Section 76 (?) of the Transfer of Property Act
+for the entire period of eight years which was subsisting on 28th July, 1959, a day prior, to the
+delivery of possession becomes barred by limitation for a period exceeding three years prior to the
+suit. It is elementary that the mortgagee by delivering possession of the property cannot take away
+the right of the mortgagor which was then subsisting and alive. It is obvious and it lies on the surface
+to notice that it is only to provide for such a contingency that Article 105 of the Limitation Act
+provides that time would commence to run only after the mortgagor re-enters upon the property.
+13. Learned Counsel for the appellant urged that as the mortgage became discharged after the
+deposit and the certificate of discharge passed by the Court on 21st August, 1951, the position of the
+mortgagee was only that of a wrong-doer not in the character of mortgagee and that the claim for
+profits of immoveable properties belonging to the plaintiffs wrongfully received by the defendant is
+barred within the meaning of Article 109. He would urge that from 31st August, 1951, there is no
+question of redemption of the mortgage which has been discharged but that it was only a claim for
+recovery of possession wrongfully withheld by a trespasser without title coupled with the claim for
+mesne profits and that whatever it may be, when the wrongdoer handed over possession the claim
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 7Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+for mesne profits for every year would get barred by the expiry of three years from the end of that
+year under the third column of Article 109. In support of his argument, he relied upon the difference
+in the language in Section 60 in contrast to the language of Section 62 of the Transfer of Property
+Act. In order to get over Article 105, he further urged that that article would apply only to cases in
+which there is an express provision in the mortgage deed, that the mortgagee would get discharged
+out of the rents and profits of the property within a particular period and that article would not
+apply to a case in which the rents and profits are to be appropriated by the mortgagee only towards
+interest on the loan and at any rate not to a case in which by the provisions of the special statute, the
+mortgage debt itself gets scaled down either in full or in part. Considerable portion of his argument
+was devoted on this aspect; it was utterly unintelligible besides being opposed to the plain language
+of the article. Further the important limits in this argument are incorrect and unsound.
+14. The possession of the mortgagee after tender and deposit of the mortgage money is not that of a
+trespasser even though his possession thereafter is wrongful. A claim against him for rents and
+profits is not a claim for mesne profits; he is under a statutory liability to render accounts, under
+Section 76 (i) of the Transfer of Property Act. Before the amendment in Section 76 (t) under the
+amending Act XX of 1939, a Bench of this Court in Subba Rao v. Sarva Rayudu (1921) I.L.R. 47 Mad.
+7 : 44 M.L.J. 534, had to consider whether the mortgagee in possession after the deposit under
+Section 83 of the Transfer of Property Act was entitled to credit for just allowances towards payment
+of land revenue, and it was held that the mortgagee in possession who wrongly refused to accept the
+tender or deposit did not thereby become a trespasser and cease to be a mortgagee. This decision
+followed the Bench decision of the Calcutta High Court in Satyabadi Behara v. Harabati (1907)
+I.L.R. 34 Cal. 223 at page 228, where the law was stated in these terms:
+It is necessary to add, that there is nothing in these sections to indicate, that upon
+improper refusal of a valid tender, a mortgagee ceases to be a mortgagee and
+becomes a trespasser; on the other hand, the fact that the accounts are to be taken,
+either upto the date of the decree or upto the date fixed for redemption, indicates that
+he continues to be a mortgagee, although a heavier liability is imposed upon him,
+inasmuch as he loses interest after the date of tender and has to account for his gross
+receipts from the mortgaged property. It may also be noticed, that the Transfer of
+Property Act indicates, in other places the circumstances under which a security
+extinguished see for instance, Section 89 which provides that upon actual sale under
+a decree for sale, the security is extinguished, and Section 92, which provides that
+upon payment of the sum due under a redemption, decree a mortgagor is entitled to
+get back his property free from the mortgage. It is nowhere stated, however, that a
+valid tender by itself, is sufficient to extinguish a mortgage. Reliance, however, need
+not be placed upon this circumstance, as the Transfer of Property Act does not
+profess to be a complete Code. But as we have indicated, the section to which
+reference has been already made, appear to support the view, that though a
+mortgagee refuses a valid tender at his risk, he does not thereby cease to be a
+mortgagee, and that, whatever is due to and from him after the date of the tender,
+should be included in the accounts taken in a subsequent suit for redemption. This
+view is supported by high authority to which we shall presently refer.
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 8Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+The same view was taken in a recent Bench decision of the Patna High Court in
+Harbans v. Ramdhari , in which it was held that after a deposit under Section 83 of
+the Transfer of Property Act, the mortgagee does not become a mere trespasser but
+that he is a mortgagee still holding the property as a kind of trustee for the mortgagor
+with a statutory liability to render account for the rents and profits received by him
+from the date of the deposit. (Vide also Mulla's Transfer of Property Act, Fifth
+Edition, page 536 where the learned author has summed up the position.)
+15. We may at this stage refer to the decision of the Nagpur High Court in Mulchand v. Ganga I.L.R.
+(1950) Nag. 68. 59, which had to consider the effect of the discharge of a debt by the operation of a
+statute under the relevant provisions of the Debt Conciliation Act. This case effectively answers the
+point stressed by learned Counsel for the appellant as to the effect of the certificate of discharge
+granted by the Sub-Court on 21st August, 1951, under Section 19-A of the Madras Agriculturists
+Debt Relief Act. Mudholkar, J., (as he then was) held that by the mere fact that the Debt Conciliation
+Board passed an order that the mortgagee's claim must be deemed to have been discharged under
+Section 8 (2) (b) of the Debt Conciliation Act, the possession of the mortgagee did not become
+adverse to the mortgagor and the mortgagee could not be said to have excluded the mortgagor from
+possession from the date of the satisfaction of the mortgage. The Central Provinces Tenancy Act
+contained a special provision of a period of three years for a suit for possession of tenancy lands, the
+time to commence from the date of dispossession or exclusion. In that Case the mortgagor filed a
+suit more than three years after the award of the Debt Conciliation Board, the argument was that
+from that date onwards, the mortgagee was in possession in his own right to the exclusion of the
+mortgagor for more than three years but it was held that it was a suit for redemption and would be
+governed by Article 148, the mortgagor's possession not being adverse. The law was stated in these
+terms at page 72:
+Even if we take into consideration the effect of Section 8 (2), Debt Conciliation Act,
+the position of the defendants does not become different. The discharge of a debt by
+the operation of a statute does not amount to a redemption of the mortgagee. Similar
+argument based on Section 10 of Bengal Regulation XV of 1793, which was addressed
+before the Allahabad High Court was repelled in Sudarshan Das Shastri v. Ram
+Prasad (1910) I.L.R. 33 All. 97, and it was observed that So long as the property
+remains in the hands of the mortgagee it cannot be said that the mortgagee has been
+redeemed.
+This decision was later approved in Habibullah v. Abdul Hamid (1912) I.L.R. 34 All.
+261.
+16. Article 109 in terms would apply only to a claim for mesne profits against a trespasser. The
+nature of the relief that would be granted in a suit under Article 109 has got its own special
+incidents. The burden of proof is upon the plaintiff as to the quantum of profits. The defendant who
+is liable for mesne profits is entitled to certain allowances and deductions such as public charges as
+Government rent, revenues, or cess. The measure of liability for mesne profits in a suit under Article
+109 is not the actual loss sustained by the plaintiff who has been kept out of possession and deprived
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 9Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+of the profits from the property. There the test is not what is lost to the plaintiff as a result of
+exclusion but what the defendant has or might with due diligence reasonably have realised by his
+wrongful possession. The liability sought to be enforced against the mortgagee for surplus profits
+received under Section 76 (?) of the Transfer of Property Act is a statutory liability imposed by the
+statute to render an account and the incidents of that liability cannot be equated to that of a liability
+of a mere trespasser-wrongdoer under Article 109 of the Limitation Act. The nature and a character
+of this liability, its measure, the burden of proof are all totally, different and would not come under
+Article 109 of the Limitation Act which merely deals with tortious liability and liability under
+common law. The statute (Transfer of Property Act) declares that the relationship between the
+parties is such that one is bound to render an account to the other. A claim for mesne profits
+simpliciter on the basis of wrongful possession is not a claim for accounts as there is no accountable
+relationship in the legal sense of the term, though to ascertain the mesne profits some accounts and
+calculations may have to be taken. The mortgagee under Section 76 (i) of the Transfer of Property
+Act is liable not only for the rents and profits which he actually receives but also for the rents and
+profits which, but for his wilful default or neglect, he might have received, i.e., for everything he has
+received, or might or ought to have received while he continued in possession. (Vide 27 Halsbury
+page 287, paragraph 539). It is this principle of English Law which has been embodied in Section 76
+(i) of the Transfer of Property Act.
+17. Mr. Rajah Iyer, therefore, urged that such a suit would be governed either by Article 105 or in
+any event by Article 120 and not Article 109. It is unnecessary to consider the applicability of Article
+120 as we are clear in our minds that Article 105 would apply to the instant case. At this stage, it is
+necessary to refer to two recent decisions of the Supreme Court, both reported in the same volume.
+Suraj Ahir v. Prithinatha Singh , and Prithi Nath v. Suraj Ahir , in which the scope of the provisions
+of Section 6 of the Bihar Land Reforms Act (XXX of 1950) as amended by Act XVI of 1959, came up
+for consideration. In that case, the mortgage money was paid by the mortgagor to the mortgagee but
+the mortgagee still continued in possession. The purchaser of the equity of redemption wanted to
+recover possession of the property and the question arose whether he is entitled to the benefits of
+Section 6 (c) of the Bihar Land Reforms Act of 1950, as amended by Act XVI of 1959, which was to
+the following effect:
+(c) lands used for agricultural or horticultural purposes forming the subject-matter of
+a subsisting mortgage on the redemption of which the intermediary is entitled to
+recover khas possession thereof.
+18. The Supreme Court held that this enabling provision would not help the plaintiff as on that date
+there was no subsisting mortgage as the same had been discharged by payment of the money by the
+mortgagor to the mortgagee. The Supreme Court took the view that as the mortgagee received the
+payment resulting in the discharge of the mortgage and there being no subsisting mortgage on the
+date of the vesting, the possession was not as mortgagee. The same aspect was stressed in the latter
+decision in Prithi Nath v. Suraj Ahir , to the effect that when the mortgage money had been paid up
+thereafter there was no question of appropriating the rents and profits accruing from the property,
+towards interest on mortgage money and that, therefore, the mortgage and the right of the
+mortgagee to remain in possession came to an end. Dealing with the incidents of the right of
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 10Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+redemption, the law was stated in these terms at page 1042:
+It is to be noted that these provisions do not state when a mortgage ceases to be a
+mortgage. They simply describe the right of a mortgagor to redeem. Now what is this
+right, and, in what circumstances does it arise? The right arises on the principal
+money payment of which is secured by the mortgage deed, becoming due. The right
+entitles the mortgagor, on his paying or tendring to the mortgagee the mortgage
+money to ask him (i) to deliver to him the mortgage deed and other documents
+relating to the mortgaged property; (ii) to deliver possession to the mortgagor, if the
+mortgagee is in possession; and (in) to transfer the mortgaged property in
+accordance with the desire of the mortgagor. If the mortgagee receives the money and
+does not perform any of the three acts required of him to be done, the question arises
+whether this non-compliance with the demands will make the mortgage continue.
+The provisions of the section do not say so and there appears no good reason why the
+mortgage should continue. If the mortgagee is not to perform these acts, the
+mortgagor is not to pay the amount, if, however, the mortgage money has been
+received by the mortgagee and thereafter he refuses to perform the acts, he is bound
+to do, the mortgagor can enforce his right to get back the mortgage document, the
+possession of the mortgaged property and the reconveyance of that property through
+Court. A new right to get his demands enforced through the Court thus arises as a
+result of the provisions of Section 60 of the Act.
+19. The observations in the aforesaid two decisions of the Supreme Court could be understood in
+their proper context with reference to the applicability of the particular provision of the particular
+statute, the Bihar Land Reforms Act. Further that case was one in which the mortgagor had made
+payment to the mortgagee direct. But what is relevant to notice in that decision is the statement that
+after the discharge of the mortgage, afresh statutory liability and a new right to get his demands
+accrued in favour of the mortgagor to be enforced under either Section 60 of that Act or Section 76
+(i) of the Transfer of Property Act (though the later provision was not referred to). Further that case
+did not deal with the precise nature or character of the liability of the mortgagee under Section 76
+(?) of the Transfer of Property Act. We are not prepared to hold that this decision of the Supreme
+Court warrants the view that the liability of a mortgagee in wrongful possession after the deposit of
+the mortgage amount is merely that of a trespasser simpliciter.
+20. Even assuming that the mortgagee should thereafter be treated only as a trespasser, Article 109
+being the general article, will not apply in the case of a special particular situation specifically
+provided for under Article 105 of the Limitation Act.
+21. The principle of the maxim generalia specialibus non derogant, specialia derogant generalibus
+that, when there is a particular provision and a general provision in the same statute the particular
+provision would be operative and override the general provision, the latter taking effect only with
+respect to the other portions of the statute to which it may properly apply, would govern the instant
+case. This rule has been applied in numerous cases in the matter of the proper interpretation and
+application of the several articles in the Limitation Act and it will be sufficient to refer to some of the
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 11Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+leading decisions.
+22. In Natesan Chetti v. Soundararaja Ayyangar (1897) I.L.R. 21 Mad. 141 : 7 M.L.J. 375, the vendor
+filed a suit to recover unpaid purchase-money by enforcement of the vendor's lien (claiming a
+charge upon the property sold) eight years after the sale but within twelve years of the same. Article
+111 of the Act of 1877, provided a time-limit of three years for a suit by a vendor of immovable
+property to enforce his lien for unpaid purchase money, while Article 132 of the same Act provided a
+time-limit of twelve years to enforce payment of money charged upon immovable property. The
+lower Court applied Article 132, but the Bench consisting of Subramania Ayyar and Davies, JJ.,
+reversed the decision observing as follows:
+Now Article 111 refers solely and in unmistakable terms to suits such as the present,
+which Article 132 deals with suits for money charged upon immovable property
+generally. In the case cited above, no reasons were stated as to why the learned
+Judges arrived at the conclusion that Article 111 was inapplicable to cases similar to
+this, and that conclusion is opposed to the well established canon of interpretation
+that as a rule, general provisions do not derogate from special provisions, but that the
+latter do derogate from the former. Generalia ipecialibus non derogant, specialia
+derogant generalibus. It is scarcely necessary to observe that, if Article 111 does not
+apply to such suits as the present, it is impossible to see to what suits it would apply.
+23. Under the Act of 1908 Article 111 has been amended so as to restrict it to a suit by an unpaid
+vendor for personal payment of the unpaid purchase-money and all suits for the enforcement of
+payment of money charged upon an immovable property are now governed by Article 132.
+24. We may next refer to the Bench decision in Naramada Bai v. Bhavanishankar (1902) I.L.R. 26
+Bom. 430, in which this well established rule that:
+If there be two Articles which may cover the case, the one, however more general and
+the other more particular or specific, as a principle of construction the more
+particular and specific Article ought to be regarded as the one governing the case.
+was applied. This case too arose under the Limitation Act of 1877. The mother of the
+plaintiff in that case had (in 1897) deposited some ornaments, clothes and money
+with the defendant for safe custody and made a demand for the return of the same in
+1898, which was refused. After her death and more than three years after the demand
+and refusal, the plaintiff sued to recover the property or its value as an alternative,
+and the question arose whether the suit was barred under Article 48 or 49 of the Act
+of 1877 or was within time being governed by Article 145 of the Act. Article 48
+provided a time-limit of three years for recovery of specific movable property
+acquired by theft, extortion, cheating or dishonest misappropriation. Article 49
+provided the same time-limit of three years for recovery of the movable property
+wrongfully taken or wrongfully detaining of the same, Article 145 of that Act fixed a
+time-limit of thirty years for a suit against a depository or a pawnee to recover
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 12Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+movable property deposited or pawned. The Bench held that Article 145 which dealt
+with the case of a deposit and entrustment, being a particular article would apply and
+the suit was in time. In Kumar Rameshwar Narain Singh v. Mahabir Prasad (1926)
+I.L.R. 5 Pat. 759, the plaintiff filed a suit to set aside rent sale under the Chota
+Nagpur Tenancy Act, 1902 on the ground of fraud and the question arose whether the
+suit would be barred by limitation under Article 12 which provided a time-limit of
+one year for setting aside of a sale in execution of a decree of a civil Court or sale for
+arrears of Government revenue or sale in 'pursuance of an order of a Collector within
+time under Article 95 of the Limitation Act which specifies a period of three years as
+time-limit to set aside a decree obtained by fraud or for other reliefs on the ground of
+fraud. It was held that Article 95 was a special provision providing for relief on the
+ground of fraud and would prevail over Article 12 the general provision.
+25. Lastly, we may refer to the Bench decision in Ramiah & Co. v. Sadasiva Mudaliar (1925) I.L.R.
+48 Mad. 925 : 49 M.L.J. 228 in which the same rule that the special Article would override the
+provisions of a general Article was applied. There the plaintiff purchased certain bales of shirtings
+from the defendant in August, 1918 and sold these bales to his customers. In April, 1919, the plaintiff
+discovered that there was shortage or deficiency in the number of pieces in the bales and he filed the
+suit in February, 1922 against the defendant for damages for short delivery. The suit was resisted,
+inter alia on the ground that the claim was barred by limitation under Article 62, being essentially in
+the nature of a claim for money had and received, time commencing to run from the date of the
+receipt, but this argument was rejected on the ground that Article 96 which deals with a special kind
+of suits for relief on the ground of mistake would apply, time commencing to run from the date
+when the mistake became known to the plaintiff.
+26. The question now arises for our consideration, whether the present claim is governed by the
+special provision, Article 105, so as to exclude Article 109. On this portion of the case, we have not
+the slightest hesitation in holding that there is no substance whatsoever in the arguments of the
+appellant. The words mortgagor, mortgage and mortgagee are general and unqualified, we see no
+warrant and nothing in the compelling context of the Article for restricting its scope to any
+particular type of mortgage. Only two conditions should be complied with : (i) the mortgage must
+have been satisfied, and (ii) the mortgagor must have re-entered on the mortgaged property so as to
+start the running of time. The discharge or the satisfaction of the mortgage may arise in any number
+of ways, either by the terms and conditions of the contract or by operation of law or by the
+provisions of any pre-existing or supervening statute. Indeed, learned Counsel for the appellant
+could not logically develop the argument, that the article should be restricted only to mortgages
+which contain a provision for the discharge of the interest and the principle from out of the rents
+and profits of the property. It is unnecessary to express an opinion as to whether the possession of
+the mortgagee after the discharge of the mortgage is purely that of a trespasser, or, the possession is
+a wrongful possession, but at the same time the mortgagee occupying a fiduciary position to protect
+the rights and interests of the mortgagor not allowing the property to be sold for arrears of revenue,
+protecting it from committing acts of waste or damage and also take such necessary steps as may be
+required to safeguard and protect the interests of the mortgagor; because, in our opinion, even
+assuming that the possession of the mortgagee is that of a trespasser simpliciter, Article 105 would
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 13Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+still apply. By the terms of Article 105 as well as ex-concession Article 105 postulates a stage when
+the mortgage has been satisfied or discharged, the relationship of the mortgagor and the mortgagee
+having come to an end. For Article 105 to apply, it is not necessary that the relationship of
+mortgagor and mortgagee should continue, under the third column, time would commence to run
+only after the mortgagor re-enters on the property. It is obvious indeed the matter is not open to any
+argument contra, that Article 105 is intended to cover a suit for working out the rights of a
+mortgagor and the obligations of the mortgagee during the period when the mortgagee continued in
+possession after the satisfaction of the mortgage. We are of the clear view that Article 105 would
+govern every case of a suit by a quondum mortgagor against the quondum mortgagee and including
+suits for rendition of accounts under Section 76 (i) of the Transfer of Property Act. The fact that at
+some point of time, the legal relationship came to an end and the mortgagor re-entered possession
+of the property thereafter, would not affect the applicability of Article 105. This view of ours is
+supported by ample authorities.
+27. We must first refer to the Bench decision of the Allahabad High Court in Muhammed Fayaz Ali
+Khan v. Kallu Singh (1910) I.L.R. 33 All. 244, in which it was held that a suit by the mortgagor, after
+the mortgage had been satisfied, to recover surplus collections received by the mortgagee may be
+brought within three years from the time when the mortgagor re-entered on the mortgaged property
+under Article 105 of the Limitation Act of 1877, corresponding to Article 105 in Act IX of 1908. In
+that case, the mortgagor first obtained a decree for redemption and possession and instituted the
+suit for recovery of surplus proceeds in pursuance of the liberty reserved to institute such a suit. The
+Bench took the view that the scope of Article 105 was unrestricted and that it did not matter how the
+mortgagor re-entered or obtained possession of the property. This judgment refers to the previous
+legislative history of Article 105, the change in column 3, between the Act of 1871 and the Act of
+1877. The Bench was not inclined to accept the obiter dictum in an earlier Bench decision in Ram
+Din v. Bhun Singh (1908) I.L.R. 30 All. 325, that Article 105 must be restricted to cases where the
+mortgagor got possession of the mortgaged property, otherwise than by means of a suit for
+redemption. The relevant aspect to be noted for the purpose of the present discussion is that the
+Bench held that the only Article that would apply to a case was Article 105 and that Article 109
+would apply only to suits other than a suit by a mortgagor for surplus collections.
+28. Reference may next be made to the Bench decision of the Calcutta High Court in Prasanna
+Kumar v. Nilambar A.I.R. 1922 Cal. 189. Therein a suit for redemption of a usufructuary mortgage,
+the mortgagors claimed that if proper accounts were taken, large sums would be found due from the
+mortgagee. The mortgagee contended that a such claim for recovery of surplus profits would be
+barred under Article 120 of the Limitation Act. The Bench overruled this objection holding that in a
+suit for redemption, there was no time-limit so far as the recovery of the surplus collections was
+concerned, provided, however, the suit for redemption was in time under Article 148, the reasoning
+being that in a suit for redemption all equities ought to be adjusted between the parties. It is in
+connection with this that the Bench had to deal with the relative applicability of Article 105 and it
+was held that Article 105 was intended to cover eases where after the mortgage has been satisfied,
+the mortgagor has re-entered on the mortgaged property otherwise than by means of a suit for
+redemption. In this Bench decision too, reference is made to the prior legislative history of the
+difference in the nature of the provision in the Act of 1859 and the Act of 1908. At this stage, we may
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 14Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+refer to the Bench decision of the Bombay High Court reported in Rukhmini Bai v. Venkatesh (1907)
+I.L.R. 31 Bom. 527, judgment of Chandavarkar, J., and Heaton. There the plaintiff, the mortgagor,
+filed a suit under Section 62 of the Transfer of Property Act, to recover possession of the mortgaged
+property and also deposited the amount due to the mortgagee. The Court passed a decree for
+possession and the mortgagor also recovered possession from the mortgagee. Thereafter the
+mortgagor filed another suit to recover mesne profits from the defendant from the date of the
+deposit upto the date when the mortgagor recovered possession of the mortgaged property. The suit
+was dismissed on the ground that it was barred by Section 13 or Section 43 of the Civil Procedure
+Code of 1882 corresponding to Section 11 and Order 2, Rule 2 of the Code of 1908 respectively.
+Chandavarkar, J., delivering the judgment of the Bench observed that after the date of the tender or
+the deposit, the mortgagee continued as mortgagee with a statutory liability to account for the
+profits received by him from that date, that the mortgagee was not then a mere trespasser, but a
+mortgagee still holding the property as a kind of trustee for the mortgagor. The learned Judge had
+also observed that there is nothing in the Transfer of Property to warrant the inference that after a
+proper deposit the mortgage has become extinguished so as to make the possession of the
+mortgagee that of a mere trespasser. We are making reference to this decision only to indicate the
+rival point of view that even if the mortgagee had been paid he is not trespasser for all purposes.
+Reference may be made to the statement in Ashburner's Principles of Equity, Second Edition, page
+191 that a mortgagee only becomes a trustee for the mortgagor after he has been paid.
+(Vide also Halsbury's Laws of England, Volume 27, page 412, paragraph 800 that when a mortgage
+has been paid of, the mortgagee is a trustee for the mortgagor. Even if the decision of the Supreme
+Court in Prithi Nath v. Suraj Ahir , should be understood as indicating a different point of view (we
+do not thing so), that does not in any way affect the applicability of Article 105. To conclude,
+whether the mortgagee after satisfaction of the mortgage still continues to be mortgagee or a
+Quasi-trustee (See Jagannath v. Sripathibabu) (1945) 1 M.L.J. 478 : I.L.R. (1946) Mad. 255, with
+certain fiduciary obligations or a mere trespasser, a suit for recovery of the surplus profits has been
+carved out as a special category of suits and provided for under Article 105.
+29. On behalf of the appellant, reliance was placed upon an early Bench decision of the Calcutta
+High Court in Sakari Datta v. Ainuddy (1910) 12 Cal. L.J. 620. There the mortgagor in pursuance of
+a decree for redemption deposited the amount but the mortgagee did not deliver possession of the
+property but continued in possession, for over a period of one year. The mortgagor, after having
+obtained possession of the property filed a fresh suit for recovery of the mesne profits due on
+account of the wrongful possession, the trial Court dismissed the suit on the ground that the prior
+proceedings operated as a bar. The plaintiff took up the matter to the High Court. On behalf of the
+defendant, a further objection was raised that the suit was not maintainable in any event in a Court
+of Small Causes. Article 31 of Schedule II of the Provincial Small Causes Courts Act provides that
+any other suit for accounts including a suit by a mortgagor, after the mortgage has been satisfied, to
+recover surplus collections received by the mortgagee is not maintainable in a Court of Small
+Causes. The Bench took the view that Article 31 would not apply to the case on the ground that after
+the mortgage has been satisfied, the defendant ceased to be a mortgagee. It is true that the language
+in Article 31 of the Small Causes Courts Act is the same as the language in Column I of Article 105.
+The principle of this decision is not of much relevance to the instant case where the crucial question
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 15Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+is, as to what extent, a special Article in the Limitation Act would override a general provision. On
+this ground alone, the decision of the Calcutta High Court is distinguishable. But with great respect
+to the learned Judges, it has to be pointed out that Article 31 of Schedule II of the Provincial Small
+Causes Court specifically covers a suit by a mortgagor after the satisfaction or discharge of the
+mortgage and when the defendant has ceased to be a mortgagee. It is explicit in that Article that it
+deals with the precise situation after the defendant had ceased to be a mortgagee and the Article in
+its express language cannot apply to the situation of the defendant still retaining his character as a
+mortgagee.
+30. For all these reasons, we hold that the entire claim in this suit is in time under Article 105 of the
+Limitation Act.
+31. As regards the quantum, the learned Subordinate Judge has committed a mistake in doubling
+the produce which the defendant had realised, the landlords' share even according to him, i.e., 441
+kalams for 71/2 years. The account books, Exhibits B-2 and B-3, of the defendant have been filed,
+which are maintained in the regular course of business. They are genuine accounts. It cannot be
+seriously urged that the defendant fabricated the accounts for the purposes of this suit. A statement
+appears to have been filed in the trial Court, culling out the entries from these account books, as a
+result of which the figure of 441 kalams was arrived at as the total quantity of paddy actually realised
+by the defendant. If the defendant himself had personally cultivated the lands allowance will have to
+be made for cultivation expenses.
+32. There is no evidence that the defendant was guilty of any negligence or wilful default and that he
+could or ought to have realised more than 441 kalams.
+33. As regard the price of the paddy, the account books produced by the defendant themselves show
+that during the relevant period, he has been selling the paddy at the rate of Rs. 20 on an average, per
+kalam. The fact that in the plaint, the plaintiffs claimed the price of paddy at Rs. 15 per kalam cannot
+be used against the plaintiffs as they claimed 850 kalams, valued at Rs. 17,000 but restricted their
+claim to a sum of Rs. 12,750. The plaintiffs were naturally ignorant of the actual price for which the
+defendant had sold the paddy. We do not see any reason why the defendant should not be held liable
+for the price he had actually realised, viz., Rs. 20 per kalam, which is proved from the entries of his
+own account books. The plaintiffs, therefore, would be entitled to the value of 441 kalams at Rs. 20
+per kalam. From this calculation there will be some reduction in the amount actually decreed. But,
+in determining the defendant's liability, the trial Court ought to have awarded interest with annual
+rests on the surplus collections made by the defendant and wrongfully retained by him for over 71/2
+years. The fact that the plaintiffs have not preferred a memorandum of cross-objections either in
+relation to the price of paddy or their right to interest with annual rests does not matter; they will be
+entitled to sustain the decree as passed by the trial Court on any point or points open to them. It is
+well-settled, that when an item in an account appearing in the decree of the lower Court is reduced
+by the appellate Court, the respondent without filing any memorandum of cross-objections can
+support the decree passed by the trial Court by showing that it had wrongly decided against him
+(respondent) on other items. In several decisions, in a suit for sale or suit for redemption, or claim
+for mesne profits, this principle had been applied, and the amount decreed in favour of the
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 16Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+successful party has been sustained by the appellate Court, though the appellate Court took a
+different view from that of the trial Court in respect of some of the items which made up the total
+liability of the defeated party. We may refer to an early decision of the Allahabad High Court in
+Shankar Lal v. Madari Singh (1910) 7 I.C. 484, where the plaintiff filed a suit on a mortgage and gave
+credit to the defendant for a sum of Rs. 245 as the value of certain grain and cattle delivered to the
+mortgagee by the mortgagor. The defendant pleased that he had made some other part payments in
+cash and that the value of the grain and cattle was Rs. 350 and not Rs. 245. The trial Court held that
+the value of the grain and cattled was only Rs. 245. It also held that the plaintiff was not entitled to
+compound interest but on appeal to the lower appellate Court it was held, the plaintiff was entitled
+to compound interest, that he had also received from the defendant a sum of Rs. 320 and that the
+value of the grain and cattle delivered to the plaintiff was Rs. 350 and not Rs. 245 and on this
+calculation, a decree was passed against the defendant for Rs. 741. On appeal to the High Court, the
+plaintiff contended that inasmuch as the defendant had not preferred any cross-appeal in the lower
+appellate Court, as regards the value of the grain, it had no jurisdiction to enhance the value in
+favour of the defendant from Rs. 245 to Rs. 350. This argument was not accepted and it was held
+that it was quite competent to the defendant to raise all objections concerning the serveral items
+which made up his liability so long as he did not dispute the liability for the amount decreed against
+him by the trial Court.
+34. We may next refer to the Bench decision of this Court in The Receiver of Nidadavole Estate v.
+Vegasena Subbaraju (1904) I.L.R. 28 Mad. 427, in which the landlord had filed a suit for
+enchancement of rent as against the tenant and the question directly arose whether it would be
+competent to the lower appellate Court to award relief to the ryot when there has been no
+cross-appeal with regard to the disallowance of certain amounts. The Bench held that the appellate
+Court may uphold the decree of the lower Court on any ground warranted by law, though such a
+ground may not have been referred to or even disallowed by the lower Court. The same principle
+was laid down in the Bench decision in Md. Ali v. Parma Nand A.I.R. 1918 Lah. 129, which related to
+a suit on a registered bond comprising several items and on some of which there was difference of
+view between the trial Court and the lower appellate Court. It was held that a party who was content
+to accept the lower Court's decision would be entitled to resist the appeal from that decision on the
+ground that the decree as erred in favour of the appellant. It was also observed that the respondent
+not having appealed nor filed cross-objections, could not ask that the decree should be altered in his
+favour but that he would certainly be entitled to urge and show that the decree erred in favour of the
+appellant, and, therefore, ought not to be disturbed. These two cases were referred to with approval
+by a Bench of this Court in Sri Ranga Thathachariar v. Srinivasa Thathachariar I.L.R. (1927) 50
+Mad. 866 at page 875 : 53 M.L.J. 189, which dealt with a suit for partition where it was observed
+that:
+though one item in an account may be found by the Court of Appeal against the
+respondent and on that footing the amount for which a decree has been granted by
+the lower Court may have to be reduced, still the decree might be supported by
+showing that in respect of some other item the Court below made a mistake.
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 17Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+On the facts in that case it was held that that rule will not apply to reliefs based upon
+totally different causes of action.
+35. Lastly we may refer to the Bench decision of the Calcutta High Court in Rajendra Narayan v.
+Bhirabendra Narayan A.I.R. 1938 Cal. 563, where in a suit for mense profits this principle that the
+amount decreed could be sustained on a calculation different from that adopted in the lower Court
+was applied. This Bench decision referred to with approval the statement of law in Sri Ranga
+Thathachariar v. Srinivasa Thathachariar I.L.R. (1927) 50 Mad. 866 at page 875 : 53 M.L.J. 189,
+referred to realier. The matter was put thus at page 569:
+This raises the question whether they are entitled to have these modifications in the
+rate of interest made in their favour in the absence of any memoranda of appeals or
+of cross-objections by them. One fact is clear that a decision by us in their favour
+would not increase the total amount of mesne profits decreed in their favour by the
+lower Court. Subject to this, we are of opinion they can attack the judgment relating
+to their claim for interest without filing memoranda of cross-objections. The
+principle has been thus formulated by Srinivasa Ayyar, J., in Ranga's case I.L.R.
+(1927) 50 Mad. 866 at 875 : 53 M.L.J. 189. When an item in an account appearing in
+the decree of the lower Court is reduced by the appeal succeeding, the respondent
+without filing any memorandum of cross-objection can support the said decree by
+showing that the lower Court has wrongly decided against him on other items, but it
+is not open to the respondent to have adjudicated by the Appellate Court rights or
+causes of action which have been decided against him in the lower Court without
+filing an appeal or memorandum of cross-objections. As interest is an integral part of
+mesne profits the plaintiff-respondents are entitled on the said principle to maintain
+the amount of mesne profits decreed to them by the lower Court by a relative
+variation of the constituent elements without filing memoranda of cross-objections.
+They are entitled to urge that if interest be reduced by the Appellate Court, the profits
+may be assessed at a higher figure, if the evidence supports it, provided that the total
+does not exceed the amount decreed as mesne profits by the lower Court, and vice
+versa. This involves no challenge to a different right or a different cause of action
+adjudicated against them by the lower Court which is not under challenge in the
+appeal at the instance of the appellant.
+It is unnecessary to refer to further cases on this aspect.
+36. In a suit for account of surplus collections made after the date when the mortgage has been
+completely discharged and satisfied, the usual rule is to award to the mortgagor interest with annual
+rests as against the accounting party (Vide 27 Halsbury's Law of England, page 431, paragraph 853).
+We may refer to the leading English decision in Ashworth v. Lord (1887) L.R. 36 Ch. D. 545, in
+which in an action for redemption, it was held that the accounts must be taken against the
+defendant with annual rests from the date at which the mortgage debt was fully paid, and that
+annual rests is a matter of course. Reference may be made to the following statement of law at page
+550:
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 18Kanakaraj vs B.V. Sundararaja Iyer And Anr. on 1 March, 1967
+The principle on which annual rests are not ordered as against mortgagees in
+possession, whose interest was in arrear at the time when they entered into
+possession, is, that it cannot be considered that, in so doing, they elected to receive
+their capital by driblets. They are entitled, in the absence of any bargain to the
+contrary, to have their whole capital paid off at once, and the taking of possession is
+not evidence of such a bargain. But, after they have been paid in full, they are, as was
+pointed out by the Master of the Rolls in Wilson v. Metcalfe 38 E.R. 204, persons
+who are, in receiving the rents after their debt has been fully paid, availing
+themselves of another man's money for their own use and benefit, and they ought to
+be charged with interest. In that case annual rests were directed to be made from the
+time at which the mortgage debt was fully paid, and that is what I have always
+understood to be the practice in the few cases in which the point has arisen. It seems
+to me that annual rests are in the present case a matter of course.
+In Nagayya v. Venkata Subbarayudu A.I.R. 1918 Mad. 807, a Bench of this Court
+while pointing out the difference between the case of a mortgagee in possession and a
+trustee as regards liability for interest observed at page 810 as follows:
+A mortgagee in possession, as soon as his debt is paid off, will be bound to pay
+interest on any money which he may retain thereafter, while the liability of a trustee
+would depend on whether he is guilty of breach of trust; see Wilson v. Metcalfe 38
+E.R. 204, Ashworth v. Lord (1887) L.R. 36 Ch. D. 545, and compare Section 23,
+Trusts Act.
+On this matter it is sufficient to refer to the Bench decision of this Court in Jagannath
+v. Sripathibabu I.L.R. (1946) Mad. 255 : (1945) 1 M.L.J. 53, in which it was held that
+under Section 76 of the Transfer of Property Act, a mortgagee in possession though
+not a trustee in the strict sense of the term holds a fiduciary character and that on
+equitable principles, the Court has full power to direct interest to be paid on
+collections which have been wrongfully withheld by the mortgagee in possession. On
+the facts of that case an award of 15 per cent. per annum was upheld as reasonable. In
+the instant case, the period is fairly long and we think, an award of 6 per cent. simple
+interest, would be reasonable and just. Calculating at six per cent. per annum, the
+interest works out to Rs. 1,728-72 and adding the principal of Rs. 8,820, the amount
+due to the plaintiffs would be Rs. 10,548-72. The appeal, therefore, is allowed in part
+and the decree of the trial Court is modified to one for Rs. 10,548-72 with subsequent
+interest. The plaintiffs would be entitled to their costs in the trial Court on the
+amount decreed. 1 The defendant will bear his own costs in the trial-Court. In the
+appeal, the parties will pay and receive costs in proportion to their failure and
+success.
+Indian Kanoon - http://indiankanoon.org/doc/220788/ 19

@@ -1,0 +1,221 @@
+Metadata: id=>246
+name=>Kaveri Gas Power Limited vs M S Madura Coats Pvt Ltd on 22 December 2014
+date=>22 December 2014
+court=>THE HIGH COURT OF JUDICATURE AT MADRAS
+RESERVED ON
+link=>http://indiankanoon.org/doc/168946339/
+-----
+Content: Kaveri Gas Power Limited vs M/S Madura Coats Pvt. Ltd on 22 December, 2014
+Madras High Court
+Kaveri Gas Power Limited vs M/S Madura Coats Pvt. Ltd on 22 December, 2014
+IN THE HIGH COURT OF JUDICATURE AT MADRAS
+RESERVED ON : 28.02.2018
+PRONOUNCED ON : 15.03.2018
+CORAM
+THE HON'BLE MR.JUSTICE M.M.SUNDRESH
+O.P.No.220 of 2015
+Kaveri Gas Power Limited,
+Maruthur Village, Therizhundur P.O.,
+Myladuthurai Taluk, Nagai District. .. Petitioner
+-Vs-
+1.M/s Madura Coats Pvt. Ltd.,
+New Jail Road, Madurai-625 001.
+2.Hon'ble Mr.Justice N.V.Balasubramanian(Retd.,)
+No.40, Sankarapuram,
+Alamelumangapuram,
+Mylapore, Chennai-600 004. .. Respondents
+Petition fileSde cutnidoenr 34 of the Arbitration and Conciliation Act, 1996, to set aside the award dated 22.12.2014 passed by the learned Arbitral Tribunal.
+For Petitioner : Mr.Rahul Balaji
+For respondents : Mr.P.S.Raman, S.C.,
+for Ms.S.P.Arthi for R1
+* * * * *
+ORDER
+The petitioner is a company involving in the production of captive power generation. The raw
+material for the aforesaid purpose is the natural gas. Agreements have been entered into between
+the petitioner and the first respondent. These agreements include a power supply agreement with its
+supplementaries. The arrangement between the parties is to the effect that the petitioner shall
+supply a specified power at a price, which is less than Rs.0.47 paise than the one supplied by the
+Tamil Nadu Electricity Board. The first respondent has also become a shareholder in the petitioner
+company. Apart from these arrangements, two Memorandum of Understanding were entered into
+between the parties for the supply of 1 and 0.5 MW respectively with the price fixed at Rs.7.25 per
+KWH as against the earlier one of Rs.3.31 per KWH.
+Indian Kanoon - http://indiankanoon.org/doc/168946339/ 1Kaveri Gas Power Limited vs M/S Madura Coats Pvt. Ltd on 22 December, 2014
+2. The following are the relevant Clauses in the Power Supply Agreement dated 11.03.2004 signed
+between the parties.
+I.1.4 (cid:19)TNEB Tariff(cid:20) shall mean the base tariff for one Kwh of electrical power charged by TNEB and
+the Electricity Tax payable on such tariff by high tension consumers but shall not include any
+demand charges, peak hour charges and any other additional charges levied now or in future by
+TNEB.
+II.1.15 In case of any shut down or repair, shall endeavor in its utmost competence to replace or
+restore the power plant to its normal working condition with the greatest urgency and least possible
+delay. However, if there is a delay of more than 30 days in restoring the power plant to its normal
+working condition and consequently KGPL is unable to supply the contracted demand, KGPL shall
+pay to the CONSUMER, liquidated damages to the extent of loss of electrical power cost reduction
+as stipulated in Article III.1.5 of this Agreement.
+II.1.16 Shall ensure and own all risks and liabilities in respect of the power plant and/or arising out
+of and resulting from its use/operation, maintenance and storage and for accidents causing injuries
+to or death of any person whether he is the agent or servant or employee of KGPL or third party(ies)
+and the CONSUMER shall have no liability attached thereto.
+II.1.17 KGPL alone shall have absolute liability under all applicable laws and rules in respect of work
+done, directly or indirectly, through their sub contractors or agents towards use, operation,
+maintenance and storage of the power plant.
+II.1.18. Shall undertake all liability/ responsibility and shall be liable for all costs, demands, claims,
+losses, damages or expenses which may be incurred by or made on the CONSUMER and arising
+from the transaction hereby entered into and/or the installation use, maintenance or operation of
+the power plant or any of its failure to operate or to perform or any other cause whatsoever and
+howsoever arising.(cid:20)
+3.These Clauses come under Article II dealing with the obligations and undertakings. As per Clause
+II.1.15, in the event of inability to supply of contract demand, the petitioner has to pay to the first
+respondent the liquidated damages to the extent of loss of electrical power as stipulated under
+Article III.1.5 of the agreement. Under Clause II.1.18, the petitioner undertakes all damages and
+expenses incurred on the first respondent, when it occurred at the instance of the petitioner.
+4. Article III deals with sales and purchase of energy price payable. The relevant Article III.1.5 is as
+follows.
+(cid:19)III.1.5 In case KGPL is unable to supply the electrical power to the extent of contracted demand on
+firm basis the Consumer may request the KGPL to effect such supply by suitably amending the
+delivery schedule. On the other hand, if KGPL is still unable to meet its delivery commitments, then
+KGPL shall pay the fixed difference of Re.0.47 (Forty seven paise only) per unit to the CONSUMER
+for such quantity of power not supplied by KGPL as against the contracted demand/revised delivery
+Indian Kanoon - http://indiankanoon.org/doc/168946339/ 2Kaveri Gas Power Limited vs M/S Madura Coats Pvt. Ltd on 22 December, 2014
+schedule on firm basis during a contract year. The claim, if in order and payable, shall be settled by
+KGPL within 30 days of receipt of the claim from the Consumer.(cid:20) This Article also speaks about the
+inability of the petitioner to supply electrical power to the extent of contracted demand on firm basis
+resulting in payment of liquidated damages at a fixed price of Rs.0.47 paise per unit.
+5. The petitioner did not make the supply as per the agreement admittedly. As a consequence to
+that, the first respondent was made to purchase the power from outside to run its unit at a higher
+price. As the petitioner failed to make the supply despite the request made by the first respondent,
+there was also an excess drawal from the grid beyond the quota allotted by the Tamil Nadu
+Electricity Board (hereinafter referred to (cid:19)TNEB(cid:20)), in turn, resulted in the levy of penalty. The first
+respondent also used diesel gen set.
+6. The aforesaid process adopted incurred huge loss to the first respondent. Thus, the first
+respondent invoked the arbitration clause making various claims against the petitioner. The claims
+were made on the basis of liquidated damages.
+7. The Tribunal, by an exhaustive and extensive award granted part of the claims in favour of the
+first respondent. Findings were given that the failure to make the supply was not borne out of
+inability but otherwise. In the process, the first respondent did incur the loss. It was not correct to
+state that there was insufficient supply of gas. The over drawal made by the first respondent was due
+to the refusal of the petitioner in making the supply as the grid being the same. Article III.1.5 of the
+power supply agreement does not apply to the case on hand. So is the case of Article II.1.15.
+Therefore, it is a case of non-supply not falling under Article II.1.15 and III.1.5 of the power supply
+agreement. The fact that the first respondent became the shareholder of the petitioner will not debar
+it from making the claim. Hence, the case on hand would come under Article II.1.18. The petitioner
+has deliberately diverted the power produced to the third party for sale at a higher rate. The first
+respondent would not be in a position to know the non-supply till the bill was raised by the TNEB.
+There is no material to hold that the first respondent did not even utilise the contract and power
+from the TNEB. No plea towards mitigating the loss was taken nor there is any material on the part
+of the petitioner to that effect. The Audit Report of the TNEB would show the excess energy drawn.
+The very fact that the first respondent entered into two Memorandum of Understandings with the
+petitioner would show that the cheaper power from the TNEB was not available. The petitioner did
+admit the requirement of the first respondent. The documents filed by the first respondent would
+show the expenses incurred in generating the electricity. However, it is to be noted that the Tribunal
+did not take into consideration of two enhancements made in the tariff by the TNEB. Thus, a sum of
+Rs.1,05,87,121/- has been wrongly awarded. This factual error has been fairly admitted by the first
+respondent.
+8. Heard the learned counsel appearing for the petitioner and the learned Senior Counsel appearing
+for the first respondent and perused the documents and written submissions.
+9. The learned counsel appearing for the petitioner would submit that the first respondent did not
+prove that it had actually required the power as per the contract. There cannot be any higher
+liquidated damages than the one provided under Article III.1.15 and II.1.5 of the Power Supply
+Indian Kanoon - http://indiankanoon.org/doc/168946339/ 3Kaveri Gas Power Limited vs M/S Madura Coats Pvt. Ltd on 22 December, 2014
+Agreement. The burden to prove the loss was wrongly cast on the petitioner. The audit slips ought
+not to have been relied upon by the Tribunal. The first respondent did not establish the usage of
+TNEB quota, overdrawal, payment of penalty and the loss. The materials produced for the purchase
+of power from outside and usage of diesel for operating through gen set are not sufficient. The
+monthly invoices raised by the TNEB was not produced. The first respondent did not establish the
+steps taken to mitigate against the plausible loss. The tariff payable by way of liquidated damages
+was fixed by taking into consideration of the price fixed under the Memorandum of Understandings,
+which is not sustainable in law. In support of his contention, the learned counsel has made reliance
+on the following judgments.
+1.ASSOCIATE BUILDERS V. DELHI DEVELOPMENT AUTHORITY (2015) 3 Supreme Court Cases
+49);
+2.TITANIUM TANTALUM PRODUCTS LTD., V. SHRIRAM ALKALI AND CHEMICALS
+(Manu/DE/8699/2006);
+3.STATE OF RAJASTHAN AND ANOTHER v. FERRO CONCRETE CONSTRUCTION PRIVATE
+LIMITED ((2009)12 Supreme Court Cases 1;
+4.DRAUPADI DEVI AND OTHERS V. UNION OF INDIA AND OTHERS ((2004) 11 Supreme Court
+Cases 425);
+5.ARYA ANTHERJANAM V. KERALA STATE ELECTRICITY BOARD, TRIVANDRUM (1996) SCC
+Online Ker 5);
+6.MURLIDHAR CHIRANJILAL V. HARISHCHANDRA DWARKADAS AND ANOTHER ((1962) 1
+SCR 653);
+7.MAULA BUX V. UNION OF INDIA ((1962) 2 Supreme Court Cases 554);
+8. MCDERMOTT INTERNATIONAL INC. V. BURN STANDARD CO. LTD., AND OTHERS ((2006)
+11 Supreme Court Cases 181); and
+9.KAILASH NATH ASSOCIATES V. DELHI DEVELOPMENT AUTHORITY AND ANOTHER
+((2015) 4 Supreme Court Cases 136.
+10. The learned Senior Counsel appearing for the first respondent would submit that admittedly,
+supply was not made as agreed. The factual finding is to the effect that the non supply was deliberate
+to augment more revenue from the third party. The permission given by the TNEB was qualified .
+Thus, even the said permission was violated. The overdrawal is solely attributable to the petitioner.
+The power was drawn from the said grid and therefore, the first respondent was not aware as to
+whether it comes from the petitioner or TNEB. The first respondent was kept in tenterhooks all the
+time though the methodology were adopted in view of the failure of the petitioner to provide
+electricity. The first respondent was forced to adopt the other modes to secure electricity. The
+Indian Kanoon - http://indiankanoon.org/doc/168946339/ 4Kaveri Gas Power Limited vs M/S Madura Coats Pvt. Ltd on 22 December, 2014
+Tribunal has considered all the materials while assessing the loss. Section 73 of the Indian Contract
+Act, 1872 has to be read with Section 74. As rightly held by the Tribunal, we are not dealing with the
+case of the deliberate supply but deliberate denial. Therefore, Article II.1.15 and III.1.5 do not have
+any application as against Article II.1.18. The Tariff was fixed as it was the one agreed by the parties.
+It was even less than the one otherwise payable to TNEB. In any case, the damages involved four
+periods and therefore, different methodologies were adopted to secure power. The issue regarding
+the alleged non consumption was raised only after the completion of the evidence. The production
+was on the increase contrary to the statement made by the petitioner. Similarly placed persons
+invoked Section 9 of the Arbitration and Conciliation Act, 1996, and obtained the orders and got the
+supply. It is not, as if, the Tribunal has awarded all the claims. In fact, the claims made under several
+heads were granted only partially. As the award was an exhaustive and elaborate one, no
+interference is required. However, the learned Senior Counsel fairly stated that the award can be
+modified by reducing a sum of Rs.1,05,87,121/-. The decision relied on by the learned Senior
+Counsel is as follows:
+(1) STEEL AUTHORITY OF INDIA LIMITED V. GUPTA BROTHER STEEL TUBES LIMITED
+((2008) 10 Supreme Court Cases 63).
+11. The fundamental and basic facts are not in dispute with respect to the agreements and
+communication between the parties. Thus, the liability to supply cannot be denied. On this, the
+Tribunal has rendered a factual finding that this is not a case of supply not made due to inability but
+a deliberate refusal to augment higher revenue through the sale in favour of third parties. The
+Tribunal has also found that it was not correct to state that there was inadequate of raw materials
+viz., gas for the power production. These findings being factual cannot be assailed and therefore,
+they formed the foundation on the other issues.
+12. Interpreting an agreement lies within the jurisdiction of the Tribunal. The Tribunal interpreted
+Article III.1.15 and II.1.5 and III.1.18 correctly on the factual foundation. Thus, there is no difficulty
+in upholding the reasoning of the Tribunal with respect to the liquidated damages payable.
+13. Mitigating the loss was never pleaded but raised belatedly. A mitigation has to be seen on a fact
+situation. Different methods were adopted by the first respondent due to the contingencies created
+by the circumstances and the petitioner. The over drawal happened because of the petitioner's
+refusal to supply. The audit slips were taken note of for awarding part of the claim.
+14. Section 73 of the Indian Contract Act, 1872, has to be read with Section 74. Section 73 of the said
+Act speaks about the knowledge of the party on the consequence of breach leading to the situation
+resulting in damages. As rightly submitted by the learned Senior Counsel appearing for the first
+respondent, Illustration (cid:19)A(cid:20) to Section 73 of the Indian Contract Act, 1872, would govern the case.
+Similarly, Section 74 of the Indian Contract Act, 1872, does not have an application when a party
+responsible for the breach does it deliberately to get financial gain. Otherwise, it might lead the
+situation where despite payment of liquidated damages under Section 74 of the Indian Contract Act,
+1872, a party, who is responsible for the breach would benefit more. In such view of the matter, the
+statement of law dealt with by the Tribunal required to be confirmed.
+Indian Kanoon - http://indiankanoon.org/doc/168946339/ 5Kaveri Gas Power Limited vs M/S Madura Coats Pvt. Ltd on 22 December, 2014
+15. Coming to the materials produced while claiming damages, the Tribunal has considered them at
+length while passing an Award. The price govern by the Memorandum of Understanding was taken,
+being a reasonable one. The penalty was forced upon the first respondent on the deliberate refusal of
+the petitioner to supply. The first respondent was made to purchase power from outside at a higher
+price and use diesel gen set also for the aforesaid reason. These steps were taken by the first
+respondent at different periods warranted by the continued failure of the petitioner to supply. It is
+also to be noted that the petitioner did make its supply to other similarly placed persons, who have
+obtained orders from this Court under Section 9 of the Arbitration and Conciliation Act, 1996. When
+once the Tribunal gives a finding on analysing the materials paced before it, in coming to the
+quantum of compensation, this Court is not expected to interfere with it under Section 34 of the
+Arbitration and Conciliation Act, 1996. The award was passed on a consideration of the materials
+produced. The requirement is not in dispute as admitted by the petitioner itself. After all, the
+petitioner is bound to make good the loss suffered by the first respondent for its deliberate act. The
+first respondent, being the shareholder, can never be a factor to deny the relief sought for. There is
+nothing wrong in taking note of the evidence in the form of balance sheet, auditor's report and audit
+slips. After all, as stated earlier, it is not, as if, all the claims were allowed. In fact, the Tribunal did
+not agree with some of the claims by declining to accept the materials produced.
+16. Though the learned counsel for the petitioner relied upon few decisions, this Court is not dealing
+with the ratio laid down as being unnecessary and not relevant to this case. After all there is no
+doubt on the legal statements made. In such view of the matter, this Court does not find any error in
+the award passed warranting interference and accordingly, the original petition stands dismissed.
+However, in view of the fair submission made by the learned Senior Counsel for the first respondent,
+taking note of the error committed, not taking note of two enhancements made by the TNEB, a sum
+of Rs.1,05,87,121/- is accordingly deducted from the award passed. No costs.
+15.03.2018 Index : Yes raa M.M.SUNDRESH, J.
+raa Pre-Delivery Order in O.P.No.220 of 2016 15.03.2018
+Indian Kanoon - http://indiankanoon.org/doc/168946339/ 6

@@ -1,0 +1,853 @@
+Metadata: id=>1
+name=>Commercial Tax Officer And Ors vs Vishnu Agencies P Ltd on 13 December 1974
+date=>13 December 1974
+court=>High Court
+link=>http://indiankanoon.org/doc/978164/
+-----
+Content: Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd.
+on 13 December, 1974
+Equivalent citations: [1975]36STC527(CAL)
+JUDGMENT
+S.K. Roy Chowdhury, J.
+1. This is an appeal from a judgment and order making a rule issued in the writ petition against the
+appellant absolute.
+2. The relevant facts of the case which are not very much in dispute are as follows:
+3. Respondent No. 1, Messrs. Vishnu Agencies Private Ltd., is a registered dealer under the Bengal
+Finance (Sales Tax) Act, 1941, and a licensed stockist and dealer of cement, which is a controlled
+commodity and its distribution is completely regulated by the West Bengal Cement Control Act and
+the orders and notifications made thereunder.
+4. There is no dispute that respondent No. 1 is a licensed stockist under the said Cement Control Act
+and the orders and notifications made thereunder from time to time.
+5. The only question raised in this appeal is whether the transactions between respondent No. 1,
+Messrs. Vishnu Agencies Private Ltd., and the permit licence-holders for cement Issued by the
+Director of Textile and Consumer Goods, and West Bengal State Licensing Authority for Iron, Steel
+and Cement, constitute sale of goods under the Sale of Goods Act. In other words, are the provisions
+of the Bengal Finance (Sales Tax) Act, 1941, attracted in respect of transactions referred to by
+respondent No. 1 in the original writ petition by making supplies to the permit-holders for cement,
+which they allege are not voluntary sales but deliveries under compulsion made by the petitioners
+under the terms of the permit issued to the permit-holders and the said Cement Control Order and
+orders and notifications issued thereunder. Therefore, the only question in the appeal whether the
+transaction mentioned in the petition amounts to sale of goods so as to attract the provisions of the
+Bengal Finance (Sales Tax) Act, 1941. In order to appreciate the question which has been argued
+exhaustively by both the parties by citing large number of decisions mostly of the Supreme Court, it
+is first necessary to set out the relevant portions of the said Cement Control Act and the orders and
+notifications made thereunder, the terms of licence of a stockist and dealer of cement and also the
+form of licence for cement issued to permit-holders.
+West Bengal Act 26 of 1948-The West Bengal Cement Control Act, 1948
+1. (1)...
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 1Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+2. (2) It extends to the whole of West Bengal...
+3. (1) The State Government, so far as it appears to It to be necessary or expedient for maintaining
+or increasing the supply of cement, or for securing its equitable distribution and availability at fair
+prices, may, by order in the official Gazette, provide for regulating or prohibiting the production,
+supply and distribution thereof and trade and commerce therein within West Bengal-
+(2) Without prejudice to the generality of the powers conferred by Sub-section (1), an order made
+thereunder may provide-
+(a) for regulating by licences, permits or otherwise the production or manufacture of cement;
+(b) for regulating or controlling the prices at which cement may be purchased or sold and for
+prescribing the conditions of sale thereof ;
+(c) for regulating by licences, permits or otherwise, the storage, transport, movement, possession,
+distribution, disposal, acquisition, use or consumption of cement;
+(d) for prohibiting the withholding from sale of cement ordinarily kept for sale ;
+(e) for requiring any person holding stock of cement to sell the whole or specified part of the stock at
+such prices and to such persons or classes of persons or in such circumstances, as may be specified
+in the order ;
+(f) for collecting any information or statistics with a view to regulating or prohibiting any of the
+aforesaid matters ;
+(g) for requiring persons engaged in the production, supply or distribution of, or trade or commerce
+in, cement to maintain and produce for inspection such books, accounts and records relating to their
+business and to furnish such information relating thereto, as may be specified in the order;
+If any person contravened any order made under Section 3, he shall be punishable with
+imprisonment for a term which may extend to three years or with fine or with both, and, if the order
+so provides, any court, trying such contravention, may direct that any property in respect of which
+the court is satisfied that the order has been contravened shall be forfeited to Government.
+Any person who attempts to contravene, or abets a contravention of, any order made under Section
+3, shall be deemed to have contravened that order.
+If the person contravening an order made under Section 3 is a company or other body corporate,
+every director, manager, secretary or other officer or agent thereof shall, unless he proves that the
+contravention took place without his knowledge or that he exercised all due diligence to prevent
+such contravention, foe deemed to be guilty of such contravention.
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 2Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+Order No. 1033 D. C. S. dated the 18th August, 1948.--In exercise of the powers conferred by
+Sub-section (1) of Section 3 of the West Bengal Cement Control Ordinance, 1948 (West Bengal
+Ordinance 9 of 1948), read with Clauses (b), (c), (d), (e), (f), (g) and (h) of Sub-section (2) of that
+section, the Governor is pleased to make the following order, namely :-
+No person shall, after the commencement of this order, sell or store for sale any
+cement unless he holds a licence in this behalf under this order and except in
+accordance with the conditions specified in such licence obtained from the Director
+of Consumer Goods, West Bengal, of any officer authorised by him in writing in this
+behalf :
+Provided that persons engaged in the sale or storage for sale of cement at the
+commencement of this order shall, with a view to obtaining such licence, apply within
+fifteen days from such commencement and such persons shall be allowed to carry on
+their business without licence until their licences are issued.
+No person shall dispose of or agree to dispose of any cement except In accordance
+with the conditions contained in a written order of the Director of Consumer Goods,
+West Bengal, or the Regional Honorary Cement Adviser to the Government of India,
+Calcutta, or any officer authorised by the said Director or Adviser, as the case may be.
+No person shall sell cement at a price higher than the notified price.
+Explanation.-In this paragraph the expression 'notified price' means the price
+notified in the official Gazette from time to time by the Provincial Government of
+cement produced in India as well as imported from outside India.
+No person or stockist who has any stock of cement in his possession and to whom a
+written order has been issued under paragraph 2 shall refuse to sell the same, at a
+price not exceeding the notified price, and the seller shall deliver the cement to the
+buyer within a reasonable time after payment of the price.
+(1) Applications for licences under paragraph 1 shall be made to the Director of
+Consumer Goods, West Bengal, or to any officer authorised in writing in this behalf
+by the said Director in form A and the licence shall be granted in form B appended to
+this order on payment of a fee of Rs. 50, which shall be paid in non-judicial stamps.
+(2) Every licence shall specify the area in which the licensee shall carry on business
+and the premises or places where cement may be stored by the licensee.
+(3) No licensee shall carry on his business or store any cement except in the premises,
+area or place as specified in the licence.
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 3Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+If the licensee carries on business at more than one place, a separate licence shall be taken out for
+every such place.
+Every licence granted under this order shall be valid up to 31st March next following the date of its
+issue and may, at the discretion of the authority by which the licence was granted be renewed for
+successive periods of one year on application made on this behalf to such authority before expiry of
+the date of validity of the licence and on payment of fees similar to these paid for the original
+licence, The Director of Consumer Goods, West Bengal, or any officer authorised by him in writing
+on this behalf may for reasons to be recorded in writing refuse to renew a licence.
+The authority issuing the licence may cancel or suspend a licence if it is of opinion that the licensee
+has contravened any of the conditions specified in the licence granted to him or any direction given
+to him under the provisions of sub-paragraph (8) or for any other reason sufficient in the opinion of
+the authority issuing the licence.
+Every licence or any person employed by him or acting on his behalf shall comply with any special or
+general directions issued in writing by the Director of Consumer Goods, West Bengal, for securing
+proper distribution of cement or for carrying out the purpose of this order and shall also comply
+with such conditions as may be specified in the licence.
+6. The material portions of a pro forma application for grant of a licence are as follows :
+Form A [See paragraph 13(1)] [Application for the grant of a licence under the West
+Bengal Cement Control Ordinance (9 of 1948).]
+1. Name of applicant to whom the licence is to be issued with father's/husband's
+name...
+2. ...
+3. Address of the place where business is to be conducted...
+4. Address of the place or places of storage...
+5. ...
+I/We hereby declare that the details given above are correct.
+Date: Signature.
+-----------------------------------------------------------------------------
+Note: A licence granted under this Ordinance is liable to be cancelled if the information supplied in
+this form is found to be incorrect or incomplete.
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 4Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+Form B [See paragraph 13(1)] Licence under the West Bengal Cement Control Ordinance, 1948
+[West Bengal Ordinance (9 of 1948).]
+1. Licence No....
+2. Area...
+3. Address where the business is carried on...
+4. Address of godown or other premises where cement is stored....
+Date : Signature of the Licensing Authority.
+The licence shall be held by the licensee subject to the following conditions :-
+Conditions of licence,
+1. The licence is being issued subject to the provisions of the West Bengal Cement
+Control Ordinance, 1948 (West Bengal Ordinance 9 of 1948).
+2...
+3...
+4. The licensee shall comply with all directions which may be given by the Provincial
+Government under Section 3 of the West Bengal Cement Control Ordinance, 1948
+(West Bengal Ordinance 9 of 1948), or by any officer to whom the powers of the
+Provincial Government may be delegated under Section 4 of the said Ordinance.
+5. The licensee shall issue to every customer a true cash memorandum or credit note,
+as the case may be, giving his name, licence number and address, the date of the
+transaction, the quantity sold, the rate at which sold, the number and date of the
+written order under which sold and the salesman's signature and shall keep duplicate
+carbon copies of all such cash memoranda and credit notes arranged serially and
+chronologically to be available for inspection on demand by the Director of Consumer
+Goods, West Bengal, or any officer authorised by him in writing in this behalf and
+shall preserve such duplicate copies of cash memoranda or credit notes for one year
+from the date of issue.
+"If the licensee contravenes any of the provisions of the West Bengal Cement Control
+Ordinance, 1948 (West Bengal Ordinance 9 of 1948), or any orders passed under
+Section 3 of that Ordinance or any of the conditions subject to which he holds the
+licence, then without prejudice to any other action that may be taken against him his
+licence may be cancelled by the authority by which the licence was granted."
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 5Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+And a specimen form of the licence for cement, a large number of which has been annexed to the
+writ petition of respondent No. 1 and including annexure 'A' is set out hereunder :
+Annexure 'A' referred to in the petition, paragraph 4(b), solemnly affirmed by
+Badrilal Todi before me this the...day of April, 1972.
+Serial No. 176921.
+Commissioner Government of West Bengal Department of Food, Relief & Supplies
+(Supplies) Directorate of Consumer Goods, 11 A, Free School Street, Calcutta.
+Permit No. 71-M. Date of issue 9-1-63.
+Licence for cement
+The quantities of cement detailed below are hereby allotted to M/s. Bijoy Industrial
+Works, 8, Mahatma Gandhi Road, P.S. Paschim Patiari, Calcutta-41, to be supplied
+by M/s. Vishnu Agencies Pvt. Ltd., 3, Chittaranjan Avenue, Calcutta-13, on conditions
+detailed below. The price of material involved must be deposited with the stockist
+within 15 days and the actual delivery must be taken within 15 days from the date of
+issue of the permit. The licence is issued only for the purpose of shed covering tape
+department, wire department.
+Repair to the existing casting and godowns at the above address. Under no
+circumstances will the validity of the permits be extended beyond the period of 15
+days from the date of its issue.
+Cement: Total tonnage at Rs. 136.41 per M.T. Ton. Cwt.
+Excluding S.T. 10.00 M. T. (Ten M. T. only).
+Director of Textiles and Consumer Goods and State Licensing Authority for Iron,
+Steel and Cement, West Bengal.
+Conditions:
+1. The godown from which the actual stocks will be delivered will be noted by the
+suppliers mentioned above.
+2. The supplies noted above will have to verify the 'original' permit with the
+'duplicate'.
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 6Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+3. Loss of the permit and failure to utilise it must be reported to the licensing
+authority. Any material not utilised for the purpose mentioned above must be
+surrendered to the licensing authority.
+7. In the writ petition the case made out by respondent No. 1 is that it is a licensed
+stockist under the said Cement Control Act and used to supply cement to
+permit-holders at stipulated price in accordance with these permits which were
+issued by the authorities concerned, a specimen of which is mentioned hereinbefore.
+Respondent No. 1 further alleged that there was no element of volition or any
+bargaining power left to it in the course of dealing between it as a registered stockist
+and the permit-holder. Respondent No. 1 had no option regarding selection of
+parties, fixation of price or willingness to sell the commodities and, as a matter of
+fact, there was no element of mutual assent which is a condition precedent for
+constituting the transaction as a sale within the meaning of the Bengal Finance (Sales
+Tax) Act, 1941, and it was contended by respondent No. 1 in the writ petition that if
+the transactions are sales within the meaning of the said Bengal Finance (Sales Tax)
+Act, 1941, in that event, the said Act is ultra vires the legislative competency of the
+Provincial Legislature under the Government of India Act, 1933, and the State
+Legislature under the Constitution of India. It is alleged that in the sales tax
+assessment for the quarter ending on 31st January, 1956,31st January, 1957, 31st
+January, 1958, and 31st January, 1959, the appellant has Imposed sale tax on the said
+transactions and respondent No. 1 bona fide under mistake of fact and law believed
+that such transactions were sales and could be lawfully taxed under the Bengal
+Finance (Sales Tax) Act, 1941. It is alleged by respondent No. 1 that such mistake was
+discovered by it in 1963 upon perusal of the decision of the Supreme Court in the case
+of New India Sugar Mills A.I.R. 1963 S.C. 1207. Thereafter the petitioner preferred
+several appeals from the said assessment orders before the Assistant Commissioner
+of Sales Tax and as the appeals were not disposed of, the petitioner moved a writ
+petition in this court and by an order dated 11th December, 1970, the rule issued in
+the said writ petition was made absolute directing the appellant to deal with and
+dispose of the said appeals after giving respondent No. 1 an opportunity of being
+heard. Thereafter the said matters were remanded and the Assistant Commissioner
+of Commercial Taxes, Dharmatala Circle, disposed of the said appeals holding that
+the sales made by respondent No. 1 under the Cement Control Order were taxable
+under the Sales Tax Act. The order made in the appeal by the said Assistant
+Commissioner of Commercial Taxes was dated 22nd December, 1971, a copy of which
+is also annexed to the writ petition of respondent No. 1. Thereafter the present writ
+petition, out of which the present appeal arises, was filed and the rule nisi was issued
+on 21st April, 1972, which rule was made absolute by the order and judgment dated
+18th December, 1972, which is the subject-matter of this appeal.
+8. Mr. Provat Kumar Sengupta with Mr. Samarendra Nath Dutta appearing for the
+appellants after drawing our attention to the relevant provisions of the said Cement
+Control Act and the orders, notifications and conditions of licence issued to the
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 7Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+stockist and dealers and also the conditions of licence for cement to the consumer
+submitted that all the elements of sale are present in the transactions. There are
+contracting parties competent to enter into contracts. There are goods, property in
+respect whereof is being transferred, that is, property in goods 3s passing by the
+transactions. Mr. Sengupta submitted that there is consensus between the parties and
+volition is there; when the dealer takes the licence for selling the goods he makes an
+offer to sell the goods on the conditions of licence issued to him. When the purchaser
+comes to purchase for valuable consideration he has full option to purchase or not to
+purchase. When the seller (stockist and dealer of cement under the said Cement
+Control Act) applies for a licence he agress to make an offer for sale on the terms and
+conditions prescribed by the licence. When the purchaser applies for a permit he also
+agrees to buy from a licensed dealer on the terms and conditions to be offered by the
+licensed dealer. Therefore, Mr. Sengupta rightly submits that there is volition both on
+the part of the seller and the purchaser.
+9. In the transactions in question there is also an offer and acceptance. Mr. Sengupta
+submits that only the distribution and supply of cement is controlled by certain laws
+of land being the said Cement Control Act and the orders made thereunder.
+Thereafter Mr. Sengupta referred to a large number of cases. Those are :
+10. State of Madras v. Gannon Dunkerley & Co. {Madras) Ltd. A.I.R. 1958 S.C. 560,
+New India Sugar Mills Ltd. v. Commissioner of Sales Tax, Bihar A.I.R. 1963 S.C.
+1207, Indian Steel and Wire Products Ltd. v. State of Madras A.I.R. 1968 S.C. 478,
+Andhra Sugars Ltd. v. State of Andhra Pradesh A.I.R. 1968 S.C. 599, State of
+Rajasthan v. Karam Chand Thappar and Brothers A.I.R. 1969 S.C. 343, Chittar Mal
+Narain Das v. Commissioner of Sales Tax A.I.R. 1970 S.C. 2000, Raghunandan
+Prasad Mohan Lal v. State of U.P. A.I.R. 1971 S.C. 2089, Cement Marketing Co. of
+India, Bangalore v. State of Mysore [1971] 27 S.T.C. 159 (S.C), Kotha Narasimham
+Amburi v. State of Andhra Pradesh [1971] 27 S.T.C. 191, Excise and Taxation Officer,
+Hissar v. Jaswant Singh [1971] 27 S.T.C. 582, Salar Jung Sugar Mills Ltd. v. State of
+Mysore A.I.R. 1972 S.C. 87, Chowringhee Sales Bureau P. Ltd. v. Commissioner of
+Income-tax, West Bengal 87 I.T.R. 542 (S.C), State of Tamil Nadu v. Cement
+Distributors P. Ltd. A.I.R. 1973 S.C. 668, Deputy Commissioner of Agricultural
+Income-tax and Sales Tax, Kozmkode v. V. Sreedhara Shenoy [1973] 32 S.T.C. 181,
+and Maheswar Mahapatro v. State of Orissa [1972] 29 S.T.C. 52.
+11. Relying on the principles laid down in those decisions, Mr. Sengupta analysed the
+facts of this case and submitted that only the production, supply and distribution of,
+and trade and commerce in, cement in West Bengal has been controlled by the
+Cement Control Act. Freedom of contract regarding sale of cement is not completely
+taken away but. only control within certain limits is imposed. As for example, supply
+can only be made to permit-holders for cement issued by the appropriate authority,
+maximum price of the cement is fixed, which is exclusive of sales tax payable on such
+sale and the quantity is also limited by the permit with a view to ensure equitable
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 8Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+distribution of cement in the State. Mr. Sengupta rightly submitted that the stockist
+and distributor of cement are agreeable to carry on their trade and commerce on the
+terms and conditions of the licence issued under the said Act by applying to the
+appropriate authority under the Cement Control Act for grant of a permit to the
+stockist and dealer to which category the respondent belonged. Therefore, It cannot
+be said that there is no offer to the buyer by the seller as to the terms on which
+contract for sale is to be entered Into. The terms of licence which have been set out
+before clearly indicate that the dealer and stockist of cement makes an offer for sale
+to the person who would be granted permit for cement by the appropriate authority
+on the terms and conditions mentioned in such permit. Therefore, it cannot be urged
+that there is no element of volition on the part of the buyers and sellers of cement
+under the said Cement Control Act. The licence under which the dealer and stockist
+carry on their business and the terms of permit Issued to the buyer constitutes offer
+and acceptance and gives the transaction the character of a contract. Mr. Sengupta
+rightly submitted that this is not a case of compulsory acquisition of property and
+payment of compensation. He analysed the terms of the licence and the terms of the
+stockist and dealer of cement and terms of the permit granted to the buyer of cement
+and very rightly submitted that it still retains fair amount of volition in the field of
+contract, as for example, parties may agree as to the mode of payment either in cash
+or in credit, deliveries by instalments and mode of delivery and time of delivery.
+Delivery may be postponed on various circumstances- like stock of cement exhausted
+or the permit-holders of cement do not want to take up the entire quantity under the
+permit within the time specified- subject only to this that necessary endorsement or
+variation has to be notified and sanctioned by the appropriate authority under the
+said Cement Control Act. Mr. Sengupta analysing those aspects of the transactions
+Involved under the Cement Control Act between a stockist and a permit-holder
+submitted that it is not completely denuded of all the elements of a contract but
+retained fair amount of volition to the parties entering into the said transaction so as
+to constitute a sale of goods within the meaning of the Indian Sale of Goods Act as
+laid down by the catena of Supreme Court decisions referred to by both the parties.
+Mr. Sengupta summarised his contentions as follows :
+(1) That under the transactions the maximum price has been fixed. The seller is
+entitled to sell even at a lower price than to the highest price fixed by the said permit
+issued under the Cement Control Act.
+(2) The purchaser might take delivery of the goods immediately or within a period of
+15 days as he chooses and to be agreed between the parties and, therefore, there is a
+volition as to the same.
+(3) The purchaser may either pay in cash or he can arrange for deferred payment, the
+stipulation is that he is to deposit within 15 days. Supposing the purchaser has an
+account with the seller, the seller may give the purchaser credit and, as such, there is
+the same amount of volition left to the parties so as to constitute the said transaction
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 9Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+as a sale. In order to constitute a sale there must be an agreement for sale of goods for
+a price and the passing of property therein and all these elements are present in those
+transactions.
+(4) Sale is defined in Section 2(g) of the Bengal Finance (Sales Tax) Act, 1941, and a
+sale is complete as soon as the goods are transferred and price Is paid or deferred
+payment is arranged for. Such transfers of goods are sales within the meaning of the
+said Act. The vires of the said Bengal Finance (Sales Tax) Act, 1941, have not been
+challenged in this case.
+12. Therefore, Mr. Sengupta submitted that the appeal should be allowed and it should be held that
+the transactions relating to supply and delivery of cement by respondent No. 1 to the permit-holders
+for the relevant years which are the subject-matter of this appeal are "sales" within the meaning of
+the Bengal Finance (Sales Tax) Act, 1941, and as such liable to sales tax.
+13. Mr. Ranadeb Chowdhury with Mr. R. C. Deb, Mr. Soumendra Chandra Bose and Mr. Mukul
+Prakash Banerjee appearing for the respondent raised the question whether the type of sale covered
+by the licence issued from time to time read in the background of Section 3(2)(e) of the Cement
+Control Act can be made liable to taxation under the Bengal Finance (Sales Tax) Act, 1941. Mr.
+Chowdhury submitted that reading Section 3(2)(a) and (e) along with the penal consequences under
+the Act it is quite clear that the volition or freedom to contract is completely taken away and the
+transaction pursuant to the said Cement Control Order by supplying the permit-holders is not a
+contract for sale within the meaning of the Sale of Goods Act. Mr. Chowdhury submitted that in the
+said transaction there is no element of volition at all. There is no offer, no acceptance and no
+meeting of minds of purchaser and seller in the said transactions. Mr. Chowdhury very strongly
+relied on various passages from the Supreme Court decision in New India Sugar Mills Ltd. A.I.R.
+1963 S.C. 1207. Mr. Chowdhury thereafter submitted that the Bengal Finance (Sales Tax) Act, 1941,
+has no bearing on the subject. The transactions in order to be a sale must be under entry 54 of List II
+in the Seventh Schedule to the Constitution corresponding to the Government of India Act, 1935,
+item 48. In order to be a sale of goods it must be a sale within the meaning of the Sale of Goods Act.
+Mr. Chowdhury submitted that whether, on the facts and in the circumstances of this case, the
+disposal of cement pursuant to directions contained in annexure A to the writ petition of the
+respondent is liable to be taxed under the Bengal Finance (Sales Tax) Act, 1941. Thereafter, Mr.
+Chowdhury submitted that in order to be a contract there must be four elements, viz., (1) willingness
+to contract, (2) mutuality, that is, volition of both the parties to a contract and meeting of minds to
+enter into an agreement and a contract, (3) price in cash not barter or exchange, mode of payment
+being not material, and (4) transfer of property. Mr. Chowdhury referred to Section 5 of the Sale of
+Goods Act and submitted that in order to be a contract for sale there must be offer and acceptance.
+In short his submission is that It must be a sale within the meaning of the Sale of Goods Act. Mr.
+Chowdhury referred to the decisions in Sales Tax Officer, Pilibhit v. Budh Prakash Jai Prakash A.I.R.
+1964 S.C. 459, J.K. Jute Mills Co. Ltd. v. State of Uttar Pradesh A.I.R. 1961 S.C. 1534, Carl Still
+G.m.b.H. v. State of Bihar A.I.R. 1961 S.C. 1615, George Oakes (P.) Ltd. v. State of Madras A.I.R.
+1962 S.C. 1037, Bhopal Sugar Industries Ltd. v. D.P. Dube, Sales Tax Officer A.I.R. 1964 S.C. 1037,
+Deputy Commercial Tax Officer, Saidapet, Madras v. Enfield India Ltd. Co-operative Canteen Ltd.
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 10Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+A.I.R. 1968 S.C. 838, State of Maharashtra v. Champalal Kishanlal Mohta A.I.R. 1871 S.C. 908, in
+addition to the decisions cited by Mr. Sengupta for the appellants. Mr. Chowdhury's submission was
+that those Supreme Court decisions have laid down that in order to constitute "sale" which can be
+taxed by any State Legislature, such "sale" must constitute a sale within the meaning of the Sale of
+Goods Act. Mr. Chowdhury thereafter referred to the Defence of India Rules, Rule 81(2), Industries
+(Development and Regulation) Act, 1951, Section 18G(2)(a), Essential Commodities Act, 1955,
+Section 2, which are the various Acts dealt with by the Supreme Court in some of the said decisions
+and submitted that the provisions of the West Bengal Cement Control Act, 1948, Section 3(2)(e), are
+of the same pattern and conform to the same provisions as in the various Acts referred to by him.
+Mr. Chowdhury also referred to Section 4 of the Sale of Goods Act which provides that there must be
+an agreement for sale before a contract of sale can come into effect. And relying on those provisions
+and decisions of the Supreme Court, Mr. Chowdhury submitted that any transfer of property in
+goods for money pursuant to a statutory right to demand such goods and statutory obligations to
+deliver them when demanded without any need of any offer or acceptance, expressed or implied, is
+not a "sale" within the meaning of entry 48, List II of the Government of India Act, 1935, and entry
+54 of List II of the Seventh Schedule to the Constitution of India read with Section 4 of the Sale of
+Goods Act. There must be offer to buy made by the purchaser to the seller or vice versa and there
+must be acceptance of such offer by the respective parties, as the case may be ; they are the
+essentials of a contract. When there is no requirement of the law to make an offer or to accept an
+offer and the passing of property in the goods and there is only statutory rights and statutory
+obligations and there being no offer and acceptance a compulsory sale is effected, it is not a sale at
+all within the meaning of the Sale of Goods Act as no freedom of contract to enter into an agreement
+between the parties is left in the types of transactions which are involved in this appeal. Mr.
+Chowdhury further submitted that if the amount of freedom which is left to the parties does not
+relate to offer and acceptance, it is not freedom at all and cannot amount to a sale within the
+meaning of the Sale of Goods Act. He strongly relied on the passages in Solar Jung Sugar Mills Ltd.
+v. State of Mysore A.I.R. 1972 S.C. 87, paras 43 and 44. He submitted that in order to constitute an
+agreement the parties must sign the same and offer and acceptance must be according to the free
+will of the parties. Mr. Chowdhury submitted that the transactions which are the subject-matter of
+this appeal are not sales but those are sales of a compulsory nature similar to transactions under the
+Defence of India Rules, Essential Commodities Act, where there is a fixed price under the control
+order and it is not a question of maximum or minimum price. He again relied on the line of the
+Supreme Court decisions which have held that those transactions are not sales within the meaning
+of the Sale of Goods Act and as such beyond the competency of the State Legislature to impose sales
+tax on such transactions and, therefore, the Bengal Finance (Sales Tax) Act, 1941, is not applicable
+to those transactions as those are not voluntary sales pursuant to an agreement entered into
+between the purchaser and the seller but a compulsory sale to a permit-holder under the said
+control order. The respondent had no option but to deliver the goods at the fixed price within the
+fixed time of fixed quantity. Mr. Chowdhury further highlighted the provisions for penalties in the
+the said Cement Control Act in Sections 6, 7, 8 and 9 and submitted that those penal provisions
+make it clear that the transactions in question are not sales under an agreement of sale but
+compulsory sales. Mr. Chowdhury thereafter referred to the Supreme Court decision in New India
+Sugar Mills Ltd. A.I.R. 1963 S.C. 1207, where the four conditions of sales have been laid down. Mr.
+Chowdhury also referred to the decision in State of Tamil Nadu v. Cement Distributors A.I.R. 1973
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 11Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+S.C. 668, which arose out of the Cement Control Act in respect of sale of cement to State Trading
+Corporation in gunny bags and it was held that those are not sales of cement including gunny bags.
+Mr. Chowdhury again referred to the decision in Chittar Mal Narain Das v. Commissioner of Sales
+Tax A.I.R. 1970 S.C. 2000, where the question arose whether under the U. P. Levy Order there was a
+sale by the licensed dealer pursuant to an order to deliver the wheat under the said levy order.
+Relying on those decisions in particular, Mr. Chowdhury submitted that the present transactions
+also cannot be held to be "sales" within the meaning of the Sale of Goods Act and as such are not
+liable to sales tax under the Bengal Finance (Sales Tax) Act, 1941.
+14. Mr. R.C. Deb also appearing for the respondent submitted that in order to constitute a sale it
+must precede by an agreement for sale. He referred to Sections 4 and 5 of the Sale of Goods Act,
+1930, and contended that offer and acceptance must be there and the property in goods must pass.
+But where there is any transfer of property in goods for money pursuant to statutory right to
+demand such goods and such statutory obligations to deliver, such transaction is not a "sale" within
+the meaning of entry 48 of List II of the Government of India Act, 1935, and entry 54 of List II of the
+Seventh Schedule to the Constitution of India read with Section 4 of the Sale of Goods Act, 1930. Mr.
+Deb relied on Gannon Dunkerley & Co. {Madras) Ltd.'s series of cases A.I.R. 1958 S.C. 560. He
+submitted that the transactions in question are compulsory sales and are not sales within the
+meaning of the Sale of Goods Act. There is no amount of freedom left in these transactions as the
+said Control Act does not provide that the transactions should not be entered into with offer and
+acceptance; as such there is no sale. He submitted that in the present case the allotment order gives
+no choice to the respondent and as such it cannot amount to sale. There is an obligation under the
+Cement Control Act on the respondent to deliver ; in default penal consequences would visit the
+respondent under the relevant provisions of the said Control Act. Mr. Deb submitted that there is no
+volition left between the parties and as such there cannot be any contravention. He also referred to
+the decisions in Chittar Mal Narain Das v. Commissioner of Sales Tax A.I.R. 1970 S.C. 2000, Salar
+Jung Sugar Mills Ltd. v. State of Mysore A.I.R. 1972 S.C. 87 and the English Appeal Court decision
+in Kirkness v. John Hudson & Co. Ltd. [1955] A.C. 696.
+15. Mr. P.K. Sengupta in reply submitted that in these transactions there is an implied agreement
+between the stockist and permit-holder of cement under the said Control Act and orders made
+thereunder. He submitted that so far as the cement is concerned the stockist applies for licence
+under the Control Act agreeing to sell cement under certain limited conditions as prescribed under
+the terms of the licence and thereby offers cement for sale on those terms. The purchaser also agrees
+to buy on certain terms cement from the seller by applying for a permit to the authorities under the
+Cement Control Act. In such transactions, the controlling authorities under the said Cement Control
+Act only acts as a conduit pipe for putting the seller and purchaser together and, as such, there is
+offer and acceptance implied in such transactions to constitute a contract. He again submitted that
+there is purchaser and seller and the controlling authority only controls the quantity and the
+maximum price for equitable distribution to bona fide consumer of cement and prevent black
+market. Mr. Sengupta finally summarised that there are enough volitions left to the parties in order
+to enter into an agreement for sale and a contract for sale within the meaning of the Sale of Goods
+Act. Those volitions are : (1) The maximum price is fixed but freedom to sell at a lower price than the
+maximum price is not taken away and the parties can agree to any price below the maximum price.
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 12Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+(2) Delivery can be taken at any time within 15 days from the date of the permit and the parties can
+agree to take and give delivery by instalments and, as such, there is also a freedom in respect of the
+same. (3) The price can be paid either by instalments and by cash or credit note as the parties may
+agree between themselves. (4) Licence is taken by the stockist and dealer who is the seller agreeing
+to offer for sale of cement and the permit-holder also agrees to purchase from the licensed stockist
+and dealer of cement on the terms and conditions prescribed. Mr. Sengupta thereafter submitted
+that the Controller merely controls the flow of cement for equitable and fair distribution at a
+maximum price fixed for supply of cement which is in short supply. Therefore Mr. Sengupta
+submitted that there is an implied contract between the seller and the buyer. (5) There is a transfer
+of property in the goods by the agreement which is involved in these transactions. (6) The parties
+are free to come through the Controller in respect of the said transactions for cement either to buy
+cement or to sell cement according to their volitions, that is, the seller obtaining a licence for selling
+cement within the limits and terms prescribed by the Control Act and the orders made thereunder
+and the permit-holder also agrees to buy cement from the stockist and dealer of cement on the
+terms prescribed under the said Act and the orders. Mr. Sengupta again referred to the decision in
+Indian Steel and Wire Products Ltd. v. State of Madras A.I.R. 1968 S.C. 478, in support of his
+contention and submitted that the transactions in question must be held to be sale within the
+meaning of the Sale of Goods Act and liable to sales tax under the Bengal Finance (Sales Tax) Act,
+1941. He submitted that in the transactions, it cannot be said that there is no amount of volition left
+with the parties to enter into the said transactions so as to take it out of an agreement for sale
+resulting in a contract for sale as analysed before.
+16. Considering the respective contentions very carefully it appears to us that the question involved
+in this appeal has to be decided solely on the interpretation of the relevant provisions of the West
+Bengal Cement Control Act, 1948, under which the respondent is a licensed stockist and dealer of
+cement and also the licences for cement to consumers are issued under the said Act. It is now
+well-settled by the catena of Supreme Court decisions cited by both the parties, particularly, the
+decision in Gannon Dunkerley A.I.R. 1958 S.C. 560, that the State can only impose sales tax on
+transactions which are "sales" within the meaning of the Sale of Goods Act, that is, there must be an
+agreement for sale followed by a contract for sale where all the four elements of sale formulated by
+Benjamin on Sale and approved by the Supreme Court, viz., (1) parties competent to contract, (2)
+mutual assent, (3) things, absolute or general property in which is transferred from the seller to the
+buyer and (4) price in money paid or promised, are satisfied. Therefore, the question boils down to
+this, that it has to be examined whether under the relevant provisions of the said Cement Control
+Act, transactions of delivery of cement by a licensed stockist to a consumer, in whose favour licence
+for cement has been issued under the said Act on the terms and conditions of the respective licences
+of the stockists and the consumers, constitute "sale" within the meaning and conditions as laid down
+by the Supreme Court in the said series of decisions. The relevant provisions of the said Cement
+Control Act, and also the relevant terms and conditions of the licence issued to the stockist and the
+consumers pursuant to their application to the prescribed authorities under the said Act have been
+set out before.
+17. It appears from the short title of the Act that it is for control of the transaction in cement in West
+Bengal, and from the preamble it appears that the object of the Act is to confer powers on the State
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 13Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+Government to control the production, supply and distribution of, trade and commerce In, cement
+in West Bengal. Section 1 gives the short title, extent and the date of commencement of the said Act
+in West Bengal. Section 2 defines "cement". Sub-section (1) of Section 3 gives power to the State
+Government to promulgate orders by publication in the official Gazette regarding regulation or
+prohibition of the production, supply and distribution of, trade and commerce in, cement within the
+State of West Bengal with a view to maintain or increase the supply of cement or in securing suitable
+distribution and fair price. Sub-section (2) of Section 3 provides in addition to the general powers of
+the State to promulgate orders for the purposes mentioned therein which, inter alia, included
+regulating licences, permits or otherwise the production or manufacture of cement, fixing price at
+which the cement may be purchased or sold and prescribing conditions for the sale thereof, also
+regulation about storage, transport, movement, etc., and other relevant matters. Sub-section (3) of
+Section 3 gives power of seizure of cement and proceedings under the Code of Civil Procedure.
+Section 4 provides for power of delegation by the State Government to make order under Section 3
+to such officers stated therein. Section 5 provides for overriding effect of orders made under Section
+3 of the said Act. Section 6 provides for penalties which can be imposed on a person contravening
+any order made under Section 3 of the said Act. Section 7 provides similar penalties to the person
+aiding and abetting the contravention of any order under Section 3 of the said Act. Section 8 extends
+the penalties for contravention of any order passed under Section 3 of the said Act to a company and
+other body corporate, every director, manager, secretary or other officers or agents thereof on the
+conditions prescribed therein. Section 9 provides that any person making any false statement or
+information will become punishable under the said Act. Section 10 provides for the procedure for
+cognizance of offences under the said Act. Section 12 of the said Act provides for imposition of fine
+for contravention of an order under Section 3 of the said Act. Section 13 contains certain savings
+under the said Act and Section 14 provides for protection to the officers and the State Government
+against suit and other legal proceedings. Section 15 provides power to the State Government to
+exempt any variety of cement from the provisions of the said Act. Section 16 continued any order or
+direction or action taken under the West Bengal Cement Control Ordinance, 1948.
+18. From the analysis of the provisions of the said Act it is abundantly clear that the scope and object
+of the said Act is to control, inter alia, trade and commerce in cement in West Bengal which clearly
+include sale and purchase of cement. It is true that the mere use of the word "sale" in Sub-section (2)
+of Section 3 of the said Act would not make the transaction of delivery of cement pursuant to
+licences and permits issued under the said Act a "sale" within the meaning of the Sale of Goods Act,
+ipso facto, unless the four elements as laid down by the Supreme Court to constitute a sale are
+satisfied. But certainly when the legislature designedly and deliberately has used the word "sale"
+particularly in Sub-section (2) of Section 3 of Clauses (b), (d), and (e), it must be given a meaning
+and a legislative purpose. The said Act appears to be a comprehensive one and covering a wide range
+regarding control over production and transactions in cement in West Bengal. The State
+Government, if it appears to it necessary and expedient, can pass any order for the purposes and
+object of the said Act which, inter alia, includes sale of cement by a licensed stockist to a consumer
+to whom licence has been issued under the said Act. As it has already been laid down by the
+Supreme Court through the said series of decisions mentioned hereinbefore in order to enable the
+State Government to impose sales tax the transaction must be a "sale" of goods within the meaning
+of the Sale of Goods Act as interpreted by the said decisions. In the instant case, it is an admitted
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 14Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+position that the respondent is a licensed stockist who has applied for licence under the said Control
+Act to sell cement on the terms and conditions of the licence issued to it. The application form, the
+relevant terms of which has been set out before, makes it abundantly clear that any person who is
+agreeable on the conditions set out in the said licence issued to him, can sell cement to customers.
+Relevant portion of clause 5 of the conditions of licence once again may be set out for convenience
+sake at this stage :
+The licensee shall issue to every customer a true cash memorandum or credit note, as
+the case may be, giving his name, licence number and address, the date of the
+transaction, the quantity sold, the rate at which sold, the number and date of the
+written order under which sold and the salesman's signature....
+19. There is no compulsion on anybody to apply for licence under the said Act for doing business in
+cement. It is purely a voluntary act and any person is free to apply for such licence under the said
+Act and licences would be issued to persons under the said Act provided the conditions are fulfilled.
+Therefore, it appears that by applying for a licence under the said Act, a person voluntarily agrees to
+do business in cement as a licensed stockist by complying, with the terms of the said Act regarding
+sale of cement to customers to whom the licence for cement would be issued by the prescribed
+authority under the said Act. Correspondingly any person who requires cement for his own
+consumption or purpose may apply for issue of a licence for cement to the prescribed authority
+under the said Act and also agrees to purchase cement from the licensed stockist under the said Act
+under the terms and conditions prescribed therein. The said act of the customer who applies for
+licence of cement is entirely voluntary and he is free to apply for required quantity of cement to the
+prescribed authority under the said Act. Therefore, there seems to be an offer within the meaning of
+the Contract Act by the consumer who is the purchaser of cement to the licensed stockist under the
+said Act. Therefore, the first element to constitute a sale is satisfied. That is, there are parties
+competent to contract in respect of purchase and sale of cement, viz., licensed stockist who offers
+cement for sale on the terms and conditions of his licence issued under the said Act and the
+customer in whose favour licence for cement has been issued under the said Act accepted the said
+offer of the licensed stockist through the prescribed authorities under the said Act. Therefore, it
+appears that the first element Is satisfied.
+20. Now the second element constituting sale being the mutual consent of the parties seems to have
+been satisfied in this case, as it cannot be said that there is any compulsion under the law to apply
+under the said Act for a licence both on the part of the licensed stockist of cement and the
+consumers of cement. What is prescribed is only a control of such contract which must comply with
+the provisions of the said Act and order made thereunder. It cannot be said in the circumstances
+that it is wholly controlled eliminating consent or volition of the parties altogether. A party who has
+voluntarily and freely according to his sweet will and requirement applied under the Act for issue of
+a licence as stockist or a consumer of cement agreeing to have dealings and transactions in purchase
+and sale of cement under the terms and conditions of licences issued under the said Act. Therefore,
+it must be held that there is no question of total elimination of volition or mutual consent of the
+parties in the transaction of delivery of cement, as in this instant case, by the respondent to the
+customer in whose favour the said licence for cement has been issued under the said Act. There is no
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 15Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+question about satisfying the third element to constitute a sale within the meaning of the Sale of
+Goods Act, that is, transfer of property from the seller to the buyer. It is nobody's case that the
+licensed stockist is not the owner of the said cement and as such by delivery of the said cement to
+the customer holding a licence for cement which has been issued under the said Act against valuable
+consideration which is fixed under the said licence, there is certainly a transfer of property in the
+cement from the licensed stockist to the customer presenting the licence for cement under the said
+Act to the licensed stockist. The fourth element being the price in money paid or promised is
+satisfied as the price is mentioned in the licence itself which is issued in favour of the customer and
+there is no dispute that the same has been paid to the licensed stockist. Reference may also be made
+to the licence for cement, which is annexed to the paper book and set out before, that the price of
+cement mentioned therein excludes sales tax, indicating that sales tax is payable and can be charged
+by respondent No. 1, according to the provisions of the Bengal Finance (Sales Tax) Act, 1941, under
+which respondent No. 1 is a registered dealer.
+21. The general scheme of promulgating orders under the provisions of the Defence of India Act,
+Essential Commodities Act, and the various control orders seems to be more or less on similar lines
+and for common objects of regulating, inter alia, supply, trade and commerce, manufacture,
+distribution, etc., of various goods. The necessity of passing an order under the said Act depends on
+the circumstances and conditions at different stages and places as the Central Government or the
+State Government may think necessary to cope with the situation and problem which may arise
+from time to time. In the interest of the country's development this type of Orders has become
+necessary, inter alia, for regulation of community life and commerce.
+22. As it has been observed a transaction on which sales tax can be imposed by a State Government
+must amount to a sale within the meaning of the Sale of Goods Act, 1930. What amounts to such
+sale has been clearly laid down by the series of Supreme Court decisions which have been referred to
+by both the parties and have been summarised before. It has been further laid down that the
+transactions like forward contract, claim for damages, supply of refreshment to members of a club
+or a co-operative society, consumption by the owner of goods and compulsory acquisitions of goods
+are not "sales" within the meaning of the Sale of Goods Act.
+23. It is needless for us to discuss and consider all the decisions cited at the Bar, as from the facts of
+this case and on the analysis of the scope and object of the West Bengal Cement Control Act, 1948,
+enumerated hereinbefore, it is abundantly clear that the transaction involved in the supply of
+cement by the respondent as a licensed stockist under the said Cement Control Act and a registered
+dealer under the Bengal Finance (Sales Tax) Act by supplying cement to the holder of licence for
+cement, being the consumers and customers, is certainly a sale within the meaning of the Sale of
+Goods Act. It is immaterial that there are provisions for penalty and prosecution for non-compliance
+of the provisions of the said Cement Control Orders and the terms of the licence by the parties
+having dealings and transactions under the said Act. What is material is whether the transaction
+amounts to "sale" within the meaning of the Sale of Goods Act or not, The principle to be applied in
+the present case having regard to the facts and the scope and object of the Cement Control Act
+seems to have been well-established by the four decisions of the Supreme Court, being those in
+Indian Steel and Wire Products Ltd. v. State of Madras A.I.R. 1968 S.C. 478, Andhra Sugars Ltd. v.
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 16Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+State of Andhra Pradesh A.I.R. 1968 S.C. 599, State of Rajasthan v. Karam Chand Thappar and
+Brothers (Coal Sales) Ltd. A.I.R. 1969 S.C. 343 and Salar Jung Sugar Mills Ltd. v. State of Mysore
+A.I.R. 1972 S C.87.
+24. All the decisions which were relied on by the respondent are mostly cases of compulsory
+acquistions or transactions which do not amount to "sale" under the Sale of Goods Act. Particularly
+the decision in New India Sugar Mills Ltd. v. Commissioner of Sales Tax, Bihar A.I.R. 1983 S.C.
+1207, which acted as a source of revelation and inspiration to the respondent of its legal right to
+challenge the decisions of the sales tax authorities imposing sales tax on the said transactions of
+supply of cement to licence-holders by the respondent, is a clear case of compulsory acquisition of
+goods under the Sugar and Sugar Products Control Order, 1946. Therefore, all the decisions relied
+on by the respondent are decided on the peculiar facts of such particular case and have no
+application to the present case.
+25. The decision in Andhra Sugars Ltd. v. State of Andhra Pradesh A.I.R. 1968 S.C. 599 arose out of
+a writ petition under Article 32 of the Constitution before the Supreme Court, where the vires of
+Section 21 of the Andhra Pradesh Sugarcane (Regulation of Supply and Purchase) Act, 1961, was
+challenged. After considering, inter alia, the relevant provisions of the Sale of Goods Act and the
+Contract Act, the Supreme Court held as follows :
+Now, under Act No. 45 of 1961 and the Rules framed under it, the cane-grower in the
+factory zone is free to make or not to make an offer of sale of cane to the occupier of
+the factory. But, if he makes an offer, the occupier of the factory is bound to accept it.
+The resulting agreement is recorded in writing and is signed by the parties. The
+consent of the occupier of the factory to the agreement is not caused by coercion,
+undue influence, fraud, misrepresentation or mistake. His consent is free as defined
+in Section 14 of the Indian Contract Act though he is obliged by law to enter into the
+agreement. The compulsion of law is not coercion as defined in Section 15 of the Act.
+In spite of the compulsion, the agreement is neither void nor voidable. In the eye of
+the law, the agreement is freely made. The parties are competent to contract. The
+agreement is made for a lawful consideration and with a lawful object and is not void
+under any provisions of law. The agreements are enforceable by law and are contracts
+of sale of sugarcane as defined in Section 4 of the Indian Sale of Goods Act. The
+purchases of sugarcane under the agreement can be taxed by the State Legislature
+under entry 54, List II.
+26. In that decision, it was observed that in Kirkness v. John Hudson and Co. Ltd. [1955] A.C. 696
+and New India Sugar Mills Ltd. v. Commissioner of Sales Tax, Bihar A.I.R. 1963 S.C. 1207, on the
+special facts of those cases the transactions were not "sales" as no contract resulted and those
+decisions are not treated as an authority for the proposition that "there can be no contract of sale
+under compulsion of a statute. It depends upon the facts of each case and the terms of the particular
+statute regulating the dealings whether the parties have entered into a contract of sale of goods". In
+the said decision, the Supreme Court held that cane-grower makes an offer to the occupier of the
+factory directly and the latter accepts the offer. The parties then make and sign an agreement in
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 17Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+writing. There is thus a direct privity of contract between the parties. The contract is a contract of
+sale and purchase of cane, though the buyer is obliged to give his assent under compulsion of a
+statute. The State Legislature is competent to tax purchases of canes made by such a contract.
+27. In the Supreme Court decision in Indian Steel and Wire Products Ltd. v. State of Madras A.I.R.
+1968 S.C. 478, the appellant contested the right of the State of Madras to levy tax on the turnover of
+supply of certain steel products by it to various persons in the State of Madras on the basis that the
+said transactions were not "sales" and were made under compulsion of law and as such there was no
+agreement between the appellant and the parties to whom the goods were delivered pursuant to the
+order of the Steel Controller exercising powers under the Iron and Steel (Control of Production and
+Distribution) Order, 1941, issued under the Defence of India Act, 1939. In that case also, similar
+argument as advanced in this case was also made before the Supreme Court, i e., "that every facet of
+those transactions were prescribed by the Controller and therefore those transactions cannot be
+considered as 'sales' on the basis of the said decisions in Kirkness v. John Hudson & Co. Ltd. (3)
+[1965] A.C. 696, New India Sugar Mills Ltd. v. Commissioner of Sales Tax A.I.R. 1963 S.C. 1207 and
+other decisions. In the said decision, the Supreme Court analysed the correspondence between the
+parties acquiring the iron and steel products, the Controller and the appellant-company, and also
+the relevant provisions of the said Iron and Steel Control Order and held that from the materials all
+that could be gathered is that the Controller fixed the base price of steel products and determined
+the buyers. In other respects, the parties were free to decide their own terms by consent. The
+appellant could supply the goods in question at its convenience. It was open to the appellant to agree
+with its customers as to the date on which the goods were to be supplied. It was also open to the
+appellant to fix the time and mode of payment of the price of the goods supplied. Therefore, It was
+held that the transactions were not completely regulated and controlled by the Controller leaving no
+room for mutual assent. It was also held that the said Control Order reduced the area within which
+there can be bargaining between a prospective buyer and an intending seller of steel products. Both
+of them have to conform to the requirements of the order and to comply with the terms and
+conditions contained in the order of the Controller. Therefore, they could negotiate only in respect
+of matters not controlled by the order or prescribed by the Controller. That does not mean that there
+is no freedom to contract. The concept of freedom of contract has undergone a great deal of change
+even in those countries where it was considered as one of the basic economic requirements of a
+democratic life. Full freedom to contract was never there at any time. Law invariably imposed some
+restrictions on freedom to contract. But due to change in political outlook and as a result of
+economic compulsions, the freedom to contract is now being confined gradually to narrower and
+narrower limits : see Indian Steel and Wire Products Ltd. v. State of Madras A.I.R. 1968 S.C. 478 at
+484-485 (paras 10, 11), 487.
+28. The Supreme Court further observed in that case that "it would be incorrect to contend that
+because law imposes some restrictions on freedom to contract, there is no contract at all. So long as
+mutual assent is not completely excluded in any dealing, in law it is a contract" : see Indian Steel
+and Wire Proudcts Ltd. v. State of Madras A.I.R. 1968 S.C. 478 at 484-485 (paras 10, 11), 487.
+29. It was also held by the Supreme Court that the Controller's directions were confined to narrow
+limits and there were several matters which the parties could decide by mutual assent. The Supreme
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 18Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+Court finally concluded in Indian Steel and Wire Products Ltd. v. State of Madras A.I.R. 1968 S.C.
+478 at 484-485 (paras 10, 11), 487 "that the the transactions were those of sales as out of four
+elements to constitute a sale three were admittedly established, namely, the parties were competent
+to contract, the property in the goods was transferred from the seller to the buyer and price in
+money was paid. The only controversy was whether there was mutual assent, and the finding was
+that there was mutual assent in several respects and the transaction was that of sale". It appears to
+us that the said decision is in all fours with the present case before us under the West Bengal
+Cement Control Act, 1948.
+30. In the decision in State of Rajasthan v. Karam Chand Thappar and Brothers (Coal Sales) Ltd.
+A.I.R. 1969 S.C. 343 at 345, para 7, the Supreme Court was dealing with the provisions of the
+Colliery Control Order, 1945, in a writ petition for quashing an order of assessment.
+31. The Supreme Court after analysing the provisions of the Colliery Control Order which may be
+said to have analogous provisions like that of the present Cement Control Act before us observed in
+State of Rajasthan v. Karam Chand Thappar and Brothers (Coal Sales) Ltd. A.I.R. 1969 S.C. 343 at
+345, para 7, as follows:
+Under the Colliery Control Order, coal may be supplied under directions issued by
+the Central Government upon the colliery owner to any person without an
+agreement, express or implied, between the colliery owner and such other person :
+coal may also be supplied under a contract between the colliery (sic) to a purchaser at
+the price fixed by the Central Government. In the present case, there was between the
+State of Rajasthan and the assessee acting as an agent of the Equitable Coal Company
+an agreement to sell coal. The price chargeable was fixed under the Colliery Control
+Order. The effect of the Control Order was only to superimpose upon the agreement
+between the parties the rate fixed under the Order. But on that account it cannot be
+said that the relation between the supplier and the person to whom the coal was
+supplied was not contractual. The contract between the parties was only modified by
+the statutory provisions.
+32. In dealing with New India Sugar Mills Ltd.'s case A.I.R. 1963 S.C. 1207, the Supreme Court
+observed that when goods, supply of which was controlled by statutory orders, are delivered
+pursuant to contract of sale, the principles of the decision in New India Sugar Mills Ltd.'s case A.I.R.
+1963 S.C. 1207 had no application.
+33. The latest Supreme Court decision is Salar Jung Sugar Mills Ltd. v. State of Mysore A.I.R. 1972
+S.C. 87 at 98, para. 38, where in a writ petition the question arose whether there was a purchase or
+sale of sugarcane arising under the Mysore Sugarcane (Regulation of Supply) Order, 1963, which
+was passed in exercise of powers conferred by Section 3 of the Defence of India Act, 1962, and Rule
+125-B of the Defence of India "Rules, 1962. The Supreme Court after analysing the relevant
+provisions of the Act and the Order and the decision cited, Ray, J. (as he then was), observed as
+follows :
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 19Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+These decisions establish that statutory orders regulating the supply and distribution
+of goods by and between the parties under Control Orders in a State do not absolutely
+impinge on the freedom to enter into contract. Legislative measures or statutory
+provisions fixing the price, delivery, supply, restricting areas for transactions are all
+within the realm of planning economic needs ensuring production and distribution of
+essential commodities and basic necessities of community....The individual freedom
+is to be reconciled with adequate performance by the Government of its functions in a
+highly organised society. Delimiting areas for transactions or parties or denoting
+price for transactions are all within the area of individual freedom of contract with
+limited choice by reason of ensuring the greatest good for the greatest number by
+achieving proper supply at standard or fair price to eliminate the evils of hoarding
+and scarcity on the one hand and availability on the other.
+34. In that case, it was held that the transaction was a sale and sales tax was leviable.
+35. Applying those principles to the facts of this case there cannot be any doubt that all the four
+elements required for constituting a "sale" within the meaning of the Sale of Goods Act are present
+in the transactions between the respondent as licensed stockist and the customers holding licence
+for cement under the West Bengal Cement Control Act, 1948. There are parties competent to
+contract and, as such, the first condition is satisfied. Mutual assent of the parties is not totally
+excluded regarding the time for payment, mode of payment, price below the maximum price fixed,
+place of delivery, quantities for delivery, time for delivery, charges for delivery and the packing.
+Therefore, mutual assent is not totally excluded and as such the second condition is also satisfied.
+There is no dispute that the respondent is the owner of the cement which is delivered to the
+customers holding a permit to whom the property passes on the terms and conditions as to payment
+to the respondent. As such the third condition Is also satisfied. There is no dispute that the money
+for the price of the said quantities of cement have been: paid by the customers to respondent No. 1
+and, as such, the fourth condition is also satisfied. In fact the respondent charged sales tax and
+realised the same from the customers.
+36. It is true that there is no separate writing evidencing an agreement for sale or a contract for sale,
+at least nothing has been disclosed by the parties, but a contract can be expressed or implied and, in
+the facts and circumstances of this case, presenting the licence for cement by the customer to the
+licensed stockist being the respondent and his acceptance of the same by supplying cement and
+receiving payment of the price mentioned therein, clearly constitute a contract for sale within the
+meaning of the Sale of Goods Act read with the Contract Act.
+37. The Supreme Court in a recent decision in Instalment Supply Ltd. v. Sales Tax Officer,
+Ahmedabad A.I.R. 1974 S.C. 1105 at 1108, para 6, while dealing with the question as to when a ''sale"
+liable to sales tax takes place under a hire-purchase agreement laid down the legal incidence of a
+"sale". After setting out Section 4 of the Sale of Goods Act, Alagiriswami, J., observed as follows :
+The definition is the same as in the English Sale of Goods Act, 1893. The points to be
+noticed are that the essence of sale is the transfer of the property in a thing from one
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 20Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+person to another for a price. The terms 'contract of sale' includes an agreement to
+sell. An agreement to sell is known as an executory contract of sale, while a sale is
+known as an executed contract of sale. The term 'contract of sale' thus includes both
+actual sales and agreements for sale. It is important to distinguish clearly between the
+two classes of contract. An agreement to sell is a contract, pure and simple, whereas a
+sale is a contract plus a conveyance. By an agreement to sell a jus in personam is
+created, by a sale a jus in rem also is transferred. Where goods have been sold and the
+buyer makes default, the seller may sue for the contract price on the count of 'goods
+bargained and sold', but where an agreement to buy is broken, the seller's normal
+remedy is an action for unliquidated damages. If an agreement to sell be broken by
+the seller, the buyer has only a personal remedy against the seller. The goods are still
+the property of the seller, and he can dispose of them as he likes. But if there has been
+a sale, and the seller breaks his engagement to deliver the goods, the buyer has not
+only a personal remedy against the seller, but also the usual proprietary remedies in
+respect of the goods themselves. In many cases, too, he can follow the goods into the
+hands of third parties. Again, if there be an agreement for sale, and the goods are
+destroyed, the loss as a rule falls on the seller, while if there has been a sale, the loss
+as a rule falls upon the buyer though the goods have never come into his possession.
+38. The above legal proposition describing the incidence of a "sale" makes it clear that the essence of
+a sale is the transfer of a property in the goods from one person to another for a price and a sale is a
+contract plus a conveyance. In the instant case before us, as has been analysed before, while
+examining the question as to whether it satisfies the four elements of sale, it must be held that the
+property in the goods has passed from one person to another for a price and there is a contract plus
+conveyance. The said Cement Control Act only imposes certain conditions on such sales for
+attaining the scope and object of the said Act in respect of equitable distribution of cement at a fair
+price, to prevent black market and ensure fair and equitable distribution of cement at a fair price in
+the State of West Bengal.
+39. The sole and only contention exhaustively argued on behalf of the respondent is that there was
+no volition on the part of the respondent but to accept the permit for cement of the customer and
+supply the goods on the terms and conditions of the respective licences issued under the said
+Cement Control Act. In short, there was no consensus between the parties which has been
+voluntarily arrived at. As has been laid down in the Supreme Court decisions discussed above,
+unless the transaction amounts to compulsory acquisition of property, which completely eliminates
+all the four element of sale, there may be sale even under compulsion or when the terms of such
+sales are controlled by legislation for the purpose and object laid down therein. The identical
+question came up before the Supreme Court in relation to a case under the Prevention of Food
+Adulteration Act, 1954, where a dealer of spices was convicted after a Food Inspector purchased a
+sample of the goods from him under the provisions of the said Act and the question arose whether
+the sale under the compulsion of the said Act was a "sale". In the said decision in Mangaldas
+Raghavji Ruparel v. State of Maharashtra A.I.R. 1966 S.C. 128 at 134-135, para. 18, Mudholkar, J.,
+observed :
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 21Commercial Tax Officer And Ors. vs Vishnu Agencies (P.) Ltd. on 13 December, 1974
+No doubt a contract comes into existence by the acceptance of a proposal made by
+one person to another by that other person. That other person is not bound to accept
+the proposal but it may not necessarily follow that where that other person had no
+choice but to accept the proposal the transaction would never amount to a contract.
+40. The said observation also makes it clear that it is the scope, object and intention of a particular
+Act under which a transaction takes place as to whether that would amount to a "sale" within the
+meaning of the Sale of Goods Act as laid down by the various decisions of the Supreme Court
+referred to above. Sale under compulsion of, or under the control of, a statutory authority laying
+down statutory terms which would be incorporated in the contract for sale would not take such
+transaction out of the definition of "sale" within the meaning of the Sale of Goods Act as laid down
+by the aforesaid decisions of the Supreme Court. It is only when the transaction amounts to
+compulsory acquisition of property by an order of a statutory authority under any Act, that the
+transaction would not be a 'sale'.
+41. From any view of the matter the transactions which are involved in this appeal are undoubtedly
+''sales" within the meaning of the Sale of Goods Act as has been already held by us hereinbefore.
+42. In view of the above, we cannot but hold that the transactions in question are "sales" within the
+meaning of the Sale of Goods Act and the assessment orders imposing sales tax under the Bengal
+Finance (Sales Tax) Act, 1941, on the transactions are valid, legal and within the jurisdiction of the
+sales tax authorities.
+43. In the result, the appeal is allowed. The rule is discharged and all interim orders vacated. No
+order as to costs.
+S.P. Mitra, C.J.
+44. I agree.
+Indian Kanoon - http://indiankanoon.org/doc/978164/ 22
